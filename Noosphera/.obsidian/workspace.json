@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "cbc6c70654979a52",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e58137aaba56d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c97dce7a76565e4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1d36ce3e421acff",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e3e19c4141dd56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0f282990924bcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "537dc280e0855324",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "fbe5f45dd3b590c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8cb808e0c981cc23",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc043fac44c83dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b193f87574a0e63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "776d6c9bc5c08d4a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "02cd7bcb35bf83bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cd5f27e3eafcfcb1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "cad115bdfa68b48b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "50f38b9e33b64934",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-importer:Import notes": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "50f38b9e33b64934",
+  "lastOpenFiles": [
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/02 — Ontologia Passiva/Catálogo de Entidades/Policy.md",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/02 — Ontologia Passiva.md",
+    "Fichamentos/Husserl/Preenchimento Fenomenológico.md.md",
+    "Fichamentos/Husserl/Intenção Significativa.md.md",
+    "Fichamentos/Husserl",
+    "Fichamentos/Sem título 1.md",
+    "Fichamentos/Husserl/Husserl - Investigações Lógicas VI.md.md",
+    "Fichamentos",
+    "Notion/🧠 NOOSPHERA/FOUNDATIONS/00 — Manifesto.md",
+    "Notion/🧠 NOOSPHERA/MATERIALIZATION/07 — Implementação.md",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL.md",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/03 — Leis e Invariantes/Matriz de Invariantes/Lei I — A Natureza Estritamente Passiva do Conhecimento.md",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/02 — Ontologia Passiva/Catálogo de Entidades/Observation.md",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/02 — Ontologia Passiva/Catálogo de Entidades/KnowledgeObject.md",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/02 — Ontologia Passiva/Catálogo de Entidades/Event.md",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/02 — Ontologia Passiva/Catálogo de Entidades/Competency.md",
+    "Notion/🧠 NOOSPHERA/FOUNDATIONS.md",
+    "Notion/🧠 NOOSPHERA/MATERIALIZATION.md",
+    "Notion/🧠 NOOSPHERA/FOUNDATIONS/01 — Método e Governança da Especificação.md",
+    "Notion/🧠 NOOSPHERA/APPLICATIONS/📄 09 — Arquitetura de Referência.md",
+    "Notion/🧠 NOOSPHERA.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes de sustentação arquitetural/Runtime Context.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes de sustentação arquitetural/State Manager.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes que materializam construções gramatica/Policy Engine.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes que materializam construções gramatica/Representation Manager.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes que materializam construções gramatica/Observation Registry.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes que materializam construções gramatica/Event Bus.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes que materializam construções gramatica/Competency Engine.md",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes de sustentação arquitetural",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura/Componentes que materializam construções gramatica",
+    "Notion/🧠 NOOSPHERA/ARCHITECTURE/05 — Arquitetura",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/04 — Gramática Formal/Grafo de Relações (Gramática)",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/04 — Gramática Formal",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/03 — Leis e Invariantes/Matriz de Invariantes",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/03 — Leis e Invariantes",
+    "Notion/🧠 NOOSPHERA/CONCEPTUAL MODEL/02 — Ontologia Passiva/Catálogo de Entidades"
+  ]
+}
