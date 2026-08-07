@@ -3,7 +3,7 @@
 
 - **Status:** Em leitura
 - **Tema:** Elucidação fenomenológica do conhecimento
-- **Conexão com o Noosphera:** [[01 — Ontologia]], [[05 — Arquitetura]]
+- **Conexão com o Noosphera:** [[02 — Ontologia Passiva]], [[05 — Arquitetura]]
 
 ---
 
