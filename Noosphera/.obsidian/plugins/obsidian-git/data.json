@@ -22,7 +22,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": true,
   "refreshSourceControl": true,
-  "basePath": "https://github.com/YuriArduino/Study_Obsidian.git",
+  "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
