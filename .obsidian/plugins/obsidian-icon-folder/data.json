@@ -32,7 +32,16 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Noosphera": "LiAtom",
-  "Topologia Epistemológica": "LiMap",
-  "Model": "LiMessageSquareCode"
+  "Noosphera": {
+    "iconName": "LiAtom",
+    "iconColor": "#4637b9"
+  },
+  "Topologia Epistemológica": {
+    "iconName": "LiMap",
+    "iconColor": "#18ec7f"
+  },
+  "Model": {
+    "iconName": "LiMessageSquareCode",
+    "iconColor": "#ecec9c"
+  }
 }
