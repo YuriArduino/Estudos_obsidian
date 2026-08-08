@@ -2,5 +2,9 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "templater-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "advanced-canvas",
+  "code-emitter",
+  "dataview",
+  "obsidian-style-settings"
 ]
