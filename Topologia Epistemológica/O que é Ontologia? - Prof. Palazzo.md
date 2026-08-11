@@ -1,3 +1,12 @@
+---
+media-link: https://www.youtube.com/watch?v=S8LBStzxHwk
+type: video-note
+tags:
+  - ontologia
+  - computacao
+  - filosofia
+---
+
 [🎬 Abrir Aula: Ontologia na Modelagem](https://www.youtube.com/watch?v=S8LBStzxHwk)
 
 # Ontologia na Modelagem Conceitual
@@ -32,3 +41,6 @@ Busca classificar e entender a natureza das coisas através de abstrações e pr
 - **Aristóteles** (Categorias).
 - **Brennand** (Processo mental de abstração).
 - **ANSI/SPARC** (Esquema conceitual).
+
+
+
