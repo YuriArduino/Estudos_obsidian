@@ -14,9 +14,9 @@ tags: []
 > Breve descrição do que o vídeo aborda ou o objetivo de estar assistindo.
 
 ## ⏱️ Linha do Tempo e Notas
-*Use o atalho do Media Extended (ex: Alt+T) para capturar os timestamps.*
+*Use o atalho do Media Extended (ex: Alt+T) para capturar os timestamps.Com começo e final*
 
-- [00:00]() 
+- [00:00-00:00]() 
 - 
 - 
 
