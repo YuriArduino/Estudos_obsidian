@@ -3,7 +3,7 @@ type: video-note
 media-link: https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s
 autor: Prof. Palazzo
 publicado-em: 2020-10-29
-visto-em: ""
+visto-em: 2026-08-11T20:26:00
 area: Ciência da Computação / Inteligência Artificial
 tags:
   - "#ontologia"
@@ -38,6 +38,7 @@ tags:
 ## 🔗 Conexões e Conceitos Relacionados
 
 - [[Modelagem Conceitual]]
+- Filosofia
 - [[Sistemas de Informação]]
 - [[Lógica Formal]]
 - [[Taxonomia]]
@@ -47,6 +48,7 @@ tags:
 ## 📚 Referências Citadas no Vídeo
 
 - _Aristóteles_ (Categorias básicas)
+- _Brennand_ (Processo mental de abstração).
 - _Porfírio_ (Classificações em árvore)
 - _Leibniz_ (Classificação de gêneros e espécies)
 - _Schopenhauer_ (O Mundo como Vontade e Representação)
