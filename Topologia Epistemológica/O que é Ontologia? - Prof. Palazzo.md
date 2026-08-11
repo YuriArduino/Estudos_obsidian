@@ -38,10 +38,11 @@ tags:
 ## 🔗 Conexões e Conceitos Relacionados
 
 - [[Modelagem Conceitual]]
-- Filosofia
+- [[Filosofia]]
 - [[Sistemas de Informação]]
 - [[Lógica Formal]]
 - [[Taxonomia]]
+- [[Inteligência Artificial]]
 
 ---
 
