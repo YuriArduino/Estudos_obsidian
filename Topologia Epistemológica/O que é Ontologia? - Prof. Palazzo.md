@@ -15,15 +15,10 @@ tags:
 
 # O que é Ontologia?
 
-> [!INFO] Resumo O vídeo explora o conceito de ontologia, desde suas origens na filosofia (como o estudo do ser e das propriedades intrínsecas) até sua adaptação na computação como uma ferramenta essencial para a modelagem conceitual de sistemas de informação.
+> [!INFO] Resumo
+>  O vídeo explora o conceito de ontologia, desde suas origens na filosofia (como o estudo do ser e das propriedades intrínsecas) até sua adaptação na computação como uma ferramenta essencial para a modelagem conceitual de sistemas de informação.
 
-## ⏱️ Linha do Tempo e Notas
 
-- [00:14-02:44](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) Introdução à ontologia na filosofia: o estudo abstrato das coisas.
-- [02:51-05:54](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) A taxonomia de Porfírio e a representação de categorias em árvores.
-- [09:15-10:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) Ontologia como processo mental de abstração de propriedades essenciais.
-- [13:52-14:27](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) A ontologia aplicada à computação: o esquema conceitual como representação da realidade.
-- [14:52-16:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) Resumo da transição da ontologia filosófica para a computacional.
 
 ---
 

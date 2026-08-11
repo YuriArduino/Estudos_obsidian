@@ -18,15 +18,20 @@ tags: []
 
 > [!QUOTE] Citação Importante > "A frase de impacto ou regra essencial do autor." — Nome do Autor ---
 
-## 1. [Tema Principal 1] 
+## 1. [Tema Principal 1 - Ex: Definição e Conceitos Base] 
 *Descreva o contexto aqui e use os timestamps para apoiar os argumentos.*
 
 - [00:00]()
 - [00:00]()
-## 2. [Tema Principal 2] 
+## 2. [Tema Principal 2 - Ex: Evolução Histórica ou Aplicação] 
 *Agrupe os momentos do vídeo que falam sobre esse assunto.* 
+
+- [00:00]()
 - [00:00]()
 
+## 3. [Tema Principal 3 - Ex: Ferramentas e Prática]
+
+- [00:00]()
 ---
 
 ## 🎯 Principais Pontos (Takeaways)
