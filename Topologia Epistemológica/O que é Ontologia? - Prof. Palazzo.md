@@ -11,6 +11,12 @@ tags:
 
 # Ontologia na Modelagem Conceitual
 
+> [!NOTE] Definição de Ontologia
+> O estudo do "ser enquanto ser" e suas propriedades intrínsecas.
+
+> [!QUOTE] Citação
+> "A classificação é a base do julgamento." — Leibniz
+
 ## Resumo
 O vídeo explora a transição do conceito filosófico de ontologia para o seu uso prático na computação e modelagem conceitual. Ontologia, na filosofia, é o estudo dos "seres enquanto seres" e suas propriedades intrínsecas.
 
