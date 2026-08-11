@@ -11,14 +11,21 @@ tags: []
 # {{title}}
 
 > [!INFO] Resumo
-> Breve descrição do que o vídeo aborda ou o objetivo de estar assistindo.
+>  > Breve descrição da tese central do vídeo. 
+ 
+> [!NOTE] Definição Central 
+> > Espaço para o conceito principal abordado (ex: o "ser enquanto ser"). 
 
-## ⏱️ Linha do Tempo e Notas
-*Use o atalho do Media Extended (ex: Alt+T) para capturar os timestamps.Com começo e final*
+> [!QUOTE] Citação Importante > "A frase de impacto ou regra essencial do autor." — Nome do Autor ---
 
-- [00:00-00:00]() 
-- 
-- 
+## 1. [Tema Principal 1] 
+*Descreva o contexto aqui e use os timestamps para apoiar os argumentos.*
+
+- [00:00]()
+- [00:00]()
+## 2. [Tema Principal 2] 
+*Agrupe os momentos do vídeo que falam sobre esse assunto.* 
+- [00:00]()
 
 ---
 
