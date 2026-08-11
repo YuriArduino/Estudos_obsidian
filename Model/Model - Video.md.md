@@ -2,7 +2,7 @@
 type: video-note
 media-link: ""
 autor: ""
-criado-em: "{{date}} {{time}}"
+publicado-em: "{{date}} {{time}}"
 visto-em: ""
 area: ""
 tags: []

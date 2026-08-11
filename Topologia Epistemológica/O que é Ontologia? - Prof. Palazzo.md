@@ -1,52 +1,55 @@
 ---
-media-link: https://www.youtube.com/watch?v=S8LBStzxHwk
 type: video-note
+media-link: https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s
+autor: Prof. Palazzo
+publicado-em: 2020-10-29
+visto-em: ""
+area: Ciência da Computação / Inteligência Artificial
 tags:
-  - ontologia
-  - computacao
-  - filosofia
+  - "#ontologia"
+  - "#modelagem-conceitual"
+  - "#sistemas-de-informacao"
+  - "#logica"
+  - "#computacao"
 ---
 
-[🎬 Abrir Aula: Ontologia na Modelagem](https://www.youtube.com/watch?v=S8LBStzxHwk)
+# O que é Ontologia?
 
-# Ontologia na Modelagem Conceitual
+> [!INFO] Resumo O vídeo explora o conceito de ontologia, desde suas origens na filosofia (como o estudo do ser e das propriedades intrínsecas) até sua adaptação na computação como uma ferramenta essencial para a modelagem conceitual de sistemas de informação.
 
-> [!NOTE] Definição de Ontologia
-> O estudo do "ser enquanto ser" e suas propriedades intrínsecas.
+## ⏱️ Linha do Tempo e Notas
 
-> [!QUOTE] Citação
-> "A classificação é a base do julgamento." — Leibniz
+- [00:14-02:44](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) Introdução à ontologia na filosofia: o estudo abstrato das coisas.
+- [02:51-05:54](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) A taxonomia de Porfírio e a representação de categorias em árvores.
+- [09:15-10:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) Ontologia como processo mental de abstração de propriedades essenciais.
+- [13:52-14:27](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) A ontologia aplicada à computação: o esquema conceitual como representação da realidade.
+- [14:52-16:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s) Resumo da transição da ontologia filosófica para a computacional.
 
-## Resumo
-O vídeo explora a transição do conceito filosófico de ontologia para o seu uso prático na computação e modelagem conceitual. Ontologia, na filosofia, é o estudo dos "seres enquanto seres" e suas propriedades intrínsecas.
+---
 
-- [00:33](https://www.youtube.com/watch?v=S8LBStzxHwk#t=33) **Pontos Chave**
+## 🎯 Principais Pontos (Takeaways)
 
-## Definição Filosófica
-Busca classificar e entender a natureza das coisas através de abstrações e propriedades essenciais, remontando a Aristóteles.
+- A ontologia na computação é uma simplificação e formalização da ontologia filosófica para representar parcelas da realidade de forma lógica.
+- O objetivo central é identificar o que define um objeto ou ser, abstraindo características variáveis e focando no que é essencial.
+- Ferramentas como o _Protégé_ são utilizadas para aplicar restrições lógicas e hierarquias em modelos conceituais.
 
-### Evolução Histórica
-- [02:06](https://www.youtube.com/watch?v=S8LBStzxHwk#t=126) **Aristóteles:** Categorias fundamentais.
-- [02:53](https://www.youtube.com/watch?v=S8LBStzxHwk#t=173) **Leibniz:** Essencialidade da classificação para o julgamento.
-- [03:51](https://www.youtube.com/watch?v=S8LBStzxHwk#t=231) **Porfírio:** Introdução de diagramas em árvore/divisões dicotômicas.
+---
 
-## Ontologia na Computação
-- [06:07](https://www.youtube.com/watch?v=S8LBStzxHwk#t=367) É uma progressão e simplificação do conceito filosófico para representar uma parcela da realidade.
-- [13:56](https://www.youtube.com/watch?v=S8LBStzxHwk#t=836) **Ferramentas:** Uso de linguagens formais e ferramentas como Protégé para definir restrições lógicas e hierarquias.
-- [15:45](https://www.youtube.com/watch?v=S8LBStzxHwk#t=945) Utilizada para criar esquemas conceituais que unificam a visão de bancos de dados, interfaces e aplicações.
+## 🔗 Conexões e Conceitos Relacionados
 
-## Conceitos Relacionados
-- [15:13](https://www.youtube.com/watch?v=S8LBStzxHwk#t=913) **Tópicos Abordados:**
-  - Filosofia
-  - Modelagem Conceitual
-  - Sistemas de Informação
-  - Taxonomia
-  - Inteligência Artificial
+- [[Modelagem Conceitual]]
+- [[Sistemas de Informação]]
+- [[Lógica Formal]]
+- [[Taxonomia]]
 
-## Referências e Citações
-- **Aristóteles** (Categorias).
-- **Brennand** (Processo mental de abstração).
-- **ANSI/SPARC** (Esquema conceitual).
+---
 
+## 📚 Referências Citadas no Vídeo
 
-
+- _Aristóteles_ (Categorias básicas)
+- _Porfírio_ (Classificações em árvore)
+- _Leibniz_ (Classificação de gêneros e espécies)
+- _Schopenhauer_ (O Mundo como Vontade e Representação)
+- _Charles Sanders Peirce_
+- _ANSI_ (American National Standards Institute)
+- _Protégé_ (Ferramenta de modelagem)
