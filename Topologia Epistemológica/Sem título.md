@@ -4,8 +4,9 @@ media-link: https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s
 autor: Prof. Palazzo
 criado-em: "{{date}} {{time}}"
 visto-em: ""
-area: ""
-tags: []
+area: Ciência da Computação / Inteligência Artificial
+tags:
+  - "#ontologia"
 ---
 
 # O que é Ontologia?
