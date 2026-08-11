@@ -8,12 +8,12 @@ media-link: https://youtube.com
 # Ontologia na Modelagem Conceitual
 
 ## Resumo
-O vídeo explora a transição do conceito filosófico de **ontologia** para o seu uso prático na **computação e modelagem conceitual**. Ontologia, na filosofia, é o estudo dos "seres enquanto seres" e suas propriedades intrínsecas:
-- 0:33
+O vídeo explora a transição do conceito filosófico de **ontologia** para o seu uso prático na **computação e modelagem conceitual**. Ontologia, na filosofia, é o estudo dos "seres enquanto seres" e suas propriedades intrínsecas.
+ 0:33
 
 ## Pontos Chave
-* **Definição Filosófica:** Busca classificar e entender a natureza das coisas através de abstrações e propriedades essenciais, remontando a *Aristóteles*:
-- 2:06
+* **Definição Filosófica:** Busca classificar e entender a natureza das coisas através de abstrações e propriedades essenciais, remontando a *Aristóteles*.
+- {{2:06}}
 
 * **Evolução Histórica:** 
     * *Aristóteles*: Categorias fundamentais.
