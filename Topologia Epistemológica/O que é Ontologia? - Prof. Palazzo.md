@@ -1,6 +1,4 @@
-media-link: https://www.youtube.com/watch?v=S8LBStzxHwk
-
-
+[🎬 Abrir Aula: Ontologia na Modelagem](https://www.youtube.com/watch?v=S8LBStzxHwk)
 
 # Ontologia na Modelagem Conceitual
 
