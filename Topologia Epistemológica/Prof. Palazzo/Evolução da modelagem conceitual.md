@@ -15,7 +15,7 @@ tags:
   - sistemas_de_informacao
   - semantica
 ---
-
+![Evolução da Modelagem](http://youtube.com/watch?v=0f8I9YvciEw)
 > [!INFO] Resumo
 >  A palestra apresenta a trajetória da modelagem conceitual, desde os "tempos heróicos" nos anos 60, passando pelo surgimento dos modelos hierárquicos e relacionais, até a era atual das ontologias semânticas, destacando a importância da representação do significado (semântica) nos sistemas de informação.
 
@@ -62,6 +62,7 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 
 ## 🔗 Conexões e Conceitos Relacionados
 
+- [[Semântica Computacional]]
 - [Modelagem de Dados]
 - [Lógica de Primeira Ordem]
 - [Sistemas de Gerenciamento de Banco de Dados (SGBD)]
