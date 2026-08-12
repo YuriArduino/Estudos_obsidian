@@ -37,8 +37,15 @@ _A complexidade aumenta à medida que os sistemas evoluem e envolvem mais atores
 
 _Como o software interage (ou não) com o mundo real e a importância do modelo interno._
 
+
+- [03:07](https://www.youtube.com/watch?v=_S7123H8o3E&t=187#t=03:07.14) **Controle de complexidade:** Estruturação,Abstração,Formalização
+
+![[controle_complexidade.jpg|Complexidade de Sistemas de Informação - 03:07]]
+
 - [04:07](https://www.youtube.com/watch?v=_S7123H8o3E#t=247) **Sistemas de Informação:** O sistema mantém um modelo interno para processar dados que refletem o mundo real (independente e não reativo).
 - [05:53](https://www.youtube.com/watch?v=_S7123H8o3E#t=353) **Sistemas de Controle:** O sistema atua sobre o mundo real, que é reativo aos estímulos do controlador.
+![[sistemas_controle.jpg|Complexidade de Sistemas de Informação - 04:45]]
+
 
 ## 3. Engenharia de Sistemas e Processo de Desenvolvimento
 
