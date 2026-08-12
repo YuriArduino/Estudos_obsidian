@@ -29,7 +29,7 @@ tags:
 ---
 ## 1. Definição e Conceitos Base
 
-A [[Ontologia]] na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo. Do grego onto mais logia significa parte da [[Filosofia]] que especula sobre o **"o ser enquanto ser"**, logo **"as coisas em si mesmas"**.  Na computação, transpomos esse conceito para a modelagem conceitual.
+A [[Ontologia]] na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo. Do grego onto mais logia significa parte da [[Filosofia]] que especula sobre o **"o ser enquanto ser"**, logo **"as coisas em si mesmas"**. Investigada no ramo da [[Epistemologia]]. Na computação, transpomos esse conceito para a modelagem conceitual.
 
 - [00:33-01:46](https://www.youtube.com/watch?v=S8LBStzxHwk#t=33) **Definição filosófica e o estudo abstrato das coisas.**
 - [09:15-10:05](https://www.youtube.com/watch?v=S8LBStzxHwk#t=555) **A ontologia como processo mental de abstração e classificação.**
@@ -71,7 +71,8 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 
 ## 📚 Referências Citadas no Vídeo
 
-- _Aristóteles_ (Categorias básicas)
+- [Aristóteles] (Categorias básicas)
+- [02:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=125#t=02:05.35) 
 - _Brennand_ (Processo mental de abstração).
 - _Porfírio_ (Classificações em árvore)
 - _Leibniz_ (Classificação de gêneros e espécies)
