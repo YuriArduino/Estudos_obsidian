@@ -1,6 +1,6 @@
 ---
 type: video-note
-media-link: "![Ontologia na Modelagem](https://www.youtube.com/watch?v=S8LBStzxHwk)"
+media-link: https://www.youtube.com/watch?v=S8LBStzxHwk
 autor: Prof. Palazzo
 publicado-em: 2020-10-29
 visto-em: 2026-08-11T20:26:00
@@ -13,6 +13,9 @@ tags:
   - "#computacao"
 ---
 ---
+
+![Ontologia na Modelagem](https://www.youtube.com/watch?v=S8LBStzxHwk)
+
 
 > [!INFO] Resumo
 >  O vídeo explora o conceito de ontologia, desde suas origens na filosofia (como o estudo do ser e das propriedades intrínsecas) até sua adaptação na computação como uma ferramenta essencial para a modelagem conceitual de sistemas de informação.

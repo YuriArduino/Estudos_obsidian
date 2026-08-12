@@ -10,6 +10,8 @@ tags: []
 
 # {{title}}
 
+
+![Tema do video](LInk)
 > [!INFO] Resumo
 >  > Breve descrição da tese central do vídeo. 
  
