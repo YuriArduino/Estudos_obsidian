@@ -1,6 +1,6 @@
 ---
 type: video-note
-media-link: https://www.youtube.com/watch?v=S8LBStzxHwk&t=10s
+media-link: "![Ontologia na Modelagem](https://www.youtube.com/watch?v=S8LBStzxHwk)"
 autor: Prof. Palazzo
 publicado-em: 2020-10-29
 visto-em: 2026-08-11T20:26:00
@@ -26,25 +26,25 @@ tags:
 ---
 ## 1. Definição e Conceitos Base
 
-A ontologia na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo, independentemente de suas variações superficiais. Na computação, transpomos esse conceito para a modelagem conceitual, onde o objetivo é abstrair características essenciais para definir um objeto dentro de um sistema.
+A ontologia na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo, independentemente de suas variações superficiais. Na computação, transpomos esse conceito para a modelagem conceitual.
 
-- [00:33](https://www.youtube.com/watch?v=undefined&t=33s) - Definição filosófica e o estudo abstrato das coisas.
-- [09:15](https://www.youtube.com/watch?v=undefined&t=555s) - A ontologia como processo mental de abstração e classificação.
+- [00:33](https://www.youtube.com/watch?v=S8LBStzxHwk#t=33) **Definição filosófica e o estudo abstrato das coisas.**
+- [09:15](https://www.youtube.com/watch?v=S8LBStzxHwk#t=555) **A ontologia como processo mental de abstração e classificação.**
 
 ## 2. Evolução Histórica e Representação
 
-A representação da realidade evoluiu de categorias aristotélicas para sistemas de classificação mais estruturados, como as taxonomias de Porfírio e as reflexões de Leibniz sobre gêneros e espécies. Essa evolução culminou na necessidade de formalização lógica para que o conhecimento possa ser processado computacionalmente.
+A representação da realidade evoluiu de categorias aristotélicas para sistemas de classificação mais estruturados, culminando na necessidade de formalização lógica para a computação.
 
-- [02:51](https://www.youtube.com/watch?v=undefined&t=171s) - A taxonomia de Porfírio e o uso de diagramas em árvore.
-- [06:07](https://www.youtube.com/watch?v=undefined&t=367s) - O papel de Leibniz na classificação de gêneros e espécies.
-- [11:18](https://www.youtube.com/watch?v=undefined&t=678s) - A transição da linguagem natural para a lógica formal necessária à computação.
+- [02:51](https://www.youtube.com/watch?v=S8LBStzxHwk#t=171) **A taxonomia de Porfírio e o uso de diagramas em árvore.**
+- [06:07](https://www.youtube.com/watch?v=S8LBStzxHwk#t=367) **O papel de Leibniz na classificação de gêneros e espécies.**
+- [11:18](https://www.youtube.com/watch?v=S8LBStzxHwk#t=678) **A transição da linguagem natural para a lógica formal.**
 
 ## 3. Ferramentas e Prática
 
-No contexto da computação moderna, a ontologia é um instrumento técnico que utiliza esquemas conceituais para conectar interfaces de usuário, aplicações e bancos de dados. Ferramentas específicas permitem a modelagem formal com restrições lógicas e hierarquias.
+No contexto da computação moderna, a ontologia é um instrumento técnico que utiliza esquemas conceituais para conectar interfaces de usuário, aplicações e bancos de dados.
 
-- [13:52](https://www.youtube.com/watch?v=undefined&t=832s) - O esquema conceitual como representação da realidade em sistemas de informação.
-- [15:13](https://www.youtube.com/watch?v=undefined&t=913s) - O uso de ferramentas como o _Protégé_ para modelagem ontológica.
+- [13:52](https://www.youtube.com/watch?v=S8LBStzxHwk#t=832) **O esquema conceitual como representação da realidade em sistemas de informação.**
+- [15:13](https://www.youtube.com/watch?v=S8LBStzxHwk#t=913) **O uso de ferramentas como o Protégé para modelagem ontológica.**
 
 ---
 ## 🎯 Principais Pontos (Takeaways)

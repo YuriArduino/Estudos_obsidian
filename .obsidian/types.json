@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "visto-em": "datetime",
-    "publicado-em": "date"
+    "publicado-em": "date",
+    "media-link": "text"
   }
 }
