@@ -39,6 +39,8 @@ A [[Ontologia]] na filosofia busca compreender o "ser enquanto ser", analisando 
 A representação da realidade evoluiu de categorias aristotélicas para sistemas de classificação mais estruturados, culminando na necessidade de formalização lógica para a computação.
 
 - [02:51-03:44](https://www.youtube.com/watch?v=S8LBStzxHwk#t=171) **A taxonomia de Porfírio e o uso de diagramas em árvore.**
+
+
 - [06:07-07:16](https://www.youtube.com/watch?v=S8LBStzxHwk#t=367) **O papel de Leibniz na classificação de gêneros e espécies.**
 - [11:18-11:53](https://www.youtube.com/watch?v=S8LBStzxHwk#t=678) **A transição da linguagem natural para a lógica formal.**
 
@@ -73,6 +75,7 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 
 - [[Aristóteles]] (Categorias básicas) [02:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=125#t=02:05.35) 
 - [[Porfírio]] (Classificações em árvore)[02:49](https://www.youtube.com/watch?v=S8LBStzxHwk&t=170#t=02:49.98)
+- [[Franz Brentano]] (Classificação das categorias Aristotélicas) [03:51](https://www.youtube.com/watch?v=S8LBStzxHwk&t=231#t=03:51.34) 
 - [[Brennand]] (Processo mental de abstração).  
 - [[Leibniz]] (Classificação de gêneros e espécies)
 - [[Schopenhauer]] (O Mundo como Vontade e Representação)
