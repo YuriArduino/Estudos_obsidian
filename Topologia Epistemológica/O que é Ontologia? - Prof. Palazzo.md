@@ -29,25 +29,25 @@ tags:
 ---
 ## 1. Definição e Conceitos Base
 
-A ontologia na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo, independentemente de suas variações superficiais. Na computação, transpomos esse conceito para a modelagem conceitual.
+A ontologia na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo. Na computação, transpomos esse conceito para a modelagem conceitual.
 
-- [00:33](https://www.youtube.com/watch?v=S8LBStzxHwk#t=33) **Definição filosófica e o estudo abstrato das coisas.**
-- [09:15](https://www.youtube.com/watch?v=S8LBStzxHwk#t=555) **A ontologia como processo mental de abstração e classificação.**
+- [00:33-01:46](https://www.youtube.com/watch?v=S8LBStzxHwk#t=33) **Definição filosófica e o estudo abstrato das coisas.**
+- [09:15-10:05](https://www.youtube.com/watch?v=S8LBStzxHwk#t=555) **A ontologia como processo mental de abstração e classificação.**
 
 ## 2. Evolução Histórica e Representação
 
 A representação da realidade evoluiu de categorias aristotélicas para sistemas de classificação mais estruturados, culminando na necessidade de formalização lógica para a computação.
 
-- [02:51](https://www.youtube.com/watch?v=S8LBStzxHwk#t=171) **A taxonomia de Porfírio e o uso de diagramas em árvore.**
-- [06:07](https://www.youtube.com/watch?v=S8LBStzxHwk#t=367) **O papel de Leibniz na classificação de gêneros e espécies.**
-- [11:18](https://www.youtube.com/watch?v=S8LBStzxHwk#t=678) **A transição da linguagem natural para a lógica formal.**
+- [02:51-03:44](https://www.youtube.com/watch?v=S8LBStzxHwk#t=171) **A taxonomia de Porfírio e o uso de diagramas em árvore.**
+- [06:07-07:16](https://www.youtube.com/watch?v=S8LBStzxHwk#t=367) **O papel de Leibniz na classificação de gêneros e espécies.**
+- [11:18-11:53](https://www.youtube.com/watch?v=S8LBStzxHwk#t=678) **A transição da linguagem natural para a lógica formal.**
 
 ## 3. Ferramentas e Prática
 
-No contexto da computação moderna, a ontologia é um instrumento técnico que utiliza esquemas conceituais para conectar interfaces de usuário, aplicações e bancos de dados.
+No contexto da computação moderna, a ontologi[]()a é um instrumento técnico que utiliza esquemas conceituais para conectar interfaces de usuário, aplicações e bancos de dados.
 
-- [13:52](https://www.youtube.com/watch?v=S8LBStzxHwk#t=832) **O esquema conceitual como representação da realidade em sistemas de informação.**
-- [15:13](https://www.youtube.com/watch?v=S8LBStzxHwk#t=913) **O uso de ferramentas como o Protégé para modelagem ontológica.**
+- [13:52-14:45](https://www.youtube.com/watch?v=S8LBStzxHwk#t=832) **O esquema conceitual como representação da realidade em sistemas de informação.**
+- [15:13-15:30](https://www.youtube.com/watch?v=S8LBStzxHwk#t=913) **O uso de ferramentas como o Protégé para modelagem ontológica.**
 
 ---
 ## 🎯 Principais Pontos (Takeaways)

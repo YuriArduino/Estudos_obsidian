@@ -24,8 +24,8 @@ tags: []
 *Descreva o contexto aqui e use os timestamps para apoiar os argumentos.* A quantidade de timestaps é meramente ilustrativa, use a quantidade necessária para capturar as ideias centrais
 Ex: 
 - [13:52](https://www.youtube.com/watch?v=S8LBStzxHwk#t=832) **O esquema conceitual como representação da realidade em sistemas de informação.**
-- [00:00](link do vídeo)
-- [00:00](link do vídeo)
+- [00:00-00:00](link do vídeo)
+- [00:00-00:00](link do vídeo)
 ## 2. [Tema Principal 2 - Ex: Evolução Histórica ou Aplicação] 
 *Agrupe os momentos do vídeo que falam sobre esse assunto.* 
 
