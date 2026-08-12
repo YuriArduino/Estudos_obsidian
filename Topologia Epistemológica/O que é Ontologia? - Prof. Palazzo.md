@@ -71,7 +71,7 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 
 ## 📚 Referências Citadas no Vídeo
 
-- [Aristóteles] (Categorias básicas)
+- [[Aristóteles]] (Categorias básicas)
 - [02:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=125#t=02:05.35) 
 - _Brennand_ (Processo mental de abstração).
 - _Porfírio_ (Classificações em árvore)
