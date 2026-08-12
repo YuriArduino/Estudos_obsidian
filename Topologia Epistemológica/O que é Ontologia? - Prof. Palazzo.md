@@ -43,6 +43,12 @@ A representação da realidade evoluiu de categorias aristotélicas para sistema
 ![[mx-img-sznyl2i9cdrqho1gg24df6j5-pt4m34_96s.jpg|O que é Ontologia? - 04:34|508]]
 
 - [06:07-07:16](https://www.youtube.com/watch?v=S8LBStzxHwk#t=367) **O papel de Leibniz na classificação de gêneros e espécies.**
+
+- [10:35](https://www.youtube.com/watch?v=S8LBStzxHwk&t=636#t=10:35.80)  LInguagem natural & Lógica
+
+	[[Linguagem Natural]] - Reino da experiência humana
+	[[Lógica]]  - 
+
 - [11:18-11:53](https://www.youtube.com/watch?v=S8LBStzxHwk#t=678) **A transição da linguagem natural para a lógica formal.**
 
 ## 3. Ferramentas e Prática
@@ -76,7 +82,9 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 
 - [[Aristóteles]] (Categorias básicas) [02:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=125#t=02:05.35) 
 - [[Porfírio]] (Classificações em árvore)[02:49](https://www.youtube.com/watch?v=S8LBStzxHwk&t=170#t=02:49.98)
-- [[Franz Brentano]] (Classificação das categorias Aristotélicas - Processo mental de abstração) [03:51](https://www.youtube.com/watch?v=S8LBStzxHwk&t=231#t=03:51.34)  [09:17](https://www.youtube.com/watch?v=S8LBStzxHwk&t=557#t=09:17.30) 
+- [[Franz Brentano]] (Classificação das categorias Aristotélicas - Processo mental de Abstração) [03:51](https://www.youtube.com/watch?v=S8LBStzxHwk&t=231#t=03:51.34)  [09:17](https://www.youtube.com/watch?v=S8LBStzxHwk&t=557#t=09:17.30) 
+
+![[mx-img-sznyl2i9cdrqho1gg24df6j5-pt3m56_40s.jpg|O que é Ontologia? - 03:56]]
 - [[Leibniz]] (Classificação de gêneros e espécies) [06:03](https://www.youtube.com/watch?v=S8LBStzxHwk&t=363#t=06:03.34) 
 - [[Schopenhauer]] (O Mundo como Vontade e Representação) [07:19](https://www.youtube.com/watch?v=S8LBStzxHwk&t=439#t=07:19.28) 
 - [[Charles Sanders Peirce]](Classificar todas as palavras da Linguagem) [08:27](https://www.youtube.com/watch?v=S8LBStzxHwk&t=508#t=08:27.96) 
