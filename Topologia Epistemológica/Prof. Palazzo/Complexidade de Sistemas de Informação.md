@@ -8,9 +8,9 @@ area: Tecnologia da Informação
 tags:
   - engenharia_de_software
   - sistemas_de_informacao
-  - modelage_de_sistemas
   - complexidade
   - arquitetura_de_sistemas
+  - modelagem_de_sistemas
 ---
 
 
