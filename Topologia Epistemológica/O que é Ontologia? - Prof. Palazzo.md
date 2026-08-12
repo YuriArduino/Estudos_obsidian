@@ -46,10 +46,12 @@ A representação da realidade evoluiu de categorias aristotélicas para sistema
 
 - [10:35](https://www.youtube.com/watch?v=S8LBStzxHwk&t=636#t=10:35.80)  LInguagem natural & Lógica
 
-	[[Linguagem Natural]] - Reino da experiência humana
-	[[Lógica]]  - 
+	[[Linguagem Natural]] - Base primária, flexível e expressiva do pensamento humano. Ela evoluiu para expressar tudo o que somos capazes de conceber, abraçando tanto a precisão quanto a ambiguidade. (Metalinguagem)
+	
+	[[Lógica]]  - Não é a fundação da linguagem, mas sim uma **abstração refinada** dela. Ela funciona como uma ferramenta (ou um subconjunto controlado da fala) para extrair padrões e permitir raciocínios e inferências precisas em computadores. 
 
-- [11:18-11:53](https://www.youtube.com/watch?v=S8LBStzxHwk#t=678) **A transição da linguagem natural para a lógica formal.**
+
+- [12:08](https://www.youtube.com/watch?v=S8LBStzxHwk&t=729#t=12:08.90) Taxonomia
 
 ## 3. Ferramentas e Prática
 
@@ -88,5 +90,6 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 - [[Leibniz]] (Classificação de gêneros e espécies) [06:03](https://www.youtube.com/watch?v=S8LBStzxHwk&t=363#t=06:03.34) 
 - [[Schopenhauer]] (O Mundo como Vontade e Representação) [07:19](https://www.youtube.com/watch?v=S8LBStzxHwk&t=439#t=07:19.28) 
 - [[Charles Sanders Peirce]](Classificar todas as palavras da Linguagem) [08:27](https://www.youtube.com/watch?v=S8LBStzxHwk&t=508#t=08:27.96) 
+- [[John Sowa]] (Linguagem natural & Lógica) [10:35](https://www.youtube.com/watch?v=S8LBStzxHwk&t=636#t=10:35.80) 
 - [[ANSI]](American National Standards Institute)
 - [[Protégé]] (Ferramenta de modelagem)
