@@ -32,9 +32,9 @@ A tese central do vídeo é que a modelagem de sistemas de informação é um pr
 
 _A modelagem não é apenas técnica, mas cognitiva. Envolve identificar elementos, selecionar o que é relevante e classificar esses itens em uma estrutura lógica._
 
-- [01:13](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=73) **Etapas da modelagem:** Percepção, denominação, seleção, classificação e apresentação.
-- [02:00](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=120) **O problema da percepção:** O uso de sólidos impossíveis ilustra como pontos de vista diferentes geram interpretações distintas da mesma realidade.
-- [03:46](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=226) **Níveis de representação:** O fluxo que vai do conhecimento informal, passa pelo interno (consistência), até atingir a representação formal (esquema conceitual).
+- [01:13](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=73) **Etapas da [[modelagem]]:** Percepção, denominação, seleção, classificação e apresentação.
+- [02:00](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=120) **O problema da [[percepção]]:** O uso de sólidos impossíveis ilustra como pontos de vista diferentes geram interpretações distintas da mesma realidade.
+- [03:46](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=226) **Níveis de [[representação]]:** O fluxo que vai do conhecimento informal, passa pelo interno (consistência), até atingir a representação formal (esquema conceitual).
 
 ## 2. Complexidade e Tomada de Decisão
 
@@ -71,3 +71,4 @@ _A modelagem é um ciclo contínuo de aprendizado e refinamento._
 ## 📚 Referências Citadas no Vídeo
 
 - [[Aristóteles]] (mencionado como pioneiro na reflexão sobre a modelagem da realidade).
+- [[Schopenhauer]] (Foco na percepção)
