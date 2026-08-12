@@ -68,6 +68,9 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 - A ontologia na computação é uma simplificação e formalização da ontologia filosófica para representar parcelas da realidade de forma lógica.
 - O objetivo central é identificar o que define um objeto ou ser, abstraindo características variáveis e focando no que é essencial.
 - Ferramentas como o _Protégé_ são utilizadas para aplicar restrições lógicas e hierarquias em modelos conceituais.
+- Exemplo de representação Ontológica:
+
+![[mx-img-sznyl2i9cdrqho1gg24df6j5-pt14m54_26s.jpg|O que é Ontologia? - 14:54]]
 
 ---
 
@@ -94,4 +97,4 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 - [[Charles Sanders Peirce]](Classificar todas as palavras da Linguagem) [08:27](https://www.youtube.com/watch?v=S8LBStzxHwk&t=508#t=08:27.96) 
 - [[John Sowa]] (Linguagem natural & Lógica) [10:35](https://www.youtube.com/watch?v=S8LBStzxHwk&t=636#t=10:35.80) 
 - [[ANSI]](American National Standards Institute)[13:57](https://www.youtube.com/watch?v=S8LBStzxHwk&t=837#t=13:57.19) 
-- [[Protégé]] (Ferramenta de modelagem) 
+- [[Protégé]] (Ferramenta de modelagem)  [15:12](https://www.youtube.com/watch?v=S8LBStzxHwk&t=912#t=15:12.04) 
