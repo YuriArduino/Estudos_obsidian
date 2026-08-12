@@ -4,7 +4,7 @@ media-link: https://www.youtube.com/watch?v=_S7123H8o3E
 autor: Prof. Palazzo
 publicado-em: 2020-09-07
 visto-em: 2026-08-12T13:37:00
-area: ""
+area: Tecnologia da Informação
 tags:
   - engenharia_de_software
   - sistemas_de_informacao
