@@ -96,5 +96,5 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 - [[Schopenhauer]] (O Mundo como Vontade e Representação) [07:19](https://www.youtube.com/watch?v=S8LBStzxHwk&t=439#t=07:19.28) 
 - [[Charles Sanders Peirce]](Classificar todas as palavras da Linguagem) [08:27](https://www.youtube.com/watch?v=S8LBStzxHwk&t=508#t=08:27.96) 
 - [[John Sowa]] (Linguagem natural & Lógica) [10:35](https://www.youtube.com/watch?v=S8LBStzxHwk&t=636#t=10:35.80) 
-- [[ANSI]](American National Standards Institute)[13:57](https://www.youtube.com/watch?v=S8LBStzxHwk&t=837#t=13:57.19) 
+- [[ANSI]] (American National Standards Institute)[13:57](https://www.youtube.com/watch?v=S8LBStzxHwk&t=837#t=13:57.19) 
 - [[Protégé]] (Ferramenta de modelagem)  [15:12](https://www.youtube.com/watch?v=S8LBStzxHwk&t=912#t=15:12.04) 
