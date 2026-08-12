@@ -1,11 +1,16 @@
 ---
 type: video-note
-media-link: ""
-autor: ""
-publicado-em: "{{date}} {{time}}"
-visto-em: ""
-area: ""
-tags: []
+media-link: https://www.youtube.com/watch?v=hXkP1-6gEAo
+autor: Prof. Palazzo
+publicado-em: 2022-10-13
+visto-em: 2026-08-11T23:03:00
+area: Ciência da Computação / Engenharia de Conhecimento/ Modelagem Conceitual
+tags:
+  - computacao
+  - ontologia
+  - logica
+  - "#inteligencia_artificial"
+  - "#modelagem_conceitual"
 ---
 
 > [!INFO] Resumo
