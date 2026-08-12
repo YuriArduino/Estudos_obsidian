@@ -5,14 +5,20 @@ autor: Prof. Palazzo
 publicado-em: 2020-09-22
 visto-em: 2026-08-12T14:21:00
 area: Tecnologia da Informação
-tags: []
+tags:
+  - sistemas_de_informacao
+  - modelagem_conceitual
+  - engenharia_de_software
+  - tomada_de_decisao
+  - analise_de_sistemas
+  - metodologia_de_modelagem
 ---
 ![Modelagem Conceitual](https://www.youtube.com/watch?v=Uz9ryH9m5hw)
 
 
 
-> [!INFO] 
-> Resumo A tese central do vídeo é que a modelagem de sistemas de informação é um processo complexo que depende intrinsecamente da percepção humana sobre a realidade. O autor explora como o conhecimento subjetivo deve ser traduzido em estruturas formais computacionais, destacando os desafios de comunicação e interpretação entre clientes, analistas e programadores.
+> [!INFO] Resumo
+A tese central do vídeo é que a modelagem de sistemas de informação é um processo complexo que depende intrinsecamente da percepção humana sobre a realidade. O autor explora como o conhecimento subjetivo deve ser traduzido em estruturas formais computacionais, destacando os desafios de comunicação e interpretação entre clientes, analistas e programadores.
 
 > [!NOTE] 
 > Definição Central **Modelagem conceitual** é o processo de transformar a percepção humana da realidade (conhecimento informal) em uma representação formal e estruturada, consistente o suficiente para ser processada mecanicamente por um sistema computacional.

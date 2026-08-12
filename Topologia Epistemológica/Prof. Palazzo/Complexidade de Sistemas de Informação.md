@@ -16,7 +16,9 @@ tags:
 
 ![Complexidade de Sistemas](https://www.youtube.com/watch?v=_S7123H8o3E)
 
-> [!INFO] Resumo A tese central do vídeo é que a complexidade em sistemas de informação não reside apenas na complexidade algorítmica, mas na dificuldade intrínseca de compreender, modelar e representar a realidade complexa e dinâmica do mundo real em sistemas computacionais.
+> [!INFO] Resumo
+> 
+A tese central do vídeo é que a complexidade em sistemas de informação não reside apenas na complexidade algorítmica, mas na dificuldade intrínseca de compreender, modelar e representar a realidade complexa e dinâmica do mundo real em sistemas computacionais.
 
 > [!NOTE] Definição Central
 > 
