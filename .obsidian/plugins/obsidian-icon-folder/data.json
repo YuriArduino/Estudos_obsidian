@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCamera",
       "LiMap",
       "LiAtom",
       "LiMessageSquareCode"
@@ -43,5 +44,9 @@
   "Model": {
     "iconName": "LiMessageSquareCode",
     "iconColor": "#ecec9c"
+  },
+  "Prints": {
+    "iconName": "LiCamera",
+    "iconColor": "#ee3211"
   }
 }
