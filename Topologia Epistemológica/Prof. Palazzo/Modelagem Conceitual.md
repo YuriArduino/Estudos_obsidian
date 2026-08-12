@@ -1,16 +1,15 @@
 ---
 type: video-note
-media-link: ""
+media-link: https://www.youtube.com/watch?v=Uz9ryH9m5hw
 autor: Prof. Palazzo
-publicado-em: "{{date}} {{time}}"
-visto-em: ""
-area: ""
+publicado-em: 2020-09-22
+visto-em: 2026-08-12T14:21:00
+area: Tecnologia da Informação
 tags: []
 ---
+![Modelagem Conceitual](https://www.youtube.com/watch?v=Uz9ryH9m5hw)
 
-# Modelagem Conceitual
 
-![Tema do video](https://img.youtube.com/vi/S8LBStzxHwk/maxresdefault.jpg)
 
 > [!INFO] 
 > Resumo A tese central do vídeo é que a modelagem de sistemas de informação é um processo complexo que depende intrinsecamente da percepção humana sobre a realidade. O autor explora como o conhecimento subjetivo deve ser traduzido em estruturas formais computacionais, destacando os desafios de comunicação e interpretação entre clientes, analistas e programadores.
@@ -27,22 +26,22 @@ tags: []
 
 _A modelagem não é apenas técnica, mas cognitiva. Envolve identificar elementos, selecionar o que é relevante e classificar esses itens em uma estrutura lógica._
 
-- [01:13](https://www.youtube.com/watch?v=S8LBStzxHwk#t=73) **Etapas da modelagem:** Percepção, denominação, seleção, classificação e apresentação.
-- [02:00](https://www.youtube.com/watch?v=S8LBStzxHwk#t=120) **O problema da percepção:** O uso de sólidos impossíveis ilustra como pontos de vista diferentes geram interpretações distintas da mesma realidade.
-- [03:46](https://www.youtube.com/watch?v=S8LBStzxHwk#t=226) **Níveis de representação:** O fluxo que vai do conhecimento informal, passa pelo interno (consistência), até atingir a representação formal (esquema conceitual).
+- [01:13](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=73) **Etapas da modelagem:** Percepção, denominação, seleção, classificação e apresentação.
+- [02:00](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=120) **O problema da percepção:** O uso de sólidos impossíveis ilustra como pontos de vista diferentes geram interpretações distintas da mesma realidade.
+- [03:46](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=226) **Níveis de representação:** O fluxo que vai do conhecimento informal, passa pelo interno (consistência), até atingir a representação formal (esquema conceitual).
 
 ## 2. Complexidade e Tomada de Decisão
 
 _O vídeo diferencia atividades que o computador pode executar mecanicamente daquelas que exigem inteligência humana e sensibilidade contextual._
 
-- [04:26](https://www.youtube.com/watch?v=S8LBStzxHwk#t=266) **Atividades estruturadas vs. parcialmente estruturadas:** A diferença entre o que a máquina automatiza e o processo de tomada de decisão humana.
-- [05:43](https://www.youtube.com/watch?v=S8LBStzxHwk#t=343) **Níveis organizacionais:** A complexidade da modelagem aumenta conforme subimos do nível operacional para o estratégico, onde a decisão é predominantemente "incompleta" (humana).
+- [04:26](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=266) **Atividades estruturadas vs. parcialmente estruturadas:** A diferença entre o que a máquina automatiza e o processo de tomada de decisão humana.
+- [05:43](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=343) **Níveis organizacionais:** A complexidade da modelagem aumenta conforme subimos do nível operacional para o estratégico, onde a decisão é predominantemente "incompleta" (humana).
 
 ## 3. Pirâmide Metodológica e Evolução
 
 _A modelagem é um ciclo contínuo de aprendizado e refinamento._
 
-- [07:12](https://www.youtube.com/watch?v=S8LBStzxHwk#t=432) **Pirâmide metodológica:** A visão de mundo gera ferramentas; o uso dessas ferramentas gera feedback que, por sua vez, modifica a visão de mundo.
+-  [07:12](https://www.youtube.com/watch?v=Uz9ryH9m5hw&t=432) **Pirâmide metodológica:** A visão de mundo gera ferramentas; o uso dessas ferramentas gera feedback que, por sua vez, modifica a visão de mundo.
 
 ---
 
