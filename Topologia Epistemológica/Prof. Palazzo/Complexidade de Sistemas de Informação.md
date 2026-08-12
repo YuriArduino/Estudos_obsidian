@@ -1,15 +1,20 @@
 ---
 type: video-note
-media-link: ""
-autor: ""
-publicado-em: "{{date}} {{time}}"
-visto-em: ""
+media-link: https://www.youtube.com/watch?v=_S7123H8o3E
+autor: Prof. Palazzo
+publicado-em: 2020-09-07
+visto-em: 2026-08-12T13:37:00
 area: ""
-tags: []
+tags:
+  - engenharia_de_software
+  - sistemas_de_informacao
+  - modelage_de_sistemas
+  - complexidade
+  - arquitetura_de_sistemas
 ---
 
 
-![Ontologia na Modelagem](https://www.youtube.com/watch?v=S8LBStzxHwk)
+![Complexidade de Sistemas](https://www.youtube.com/watch?v=_S7123H8o3E)
 
 > [!INFO] Resumo A tese central do vídeo é que a complexidade em sistemas de informação não reside apenas na complexidade algorítmica, mas na dificuldade intrínseca de compreender, modelar e representar a realidade complexa e dinâmica do mundo real em sistemas computacionais.
 

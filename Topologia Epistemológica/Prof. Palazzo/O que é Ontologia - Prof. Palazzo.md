@@ -7,10 +7,10 @@ visto-em: 2026-08-11T20:26:00
 area: Ciência da Computação / Inteligência Artificial
 tags:
   - "#ontologia"
-  - "#modelagem-conceitual"
-  - "#sistemas-de-informacao"
   - "#logica"
   - "#computacao"
+  - modelagem_conceitual
+  - sistemas_de_informacao
 ---
 ---
 
