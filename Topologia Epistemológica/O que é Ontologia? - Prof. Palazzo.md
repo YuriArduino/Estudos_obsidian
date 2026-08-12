@@ -51,7 +51,9 @@ A representação da realidade evoluiu de categorias aristotélicas para sistema
 	[[Lógica]]  - Não é a fundação da linguagem, mas sim uma **abstração refinada** dela. Ela funciona como uma ferramenta (ou um subconjunto controlado da fala) para extrair padrões e permitir raciocínios e inferências precisas em computadores. 
 
 
-- [12:08](https://www.youtube.com/watch?v=S8LBStzxHwk&t=729#t=12:08.90) Taxonomia
+- [12:08](https://www.youtube.com/watch?v=S8LBStzxHwk&t=729#t=12:08.90) Taxonomia (Classificação hieráquica que pode ser representada segundo uma árvore)
+- [12:33](https://www.youtube.com/watch?v=S8LBStzxHwk&t=753#t=12:33.48) Dewey Decimal (Usado em assuntos dentro de Bibliotecas)
+- [12:58](https://www.youtube.com/watch?v=S8LBStzxHwk&t=779#t=12:58.97) [[Categorização]] (Ontologia e Representação da realidade)
 
 ## 3. Ferramentas e Prática
 
@@ -91,5 +93,5 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 - [[Schopenhauer]] (O Mundo como Vontade e Representação) [07:19](https://www.youtube.com/watch?v=S8LBStzxHwk&t=439#t=07:19.28) 
 - [[Charles Sanders Peirce]](Classificar todas as palavras da Linguagem) [08:27](https://www.youtube.com/watch?v=S8LBStzxHwk&t=508#t=08:27.96) 
 - [[John Sowa]] (Linguagem natural & Lógica) [10:35](https://www.youtube.com/watch?v=S8LBStzxHwk&t=636#t=10:35.80) 
-- [[ANSI]](American National Standards Institute)
-- [[Protégé]] (Ferramenta de modelagem)
+- [[ANSI]](American National Standards Institute)[13:57](https://www.youtube.com/watch?v=S8LBStzxHwk&t=837#t=13:57.19) 
+- [[Protégé]] (Ferramenta de modelagem) 
