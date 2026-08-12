@@ -21,8 +21,8 @@ tags: []
 ## 1. [Tema Principal 1 - Ex: Definição e Conceitos Base] 
 *Descreva o contexto aqui e use os timestamps para apoiar os argumentos.*
 
-- [00:00]()
-- [00:00]()
+- [00:00](link do vídeo)
+
 ## 2. [Tema Principal 2 - Ex: Evolução Histórica ou Aplicação] 
 *Agrupe os momentos do vídeo que falam sobre esse assunto.* 
 

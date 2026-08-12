@@ -41,7 +41,7 @@ tags:
 
 ## 3. Ferramentas e Aplicação Prática
 
-*A transição final para a computação ocorre através da criação de esquemas conceituais (13:52). O uso de ferramentas como o _Protégé_ permite aos modeladores implementar restrições lógicas, hierarquias e axiomas, transformando descrições em linguagem natural em modelos computacionais formais que suportam bancos de dados e interfaces de usuário (14:52 - 15:30).
+*A transição final para a computação ocorre através da criação de esquemas conceituais ([13:52](https://www.youtube.com/watch?v=S8LBStzxHwk#t=832)). O uso de ferramentas como o Protégé permite aos modeladores implementar restrições lógicas, hierarquias e axiomas, transformando descrições em linguagem natural em modelos computacionais formais que suportam bancos de dados e interfaces de usuário ([14:52 - 15:30](https://www.youtube.com/watch?v=S8LBStzxHwk#t=892,930)).
 
 - [13:52-14:45]
 - [15:13-15:30]
