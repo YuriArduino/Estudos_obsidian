@@ -71,12 +71,11 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 
 ## 📚 Referências Citadas no Vídeo
 
-- [[Aristóteles]] (Categorias básicas)
-- [02:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=125#t=02:05.35) 
-- _Brennand_ (Processo mental de abstração).
-- _Porfírio_ (Classificações em árvore)
-- _Leibniz_ (Classificação de gêneros e espécies)
-- _Schopenhauer_ (O Mundo como Vontade e Representação)
-- _Charles Sanders Peirce_
-- _ANSI_ (American National Standards Institute)
-- _Protégé_ (Ferramenta de modelagem)
+- [[Aristóteles]] (Categorias básicas) [02:05](https://www.youtube.com/watch?v=S8LBStzxHwk&t=125#t=02:05.35) 
+- [[Porfírio]] (Classificações em árvore)[02:49](https://www.youtube.com/watch?v=S8LBStzxHwk&t=170#t=02:49.98)
+- [[Brennand]] (Processo mental de abstração).  
+- [[Leibniz]] (Classificação de gêneros e espécies)
+- [[Schopenhauer]] (O Mundo como Vontade e Representação)
+- [[Charles Sanders Peirce]]
+- [[ANSI]](American National Standards Institute)
+- [[Protégé]] (Ferramenta de modelagem)
