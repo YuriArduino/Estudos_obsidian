@@ -61,6 +61,7 @@ _Como o software interage (ou não) com o mundo real e a importância do modelo 
 _A metodologia necessária para converter a realidade em sistemas funcionais._
 
 - [06:46](https://www.youtube.com/watch?v=_S7123H8o3E#t=406) **Decomposição:** Passo a passo para assimilar a experiência e transformar dados brutos em dados fundamentais.
+- [08:04](https://www.youtube.com/watch?v=_S7123H8o3E&t=485#t=08:04.95) **[[Software]]**: Codificar conhecimento humano em uma linguagem computacional
 - [10:36](https://www.youtube.com/watch?v=_S7123H8o3E#t=636) **Engenharia:** O fluxo desde a análise da realidade, criação de modelo, validação com usuários, até a aceitação do sistema.
 
 ---
