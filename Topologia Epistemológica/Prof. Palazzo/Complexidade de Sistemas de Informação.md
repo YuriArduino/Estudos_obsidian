@@ -42,13 +42,13 @@ _Como o software interage (ou não) com o mundo real e a importância do modelo 
 
 ![[controle_complexidade.jpg|Complexidade de Sistemas de Informação - 03:07]]
 
-- [04:07](https://www.youtube.com/watch?v=_S7123H8o3E#t=247) **Sistemas de Informação:** O sistema mantém um modelo interno para processar dados que refletem o mundo real (independente e não reativo).
+- [04:07](https://www.youtube.com/watch?v=_S7123H8o3E#t=247) **[[Sistemas de Informação]]:** O sistema mantém um modelo interno para processar dados que refletem o mundo real (independente e não reativo).
 
 ![[modelo_sistema_info.jpg|Complexidade de Sistemas de Informação - 04:08]]
 
 ![[sistema_info.jpg]]
 
-- [05:53](https://www.youtube.com/watch?v=_S7123H8o3E#t=353) **Sistemas de Controle:** O sistema atua sobre o mundo real, que é reativo aos estímulos do controlador.
+- [05:53](https://www.youtube.com/watch?v=_S7123H8o3E#t=353) **[[Sistemas de Controle]]:** O sistema atua sobre o mundo real, que é reativo aos estímulos do controlador.
 
 ![[modelo_sistema_control.jpg|Complexidade de Sistemas de Informação - 05:51]]
 
