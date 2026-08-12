@@ -8,10 +8,6 @@ area: ""
 tags: []
 ---
 
-# Ontologia - Conceitos I
-
-![Tema do video](https://img.youtube.com/vi/S8LBStzxHwk/maxresdefault.jpg)
-
 > [!INFO] Resumo
 > 
 > > O vídeo detalha o uso de ontologias na Ciência da Computação, explorando como representar o conhecimento humano de forma rigorosa e processável automaticamente. O autor aborda desde a representação gráfica e formal do conhecimento até os processos de inferência lógica e os desafios práticos de integração e mapeamento entre diferentes ontologias.
@@ -28,7 +24,7 @@ tags: []
 
 _O conhecimento humano é complexo; para ser processado por máquinas, precisa de estruturas formais e semânticas._
 
-- [03:57](https://www.youtube.com/watch?v=S8LBStzxHwk#t=237) **A complexidade de representar o conhecimento humano.**
+- [03:57](https://www.youtube.com/watch?v=hXkP1-6gEAo) **A complexidade de representar o conhecimento humano.**
 - [06:43](https://www.youtube.com/watch?v=S8LBStzxHwk#t=403) **Representação em treliças (lattices):** exemplo com bebidas para organizar atributos e conceitos.
 - [10:30](https://www.youtube.com/watch?v=S8LBStzxHwk#t=630) **Representação formal vs. gráfica:** a necessidade de rigidez algorítmica.
 - [11:15](https://www.youtube.com/watch?v=S8LBStzxHwk#t=675) **Processos lógicos de inferência:** apresentação dos quatro tipos de silogismos aristotélicos.
@@ -44,7 +40,7 @@ _A organização do conhecimento em diferentes níveis de abstração facilita a
 
 _Problemas comuns ao tentar alinhar ontologias desenvolvidas por diferentes sistemas ou autores._
 
-- [14:44](https://www.youtube.com/watch?v=S8LBStzxHwk#t=884) **O problema do compartilhamento:** conflitos de nomenclatura (o mesmo nome para coisas diferentes) e semântica.
+- [14:44](https://www.youtube.com/watch?v=S8LBStzxHwk#t=884) **O problema do compartilhamento:** conflitos de nomenclatura e semântica.
 - [16:07](https://www.youtube.com/watch?v=S8LBStzxHwk#t=967) **Alinhamento de esquemas conceituais:** mapeamento de atributos, restrições e inconsistências.
 - [18:52](https://www.youtube.com/watch?v=S8LBStzxHwk#t=1132) **Integração de ontologias:** união de bases de conhecimento distintas.
 
@@ -54,9 +50,9 @@ _Problemas comuns ao tentar alinhar ontologias desenvolvidas por diferentes sist
 
 _Aprendizados essenciais para a modelagem conceitual._
 
-- Ontologias permitem processamento automático via inferência lógica, algo impossível apenas com representações gráficas informais.
-- A resolução de ambiguidades (como o exemplo da distinção entre champanhe e cerveja) exige o refinamento constante de atributos.
-- O alinhamento de ontologias é um desafio crítico: diferentes domínios podem usar a mesma terminologia para conceitos distintos, exigindo mecanismos rigorosos de mapeamento.
+- Ontologias permitem processamento automático via inferência lógica.
+- A resolução de ambiguidades exige o refinamento constante de atributos.
+- O alinhamento de ontologias é um desafio crítico ao integrar sistemas distintos.
 
 ---
 
@@ -64,10 +60,9 @@ _Aprendizados essenciais para a modelagem conceitual._
 
 _Conceitos-chave para aprofundamento._
 
-- Representação do Conhecimento (KR).
-- Inferência Lógica (Silogismos).
-- Semântica Computacional.
-- Mapeamento de Esquemas em Bancos de Dados.
+- Representação do Conhecimento (KR)
+- Inferência Lógica (Silogismos)
+- Semântica Computacional
 
 ---
 
@@ -76,5 +71,5 @@ _Conceitos-chave para aprofundamento._
 _Fontes mencionadas pelo autor._
 
 - Michael Yerger (1981) - Artigo sobre representação de conhecimento.
-- WordNet (Projeto de banco de dados lexical).
-- Aristóteles (Silogismos).
+- WordNet - Banco de dados lexical.
+- Aristóteles - Lógica e Silogismos.
