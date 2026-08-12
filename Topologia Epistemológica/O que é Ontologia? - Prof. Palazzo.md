@@ -29,13 +29,11 @@ tags:
 ---
 ## 1. Definição e Conceitos Base
 
-A ontologia na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo. Na computação, transpomos esse conceito para a modelagem conceitual.
+A [[Ontologia]] na filosofia busca compreender o "ser enquanto ser", analisando propriedades intrínsecas que definem algo. Do grego onto mais logia significa parte da [[Filosofia]] que especula sobre o **"o ser enquanto ser"**, logo **"as coisas em si mesmas"**.  Na computação, transpomos esse conceito para a modelagem conceitual.
 
 - [00:33-01:46](https://www.youtube.com/watch?v=S8LBStzxHwk#t=33) **Definição filosófica e o estudo abstrato das coisas.**
 - [09:15-10:05](https://www.youtube.com/watch?v=S8LBStzxHwk#t=555) **A ontologia como processo mental de abstração e classificação.**
 
-
-dsadsadsas
 ## 2. Evolução Histórica e Representação
 
 A representação da realidade evoluiu de categorias aristotélicas para sistemas de classificação mais estruturados, culminando na necessidade de formalização lógica para a computação.
