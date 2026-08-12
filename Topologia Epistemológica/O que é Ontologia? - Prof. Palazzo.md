@@ -79,7 +79,7 @@ No contexto da computação moderna, a ontologi[]()a é um instrumento técnico 
 - [[Modelagem Conceitual]]
 - [[Filosofia]]
 - [[Sistemas de Informação]]
-- [[Lógica Formal]]
+- [[Lógica | Lógica Formal]]
 - [[Taxonomia]]
 - [[Inteligência Artificial]]
 

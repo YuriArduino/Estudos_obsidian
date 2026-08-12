@@ -12,8 +12,7 @@ tags:
   - "#inteligencia_artificial"
   - "#modelagem_conceitual"
 ---
-![Ontologia
-](https://www.youtube.com/watch?v=hXkP1-6gEAo)
+![Ontologia](https://www.youtube.com/watch?v=hXkP1-6gEAo)
 > [!INFO] Resumo
 > 
 > > O vídeo detalha o uso de ontologias na Ciência da Computação, explorando como representar o conhecimento humano de forma rigorosa e processável automaticamente. O autor aborda desde a representação gráfica e formal do conhecimento até os processos de inferência lógica e os desafios práticos de integração e mapeamento entre diferentes ontologias.
@@ -74,9 +73,9 @@ _Aprendizados essenciais para a modelagem conceitual._
 
 _Conceitos-chave para aprofundamento._
 
-- Representação do Conhecimento (KR)
-- Inferência Lógica (Silogismos)
-- Semântica Computacional
+- [[Representação do Conhecimento (KR)]]
+- [[Lógica | Inferência Lógica (Silogismos)]]
+- [[Semântica Computacional]]
 
 ---
 
@@ -85,5 +84,6 @@ _Conceitos-chave para aprofundamento._
 _Fontes mencionadas pelo autor._
 
 - [[Michael Yerger]] (1981 - Representação de conhecimento)
+- [[Michael Erdmamm]]
 - [[WordNet]] (Banco de dados lexical)
 - [[Aristóteles]]  (Lógica e Silogismos)
