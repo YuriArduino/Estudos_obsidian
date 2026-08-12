@@ -29,6 +29,9 @@ tags:
 
 _O conhecimento humano é complexo; para ser processado por máquinas, precisa de estruturas formais e semânticas._
 
+
+- [00:39](https://www.youtube.com/watch?v=hXkP1-6gEAo&t=39#t=00:39.49) Ontologia é uma etapa muito mais avançada de [[Modelagem Conceitual]]	
+
 - [03:57](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=237) **A complexidade de representar o conhecimento humano.**
     
 - [06:43](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=403) **Representação em treliças (lattices):** exemplo com bebidas para organizar atributos e conceitos.
@@ -73,7 +76,9 @@ _Aprendizados essenciais para a modelagem conceitual._
 
 _Conceitos-chave para aprofundamento._
 
+
 - [[Representação do Conhecimento (KR)]]
+- [[Modelagem Conceitual]] ()
 - [[Lógica | Inferência Lógica (Silogismos)]]
 - [[Semântica Computacional]]
 
@@ -82,6 +87,7 @@ _Conceitos-chave para aprofundamento._
 ## 📚 Referências Citadas no Vídeo
 
 _Fontes mencionadas pelo autor._
+
 
 - [[Michael Yerger]] (1981 - Representação de conhecimento)
 - [[Michael Erdmamm]]
