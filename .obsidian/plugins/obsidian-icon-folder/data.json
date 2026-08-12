@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpen",
       "LiCamera",
       "LiMap",
       "LiAtom",
@@ -48,5 +49,9 @@
   "Prints": {
     "iconName": "LiCamera",
     "iconColor": "#ee3211"
+  },
+  "Livros": {
+    "iconName": "LiBookOpen",
+    "iconColor": "#0d840b"
   }
 }
