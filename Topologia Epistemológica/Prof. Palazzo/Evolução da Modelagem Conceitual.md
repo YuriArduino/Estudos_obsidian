@@ -77,4 +77,4 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 - [[E.F. Codd]]  artigos sobre Formas normais e (1971) e o Modelo Relacional (RM/T - 1979).
 - Artigo de [[Giancarlo Guizzardi ]] (2019) sobre modelagem orientada a ontologias.
 - Manifesto de Bancos de Dados Orientados a Objetos ([[Atkinson]] et al.).
-- [[]]
+- [[Heuser]] A Tansparê
