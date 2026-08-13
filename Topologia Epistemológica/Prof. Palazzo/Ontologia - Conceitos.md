@@ -30,7 +30,7 @@ tags:
 _O conhecimento humano é complexo; para ser processado por máquinas, precisa de estruturas formais e semânticas._
 
 
-- [00:39](https://www.youtube.com/watch?v=hXkP1-6gEAo&t=39#t=00:39.49) Ontologia é uma etapa muito mais avançada de [[Modelagem Conceitual]]	
+- [00:39](https://www.youtube.com/watch?v=hXkP1-6gEAo&t=39#t=00:39.49) Ontologia é uma etapa muito mais avançada de [[Modelagem Conceitual]]. Um catálogo dos tipos de coisas que se supõem existir em um domínio **D** na persperpectiva de uma pessoa falando uma linguagem **L** com o objetivo de descrever **D**.
 
 - [03:57](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=237) **A complexidade de representar o conhecimento humano.**
     
