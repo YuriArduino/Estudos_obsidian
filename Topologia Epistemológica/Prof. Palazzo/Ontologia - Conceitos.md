@@ -45,7 +45,7 @@ _O conhecimento humano é complexo; para ser processado por máquinas, precisa d
 
 _A organização do conhecimento em diferentes níveis de abstração facilita a reutilização e o compartilhamento._
 
-- [05:46](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=346) **Níveis de ontologias:** Superior, de Domínio e de Aplicação.
+- [05:46](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=346) **Níveis de ontologias:** Superior, de Domínio,de Tarefas e de Aplicação.
     
 - [04:15](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=255) **WordNet:** discussão sobre o uso de bancos de dados lexicais como base de conhecimento.
     
@@ -90,6 +90,6 @@ _Fontes mencionadas pelo autor._
 
 
 - [[Michael Yerger]] (1981 - Representação de conhecimento)
-- [[Michael Erdmamm]]
+- [[Michael Erdmamm]] Treliça construída com os conceitos
 - [[WordNet]] (Banco de dados lexical). Foi convertido para uma expecificação formal, com uma metodologia híbrida bottom-up/top-down, para de forma automática extrair associações relacionadas e interpretadas em termos de conjuntos de relaçoes conceituais. Formalmente definido na fundação ontológica do [[DOLCE]] 
 - [[Aristóteles]]  (Lógica e Silogismos)
