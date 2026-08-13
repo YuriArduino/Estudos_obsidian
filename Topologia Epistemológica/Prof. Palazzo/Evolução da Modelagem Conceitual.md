@@ -73,6 +73,6 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 ## 📚 Referências Citadas no Vídeo
 
 - Artigo de [[Peter Chen]] (1976) sobre o Modelo Entidade-Relacionamento.
-- [[E.F. Codd]] e o artigo sobre o Modelo Relacional (1970).
+- [[E.F. Codd]] e o artigo sobre o Modelo Relacional RM/T - 1979).
 - Artigo de [[Giancarlo Guizzardi ]] (2019) sobre modelagem orientada a ontologias.
 - Manifesto de Bancos de Dados Orientados a Objetos ([[Atkinson]] et al.).
