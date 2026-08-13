@@ -33,13 +33,13 @@ _O cenário inicial onde analistas tinham poucas ferramentas e precisavam traduz
 
 - [02:22-03:35](https://www.youtube.com/watch?v=0f8I9YvciEw&t=142s) **O início nos anos 60:** a era dos fluxogramas manuais, bancos de dados hierárquicos e programação em Cobol.
 - [05:04](https://www.youtube.com/watch?v=0f8I9YvciEw&t=305#t=05:04.84) **Esquema Conceitual**: um único esquema conceitual (ANSI).
-- [06:42-08:18](https://www.youtube.com/watch?v=0f8I9YvciEw&t=402s) **O modelo hierárquico (ex: IMS/DB):** estrutura em árvore onde a navegação era explícita e qualquer mudança física exigia reprogramação das aplicações.
+- [06:42-08:18](https://www.youtube.com/watch?v=0f8I9YvciEw&t=402s) **O modelo hierárquico (ex: IMS/DB):** estrutura em árvore onde a navegação era explícita e qualquer mudança física exigia reprogramação das aplicações.(==Como fazer==)
 
 ## 2. A Evolução: Modelo Relacional e Semântica
 
 _A mudança de paradigma para a independência de dados e a busca por organizar a informação para evitar anomalias._
 
-- [08:19-10:27](https://www.youtube.com/watch?v=0f8I9YvciEw&t=499s) **O surgimento do modelo relacional (Codd, 1970):** foco no "o que fazer" e não "como fazer" (SQL), trazendo independência física.
+- [08:19-10:27](https://www.youtube.com/watch?v=0f8I9YvciEw&t=499s) **O surgimento do modelo relacional (Codd, 1970):** foco no "o que fazer" e não "como fazer" (SQL), trazendo independência física. (==O que fazer==)
 - [10:31-16:15](https://www.youtube.com/watch?v=0f8I9YvciEw&t=631s) **Normalização (Formas Normais):** o processo de remover redundâncias e garantir que o modelo reflita dependências funcionais, evitando anomalias de atualização.
 - [17:28-18:41](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1048s) **O modelo Entidade-Relacionamento (Peter Chen, 1976):** a formalização que permitiu uma representação visual clara e validável com os usuários do sistema.
 
@@ -74,6 +74,6 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 ## 📚 Referências Citadas no Vídeo
 
 - Artigo de [[Peter Chen]] (1976) sobre o Modelo Entidade-Relacionamento.
-- [[E.F. Codd]] e o artigo sobre o Modelo Relacional RM/T - 1979).
+- [[E.F. Codd]]  artigos sobre Formas normais e (1971) e o Modelo Relacional (RM/T - 1979).
 - Artigo de [[Giancarlo Guizzardi ]] (2019) sobre modelagem orientada a ontologias.
 - Manifesto de Bancos de Dados Orientados a Objetos ([[Atkinson]] et al.).
