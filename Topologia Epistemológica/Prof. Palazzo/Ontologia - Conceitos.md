@@ -38,7 +38,7 @@ _O conhecimento humano é complexo; para ser processado por máquinas, precisa d
     
 - [10:30](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=630) **Representação formal vs. gráfica:** a necessidade de rigidez algorítmica.
     
-- [11:15](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=675) **Processos lógicos de inferência:** apresentação dos quatro tipos de silogismos aristotélicos.
+- [11:15](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=675) **Processos lógicos de inferência:** apresentação dos quatro tipos de [[Silogismo|silogismos]] aristotélicos.
     
 
 ## 2. Estrutura e Níveis de Ontologias
@@ -54,9 +54,9 @@ _A organização do conhecimento em diferentes níveis de abstração facilita a
 
 _Problemas comuns ao tentar alinhar ontologias desenvolvidas por diferentes sistemas ou autores._
 
-- [14:44](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=884) **O problema do compartilhamento:** conflitos de nomenclatura e semântica.
+- [14:44](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=884) **O problema do compartilhamento:** conflitos de nomenclatura e semântica.[[Polissemia]]
     
-- [16:07](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=967) **Alinhamento de esquemas conceituais:** mapeamento de atributos, restrições e inconsistências.
+- [16:07](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=967) **Alinhamento de esquemas conceituais:** mapeamento de atributos, restrições e inconsistências. Disparidade entre níveis e complexidades intra-ontológicas. Analise da possibilidade de introduzir novos subtipos ou supertipos conceituais.
     
 - [18:52](https://www.youtube.com/watch?v=hXkP1-6gEAo#t=1132) **Integração de ontologias:** união de bases de conhecimento distintas.
 
@@ -93,3 +93,4 @@ _Fontes mencionadas pelo autor._
 - [[Michael Erdmamm]] Treliça construída com os conceitos
 - [[WordNet]] (Banco de dados lexical). Foi convertido para uma expecificação formal, com uma metodologia híbrida bottom-up/top-down, para de forma automática extrair associações relacionadas e interpretadas em termos de conjuntos de relaçoes conceituais. Formalmente definido na fundação ontológica do [[DOLCE]] 
 - [[Aristóteles]]  (Lógica e Silogismos)
+- [[Pedro Abelardo]] Tipos de Silogismos
