@@ -91,5 +91,5 @@ _Fontes mencionadas pelo autor._
 
 - [[Michael Yerger]] (1981 - Representação de conhecimento)
 - [[Michael Erdmamm]]
-- [[WordNet]] (Banco de dados lexical)
+- [[WordNet]] (Banco de dados lexical). Foi convertido para uma expecificação formal, com uma metodologia híbrida bottom-up/top-down, para de forma automática extrair associações relacionadas e interpretadas em termos de conjuntos de relaçoes conceituais. Formalmente definido na fundação ontológica do [[DOLCE]] 
 - [[Aristóteles]]  (Lógica e Silogismos)
