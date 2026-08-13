@@ -42,7 +42,7 @@ _A mudança de paradigma para a independência de dados e a busca por organizar 
 - [08:19-10:27](https://www.youtube.com/watch?v=0f8I9YvciEw&t=499s) **O surgimento do modelo relacional (Codd, 1970):** foco no "o que fazer" e não "como fazer" (SQL), trazendo independência física. (==O que fazer==)
 - [10:31-16:15](https://www.youtube.com/watch?v=0f8I9YvciEw&t=631s) **Normalização (Formas Normais):** o processo de remover redundâncias e garantir que o modelo reflita dependências funcionais, evitando anomalias de atualização(1FN/2FN/3FN). Ao normalizarmos uma tabela, estamos removendo semântica, dependencias funcionais são semânticas. Desaparece do modelo conceitual e será representada no programa de aplicação(SQL). Trade-off otimização (desempenho/atualização do dn em contraponto da semântica)
 - [17:28-18:41](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1048s) **O modelo Entidade-Relacionamento (Peter Chen, 1976):** a formalização que permitiu uma representação visual clara e validável com os usuários do sistema.
-- [20:23](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1223#t=20:23.31) 
+- [20:23](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1223#t=20:23.31) **Evolução dos Bancos de Dados:**
 
 ![[histograma_db.jpg|Evolução da modelagem conceitual - 20:23]]
 
@@ -51,9 +51,16 @@ _A mudança de paradigma para a independência de dados e a busca por organizar 
 
 _A necessidade de representar estruturas complexas e a evolução para modelos baseados em significado._
 
-- [21:00-23:15](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1260s) **Bancos de dados orientados a objetos:** surgiram para superar as limitações da primeira forma normal, permitindo representar mapas e imagens.
+- [21:00-23:15](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1260s) **Bancos de dados orientados a objetos:** surgiram para superar as limitações da primeira forma normal, permitindo representar mapas e imagens. Possui uma álgebra relacional referentes aos objetos.
 - [23:23-24:55](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1403s) **O modelo UML:** uma tentativa de unificar a especificação de sistemas.
 - [25:00-27:29](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1500s) **Ontologias:** a fronteira atual onde o modelo de dados permite inferências lógicas sobre o domínio.
+
+Um modelo Ontológico Pr
+- Entidades
+- Coisa
+- Unidades de comportamento
+- Restrições Semânticas
+
 
 ---
 
@@ -81,4 +88,5 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 - [[E.F. Codd]]  artigos sobre Formas normais e (1971) e o Modelo Relacional (RM/T - 1979).
 - Artigo de [[Giancarlo Guizzardi ]] (2019) sobre modelagem orientada a ontologias.
 - Manifesto de Bancos de Dados Orientados a Objetos ([[Atkinson]] et al.).
+- Comparing tradicional conceptual  modeling with ontology-driven conceptual modeling: An empirical study. (2019)
 - [[Heuser]] A Tansparê
