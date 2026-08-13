@@ -40,7 +40,7 @@ _O cenário inicial onde analistas tinham poucas ferramentas e precisavam traduz
 _A mudança de paradigma para a independência de dados e a busca por organizar a informação para evitar anomalias._
 
 - [08:19-10:27](https://www.youtube.com/watch?v=0f8I9YvciEw&t=499s) **O surgimento do modelo relacional (Codd, 1970):** foco no "o que fazer" e não "como fazer" (SQL), trazendo independência física. (==O que fazer==)
-- [10:31-16:15](https://www.youtube.com/watch?v=0f8I9YvciEw&t=631s) **Normalização (Formas Normais):** o processo de remover redundâncias e garantir que o modelo reflita dependências funcionais, evitando anomalias de atualização(1FN/2FN/3FN). Ao normalizarmos uma tabela, estamos removendo semântica, dependencias funcionais são semânticas. Desaparece do modelo conceitual e será representada no programa de aplicação(SQL). Trade-off otimização (desempenho)
+- [10:31-16:15](https://www.youtube.com/watch?v=0f8I9YvciEw&t=631s) **Normalização (Formas Normais):** o processo de remover redundâncias e garantir que o modelo reflita dependências funcionais, evitando anomalias de atualização(1FN/2FN/3FN). Ao normalizarmos uma tabela, estamos removendo semântica, dependencias funcionais são semânticas. Desaparece do modelo conceitual e será representada no programa de aplicação(SQL). Trade-off otimização (desempenho/atualização do dn em contraponto da semântica)
 - [17:28-18:41](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1048s) **O modelo Entidade-Relacionamento (Peter Chen, 1976):** a formalização que permitiu uma representação visual clara e validável com os usuários do sistema.
 
 ## 3. Rumo ao Futuro: Objetos e Ontologias
