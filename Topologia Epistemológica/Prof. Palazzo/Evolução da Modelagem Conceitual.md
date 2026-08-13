@@ -55,9 +55,11 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 - [23:23-24:55](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1403s) **O modelo UML:** uma tentativa de unificar a especificação de sistemas.
 - [25:00-27:29](https://www.youtube.com/watch?v=0f8I9YvciEw&t=1500s) **Ontologias:** a fronteira atual onde o modelo de dados permite inferências lógicas sobre o domínio.
 
-Um modelo Ontológico Pr
+"Um modelo Ontológico Probabilístico para Assistir Pessoas com Declínio Cognitivo: (2018, 185-196)"
 - Entidades
 - Coisa
+- Hierarquias
+- Especializações
 - Unidades de comportamento
 - Restrições Semânticas
 
