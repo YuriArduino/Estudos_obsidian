@@ -94,3 +94,4 @@ _Fontes mencionadas pelo autor._
 - [[WordNet]] (Banco de dados lexical). Foi convertido para uma expecificação formal, com uma metodologia híbrida bottom-up/top-down, para de forma automática extrair associações relacionadas e interpretadas em termos de conjuntos de relaçoes conceituais. Formalmente definido na fundação ontológica do [[DOLCE]] 
 - [[Aristóteles]]  (Lógica e Silogismos)
 - [[Pedro Abelardo]] Tipos de Silogismos
+- [[John F. Sowa]] Inconsistências
