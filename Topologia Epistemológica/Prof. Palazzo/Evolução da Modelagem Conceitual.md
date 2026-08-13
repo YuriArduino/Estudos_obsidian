@@ -55,6 +55,7 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 ## 🎯 Principais Pontos (Takeaways)
 
 - A evolução da modelagem busca sempre um maior equilíbrio entre o desempenho da máquina e a representação clara do conhecimento humano.
+- O impotante é representar a [[Semântica]]
 - A normalização é fundamental para evitar erros de consistência (anomalias de atualização), mas pode "esconder" a semântica original do negócio.
 - Ontologias são a evolução necessária para mundos interconectados e sistemas que precisam "entender" e realizar inferências sobre os objetos do domínio.
 
@@ -62,10 +63,10 @@ _A necessidade de representar estruturas complexas e a evolução para modelos b
 
 ## 🔗 Conexões e Conceitos Relacionados
 
-- [[Semântica Computacional]]
-- [Modelagem de Dados]
-- [Lógica de Primeira Ordem]
-- [Sistemas de Gerenciamento de Banco de Dados (SGBD)]
+- [[Semântica|Semântica Computacional]]
+- [[Modelagem de Dados]]
+- [[Lógica|Lógica de Primeira Ordem]]
+- [[Sistemas de Gerenciamento de Banco de Dados (SGBD)]]
 
 ---
 
