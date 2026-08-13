@@ -32,6 +32,7 @@ tags:
 _O cenário inicial onde analistas tinham poucas ferramentas e precisavam traduzir a realidade manualmente para modelos rígidos._
 
 - [02:22-03:35](https://www.youtube.com/watch?v=0f8I9YvciEw&t=142s) **O início nos anos 60:** a era dos fluxogramas manuais, bancos de dados hierárquicos e programação em Cobol.
+- [05:04](https://www.youtube.com/watch?v=0f8I9YvciEw&t=305#t=05:04.84) **Esquema Conceitual**: um único esquema conceitual (ANSI).
 - [06:42-08:18](https://www.youtube.com/watch?v=0f8I9YvciEw&t=402s) **O modelo hierárquico (ex: IMS/DB):** estrutura em árvore onde a navegação era explícita e qualquer mudança física exigia reprogramação das aplicações.
 
 ## 2. A Evolução: Modelo Relacional e Semântica
