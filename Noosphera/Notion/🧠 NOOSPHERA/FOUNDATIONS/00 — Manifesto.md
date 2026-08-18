@@ -39,6 +39,3 @@ O Noosphera não substitui tecnologias existentes porque não pertence ao mesmo 
 - Reinventar conceitos de arquiteturas distribuídas.
 
 O projeto não busca definir uma forma única de inteligência, oferecer uma estrutura conceitual capaz de preservar o significado e sua continuidade histórica no intercâmbio entre diferentes inteligências.
-
-
-![[Sem título.base]]
