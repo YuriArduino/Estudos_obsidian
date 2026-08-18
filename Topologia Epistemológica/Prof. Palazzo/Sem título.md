@@ -7,54 +7,230 @@ visto-em: 2026-08-13T13:43:00
 area: ""
 tags: []
 ---
+# Semiótica e Representação — Prof. Palazzo
 
-# {{title}}
+## Resumo
 
+O vídeo aborda o processo abstrato e filosófico de representação da realidade na Computação e nos Sistemas de Informação. O professor Palazzo demonstra como conceitos da Semiótica, desenvolvidos pela Filosofia e pela Lógica (como as divisões de Peirce e o Triângulo do Significado), são indispensáveis para mapear a transição entre o mundo real, a percepção mental, os símbolos linguísticos e a sua especificação formal em ontologias e código computacional.
 
-![Tema do video](LInk)
-> [!INFO] Resumo
->  > Breve descrição da tese central do vídeo. 
- 
-> [!NOTE] Definição Central 
-> > Espaço para o conceito principal abordado (ex: o "ser enquanto ser"). 
+  
 
-> [!QUOTE] Citação Importante > "A frase de impacto ou regra essencial do autor." — Nome do Autor ---
+## Definição Central
 
-## 1. [Tema Principal 1 - Ex: Definição e Conceitos Base] 
-*Descreva o contexto aqui e use os timestamps para apoiar os argumentos.* A quantidade de timestaps é meramente ilustrativa, use a quantidade necessária para capturar as ideias centrais
+**Semiótica:** Campo focado na investigação dos signos e símbolos, estudando a articulação de sinais verbais e não verbais e as relações de interpretação entre a nossa percepção, nosso modelo mental e a realidade representada.
 
-- [00:00](link do video) **Texto**
-- [00:00-00:00](link do vídeo)
-- [00:00-00:00](link do vídeo)
-## 2. [Tema Principal 2 - Ex: Evolução Histórica ou Aplicação] 
-*Agrupe os momentos do vídeo que falam sobre esse assunto.* 
+  
 
-- [00:00](link do vídeo)
+## Citação Importante
 
-## 3. [Tema Principal 3 - Ex: Ferramentas e Prática]
+> "Deve ser evitado toda a prolixidade e todo entrelaçamento sobre situações. Não vale o esforço... A representação da realidade deve ser mínima e clara para que valha o tempo de quem a interpreta." — Arthur Schopenhauer
+> 
+>   
 
-- [00:00](link do vídeo)
----
+### 1. Definição, Origens e as Três Divisões da Semiótica
+
+A semiótica investiga a forma como interpretamos símbolos e mapeamos a realidade. Suas bases teóricas foram construídas de forma independente pelo lógico/filósofo Charles Sanders Peirce e pelo linguista Ferdinand de Saussure (que cunhou o termo Semiologia). Peirce dividiu o estudo dos signos em três níveis essenciais para a modelagem de dados:
+
+  
+
+[00:00](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D0) Introdução ao mapeamento abstrato entre símbolos, percepção e modelos mentais de realidade.
+
+[00:22](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D22) Definição dicionarizada de Semiótica: articulação de signos verbais e não-verbais e sistemas de sinais.
+
+[00:57](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D57) Origens filosóficas da semiótica e sua apropriação para a modelagem conceitual (Peirce e Saussure).
+
+[01:47-02:05](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D107) **Sintaxe:** Estudo das relações dos signos entre si (ex: gramática de linguagens de programação).
+
+[02:26-02:47](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D146) **Semântica:** Relação dos signos com os objetos do mundo real. Exemplo: _"Os gatos são grandes escritores de romances policiais"_ possui sintaxe perfeita, mas semântica sem sentido.
+
+[02:57-03:46](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D177) **Pragmática:** Relação dos signos com os agentes que os utilizam. Analogia com protocolos de redes: comunicação eficaz exige intenções e entendimentos convergentes entre os agentes.
+    
+      
+    
+
+### 2. O Problema da Prolixidade, Simplificação e Ambiguidade Linguística
+
+A tentativa de simplificar linguagens para facilitar a comunicação gera trade-offs sérios entre facilidade de acesso e perda de riqueza semântica. Para evitar ambiguidades, a especificação de software precisa buscar o equilíbrio entre clareza e precisão conceitual.
+
+  
+
+- [04:02-04:52](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D242s) A recomendação de Schopenhauer sobre evitar prolixidade e manter representações objetivas para otimizar a interpretação humana e computacional.
+    
+      
+    
+- [05:13-05:54](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D313s) Exemplo do _Basic English_ (C. K. Ogden): o uso de um subconjunto reduzido de palavras para comunicação global reduz a capacidade de representar a realidade em profundidade.
+    
+      
+    
+- [06:16-06:50](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D376s) Exemplo do _Spanglish_ e traduções literais errôneas (ex: _"llamar de atrás"_ para _callback_), ilustrando como a simplificação descontextualizada destrói o significado original.
+    
+      
+    
+- [07:02-07:43](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D422s) Inglês e Português Estruturado: aplicação de restrições sintáticas em regras de negócio para remover ambiguidades da linguagem natural.
+    
+      
+    
+- [07:48-09:02](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D468s) A importância de compreender palavras dentro do seu contexto cultural/linguístico, evitando traduções palavra-por-palavra no processamento automático de dados.
+    
+      
+    
+
+### 3. A Complexidade Semântica, Múltiplos Signos e Ontologias Computacionais
+
+Mesmo objeto pode ser referenciado por signos distintos em contextos diferentes. A transição do desenvolvimento web sintático (XML) para a Web Semântica exige o uso de ontologias e linguagens formais de lógica para validar dados.
+
+  
+
+- [09:06-10:05](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D546s) O dilema da "Estrela Matutina" e "Estrela Vespertina": dois signos distintos para o mesmo objeto astronômico (Planeta Vênus) identificados em momentos discretos no tempo.
+    
+      
+    
+- [10:06-11:06](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D606s) XML fornece apenas uma sintaxe comum; resolver a compatibilidade semântica exige camadas superiores de conhecimento.
+    
+      
+    
+- [11:07-12:29](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D667s) Vocabulários padronizados de domínio (RDF) como alternativa para reutilização de significados em vez da criação desordenada de novos símbolos.
+    
+      
+    
+- [12:30-13:30](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D750s) A Pilha da Web Semântica (Semantic Web Stack): de XML e RDF até OWL (Ontologias) e Lógica de Inferência para garantir consistência dos modelos digitais.
+    
+      
+    
+- [13:31-15:27](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D811s) Exemplo prático de sentença RDF construída em triplas (Sujeito - Predicado - Objeto) e uso de URIs/namespaces para identificação unívoca.
+    
+      
+    
+
+### 4. Triângulo do Significado e Múltiplos Níveis de Representação
+
+A representação do mundo no computador não é direta: ela passa por camadas sucessivas de abstração mental e simbólica, unindo a Filosofia Clássica à Ciência da Computação.
+
+  
+
+- [15:28-16:38](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D928s) Definição de Símbolo em Peirce: o signo cria um _interpretante_ na mente de quem o percebe em relação a um objeto de referência.
+    
+      
+    
+- [16:39-18:10](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D999s) O Triângulo do Significado (Ogden & Richards, 1923): Relação triádica entre **Símbolo**, **Conceito/Pensamento** e **Objeto/Referente** (exemplo do gato _Yojo_ de Moby Dick).
+    
+      
+    
+- [18:11-19:49](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D1091s) Encadeamento de Triângulos (Aristóteles e Gottlob Frege): a palavra escrita é um símbolo da palavra falada, que por sua vez é um símbolo do conceito mental do objeto.
+    
+      
+    
+- [19:50-20:36](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D1190s) Mapeamento completo até a Computação: do objeto físico real ao nome pronunciado, à palavra grafada e à representação binária de caracteres no computador.
+    
+      
+    
+- [20:37-21:30](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D1237s) Conclusão do Prof. Palazzo: a necessidade urgente de integrar a Semiótica nos cursos de Sistemas de Informação para preparar profissionais capazes de fazer a transição da realidade para ontologias e código.
+    
+      
+    
 
 ## 🎯 Principais Pontos (Takeaways)
-*Quais foram os aprendizados mais importantes? O que pode ser aplicado na prática?*
 
-- 
-- 
-- 
-
----
+1. **A Sintaxe não resolve a Semântica:** Ter um código ou estrutura bem formada (como XML ou gramática correta) não garante que o modelo reflita a realidade ou faça sentido.
+    
+      
+    
+2. **Cuidado com Simplificações Excessivas:** Linguagens restritas (como _Basic English_) facilitam o aprendizado primário, mas sacrificam a expressividade necessária para domínios complexos.
+    
+      
+    
+3. **Triplas RDF como Pilar da Web Semântica:** A estrutura _Sujeito-Predicado-Objeto_ baseada em URIs permite criar pontes semânticas universais entre sistemas heterogêneos.
+    
+      
+    
+4. **Múltiplos Níveis de Abstração:** A conversão de um elemento do mundo real para o meio digital passa por: `Objeto Real` → `Modelo Mental` → `Signo Falado` → `Signo Escrito` → `Código Binário/Estrutura de Dados`.
+    
+      
+    
+5. **Revisão da Modelagem Conceitual:** Modelar banco de dados ou sistemas sem entender semiótica leva a sistemas rígidos, ambíguos ou desalinhados do contexto dos usuários (pragmática).
+    
+      
+    
 
 ## 🔗 Conexões e Conceitos Relacionados
-*Links para outras notas no Obsidian.*
 
-- 
-- 
-
----
+- [[Semiótica]]
+    
+      
+    
+- [[Modelagem Conceitual]]
+    
+      
+    
+- [[Sintaxe, Semântica e Pragmática]]
+    
+      
+    
+- [[Web Semântica]]
+    
+      
+    
+- [[RDF e Triplas]]
+    
+      
+    
+- [[Ontologias e OWL]]
+    
+      
+    
+- [[Triângulo do Significado]]
+    
+      
+    
+- [[Charles Sanders Peirce]]
+    
+      
+    
+- [[Ferdinand de Saussure]]
+    
+      
+    
+- [[Gottlob Frege]]
+    
+      
+    
+- [[Engenharia de Software e Modelagem de Dados]]
+    
+      
+    
 
 ## 📚 Referências Citadas no Vídeo
-*Livros, artigos, ferramentas, ou autores mencionados.*
 
-- 
--
+- **Charles Sanders Peirce** — Lógico e filósofo estadunidense, criador da semiótica triádica.
+    
+      
+    
+- **Ferdinand de Saussure** — Linguista suíço, fundador da semiologia e linguística moderna.
+    
+      
+    
+- **Arthur Schopenhauer** — Filosofia sobre prolixidade e clareza na representação de ideias.
+    
+      
+    
+- **C. K. Ogden & I. A. Richards** — Obras sobre _The Meaning of Meaning_ (1923) e a criação do _Basic English_.
+    
+      
+    
+- **Gottlob Frege** — Lógico e matemático alemão, precursor da lógica matemática moderna e estudos sobre sentido e referência.
+    
+      
+    
+- **Aristóteles** — Formulações clássicas sobre a linguagem escrita como representação da linguagem falada.
+    
+      
+    
+- **Herman Melville (_Moby Dick_)** — Mencionada a figura do gato preto "Yojo" para ilustrar o Triângulo do Significado.
+    
+      
+    
+- **André (1998)** — Citação sobre compartilhamento de vocabulários padronizados na web.
+    
+      
+    
+- **Padrões W3C (XML, RDF, OWL)** — Linguagens e estruturas formais para representação de conhecimento na Web Semântica.
