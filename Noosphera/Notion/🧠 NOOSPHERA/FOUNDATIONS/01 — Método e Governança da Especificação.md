@@ -8,7 +8,7 @@ Este documento estabelece as fronteiras do projeto Noosphera e dita os príncipi
 
 ---
 
-**1.** Salvaguarda de Escopo e Limites Ontológicos
+# **1.** Salvaguarda de Escopo e Limites Ontológicos
 
 Para preservar a coerência de interpretação, estabelece-se explicitamente o que o Noosphera não pretende ser:
 
