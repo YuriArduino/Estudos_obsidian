@@ -3,3 +3,9 @@
 .obsidian/appearance.json
 .obsidian/plugins/obsidian-git/
 
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
