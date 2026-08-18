@@ -95,7 +95,7 @@ Se uma alteração ocorre exclusivamente na Arquitetura:
 3. Atualizar Design.
 4. Atualizar Implementação.
 
-4. Princípio da Germinação Progressiva
+# **4.** Princípio da Germinação Progressiva
 
 A especificação do Noosphera desenvolve-se por sucessivas camadas de abstração. **Cada camada acrescenta exatamente um novo grau de determinação ao sistema** sem alterar os fundamentos estabelecidos pelas camadas precedentes.
 
@@ -116,7 +116,7 @@ ser → restringir → relacionar → acontecer → organizar → materializar
 
 Como consequência, nenhuma camada possui autoridade para reinterpretar, restringir ou modificar os fundamentos estabelecidos pelas camadas que a precedem; sua única responsabilidade é desenvolvê-los segundo seu próprio nível de abstração.
 
-**5. O Teste de Admissão Ontológica**
+# **5.** O Teste de Admissão Ontológica
 
 Toda proposta de introdução de uma nova entidade deve ser derivada de uma necessidade ontológica, jamais de uma decisão arquitetural, tecnológica ou de implementação. O objetivo deste procedimento é preservar a integridade da Ontologia, impedindo que conceitos derivados de casos de uso, tecnologias ou soluções de engenharia sejam promovidos indevidamente ao domínio conceitual.
 
