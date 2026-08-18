@@ -7,43 +7,46 @@ visto-em: 2026-08-13T13:43:00
 area: ""
 tags: []
 ---
-# Semiótica e Representação — Prof. Palazzo
+![Semiótica e Representação](https://www.youtube.com/watch?v=tBOzctrtuxo)
 
-## Resumo
 
-O vídeo aborda o processo abstrato e filosófico de representação da realidade na Computação e nos Sistemas de Informação. O professor Palazzo demonstra como conceitos da Semiótica, desenvolvidos pela Filosofia e pela Lógica (como as divisões de Peirce e o Triângulo do Significado), são indispensáveis para mapear a transição entre o mundo real, a percepção mental, os símbolos linguísticos e a sua especificação formal em ontologias e código computacional.
+---
 
-  
+ > [!INFO] Resumo
+> 
+>O vídeo aborda o processo abstrato e filosófico de representação da realidade na Computação e nos Sistemas de Informação. O professor Palazzo demonstra como conceitos da Semiótica, desenvolvidos pela Filosofia e pela Lógica (como as divisões de Peirce e o Triângulo do Significado), são indispensáveis para mapear a transição entre o mundo real, a percepção mental, os símbolos linguísticos e a sua especificação formal em ontologias e código computacional.
 
-## Definição Central
+  ---
 
-**Semiótica:** Campo focado na investigação dos signos e símbolos, estudando a articulação de sinais verbais e não verbais e as relações de interpretação entre a nossa percepção, nosso modelo mental e a realidade representada.
+> [!NOTE] Definição Central
+> 
+> **Semiótica:** Campo focado na investigação dos signos e símbolos, estudando a articulação de sinais verbais e não verbais e as relações de interpretação entre a nossa percepção, nosso modelo mental e a realidade representada.
 
-  
+---
 
-## Citação Importante
-
+> [!QUOTE] Citação Importante
+> 
 > "Deve ser evitado toda a prolixidade e todo entrelaçamento sobre situações. Não vale o esforço... A representação da realidade deve ser mínima e clara para que valha o tempo de quem a interpreta." — Arthur Schopenhauer
 > 
 >   
 
+---
 ### 1. Definição, Origens e as Três Divisões da Semiótica
 
 A semiótica investiga a forma como interpretamos símbolos e mapeamos a realidade. Suas bases teóricas foram construídas de forma independente pelo lógico/filósofo Charles Sanders Peirce e pelo linguista Ferdinand de Saussure (que cunhou o termo Semiologia). Peirce dividiu o estudo dos signos em três níveis essenciais para a modelagem de dados:
 
   
-
-[00:00](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D0) Introdução ao mapeamento abstrato entre símbolos, percepção e modelos mentais de realidade.
-
-[00:22](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D22) Definição dicionarizada de Semiótica: articulação de signos verbais e não-verbais e sistemas de sinais.
-
-[00:57](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D57) Origens filosóficas da semiótica e sua apropriação para a modelagem conceitual (Peirce e Saussure).
-
-[01:47-02:05](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D107) **Sintaxe:** Estudo das relações dos signos entre si (ex: gramática de linguagens de programação).
-
-[02:26-02:47](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D146) **Semântica:** Relação dos signos com os objetos do mundo real. Exemplo: _"Os gatos são grandes escritores de romances policiais"_ possui sintaxe perfeita, mas semântica sem sentido.
-
-[02:57-03:46](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%23t%3D177) **Pragmática:** Relação dos signos com os agentes que os utilizam. Analogia com protocolos de redes: comunicação eficaz exige intenções e entendimentos convergentes entre os agentes.
+- [00:00](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D0%23t%3D00:00.00) Introdução ao mapeamento abstrato entre símbolos, percepção e modelos mentais de realidade.
+    
+- [00:22](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D22%23t%3D00:22.00) Definição dicionarizada de Semiótica: articulação de signos verbais e não-verbais e sistemas de sinais.
+    
+- [00:57](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D57%23t%3D00:57.00) Origens filosóficas da semiótica e sua apropriação para a modelagem conceitual (Peirce e Saussure).
+    
+- [01:47-02:05](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D107%23t%3D01:47.00) **Sintaxe:** Estudo das relações dos signos entre si (ex: gramática de linguagens de programação).
+    
+- [02:26-02:47](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D146%23t%3D02:26.00) **Semântica:** Relação dos signos com os objetos do mundo real. Exemplo: _"Os gatos são grandes escritores de romances policiais"_ possui sintaxe perfeita, mas semântica sem sentido.
+    
+- [02:57-03:46](https://www.google.com/search?q=https://www.youtube.com/watch%3Fv%3DtBOzctrtuxo%26t%3D177%23t%3D02:57.00) **Pragmática:** Relação dos signos com os agentes que os utilizam. Analogia com protocolos de redes: comunicação eficaz exige intenções e entendimentos convergentes entre os agentes.
     
       
     

@@ -13,6 +13,9 @@ tags:
   - "#modelagem_conceitual"
 ---
 ![Ontologia](https://www.youtube.com/watch?v=hXkP1-6gEAo)
+
+
+
 > [!INFO] Resumo
 > 
 > > O vídeo detalha o uso de ontologias na Ciência da Computação, explorando como representar o conhecimento humano de forma rigorosa e processável automaticamente. O autor aborda desde a representação gráfica e formal do conhecimento até os processos de inferência lógica e os desafios práticos de integração e mapeamento entre diferentes ontologias.
