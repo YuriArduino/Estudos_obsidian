@@ -60,3 +60,4 @@
 "event_logs:milestones_modal:open": {"key":"milestones_modal:open","ct":3,"first_at":1787066728197,"last_at":1787081066385,"class_name":"EventLog","event_sources":{"native_notice_button":3}},
 "event_logs:connections:get_results": {"key":"connections:get_results","ct":4,"first_at":1787080636941,"last_at":1787081064271,"class_name":"EventLog"},
 "event_logs:connections:open_random": {"key":"connections:open_random","ct":1,"first_at":1787081064370,"last_at":1787081064370,"class_name":"EventLog","event_sources":{"menu:connections:list_menu:connections_list_open_random_connection":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":19,"first_at":1787066950875,"last_at":1787081153123,"class_name":"EventLog","event_sources":{"active-leaf-change":17,"open_source":2}},
