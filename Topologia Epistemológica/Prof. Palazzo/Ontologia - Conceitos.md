@@ -12,22 +12,28 @@ tags:
   - "#inteligencia_artificial"
   - "#modelagem_conceitual"
 ---
+---
 ![Ontologia](https://www.youtube.com/watch?v=hXkP1-6gEAo)
 
-
+---
 
 > [!INFO] Resumo
 > 
 > > O vídeo detalha o uso de ontologias na Ciência da Computação, explorando como representar o conhecimento humano de forma rigorosa e processável automaticamente. O autor aborda desde a representação gráfica e formal do conhecimento até os processos de inferência lógica e os desafios práticos de integração e mapeamento entre diferentes ontologias.
 
+----
+
 > [!NOTE] Definição Central
 > 
 > > Uma ontologia em computação é um modelo de dados que representa um conjunto de conceitos sobre um domínio e os relacionamentos entre eles, permitindo realizar inferências lógicas sobre objetos de forma rigorosa.
+
+------
 
 > [!QUOTE] Citação Importante
 > 
 > > "A ontologia é um catálogo do tipo de coisa que se supõe existir em um certo domínio... com o objetivo de descrever aquele domínio." — Prof. Palazzo
 
+----
 ## 1. Representação do Conhecimento e Estruturas Lógicas
 
 _O conhecimento humano é complexo; para ser processado por máquinas, precisa de estruturas formais e semânticas._
