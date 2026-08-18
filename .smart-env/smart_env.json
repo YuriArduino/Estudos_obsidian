@@ -20,9 +20,10 @@
     ".obsidian/workspace.json",
     ".obsidian/workspace-mobile.json",
     ".obsidian/appearance.json",
-    ".obsidian/plugins/obsidian-git/"
+    ".obsidian/plugins/obsidian-git/",
+    ".smart-env"
   ],
-  "gitignore_exclusions_updated_at": 1787066677503,
+  "gitignore_exclusions_updated_at": 1787082357081,
   "language": "en",
   "re_import_wait_time": 13,
   "smart_chat_threads": {
