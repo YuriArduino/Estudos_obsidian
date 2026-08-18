@@ -30,7 +30,7 @@ Nessa perspectiva:
 - **Componentes Arquiteturais:** existem exclusivamente para materializar relações autorizadas pelas camadas conceituais; não introduzem novos conceitos ao domínio.
 - **Implementação:** não possui autoridade para validar, alterar ou restringir a teoria descrita nesta especificação.
 
-**2. A Hierarquia Irredutível de Precedência**
+# **2.** A Hierarquia Irredutível de Precedência
 
 A especificação do Noosphera organiza-se em uma cadeia normativa de derivação unidirecional. Cada camada fundamenta a existência da camada subsequente, sendo vedado às camadas derivadas alterar, reinterpretar ou restringir os princípios estabelecidos por suas predecessoras.
 
@@ -56,7 +56,7 @@ A especificação do Noosphera organiza-se em uma cadeia normativa de derivaçã
 - **Princípio da Derivação:** Toda camada somente pode introduzir elementos que constituam consequência lógica das camadas precedentes.
 - **Regra da Não-Contradição:** Nenhuma camada posterior possui autoridade para criar, alterar, reinterpretar ou restringir os fundamentos estabelecidos por uma camada precedente.
 
-**3. Propagação Normativa**
+# **3.** Propagação Normativa
 
 A especificação do Noosphera constitui um sistema formal derivado. Toda alteração introduzida em uma camada propaga-se obrigatoriamente para todas as camadas que dela dependem. Nenhuma alteração pode ser introduzida em um documento sem que a cascata de dependências seja obrigatoriamente revalidada.
 
