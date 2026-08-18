@@ -4,8 +4,16 @@ media-link: https://www.youtube.com/watch?v=tBOzctrtuxo
 autor: Prof. Palazzo
 publicado-em: 2022-08-25
 visto-em: 2026-08-13T13:43:00
-area: ""
-tags: []
+area: Semiótica Computacional / Modelagem Conceitual
+tags:
+  - semiotica
+  - ontologia
+  - sistemas_de_informacao
+  - filosofia_da_linguagem
+  - representacao_do_conhecimento
+  - semantica
+  - pragmatica
+  - sintaxe
 ---
 ![Semiótica e Representação](https://www.youtube.com/watch?v=tBOzctrtuxo)
 
@@ -115,12 +123,13 @@ A representação do mundo no computador não é direta: ela passa por camadas s
 
 - [[Semiótica]]
 - [[Modelagem Conceitual]]
-- [[Sintaxe, Semântica e Pragmática]]
-- [[Semântica e Pragmática]]
-- - [[Sintaxe, Semântica e Pragmática]]
+- [[Sintaxe]]
+- [[Semântica]]
+- [[Pragmática]]
 - [[Web Semântica]]
 - [[RDF e Triplas]]
-- [[Ontologias e OWL]]
+- [[Ontologia]]
+- [[OWL]]
 - [[Triângulo do Significado]]
 - [[Charles Sanders Peirce]]
 - [[Ferdinand de Saussure]]
@@ -129,12 +138,12 @@ A representação do mundo no computador não é direta: ela passa por camadas s
 
 ## 📚 Referências Citadas no Vídeo
 
-- **Charles Sanders Peirce** — Lógico e filósofo estadunidense, criador da semiótica triádica.
-- **Ferdinand de Saussure** — Linguista suíço, fundador da semiologia e linguística moderna.
-- **Arthur Schopenhauer** — Filosofia sobre prolixidade e clareza na representação de ideias.
-- **C. K. Ogden & I. A. Richards** — Obras sobre _The Meaning of Meaning_ (1923) e a criação do _Basic English_.
-- **Gottlob Frege** — Lógico e matemático alemão, precursor da lógica matemática moderna e estudos sobre sentido e referência.
-- **Aristóteles** — Formulações clássicas sobre a linguagem escrita como representação da linguagem falada.
-- **Herman Melville (_Moby Dick_)** — Mencionada a figura do gato preto "Yojo" para ilustrar o Triângulo do Significado.
-- **André (1998)** — Citação sobre compartilhamento de vocabulários padronizados na web.
-- **Padrões W3C (XML, RDF, OWL)** — Linguagens e estruturas formais para representação de conhecimento na Web Semântica.
+- [[**Charles Sanders Peirce**]] — Lógico e filósofo estadunidense, criador da semiótica triádica.
+- [[**Ferdinand de Saussure**]] — Linguista suíço, fundador da semiologia e linguística moderna.
+- [[**Arthur Schopenhauer**]] — Filosofia sobre prolixidade e clareza na representação de ideias.
+- **[[C. K. Ogden]] & [[I. A. Richards]]** — Obras sobre _The Meaning of Meaning_ (1923) e a criação do _Basic English_.
+- [[**Gottlob Frege**]] — Lógico e matemático alemão, precursor da lógica matemática moderna e estudos sobre sentido e referência.
+- [[**Aristóteles**]] — Formulações clássicas sobre a linguagem escrita como representação da linguagem falada.
+- [[**Herman Melville]] (_Moby Dick_)** — Mencionada a figura do gato preto "Yojo" para ilustrar o Triângulo do Significado.
+- [[**André **]] (1998) — Citação sobre compartilhamento de vocabulários padronizados na web.
+- **Padrões [[W3C]] ([[XML]], [[RDF]], [[OWL]])** — Linguagens e estruturas formais para representação de conhecimento na Web Semântica.
