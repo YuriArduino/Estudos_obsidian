@@ -147,3 +147,11 @@ A representação do mundo no computador não é direta: ela passa por camadas s
 - **[[Herman Melville]]** (_Moby Dick_)** — Mencionada a figura do gato preto "Yojo" para ilustrar o Triângulo do Significado.
 - **[[André ]]** (1998) — Citação sobre compartilhamento de vocabulários padronizados na web.
 - **Padrões [[W3C]] ([[XML]], [[RDF]], [[OWL]])** — Linguagens e estruturas formais para representação de conhecimento na Web Semântica.
+
+
+---
+## 🔗 Pontes com a Filosofia da Mente
+Este conteúdo de Semiótica e modelagem de sistemas conecta-se diretamente com os seguintes debates filosóficos no meu cofre:
+- [[Teoria da Identidade de Tipos]]: Usa a distinção fregeana de Sentido e Referência (Estrela Matutina/Vespertina) para explicar a relação mente-cérebro.
+- [[Intencionalidade de Brentano]]: O Triângulo do Significado (Símbolo -> Conceito -> Objeto) é a base para o problema da representação mental e de dados.
+- [[Behaviorismo Logico]]: Uma tentativa de traduzir a semântica interna em regras pragmáticas e sintáticas de comportamento.
