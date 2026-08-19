@@ -38,7 +38,7 @@
 - **O Desafio Monista (Spinoza):** Monismo de Substância (Deus ou Natureza). Mente e corpo são apenas dois atributos diferentes da mesma e única substância substancial.
 	- *Nota Relacionada:* [[3.Paralelismo de Spinoza]]
 - **O Ocasionalismo (Malebranche):** Mente e corpo não interagem; Deus atua como o mediador que sincroniza os eventos físicos e mentais a cada "ocasião".
-	- *Nota Relacionada:* [[Ocasionalismo]]
+	- *Nota Relacionada:* [[2.Ocasionalismo de Malebranche]]
 
 ### 💡 Era 4: O Iluminismo e o Século das Luzes (1750 d.C. - 1800 d.C.)
 *Ataques ao conceito de substância mental imaterial.*
