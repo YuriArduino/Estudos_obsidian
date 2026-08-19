@@ -1,6 +1,6 @@
 ---
 type: video-note
-media-link: ""
+media-link: https://www.youtube.com/watch?v=TrYosPPCQAY
 autor: ""
 publicado-em: "{{date}} {{time}}"
 visto-em: ""
@@ -11,7 +11,9 @@ tags: []
 # {{title}}
 
 
-![Tema do video](LInk)
+![Teoria dos Tipos](https://www.youtube.com/watch?v=TrYosPPCQAY)
+
+
 > [!INFO] Resumo
 >  > Breve descrição da tese central do vídeo. 
  
