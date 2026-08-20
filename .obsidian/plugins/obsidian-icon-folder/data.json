@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTextSelect",
       "LiHistory",
       "LiBookOpen",
       "LiCamera",
-      "LiMap",
-      "LiAtom"
+      "LiMap"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -57,5 +57,6 @@
   "Desenvolvimento_Histórico": {
     "iconName": "LiHistory",
     "iconColor": "#f3f1f1"
-  }
+  },
+  "Legendas_transcricao": "LiTextSelect"
 }
