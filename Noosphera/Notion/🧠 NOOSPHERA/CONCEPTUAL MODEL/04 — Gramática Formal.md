@@ -1,4 +1,4 @@
----
+>---
 
 A Sintaxe do Sistema  
 "A Ontologia define o vocabulário. As Leis preservam sua coerência. A Gramática define as únicas formas válidas de composição desse vocabulário.”
