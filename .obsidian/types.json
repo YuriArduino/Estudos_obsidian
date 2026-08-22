@@ -11,6 +11,7 @@
     "data-revisão": "date",
     "data-publicação": "date",
     "autor": "multitext",
-    "nó-artigo": "text"
+    "nó-artigo": "text",
+    "status-leitura:": "checkbox"
   }
 }

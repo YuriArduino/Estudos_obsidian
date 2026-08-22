@@ -3,7 +3,7 @@ type: article-note
 autor: Stanford Encyclopedia of Philosophy
 publicado-em: 2020-09-07
 lido-em: 2026-08-22
-fonte: "[[Source - Identity Over Time]]"
+fonte: "[[1.Identity Over Time]]"
 area: Ontologia
 tags:
   - identidade
@@ -21,10 +21,12 @@ leis-noosphera:
 # Identity Over Time
 
 ## 📄 Resumo
-O artigo investiga o paradoxo ontológico de como um objeto pode persistir ao longo do tempo e sofrer mudanças, mantendo sua identidade numérica, apesar de perder sua identidade qualitativa.
+
+O artigo aborda o paradoxo central da identidade através da mudança: se um objeto realmente muda, como pode ser a mesma coisa antes e depois? A solução aristotélica (distinção entre propriedades essenciais e acidentais) é apresentada como a resposta clássica, mas o artigo mapeia todas as tentativas filosóficas de resolver esse problema (desde o Hilomorfismo até o Quatro-dimensionalismo).
 
 ## 🎯 Problema Central
-Como reconciliar a mudança no tempo com a "Lei de Leibniz" (A Indiscernibilidade dos Idênticos), que afirma que se *A* é idêntico a *B*, eles devem compartilhar absolutamente todas as propriedades? Se uma xícara perde a alça, a xícara do tempo T1 é a mesma do tempo T2?
+
+Como conciliar as duas afirmações aparentemente contraditórias: (1) Se algo muda, não pode ser literalmente a mesma coisa. (2) Se não é a mesma coisa, então nenhum objeto sofreu mudança real.
 
 > **Citação Importante:**
 > "Se um objeto realmente muda, então não pode haver literalmente uma e a mesma coisa antes e depois da mudança. (...) A identidade é totalmente simples e não problemática. Tudo é idêntico a si mesmo; nada nunca é idêntico a nada exceto a si mesmo."
@@ -38,6 +40,9 @@ Como reconciliar a mudança no tempo com a "Lei de Leibniz" (A Indiscernibilidad
 - **Identidade Sincrônica:** Identidade numérica em um único instante no tempo.
 - **Identidade Diacrônica:** Identidade numérica sustentada entre algo que existe no tempo T1 e algo no tempo T2.
 - **Lei de Leibniz:** Princípio ontológico que dita que a identidade implica indiscernibilidade qualitativa.
+- - **Mudança Acidental:** Alteração em propriedades não-essenciais. Ex: casa ser pintada. A identidade persiste.
+- **Mudança Essencial:** Alteração na "forma" da coisa. Ex: casa virar cinzas. A identidade é destruída.
+- **Hilomorfismo:** Objeto = Matéria (substrato físico) + Forma (estrutura que define o que a coisa é).
 
 ### 🏗️ Argumento
 A Lei de Leibniz parece entrar em conflito direto com o conceito de mudança. A mudança requer uma diferença qualitativa, mas a identidade exige que não haja diferença. A distinção entre identidade sincrônica e diacrônica é a primeira tentativa de resolver esse choque lógico.

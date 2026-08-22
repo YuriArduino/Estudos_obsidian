@@ -4,6 +4,7 @@ artigo-citado:
 area: ""
 entidades-noosphera: []
 leis-noosphera: []
+"status-leitura:": []📖 Lendo []✅ Sintetizado []🔗 Aplicado
 ---
 # {{title}}
 
