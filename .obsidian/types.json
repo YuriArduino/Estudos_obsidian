@@ -7,6 +7,10 @@
     "publicado-em": "date",
     "media-link": "text",
     "lido-em": "date",
-    "data-leitura": "date"
+    "data-leitura": "datetime",
+    "data-revisão": "date",
+    "data-publicação": "date",
+    "autor": "multitext",
+    "nó-artigo": "text"
   }
 }

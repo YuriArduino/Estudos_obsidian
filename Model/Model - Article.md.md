@@ -3,6 +3,8 @@ type: Artigo
 titulo: ""
 autor: ""
 fonte: ""
+data-publicação: ""
+data-revisão: ""
 data-leitura: ""
 tags: []
 entidades-noosphera: []

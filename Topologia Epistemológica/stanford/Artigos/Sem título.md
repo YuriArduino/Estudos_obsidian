@@ -1,13 +1,20 @@
-
 ---
-type: source-text
-titulo: ""
-autor: ""
-url: ""
-data-leitura: "{{date}}"
+type: Artigo
+titulo: Identity Over Time
+autor:
+  - Gallois, Andre
+  - Kurtsal, Irem
+fonte: https://plato.stanford.edu/entries/identity-time/
+data-publicação: ""
+data-revisão: ""
+data-leitura: ""
 tags: []
 entidades-noosphera: []
 ---
+
+
+
+
 # {{title}} (Source)
 
 ## 📌 Metadados e Sumário

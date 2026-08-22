@@ -1,7 +1,6 @@
 ---
 type: reflection-note
-fonte: ""
-area: ""
+artigo-citado:
 tags: []
 entidades-noosphera: []
 status: "em construção"

@@ -1,12 +1,7 @@
 ---
 type: article-note
-autor: ""
-publicado-em: ""
-revisado-em: ""
-lido-em: ""
-fonte: ""
+artigo-citado:
 area: ""
-tags: []
 entidades-noosphera: []
 leis-noosphera: []
 ---
