@@ -32,7 +32,7 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
-    "useInternalPlugins": false
+    "useInternalPlugins": true
   },
   "Noosphera": {
     "iconName": "LiAtom",
