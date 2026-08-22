@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaOvermind",
       "LiTextSelect",
       "LiHistory",
       "LiBookOpen",
-      "LiCamera",
-      "LiMap"
+      "LiCamera"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -58,5 +58,9 @@
     "iconName": "LiHistory",
     "iconColor": "#f3f1f1"
   },
-  "Legendas_transcricao": "LiTextSelect"
+  "Legendas_transcricao": "LiTextSelect",
+  "Topologia Epistemológica/stanford": {
+    "iconName": "RaOvermind",
+    "iconColor": "#da17e8"
+  }
 }
