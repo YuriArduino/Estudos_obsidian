@@ -7,7 +7,6 @@ data-publicação: ""
 data-revisão: ""
 data-leitura: ""
 tags: []
-entidades-noosphera: []
 ---
 
 
@@ -15,13 +14,8 @@ entidades-noosphera: []
 
 # {{title}} (Source)
 
-## 📌 Metadados e Sumário
-- **Autor / Fonte:** 
-- **Data de Publicação:** 
-- **Sumário / Tópicos Principais:**
-	- 1. 
-	- 2. 
-	- 3. 
+>[!INFO] Sumário / Tópicos Principais:
+>  > Introdução do Artigo
 
 ---
 
