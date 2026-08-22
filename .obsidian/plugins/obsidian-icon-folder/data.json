@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabaseSearch",
       "RaOvermind",
       "LiTextSelect",
       "LiHistory",
-      "LiBookOpen",
-      "LiCamera"
+      "LiBookOpen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,9 @@
   "Topologia Epistemológica/stanford": {
     "iconName": "RaOvermind",
     "iconColor": "#da17e8"
+  },
+  "Database": {
+    "iconName": "LiDatabaseSearch",
+    "iconColor": "#5553ea"
   }
 }
