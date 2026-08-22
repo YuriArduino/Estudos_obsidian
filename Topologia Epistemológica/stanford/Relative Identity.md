@@ -5,30 +5,30 @@ Identity is often said to be a relation each thing bears to itself and to no oth
 
 A word about notation. In what follows, lower-case italic letters “x”, “y”, etc., are used informally either as variables (bound or free) or as (place-holders for) individual constants. The context should make clear which usage is in play. Occasionally, for emphasis or in deference to logical tradition, other expressions for individual constants are employed. Also, the use/mention distinction is not strictly observed; but again the context should resolve any ambiguity.
 
-- [1. The Standard Account of Identity](https://plato.stanford.edu/entries/identity-relative/#StanAccoIden)
-- [2. Paradoxes of Identity](https://plato.stanford.edu/entries/identity-relative/#ParaIden)
-    - [2.1 The Paradox of Change](https://plato.stanford.edu/entries/identity-relative/#ParaChan)
-    - [2.2 Chrysippus’ Paradox](https://plato.stanford.edu/entries/identity-relative/#ChryPara)
-    - [2.3 The Paradox of 101 Dalmatians](https://plato.stanford.edu/entries/identity-relative/#Para101Dalm)
-    - [2.4 The Paradox of Constitution](https://plato.stanford.edu/entries/identity-relative/#ParaCons)
-    - [2.5 The Ship of Theseus Paradox](https://plato.stanford.edu/entries/identity-relative/#ShipThesPara)
-    - [2.6 Church’s Paradox](https://plato.stanford.edu/entries/identity-relative/#ChurPara)
-    - [2.7 The Theological Paradox](https://plato.stanford.edu/entries/identity-relative/#TheoPara)
-- [3. Relative Identity](https://plato.stanford.edu/entries/identity-relative/#RelaIden)
-- [4. The Paradoxes Reconsidered](https://plato.stanford.edu/entries/identity-relative/#ParaReco)
-    - [4.1 The Paradox of Change](https://plato.stanford.edu/entries/identity-relative/#ParaChan_1)
-    - [4.2 Chrysippus’ Paradox](https://plato.stanford.edu/entries/identity-relative/#ChryPara_1)
-    - [4.3 The Paradox of 101 Dalmatians](https://plato.stanford.edu/entries/identity-relative/#Para101Dalm_1)
-    - [4.4 The Paradox of Constitution](https://plato.stanford.edu/entries/identity-relative/#ParaCons_1)
-    - [4.5 The Ship of Theseus Paradox](https://plato.stanford.edu/entries/identity-relative/#ShipThesPara_1)
-    - [4.6 Church’s Paradox](https://plato.stanford.edu/entries/identity-relative/#ChurPara_1)
-    - [4.7 The Theological Paradox](https://plato.stanford.edu/entries/identity-relative/#TheoPara_1)
-- [5. Absolute Identity](https://plato.stanford.edu/entries/identity-relative/#AbsoIden)
-- [6. Objections and Replies](https://plato.stanford.edu/entries/identity-relative/#ObjeRepl)
-- [Bibliography](https://plato.stanford.edu/entries/identity-relative/#Bib)
-- [Academic Tools](https://plato.stanford.edu/entries/identity-relative/#Aca)
-- [Other Internet Resources](https://plato.stanford.edu/entries/identity-relative/#Oth)
-- [Related Entries](https://plato.stanford.edu/entries/identity-relative/#Rel)
+- [[#1. The Standard Account of Identity]]
+- [[#2. Paradoxes of Identity]]
+    - [[#2.1 The Paradox of Change]]
+    - [[#2.2 Chrysippus’ Paradox]]
+    - [[#2.3 The Paradox of 101 Dalmatians]]
+    - [[#2.4 The Paradox of Constitution]]
+    - [[#2.5 The Ship of Theseus Paradox]]
+    - [[#2.6 Church’s Paradox]]
+    - [[#2.7 The Theological Paradox]]
+- [[#3. Relative Identity]]
+- [[#4. The Paradoxes Reconsidered]]  
+    - [[#4.1 The Paradox of Change]]
+    - [[#4.2 Chrysippus’ Paradox]]
+    - [[#4.3 The Paradox of 101 Dalmatians]]
+    - [[#4.4 The Paradox of Constitution]]
+    - [[#4.5 The Ship of Theseus Paradox]]
+    - [[#4.6 Church’s Paradox]]
+    - [[#4.7 The Theological Paradox]]
+- [[#5. Absolute Identity]]
+- [[#6. Objections and Replies]]
+- [[#Bibliography]]
+- [[#Academic Tools]]
+- [[#Other Internet Resources]]
+- [[#Related Entries]]
 
 ---
 
