@@ -15,26 +15,26 @@ Of course, this solution to the puzzle depends on there being a coherent distinc
 - [[#1. Introduction]]
 - [[#2. Identity and Change]]
     - [[#2.1 Diachronic and Synchronic Identity]]
-    - [[#2.2 Identity as an Equivalence Relation]]]
-    - [[#2.3 Leibniz’s Law and the Possibility of Change The Problem of Temporary Intrinsics]]
+    - [[#2.2 Identity as an Equivalence Relation]]
+    - [[#2.3 Leibniz’s Law and the Possibility of Change: The Problem of Temporary Intrinsics]]
     - [[#2.4 Candidate Solutions]]
 - [[#3. Necessary and Determinate Identities]]
 - [[#4. Diachronic Identity Puzzles]]
     - [[#4.1 Constitution]]
-    - [4.2 Relative Identity](https://plato.stanford.edu/entries/identity-time/#RelIde)
-    - [4.3 Identity: ‘Strict’ and ‘Loose’](https://plato.stanford.edu/entries/identity-time/#IdeStrLoo)
-    - [4.4 Arbitrary Undetached Parts](https://plato.stanford.edu/entries/identity-time/#ArbUndPar)
-    - [4.5 Four Dimensionalism](https://plato.stanford.edu/entries/identity-time/#FouDim)
-    - [4.6 Temporary Identity](https://plato.stanford.edu/entries/identity-time/#TemIde)
-    - [4.7 Modal Plenitude](https://plato.stanford.edu/entries/identity-time/#ModPle)
-    - [4.8 Phasalism](https://plato.stanford.edu/entries/identity-time/#Pha)
-- [Bibliography](https://plato.stanford.edu/entries/identity-time/#Bib)
-    - [A. Identity and Change](https://plato.stanford.edu/entries/identity-time/#IdeCha_1)
-    - [B. Necessary and Determinate Identities](https://plato.stanford.edu/entries/identity-time/#BNecDetIde)
-    - [C. Diachronic Identity Puzzles](https://plato.stanford.edu/entries/identity-time/#CDiaIdePuz)
-- [Academic Tools](https://plato.stanford.edu/entries/identity-time/#Aca)
-- [Other Internet Resources](https://plato.stanford.edu/entries/identity-time/#Oth)
-- [[#rel]]
+    - [[#4.2 Relative Identity]]
+    - [[#4.3 Identity: ‘Strict’ and ‘Loose’]]
+    - [[#4.4 Arbitrary Undetached Parts]]
+    - [[#4.5 Four Dimensionalism]]
+    - [[#4.6 Temporary Identity]]
+    - [[#4.7 Modal Plenitude]]
+    - [[#4.8 Phasalism]]
+- [[#Bibliography]]
+    - [[#A. Identity and Change]]
+    - [[#B. Necessary and Determinate Identities]]
+    - [[#C. Diachronic Identity Puzzles]]
+- [[#Academic Tools]]
+- [[#Other Internet Resources]]
+- [[#Related Entries]]
 
 ---
 
@@ -288,15 +288,15 @@ Advocates of relative identity deny that there is a single identity relation (se
 
 One objection to relative identity is that it conflicts with Leibniz’s Law. Here is one way in which such conflict may be thought to arise. Consider the property version of Leibniz’s Law:
 
-(LL)∀x∀y[x=y→∀F(Fx→Fy)]
+(LL)                           $∀x∀y[x=y→∀F(Fx→Fy)]$
 
 The relation of identity mentioned in the antecedent of LL is unrelativised to a sortal. To make it acceptable to the relative identity theorist, let us amend LL to:
 
-(LLR)∀x∀y[∀F(x is the same F as y)→∀G(Gx→Gy)]
+(LLR)        $∀x∀y[∀F(x is the same F as y)→∀G(Gx→Gy)]$
 
-Suppose we replace ‘is the same F as y’ in LLR with ‘is the same lump of clay’, ‘x’ with ‘the earlier statue’, ‘y’ with ‘the later clay lump’, and instantiate the quantifier ∀G with ‘is the same statue as the earlier statue’. We then obtain:
+Suppose we replace ‘is the same F as y’ in LLR with ‘is the same lump of clay’, ‘x’ with ‘the earlier statue’, ‘y’ with ‘the later clay lump’, and instantiate the quantifier $∀G$ with ‘is the same statue as the earlier statue’. We then obtain:
 
-R: the earlier statue is the same lump of clay as the later clay lump → (the earlier statue is the same statue as the earlier statue → the earlier statue is the same statue as the later clay lump ).
+>	R: the earlier statue is the same lump of clay as the later clay lump → (the earlier statue is the same statue as the earlier statue → the earlier statue is the same statue as the later clay lump ).
 
 The trouble is that R is false. The earlier statue is the same lump of clay as the clay lump, and the earlier statue is the same statue as the earlier statue, but the earlier statue is not, contrary to LLR, the same statue as the later clay lump.
 
@@ -356,7 +356,7 @@ Despite this putative conflict with LL, some philosophers are prepared to defend
 
 In the Ship of Theseus case, a temporary identity theorist will hold that Replacement and Reassembly are identical at t1, but distinct ships at t2. This does not contradict the transitivity of identity, which, they accept in the following, modified, sense as the Transitivity of Temporary Identity (Gallois 1998, 70):
 
-(TTI)∀x∀y∀z[(At t:x=y& At t:y=z)→ At t:x=z].
+(TTI)∀x∀y∀z$[(At t:x=y& At t:y=z)→ At t:x=z].$
 
 According to the temporary identity theory, temporary identity is identity. Because of this, it should be a transitive relation. Ralf Bader argues that the temporary identity relation fails even this version of transitivity of identity. To see why, imagine two objects B and D, at t. Later at t′,B and D both undergo fission. Simultaneously as the fissions, a product of B’s fission and a product of D’s fission fuse. The outcome of these simultaneous fusion and fissions is that, at t′ there are three objects: A,C, and E.B has split into A and C,D has split into C and E. In this case, the following is true:
 
@@ -635,3 +635,20 @@ Korman has objected to phasalism by pointing out the following problem. Suppose 
 - Wiggins, D., 2001, _Sameness and Substance Renewed_, Cambridge: Cambridge University Press.
 - Wilson, R.A., 2009, “The Transitivity of Material Constitution,” _Noûs_, 43(2): 363–377.
 - Wright, S., 2010, “The Leibniz’s Law Problem (for Stage Theory),” _Metaphysica_, 11(2): 137–151.
+
+## Academic Tools
+
+> |   |   |
+> |---|---|
+> |![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)|[How to cite this entry](https://plato.stanford.edu/cgi-bin/encyclopedia/archinfo.cgi?entry=identity-time).|
+> |![sep man icon](https://plato.stanford.edu/symbols/sepman-icon.jpg)|[Preview the PDF version of this entry](https://leibniz.stanford.edu/friends/preview/identity-time/) at the [Friends of the SEP Society](https://leibniz.stanford.edu/friends/).|
+> |![inpho icon](https://plato.stanford.edu/symbols/inpho.png)|[Look up topics and thinkers related to this entry](https://www.inphoproject.org/entity?sep=identity-time&redirect=True) at the Internet Philosophy Ontology Project (InPhO).|
+> |![phil papers icon](https://plato.stanford.edu/symbols/pp.gif)|[Enhanced bibliography for this entry](https://philpapers.org/sep/identity-time/) at [PhilPapers](https://philpapers.org/), with links to its database.|
+
+## Other Internet Resources
+
+[Please contact the author with suggestions.]
+
+## Related Entries
+
+[change: and inconsistency](https://plato.stanford.edu/entries/change/) | [identity](https://plato.stanford.edu/entries/identity/) | [identity: of indiscernibles](https://plato.stanford.edu/entries/identity-indiscernible/) | [identity: relative](https://plato.stanford.edu/entries/identity-relative/) | [intrinsic vs. extrinsic properties](https://plato.stanford.edu/entries/intrinsic-extrinsic/) | [mereology](https://plato.stanford.edu/entries/mereology/) | [sortals](https://plato.stanford.edu/entries/sortals/) | [supervenience](https://plato.stanford.edu/entries/supervenience/) | [temporal parts](https://plato.stanford.edu/entries/temporal-parts/)
