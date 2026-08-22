@@ -1,4 +1,3 @@
-
 ---
 type: article-note
 autor: ""
@@ -8,6 +7,7 @@ lido-em: ""
 fonte: ""
 area: ""
 tags: []
+entidades-noosphera: []
 ---
 
 # {{title}}
