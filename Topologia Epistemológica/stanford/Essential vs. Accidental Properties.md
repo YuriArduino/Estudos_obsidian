@@ -21,22 +21,22 @@ The shift in the use of ‘essential’ has led to a somewhat orthogonal differe
 
 This article explores the modal essential/accidental property distinction, the whatness essential/accidental property distinction, as well as the relationships in which they are thought to stand to one another. §1 provides a detailed look at the modal essential/accidental property distinction while §2 provides a brief initial look at the whatness essential/accidental property distinction, postponing a fuller consideration until §§4–5—after §3’s discussion of the view that whatness essentiality is modal essentiality.
 
-- [1. The Modal Essential/Accidental Property Distinction]
-    - [1.1 Core and Existence-Conditioned Characterizations](https://plato.stanford.edu/entries/essential-accidental/#CoreExisCondChar)
-    - [1.2 Metaphysical Necessity/Possibility](https://plato.stanford.edu/entries/essential-accidental/#MetaNece)
-    - [1.3 Ways of Characterizing Modal Essentialism](https://plato.stanford.edu/entries/essential-accidental/#WaysCharModaEsse)
-    - [1.4 Some Prominent Modal Essentialist Claims](https://plato.stanford.edu/entries/essential-accidental/#SomePromModaEsseClai)
-    - [1.5 Suspicions About Modal Essentialism](https://plato.stanford.edu/entries/essential-accidental/#SuspAbouModaEsse)
-    - [1.6 Knowledge of _A Posteriori_ Modal Essentialist Claims](https://plato.stanford.edu/entries/essential-accidental/#KnowPostModaEsseClai)
-    - [1.7 Modal Essentialist Claims in Arguments for Nonidentities](https://plato.stanford.edu/entries/essential-accidental/#ModaEsseClaiArguForNoni)
-- [2. The Whatness Essential/Accidental Property Distinction](https://plato.stanford.edu/entries/essential-accidental/#WhatEssePropDist)
-- [3. Is Whatness Essentiality Coextensive With Modal Essentiality?](https://plato.stanford.edu/entries/essential-accidental/#WhatEsseCoexModaEsse)
-- [4. Proposals for Understanding Whatness Essentiality The main reactions to Fine’s objections to the modal](https://plato.stanford.edu/entries/essential-accidental/#PropForUndeWhatEsseMainReacFineObjeModa)
-- [5. Proposals for Understanding Modal Essentiality](https://plato.stanford.edu/entries/essential-accidental/#PropForUndeModaEsse)
-- [Bibliography](https://plato.stanford.edu/entries/essential-accidental/#Bib)
-- [Academic Tools](https://plato.stanford.edu/entries/essential-accidental/#Aca)
-- [Other Internet Resources](https://plato.stanford.edu/entries/essential-accidental/#Oth)
-- [Related Entries](https://plato.stanford.edu/entries/essential-accidental/#Rel)
+- [[#1. The Modal Essential/Accidental Property Distinction]]
+    - [[#1.1 Core and Existence-Conditioned Characterizations]]
+    - [[#1.2 Metaphysical Necessity/Possibility]]
+    - [[#1.3 Ways of Characterizing Modal Essentialism]]
+    - [[#1.4 Some Prominent Modal Essentialist Claims]]
+    - [[#1.5 Suspicions About Modal Essentialism]]
+    - [[#1.6 Knowledge of _A Posteriori_ Modal Essentialist Claims]]
+    - [[#1.7 Modal Essentialist Claims in Arguments for Nonidentities]]
+- [[#2. The Whatness Essential/Accidental Property Distinction]]
+- [[#3. Is Whatness Essentiality Coextensive With Modal Essentiality?]]
+- [[#4. Proposals for Understanding Whatness Essentiality]]
+- [[#5. Proposals for Understanding Modal Essentiality]]
+- [[#Bibliography]]
+- [[#Academic Tools]]
+- [[#Other Internet Resources]]
+- [[#Related Entries]]
 
 ---
 
