@@ -31,7 +31,20 @@
   "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
-  "propertyIcons": {},
+  "propertyIcons": {
+    "area": {
+      "icon": "lucide-rectangle-ellipsis"
+    },
+    "autor": {
+      "icon": "lucide-user-pen"
+    },
+    "media-link": {
+      "icon": "lucide-file-play"
+    },
+    "type": {
+      "icon": "lucide-file"
+    }
+  },
   "ribbonIcons": {},
   "fileRules": [],
   "folderRules": []
