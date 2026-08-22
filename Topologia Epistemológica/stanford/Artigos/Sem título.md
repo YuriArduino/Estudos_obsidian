@@ -1,16 +1,13 @@
+
 ---
-type: Artigo
+type: source-text
 titulo: ""
 autor: ""
-fonte: ""
-data-leitura: ""
+url: ""
+data-leitura: "{{date}}"
 tags: []
 entidades-noosphera: []
 ---
-
-
-
-
 # {{title}} (Source)
 
 ## 📌 Metadados e Sumário

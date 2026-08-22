@@ -5,6 +5,8 @@
     "tags": "tags",
     "visto-em": "datetime",
     "publicado-em": "date",
-    "media-link": "text"
+    "media-link": "text",
+    "lido-em": "date",
+    "data-leitura": "date"
   }
 }
