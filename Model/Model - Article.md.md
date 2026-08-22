@@ -7,8 +7,13 @@ data-publicação: ""
 data-revisão: ""
 data-leitura: ""
 tags: []
+status-leitura: "📖 Lendo"  # Opções: 📖 Lendo | ✅ Sintetizado | 🔗 Aplicado
 ---
-
+## ✅ Checklist de Progresso
+- [ ] 📖 Leitura inicial concluída
+- [ ] 🧠 Conceitos-âncora extraídos
+- [ ] ⚖️ Validação ontológica aplicada
+- [ ] 🔗 Conexões com o código feitas
 
 >[!INFO] Resumo / Tópicos Principais:
 >  > Introdução do Artigo
