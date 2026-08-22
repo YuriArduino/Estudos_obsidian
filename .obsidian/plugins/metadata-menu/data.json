@@ -1,12 +1,31 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "type": "Select",
+      "tagName": "select",
+      "icon": "right-triangle",
+      "tooltip": "Accepts a single value from a list",
+      "colorClass": "select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "1": "📖 Lendo",
+          "2": "✅ Sintetizado",
+          "3": "🔗 Aplicado"
+        }
+      },
+      "name": "status-leitura",
+      "id": "Y3srr8",
+      "path": ""
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
-  "classFilesPath": null,
+  "classFilesPath": "Model/",
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.0",
+  "settingsVersion": "5.1",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
