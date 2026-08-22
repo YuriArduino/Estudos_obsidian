@@ -10,12 +10,13 @@ tags: []
 ---
 
 
-
-
-# {{title}} (Source)
-
->[!INFO] Sumário / Tópicos Principais:
+>[!INFO] Resumo / Tópicos Principais:
 >  > Introdução do Artigo
+
+---
+# Sumário
+
+
 
 ---
 
