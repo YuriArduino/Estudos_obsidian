@@ -6,7 +6,6 @@
   "advanced-canvas",
   "code-emitter",
   "dataview",
-  "obsidian-style-settings",
   "media-extended",
   "pdf-plus",
   "smart-connections",
@@ -16,7 +15,5 @@
   "smart-chatgpt",
   "smart-templates",
   "iconic",
-  "metadata-menu",
-  "font-size",
-  "obsidian-minimal-settings"
+  "metadata-menu"
 ]
