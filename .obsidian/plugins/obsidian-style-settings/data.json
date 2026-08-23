@@ -3,5 +3,12 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-lavender",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-flamingo",
-  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true
+  "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
+  "soft-paper-dark-settings@@sp-compact-all": false,
+  "soft-paper-dark-settings@@sp-compact-bases": false,
+  "soft-paper-dark-settings@@sp-hide-add-property": true,
+  "soft-paper-dark-settings@@sp-hide-scrollbars": true,
+  "soft-paper-dark-settings@@sp-status-bar-blue": false,
+  "soft-paper-dark-settings@@sp-settings-transparent-80": false,
+  "soft-paper-dark-settings@@sp-rainbow-folders": true
 }
