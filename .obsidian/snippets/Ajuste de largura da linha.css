@@ -17,11 +17,23 @@ body {
     text-align: justify !important;
 }
 
-/* Adiciona um recuo (indentação) na primeira linha de cada parágrafo */
-.markdown-source-view.mod-cm6 .cm-line:not(.cm-active), 
+/* Adiciona o recuo apenas em parágrafos comuns, ignorando os títulos */
+.markdown-source-view.mod-cm6 .cm-line:not(.cm-active):not(.HyperMD-header), 
 .markdown-rendered p {
     text-indent: 2em !important;
 }
+
+/* Garante que os títulos fiquem perfeitamente alinhados à esquerda */
+.markdown-source-view.mod-cm6 .HyperMD-header,
+.markdown-rendered h1, 
+.markdown-rendered h2, 
+.markdown-rendered h3, 
+.markdown-rendered h4, 
+.markdown-rendered h5, 
+.markdown-rendered h6 {
+    text-indent: 0 !important;
+}
+
 
 /* Remove a indentação de listas e blocos de código para não quebrar o visual */
 .markdown-rendered li p, 
