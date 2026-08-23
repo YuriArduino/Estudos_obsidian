@@ -2,15 +2,1548 @@
   "folder": "fonts",
   "roles": {
     "text": null,
-    "interface": null,
+    "interface": "Roboto",
     "monospace": null,
-    "headings": null,
+    "headings": "feather",
     "emoji": null
   },
   "hardOverride": false,
   "cache": {
     "version": 2,
     "folder": "fonts",
-    "faces": []
+    "faces": [
+      {
+        "path": "fonts/1Roboto-Black.ttf",
+        "format": "ttf",
+        "size": 164936,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 900,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/1Roboto-Thin.ttf",
+        "format": "ttf",
+        "size": 122512,
+        "mtime": 1322579554000,
+        "family": "Roboto",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCode-Bold.ttf",
+        "format": "ttf",
+        "size": 319368,
+        "mtime": 1759383937412,
+        "family": "Fira Code",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCode-Light.ttf",
+        "format": "ttf",
+        "size": 288380,
+        "mtime": 1759383937413,
+        "family": "Fira Code",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCode-Medium.ttf",
+        "format": "ttf",
+        "size": 283684,
+        "mtime": 1759383937413,
+        "family": "Fira Code",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCode-Regular.ttf",
+        "format": "ttf",
+        "size": 289624,
+        "mtime": 1759383937413,
+        "family": "Fira Code",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCode-Retina.ttf",
+        "format": "ttf",
+        "size": 285428,
+        "mtime": 1759383937414,
+        "family": "Fira Code",
+        "weight": 450,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCode-SemiBold.ttf",
+        "format": "ttf",
+        "size": 304248,
+        "mtime": 1759383937414,
+        "family": "Fira Code",
+        "weight": 600,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Michroma.ttf",
+        "format": "ttf",
+        "size": 64940,
+        "mtime": 1390890284000,
+        "family": "Michroma",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": "Copyright (c) 2011, vernon adams (<vern@newtypography.co.uk>),\nwith Reserved Font Name Michroma.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttp://scripts.sil.org/OFL\n\n\n-----------------------------------------------------------\nSIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\n-----------------------------------------------------------\n\nPREAMBLE\nThe goals of the Open Font License (OFL) are to stimulate worldwide\ndevelopment of collaborative font projects, to support the font creation\nefforts of academic and linguistic communities, and to provide a free and\nopen framework in which fonts may be shared and improved in partnership\nwith others.\n\nThe OFL allows the licensed fonts to be used, studied, modified and\nredistributed freely as long as they are not sold by themselves. The\nfonts, including any derivative works, can be bundled, embedded, \nredistributed and/or sold with any software provided that any reserved\nnames are not used by derivative works. The fonts and derivatives,\nhowever, cannot be released under any other type of license. The\nrequirement for fonts to remain under this license does not apply\nto any document created using the fonts or their derivatives.\n\nDEFINITIONS\n\"Font Software\" refers to the set of files released by the Copyright\nHolder(s) under this license and clearly marked as such. This may\ninclude source files, build scripts and documentation.\n\n\"Reserved Font Name\" refers to any names specified as such after the\ncopyright statement(s).\n\n\"Original Version\" refers to the collection of Font Software components as\ndistributed by the Copyright Holder(s).\n\n\"Modified Version\" refers to any derivative made by adding to, deleting,\nor substituting -- in part or in whole -- any of the components of the\nOriginal Version, by changing formats or by porting the Font Software to a\nnew environment.\n\n\"Author\" refers to any designer, engineer, programmer, technical\nwriter or other person who contributed to the Font Software.\n\nPERMISSION & CONDITIONS\nPermission is hereby granted, free of charge, to any person obtaining\na copy of the Font Software, to use, study, copy, merge, embed, modify,\nredistribute, and sell modified and unmodified copies of the Font\nSoftware, subject to the following conditions:\n\n1) Neither the Font Software nor any of its individual components,\nin Original or Modified Versions, may be sold by itself.\n\n2) Original or Modified Versions of the Font Software may be bundled,\nredistributed and/or sold with any software, provided that each copy\ncontains the above copyright notice and this license. These can be\nincluded either as stand-alone text files, human-readable headers or\nin the appropriate machine-readable metadata fields within text or\nbinary files as long as those fields can be easily viewed by the user.\n\n3) No Modified Version of the Font Software may use the Reserved Font\nName(s) unless explicit written permission is granted by the corresponding\nCopyright Holder. This restriction only applies to the primary font name as\npresented to the users.\n\n4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\nSoftware shall not be used to promote, endorse or advertise any\nModified Version, except to acknowledge the contribution(s) of the\nCopyright Holder(s) and the Author(s) or with their explicit written\npermission.\n\n5) The Font Software, modified or unmodified, in part or in whole,\nmust be distributed entirely under this license, and must not be\ndistributed under any other license. The requirement for fonts to\nremain under this license does not apply to any document created\nusing the Font Software.\n\nTERMINATION\nThis license becomes null and void if any of the above conditions are\nnot met.\n\nDISCLAIMER\nTHE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND,\nEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\nMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\nOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\nCOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\nINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\nDAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\nFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\nOTHER DEALINGS IN THE FONT SOFTWARE.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Orbitron-VariableFont_wght.ttf",
+        "format": "ttf",
+        "size": 38548,
+        "mtime": 1757030914000,
+        "family": "Orbitron",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin"
+        ],
+        "axes": [
+          {
+            "tag": "wght",
+            "min": 400,
+            "default": 400,
+            "max": 900
+          }
+        ],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Black.ttf",
+        "format": "ttf",
+        "size": 164936,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 900,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-BlackItalic.ttf",
+        "format": "ttf",
+        "size": 166320,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 900,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Bold.ttf",
+        "format": "ttf",
+        "size": 163448,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-BoldCondensed.ttf",
+        "format": "ttf",
+        "size": 161308,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-BoldCondensedItalic.ttf",
+        "format": "ttf",
+        "size": 163584,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-BoldItalic.ttf",
+        "format": "ttf",
+        "size": 165864,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Condensed.ttf",
+        "format": "ttf",
+        "size": 158284,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-CondensedItalic.ttf",
+        "format": "ttf",
+        "size": 161792,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Italic.ttf",
+        "format": "ttf",
+        "size": 160736,
+        "mtime": 1322579816000,
+        "family": "Roboto",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Light.ttf",
+        "format": "ttf",
+        "size": 162636,
+        "mtime": 1322579818000,
+        "family": "Roboto",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-LightItalic.ttf",
+        "format": "ttf",
+        "size": 163248,
+        "mtime": 1322579818000,
+        "family": "Roboto",
+        "weight": 300,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Medium.ttf",
+        "format": "ttf",
+        "size": 160696,
+        "mtime": 1322579818000,
+        "family": "Roboto",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-MediumItalic.ttf",
+        "format": "ttf",
+        "size": 163940,
+        "mtime": 1322579818000,
+        "family": "Roboto",
+        "weight": 500,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Regular.ttf",
+        "format": "ttf",
+        "size": 158604,
+        "mtime": 1322579818000,
+        "family": "Roboto",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-Thin.ttf",
+        "format": "ttf",
+        "size": 122512,
+        "mtime": 1322579554000,
+        "family": "Roboto",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Roboto-ThinItalic.ttf",
+        "format": "ttf",
+        "size": 125884,
+        "mtime": 1322579550000,
+        "family": "Roboto",
+        "weight": 100,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/feather.ttf",
+        "format": "ttf",
+        "size": 81512,
+        "mtime": 1772854331000,
+        "family": "feather",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/Abel/Abel-Regular.ttf",
+        "format": "ttf",
+        "size": 35220,
+        "mtime": 1775338634209,
+        "family": "Abel",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFont-Bold.ttf",
+        "format": "ttf",
+        "size": 2672432,
+        "mtime": 1775339308959,
+        "family": "FiraCode Nerd Font",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFont-Light.ttf",
+        "format": "ttf",
+        "size": 2641408,
+        "mtime": 1775339308960,
+        "family": "FiraCode Nerd Font",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFont-Medium.ttf",
+        "format": "ttf",
+        "size": 2636736,
+        "mtime": 1775339308961,
+        "family": "FiraCode Nerd Font",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFont-Regular.ttf",
+        "format": "ttf",
+        "size": 2642616,
+        "mtime": 1775339308974,
+        "family": "FiraCode Nerd Font",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFont-Retina.ttf",
+        "format": "ttf",
+        "size": 2638472,
+        "mtime": 1775339308975,
+        "family": "FiraCode Nerd Font",
+        "weight": 450,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFont-SemiBold.ttf",
+        "format": "ttf",
+        "size": 2657272,
+        "mtime": 1775339308976,
+        "family": "FiraCode Nerd Font",
+        "weight": 600,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontMono-Bold.ttf",
+        "format": "ttf",
+        "size": 2677400,
+        "mtime": 1775339308962,
+        "family": "FiraCode Nerd Font Mono",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontMono-Light.ttf",
+        "format": "ttf",
+        "size": 2646620,
+        "mtime": 1775339308963,
+        "family": "FiraCode Nerd Font Mono",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontMono-Medium.ttf",
+        "format": "ttf",
+        "size": 2641764,
+        "mtime": 1775339308964,
+        "family": "FiraCode Nerd Font Mono",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontMono-Regular.ttf",
+        "format": "ttf",
+        "size": 2647492,
+        "mtime": 1775339308965,
+        "family": "FiraCode Nerd Font Mono",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontMono-Retina.ttf",
+        "format": "ttf",
+        "size": 2643500,
+        "mtime": 1775339308966,
+        "family": "FiraCode Nerd Font Mono",
+        "weight": 450,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontMono-SemiBold.ttf",
+        "format": "ttf",
+        "size": 2662304,
+        "mtime": 1775339308967,
+        "family": "FiraCode Nerd Font Mono",
+        "weight": 600,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontPropo-Bold.ttf",
+        "format": "ttf",
+        "size": 2686036,
+        "mtime": 1775339308968,
+        "family": "FiraCode Nerd Font Propo",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontPropo-Light.ttf",
+        "format": "ttf",
+        "size": 2655032,
+        "mtime": 1775339308969,
+        "family": "FiraCode Nerd Font Propo",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontPropo-Medium.ttf",
+        "format": "ttf",
+        "size": 2650356,
+        "mtime": 1775339308970,
+        "family": "FiraCode Nerd Font Propo",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontPropo-Regular.ttf",
+        "format": "ttf",
+        "size": 2656220,
+        "mtime": 1775339308971,
+        "family": "FiraCode Nerd Font Propo",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontPropo-Retina.ttf",
+        "format": "ttf",
+        "size": 2652092,
+        "mtime": 1775339308972,
+        "family": "FiraCode Nerd Font Propo",
+        "weight": 450,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraCodeNerd/FiraCodeNerdFontPropo-SemiBold.ttf",
+        "format": "ttf",
+        "size": 2670896,
+        "mtime": 1775339308973,
+        "family": "FiraCode Nerd Font Propo",
+        "weight": 600,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Bold.ttf",
+        "format": "ttf",
+        "size": 438028,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-BoldItalic.ttf",
+        "format": "ttf",
+        "size": 447536,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Book.ttf",
+        "format": "ttf",
+        "size": 404400,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-BookItalic.ttf",
+        "format": "ttf",
+        "size": 412324,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Eight.ttf",
+        "format": "ttf",
+        "size": 389804,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-EightItalic.ttf",
+        "format": "ttf",
+        "size": 398736,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-ExtraBold.ttf",
+        "format": "ttf",
+        "size": 446680,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 800,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-ExtraBoldItalic.ttf",
+        "format": "ttf",
+        "size": 456844,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 800,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-ExtraLight.ttf",
+        "format": "ttf",
+        "size": 394544,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 200,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-ExtraLightItalic.ttf",
+        "format": "ttf",
+        "size": 402596,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 200,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Four.ttf",
+        "format": "ttf",
+        "size": 384504,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-FourItalic.ttf",
+        "format": "ttf",
+        "size": 399104,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Hair.ttf",
+        "format": "ttf",
+        "size": 400196,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-HairItalic.ttf",
+        "format": "ttf",
+        "size": 410704,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Heavy.ttf",
+        "format": "ttf",
+        "size": 458684,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 900,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-HeavyItalic.ttf",
+        "format": "ttf",
+        "size": 467704,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 900,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Italic.ttf",
+        "format": "ttf",
+        "size": 411640,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Light.ttf",
+        "format": "ttf",
+        "size": 397116,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-LightItalic.ttf",
+        "format": "ttf",
+        "size": 404244,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 300,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Medium.ttf",
+        "format": "ttf",
+        "size": 404728,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-MediumItalic.ttf",
+        "format": "ttf",
+        "size": 413096,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 500,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Regular.ttf",
+        "format": "ttf",
+        "size": 403924,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-SemiBold.ttf",
+        "format": "ttf",
+        "size": 437824,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 600,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-SemiBoldItalic.ttf",
+        "format": "ttf",
+        "size": 446524,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 600,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Thin.ttf",
+        "format": "ttf",
+        "size": 395964,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-ThinItalic.ttf",
+        "format": "ttf",
+        "size": 402844,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Two.ttf",
+        "format": "ttf",
+        "size": 382148,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-TwoItalic.ttf",
+        "format": "ttf",
+        "size": 392156,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 100,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-Ultra.ttf",
+        "format": "ttf",
+        "size": 485356,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 950,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-UltraItalic.ttf",
+        "format": "ttf",
+        "size": 497216,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 950,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-UltraLight.ttf",
+        "format": "ttf",
+        "size": 393952,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 200,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/FiraSans/FiraSans-UltraLightItalic.ttf",
+        "format": "ttf",
+        "size": 402308,
+        "mtime": 1557509817000,
+        "family": "Fira Sans",
+        "weight": 200,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      }
+    ]
   }
 }
