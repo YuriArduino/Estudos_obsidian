@@ -1,7 +1,7 @@
 {
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
-  "showAllFileIcons": false,
+  "showAllFileIcons": true,
   "showAllFolderIcons": false,
   "minimalFolderIcons": true,
   "showMarkdownTabIcons": true,
@@ -23,7 +23,7 @@
   "maxBackups": 2,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
@@ -31,7 +31,20 @@
   "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
-  "propertyIcons": {},
+  "propertyIcons": {
+    "area": {
+      "icon": "lucide-rectangle-ellipsis"
+    },
+    "autor": {
+      "icon": "lucide-user-pen"
+    },
+    "media-link": {
+      "icon": "lucide-file-play"
+    },
+    "type": {
+      "icon": "lucide-file"
+    }
+  },
   "ribbonIcons": {},
   "fileRules": [],
   "folderRules": []
