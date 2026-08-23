@@ -1,0 +1,31 @@
+/* Este seletor força a largura em quase todos os temas */
+body {
+    --file-line-width: 850px !important; /* Ajuste este valor como preferir */
+}
+
+/* Força a aplicação no Editor e no Modo de Leitura */
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-content,
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-line,
+.markdown-rendered.is-readable-line-width {
+    max-width: var(--file-line-width) !important;
+    margin: 0 auto !important;
+}
+
+/* Justifica o texto tanto no modo de edição quanto no modo de leitura */
+.markdown-source-view.mod-cm6 .cm-content, 
+.markdown-rendered p {
+    text-align: justify !important;
+}
+
+/* Adiciona um recuo (indentação) na primeira linha de cada parágrafo */
+.markdown-source-view.mod-cm6 .cm-line:not(.cm-active), 
+.markdown-rendered p {
+    text-indent: 2em !important;
+}
+
+/* Remove a indentação de listas e blocos de código para não quebrar o visual */
+.markdown-rendered li p, 
+.markdown-rendered blockquote p {
+    text-indent: 0 !important;
+}
+
