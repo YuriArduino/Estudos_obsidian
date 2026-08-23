@@ -3,5 +3,11 @@
   "promptDelete": false,
   "userIgnoreFilters": [
     "Model/"
-  ]
+  ],
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "readableLineLength": true,
+  "showIndentGuide": true,
+  "rightToLeft": false
 }
