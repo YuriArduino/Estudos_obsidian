@@ -373,13 +373,13 @@ p is a qualitative property iff p is a property, and p can be expressed by 
 
 (18)
 
-The initial occurrence of ‘Some’ in ┌[Some v|Fv]Gv┐ quantifies only over parts of x iff, for any set Π of names of all the parts of x, the property expressed by F necessitates the property expressed by ┌λv⋁{┌v≤a┐∣a∈Π}┐.
+The initial occurrence of ‘Some’ in $┌[Some v|Fv]Gv┐$ quantifies only over parts of x iff, for any set Π of names of all the parts of x, the property expressed by F necessitates the property expressed by $┌λv⋁{┌v≤a┐∣a∈Π}┐$.
 
-For example, according to this account, if d has exactly three proper parts (which are a, b and c), then ‘some’ in ‘[Some v∣Fv](Gv)’ quantifies only over parts of d iff the property of being F necessitates the property of being part of either a, b, c or d (that is, iff, necessarily, any thing that is F is part of either a, b, c or d). More generally, this account endorses (19).
+For example, according to this account, if d has exactly three proper parts (which are a, b and c), then ‘some’ in $‘[Some v∣Fv](Gv)’$ quantifies only over parts of d iff the property of being F necessitates the property of being part of either a, b, c or d (that is, iff, necessarily, any thing that is F is part of either a, b, c or d). More generally, this account endorses (19).
 
 (19)
 
-For any formulas ϕ and ψ, the initial occurrence of ‘Some’ in ┌[Some v∣ϕ]ψ┐ quantifies only over parts of x iff, for any set Π of names of all the parts of x, under any assignment g to the free variables in ϕ that are not v, the property expressed by ┌λvϕ┐ necessitates the property expressed by┌λv(⋁{┌v≤u┐∣u is a free variable in ϕ that is not v}∨⋁{┌v≤a┐∣a∈Π}┐.
+For any formulas ϕ and ψ, the initial occurrence of ‘Some’ in $┌[Some  v∣ϕ]ψ┐$ quantifies only over parts of x iff, for any set $Π$ of names of all the parts of x, under any assignment g to the free variables in $ϕ$ that are not v, the property expressed by $┌λvϕ┐$ necessitates the property expressed by $┌λv(⋁{┌v≤u┐$ $∣u$ is a free variable in $ϕ$ that is not $v}∨⋁{┌v≤a┐∣a∈Π}┐$.
 
 Given the simplifying assumption that ‘some’ is the only perfectly natural quantifier expression, (3), (17), (Q) and (19) provide the complete account of what it is for a property to be intrinsic according to perfect naturalness account 2.
 
