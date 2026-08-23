@@ -1,8 +1,8 @@
 {
   "folder": "fonts",
   "roles": {
-    "text": null,
-    "interface": "Roboto",
+    "text": "Bookerly",
+    "interface": "FiraCode Nerd Font Propo",
     "monospace": null,
     "headings": "feather",
     "emoji": null
@@ -1542,6 +1542,981 @@
         ],
         "axes": [],
         "license": "Licensed under the Open Font License, version 1.1 or later",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/atkinson-hyperlegible/AtkinsonHyperlegibleBold102.ttf",
+        "format": "ttf",
+        "size": 43756,
+        "mtime": 1644048054000,
+        "family": "Atkinson Hyperlegible",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": "Braille Institute of America, Inc. provides Atkinson Hyperlegible for use, without derivatives or alteration, to the public free of charge for all non-commercial and commercial work. No attribution required.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/atkinson-hyperlegible/AtkinsonHyperlegibleBoldItalic102.ttf",
+        "format": "ttf",
+        "size": 44664,
+        "mtime": 1644048054000,
+        "family": "Atkinson Hyperlegible",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": "Braille Institute of America, Inc. provides Atkinson Hyperlegible for use, without derivatives or alteration, to the public free of charge for all non-commercial and commercial work. No attribution required.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/atkinson-hyperlegible/AtkinsonHyperlegibleItalic102.ttf",
+        "format": "ttf",
+        "size": 43540,
+        "mtime": 1644048054000,
+        "family": "Atkinson Hyperlegible",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": "Braille Institute of America, Inc. provides Atkinson Hyperlegible for use, without derivatives or alteration, to the public free of charge for all non-commercial and commercial work. No attribution required.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/atkinson-hyperlegible/AtkinsonHyperlegibleRegular102.ttf",
+        "format": "ttf",
+        "size": 42596,
+        "mtime": 1644048054000,
+        "family": "Atkinson Hyperlegible",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": "Braille Institute of America, Inc. provides Atkinson Hyperlegible for use, without derivatives or alteration, to the public free of charge for all non-commercial and commercial work. No attribution required.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Bold Italic.ttf",
+        "format": "ttf",
+        "size": 451448,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Bold.ttf",
+        "format": "ttf",
+        "size": 446684,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Display Bold Italic.ttf",
+        "format": "ttf",
+        "size": 115544,
+        "mtime": 1644048056000,
+        "family": "Bookerly Display",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Display Bold.ttf",
+        "format": "ttf",
+        "size": 106368,
+        "mtime": 1644048056000,
+        "family": "Bookerly Display",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Display Italic.ttf",
+        "format": "ttf",
+        "size": 115980,
+        "mtime": 1644048056000,
+        "family": "Bookerly Display",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Display.ttf",
+        "format": "ttf",
+        "size": 105268,
+        "mtime": 1644048056000,
+        "family": "Bookerly Display",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Italic.ttf",
+        "format": "ttf",
+        "size": 452208,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly LCD Italic.ttf",
+        "format": "ttf",
+        "size": 314588,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly LCD Light Italic.ttf",
+        "format": "ttf",
+        "size": 131104,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 300,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Light Italic.ttf",
+        "format": "ttf",
+        "size": 131104,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 300,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly Light.ttf",
+        "format": "ttf",
+        "size": 128284,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/bookerly/Bookerly.ttf",
+        "format": "ttf",
+        "size": 450048,
+        "mtime": 1644048056000,
+        "family": "Bookerly",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/charter-itc-tt/charter-itc-tt-587bd77031c7e.ttf",
+        "format": "ttf",
+        "size": 66602,
+        "mtime": 1644048036000,
+        "family": "Charter ITC TT",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/charter-itc-tt/charter-itc-tt-italic-587bd78ad37ea.ttf",
+        "format": "ttf",
+        "size": 68429,
+        "mtime": 1644048036000,
+        "family": "Charter ITC TT",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/charter-itc-tt/charter-sc-itc-tt-587bd7e5e3f51.ttf",
+        "format": "ttf",
+        "size": 67605,
+        "mtime": 1644048036000,
+        "family": "Charter SC ITC TT",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "greek"
+        ],
+        "axes": [],
+        "license": null,
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/georgia-2/georgia.ttf",
+        "format": "ttf",
+        "size": 219712,
+        "mtime": 1644048040000,
+        "family": "Georgia",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/georgia-2/georgiab.ttf",
+        "format": "ttf",
+        "size": 207476,
+        "mtime": 1644048040000,
+        "family": "Georgia",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/georgia-2/georgiai.ttf",
+        "format": "ttf",
+        "size": 208444,
+        "mtime": 1644048040000,
+        "family": "Georgia",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/georgia-2/georgiaz.ttf",
+        "format": "ttf",
+        "size": 211780,
+        "mtime": 1644048040000,
+        "family": "Georgia",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "Microsoft supplied font. You may use this font to create, display, and print content as permitted by the license terms or terms of use, of the Microsoft product, service, or content in which this font was included. You may only (i) embed this font in content as permitted by the embedding restrictions included in this font; and (ii) temporarily download this font to a printer or other output device to help print content. Any other use is prohibited.",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-Black.otf",
+        "format": "otf",
+        "size": 227788,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 900,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-BlackItalic.otf",
+        "format": "otf",
+        "size": 236664,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 900,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-Bold.otf",
+        "format": "otf",
+        "size": 232056,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-BoldItalic.otf",
+        "format": "otf",
+        "size": 240756,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-ExtraBold.otf",
+        "format": "otf",
+        "size": 232716,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 800,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-ExtraBoldItalic.otf",
+        "format": "otf",
+        "size": 241052,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 800,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-ExtraLight-BETA.otf",
+        "format": "otf",
+        "size": 232848,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 200,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-ExtraLightItalic-BETA.otf",
+        "format": "otf",
+        "size": 241632,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 200,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-Italic.otf",
+        "format": "otf",
+        "size": 235808,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-Light-BETA.otf",
+        "format": "otf",
+        "size": 231672,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 300,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-LightItalic-BETA.otf",
+        "format": "otf",
+        "size": 240296,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 300,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-Medium.otf",
+        "format": "otf",
+        "size": 230788,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-MediumItalic.otf",
+        "format": "otf",
+        "size": 240248,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 500,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-Regular.otf",
+        "format": "otf",
+        "size": 223164,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-SemiBold.otf",
+        "format": "otf",
+        "size": 231416,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 600,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-SemiBoldItalic.otf",
+        "format": "otf",
+        "size": 240564,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 600,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-Thin-BETA.otf",
+        "format": "otf",
+        "size": 233700,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 100,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/inter/Inter-ThinItalic-BETA.otf",
+        "format": "otf",
+        "size": 241720,
+        "mtime": 1644048040000,
+        "family": "Inter",
+        "weight": 100,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese",
+          "emoji"
+        ],
+        "axes": [],
+        "license": "OFL 1.1 (SIL Open Font License, Version 1.1)",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-Bold.ttf",
+        "format": "ttf",
+        "size": 207832,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 700,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-BoldItalic.ttf",
+        "format": "ttf",
+        "size": 202468,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 700,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-Italic.ttf",
+        "format": "ttf",
+        "size": 200268,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-Medium.ttf",
+        "format": "ttf",
+        "size": 213444,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 500,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-MediumItalic.ttf",
+        "format": "ttf",
+        "size": 204472,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 500,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-Regular.ttf",
+        "format": "ttf",
+        "size": 213104,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-SemiBold.ttf",
+        "format": "ttf",
+        "size": 213300,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 600,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/literata/Literata-SemiBoldItalic.ttf",
+        "format": "ttf",
+        "size": 204440,
+        "mtime": 1644048040000,
+        "family": "Literata",
+        "weight": 600,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/open-sans/OpenSans-Regular.ttf",
+        "format": "ttf",
+        "size": 217360,
+        "mtime": 1644048036000,
+        "family": "Open Sans",
+        "weight": 400,
+        "italic": false,
+        "colorFormats": [],
+        "scripts": [
+          "latin",
+          "cyrillic",
+          "greek",
+          "vietnamese"
+        ],
+        "axes": [],
+        "license": "Licensed under the Apache License, Version 2.0",
+        "source": "name-table"
+      },
+      {
+        "path": "fonts/verdana/VERDANAI.TTF",
+        "format": "ttf",
+        "size": 57012,
+        "mtime": 1644048042000,
+        "family": "Verdana",
+        "weight": 400,
+        "italic": true,
+        "colorFormats": [],
+        "scripts": [
+          "latin"
+        ],
+        "axes": [],
+        "license": null,
         "source": "name-table"
       }
     ]
