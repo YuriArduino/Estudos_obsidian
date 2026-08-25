@@ -694,3 +694,4 @@
 "event_logs:items:embedded": {"key":"items:embedded","ct":580,"first_at":1787066709201,"last_at":1787682703056,"class_name":"EventLog","event_sources":{"process_embed_queue":580}},
 "event_logs:embedding:completed": {"key":"embedding:completed","ct":329,"first_at":1787066709201,"last_at":1787682703056,"class_name":"EventLog","event_sources":{"process_embed_queue":329}},
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":304,"first_at":1787067077049,"last_at":1787682703056,"class_name":"EventLog","event_sources":{"run_re_import":304}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":591,"first_at":1787066950875,"last_at":1787684648551,"class_name":"EventLog","event_sources":{"active-leaf-change":588,"open_source":3}},
