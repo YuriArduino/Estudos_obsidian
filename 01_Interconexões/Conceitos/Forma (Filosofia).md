@@ -9,7 +9,7 @@ oposto_dialetico:
   - "[[Matéria (Filosofia)]]"
 implementado_em: 
   - "[[KnowledgeObject]]"
-  - "[[Lei II]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 
 # Forma (Filosofia)
@@ -19,8 +19,8 @@ implementado_em:
 * **Matriz de Origem:** Aristóteles (*Metafísica*, Livro VII) — o conceito central do Hilomorfismo.
 
 ## 2. Tensão e Dialética (Forças Opostas)
-* **Comportamento em Excesso:** Tratar a Forma como algo separado da matéria (como Platão) leva ao **Idealismo** — onde a identidade é puramente abstrata e desconectada da realidade física, tornando o sistema inaplicável a dados concretos.
-* **Comportamento em Falta:** Tratar a Forma como inexistente (Materialismo Radical) leva à impossibilidade de distinguir uma coisa de outra — tudo é apenas matéria, e a identidade se perde.
+* **Comportamento em Excesso:** Tratar a Forma como algo separado da matéria (como Platão) leva ao **[[Idealismo]]** — onde a identidade é puramente abstrata e desconectada da realidade física, tornando o sistema inaplicável a dados concretos.
+* **Comportamento em Falta:** Tratar a Forma como inexistente ([[Materialismo Radical]]) leva à impossibilidade de distinguir uma coisa de outra — tudo é apenas matéria, e a identidade se perde.
 * **Força Oposta (Antítese):** A **Matéria (Filosofia)** — o substrato indeterminado que a Forma organiza.
 
 ## 3. Tradução para a Arquitetura do Noösphera
