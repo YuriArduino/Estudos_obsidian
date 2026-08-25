@@ -3,9 +3,12 @@ tipo: conceito
 tags_principais: [ontologia, metafisica, validacao]
 status: "sintetizado"
 areas_conceituais: ["Metafísica", "Teoria dos Tipos"]
-autores_associados: [[Aristóteles]]
-oposto_dialetico: ["Essencial vs Acidental"]
-implementado_em: [[Lei IV]]
+autores_associados: 
+  - "[[Aristóteles]]"
+oposto_dialetico:
+  - "Essencial vs Acidental"
+implementado_em: 
+  - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 
 # Propriedades Essenciais e Acidentais

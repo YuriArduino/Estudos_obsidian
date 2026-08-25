@@ -3,9 +3,15 @@ tipo: conceito
 tags_principais: [logica, ontologia, dialetica]
 status: "sintetizado"
 areas_conceituais: ["Lógica", "Filosofia do Tempo"]
-autores_associados: [[Aristóteles]], [[Heráclito]], [[Parmênides]]
-oposto_dialetico: ["Estase Absoluta", "Fluxo Absoluto"]
-implementado_em: [[Lei IV]]
+autores_associados: 
+  - "[[Aristóteles]]"
+  - "[[Heráclito]]"
+  - "[[Parmênides]]"
+oposto_dialetico:
+  - "Estase Absoluta"
+  - "Fluxo Absoluto"
+implementado_em: 
+  - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 
 # Paradoxo da Mudança

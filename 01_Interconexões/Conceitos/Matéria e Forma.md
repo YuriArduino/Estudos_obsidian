@@ -3,9 +3,13 @@ tipo: conceito
 tags_principais: [ontologia, estrutura, dados]
 status: "sintetizado"
 areas_conceituais: ["Ontologia", "Filosofia da Linguagem"]
-autores_associados: [[Aristóteles]]
-oposto_dialetico: ["Forma vs Matéria"]
-implementado_em: [[KnowledgeObject]], [[Representation]]
+autores_associados: 
+  - "[[Aristóteles]]"
+oposto_dialetico:
+  - "Forma vs Matéria"
+implementado_em: 
+  - "[[KnowledgeObject]]"
+  - "[[Representation]]"
 ---
 
 # Matéria e Forma
