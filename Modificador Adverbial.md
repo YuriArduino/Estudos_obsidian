@@ -7,11 +7,11 @@ autores_associados:
   - "[[Mark Johnston ]]"
   - "[[Sally Haslanger]]"
 oposto_dialetico:
-  - "Operador Sentencial"
-  - "Visão Relacional"
+  - "[[Operador Sentencial]]"
+  - "[[Visão Relacional]]"
 implementado_em: 
   - "[[Representation]]"
-  - "[[Lei II]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 
 # Modificador Adverbial
