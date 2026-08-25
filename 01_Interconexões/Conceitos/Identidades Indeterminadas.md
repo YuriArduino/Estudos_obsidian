@@ -9,8 +9,8 @@ autores_associados:
 oposto_dialetico:
   - "[[Identidade Determinada]]"
 implementado_em: 
-  - "[[Lei II]]"
-  - "[[Lei IV]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
+  - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 
 # Identidades Indeterminadas
