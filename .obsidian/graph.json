@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -11,27 +11,34 @@
       "query": "path:Noosphera  ",
       "color": {
         "a": 1,
-        "rgb": 6970582
+        "rgb": 16059062
       }
     },
     {
       "query": "path:\"Topologia Epistemológica/stanford\"  ",
       "color": {
         "a": 1,
-        "rgb": 9040137
+        "rgb": 15811337
+      }
+    },
+    {
+      "query": "path:\"Topologia Epistemológica/Prof. Palazzo\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1183718
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 0.536981876906514,
-  "lineSizeMultiplier": 1.46545846043424,
+  "nodeSizeMultiplier": 2.33132157789493,
+  "lineSizeMultiplier": 1.47620432648609,
   "collapse-forces": true,
   "centerStrength": 0.473891979185358,
   "repelStrength": 16.9164238037041,
   "linkStrength": 0.772474430288893,
   "linkDistance": 154,
-  "scale": 0.6757621765136719,
+  "scale": 0.0889892578125,
   "close": false
 }
