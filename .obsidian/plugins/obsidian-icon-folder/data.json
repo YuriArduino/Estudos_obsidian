@@ -71,10 +71,6 @@
     "iconColor": "#e40707"
   },
   "00_Assets/Legendas_transcricao": "LiTextSelect",
-  "Noosphera/🧠 Main.md": {
-    "iconName": "CoMainComponent",
-    "iconColor": "#3db37c"
-  },
   "01_Interconexões": {
     "iconName": "LiLink",
     "iconColor": "#c6eb0f"

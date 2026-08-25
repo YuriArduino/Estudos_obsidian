@@ -7,7 +7,7 @@
     "notion-api": {
       "folder": "Noosphera",
       "attachments": {
-        "mode": "vault",
+        "mode": "note",
         "path": ""
       },
       "duplicates": "update",

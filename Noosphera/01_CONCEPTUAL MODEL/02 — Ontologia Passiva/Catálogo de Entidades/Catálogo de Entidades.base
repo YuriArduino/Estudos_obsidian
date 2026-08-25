@@ -1,0 +1,35 @@
+filters:
+  and:
+    - note["base"] == link("Catálogo de Entidades.base")
+properties:
+  file.name:
+    displayName: Entidades
+  Definição Ontológica:
+    displayName: Definição Ontológica
+  Continente Ontológico:
+    displayName: Continente Ontológico
+  Gramática (como Sujeito):
+    displayName: Gramática (como Sujeito)
+  Natureza Ontológica:
+    displayName: Natureza Ontológica
+  Regimento:
+    displayName: Regimento
+  Materialização na Arquitetura:
+    displayName: Materialização na Arquitetura
+  Gramática (como Objeto):
+    displayName: Gramática (como Objeto)
+  Materialização na arquitetura:
+    displayName: Materialização na arquitetura
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Definição Ontológica
+      - Continente Ontológico
+      - Gramática (como Sujeito)
+      - Natureza Ontológica
+      - Regimento
+      - Materialização na Arquitetura
+      - Gramática (como Objeto)
+      - Materialização na arquitetura

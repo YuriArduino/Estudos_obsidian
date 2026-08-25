@@ -1,0 +1,34 @@
+# Componentes que materializam construções gramaticais
+
+filters:
+  and:
+    - note["base"] == link("Componentes que materializam construções gramaticais.base")
+formulas:
+  Verbos Materializados: note["Materializa"].map(value.asFile().properties["Predicado (Verbo / ObjectProperty)"])
+properties:
+  file.name:
+    displayName: Componente Arquitetural
+  Contrato e esquemas:
+    displayName: Contrato e esquemas
+  Função Arquitetural:
+    displayName: Função Arquitetural
+  Materializa:
+    displayName: Materializa
+  Agnóstico de Domínio?:
+    displayName: Agnóstico de Domínio?
+  Responsabilide:
+    displayName: Responsabilide
+  Catálogo de Entidades:
+    displayName: Catálogo de Entidades
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Contrato e esquemas
+      - Função Arquitetural
+      - Materializa
+      - Agnóstico de Domínio?
+      - Responsabilide
+      - Catálogo de Entidades
+      - formula.Verbos Materializados

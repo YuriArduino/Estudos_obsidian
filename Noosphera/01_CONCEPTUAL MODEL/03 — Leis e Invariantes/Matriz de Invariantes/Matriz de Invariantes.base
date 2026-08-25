@@ -1,0 +1,28 @@
+# Matriz de Invariantes
+
+filters:
+  and:
+    - note["base"] == link("Matriz de Invariantes.base")
+formulas:
+  Rollup: note["Propagação"].map(value.asFile().properties["Continente Ontológico"])
+properties:
+  file.name:
+    displayName: Lei / Invariante
+  Gramática:
+    displayName: Gramática
+  Categoria:
+    displayName: Categoria
+  Descrição e Restrição:
+    displayName: Descrição e Restrição
+  Propagação:
+    displayName: Propagação
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Gramática
+      - Categoria
+      - Descrição e Restrição
+      - Propagação
+      - formula.Rollup

@@ -1,0 +1,38 @@
+# Contratos de Materialização Arquitetural
+
+filters:
+  and:
+    - note["base"] == link("Contratos de Materialização Arquitetural.base")
+formulas:
+  Função: note["Atende qual Componente?"].map(value.asFile().properties["Função Arquitetural"])
+  Rollup 3: note["Materializa"].map(value.asFile().properties["Predicado (Verbo / ObjectProperty)"])
+  Responsabilidade: note["Atende qual Componente?"].map(value.asFile().properties["Responsabilide"])
+properties:
+  file.name:
+    displayName: Padrão / Contrato
+  Atende qual Componente?:
+    displayName: Atende qual Componente?
+  Diretriz de Comportamento no Design:
+    displayName: Diretriz de Comportamento no Design
+  Materializa:
+    displayName: Materializa
+  Proibição Arquitetural Absoluta (O que o verbo NÃO é):
+    displayName: Proibição Arquitetural Absoluta (O que o verbo NÃO é)
+  Contrato de Fronteira Acionado:
+    displayName: Contrato de Fronteira Acionado
+  Tipo de Artefato:
+    displayName: Tipo de Artefato
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Atende qual Componente?
+      - Diretriz de Comportamento no Design
+      - Materializa
+      - Proibição Arquitetural Absoluta (O que o verbo NÃO é)
+      - Contrato de Fronteira Acionado
+      - Tipo de Artefato
+      - formula.Função
+      - formula.Rollup 3
+      - formula.Responsabilidade

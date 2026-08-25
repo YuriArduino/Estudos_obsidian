@@ -1,0 +1,31 @@
+# Componentes de sustentação arquitetural
+
+filters:
+  and:
+    - note["base"] == link("Componentes de sustentação arquitetural.base")
+properties:
+  file.name:
+    displayName: Name
+  Objeto de Sustentação:
+    displayName: Objeto de Sustentação
+  Contrato e esquemas:
+    displayName: Contrato e esquemas
+  Catálogo de Entidades:
+    displayName: Catálogo de Entidades
+  Função Arquitetural:
+    displayName: Função Arquitetural
+  Responsabilide:
+    displayName: Responsabilide
+  Agnóstico de Domínio?:
+    displayName: Agnóstico de Domínio?
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Objeto de Sustentação
+      - Contrato e esquemas
+      - Catálogo de Entidades
+      - Função Arquitetural
+      - Responsabilide
+      - Agnóstico de Domínio?

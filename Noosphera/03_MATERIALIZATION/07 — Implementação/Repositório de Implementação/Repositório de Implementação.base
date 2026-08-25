@@ -1,0 +1,17 @@
+filters:
+  and:
+    - note["base"] == link("Repositório de Implementação.base")
+properties:
+  file.name:
+    displayName: Tecnologia Concreta
+  Implementa qual Contrato?:
+    displayName: Implementa qual Contrato?
+  Papel na Infraestrutura:
+    displayName: Papel na Infraestrutura
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Implementa qual Contrato?
+      - Papel na Infraestrutura

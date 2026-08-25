@@ -1,0 +1,39 @@
+# Grafo de Relações (Gramática)
+
+filters:
+  and:
+    - note["base"] == link("Grafo de Relações (Gramática).base")
+formulas:
+  Continente Substantivo: note["Sujeito (Domain / Origem)"].map(value.asFile().properties["Continente Ontológico"])
+  Continente Objeto: note["Objeto (Range / Destino)"].map(value.asFile().properties["Continente Ontológico"])
+properties:
+  file.name:
+    displayName: Frase / Tripla
+  Objeto (Range / Destino):
+    displayName: Objeto (Range / Destino)
+  Sujeito (Domain / Origem):
+    displayName: Sujeito (Domain / Origem)
+  Materializa a Gramática:
+    displayName: Materializa a Gramática
+  Morfologia:
+    displayName: Morfologia
+  Matriz de Invariantes:
+    displayName: Matriz de Invariantes
+  Contratos de Materialização Arquitetural:
+    displayName: Contratos de Materialização Arquitetural
+  Predicado (Verbo / ObjectProperty):
+    displayName: Predicado (Verbo / ObjectProperty)
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Objeto (Range / Destino)
+      - Sujeito (Domain / Origem)
+      - Materializa a Gramática
+      - Morfologia
+      - Matriz de Invariantes
+      - Contratos de Materialização Arquitetural
+      - Predicado (Verbo / ObjectProperty)
+      - formula.Continente Substantivo
+      - formula.Continente Objeto

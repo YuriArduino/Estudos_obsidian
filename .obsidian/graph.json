@@ -1,12 +1,27 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Noosphera  ",
+      "color": {
+        "a": 1,
+        "rgb": 6970582
+      }
+    },
+    {
+      "query": "path:\"Topologia Epistemológica/stanford\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9040137
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
@@ -17,6 +32,6 @@
   "repelStrength": 16.9164238037041,
   "linkStrength": 0.772474430288893,
   "linkDistance": 154,
-  "scale": 0.3003387451171875,
-  "close": true
+  "scale": 0.6757621765136719,
+  "close": false
 }
