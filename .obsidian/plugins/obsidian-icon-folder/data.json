@@ -50,7 +50,6 @@
     "iconName": "LiHistory",
     "iconColor": "#f3f1f1"
   },
-  "Legendas_transcricao": "LiTextSelect",
   "Topologia Epistemológica/stanford": {
     "iconName": "RaOvermind",
     "iconColor": "#da17e8"
@@ -70,5 +69,6 @@
   "00_Assets/fonts": {
     "iconName": "CoFont",
     "iconColor": "#e40707"
-  }
+  },
+  "00_Assets/Legendas_transcricao": "LiTextSelect"
 }

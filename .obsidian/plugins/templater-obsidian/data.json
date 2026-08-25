@@ -1,7 +1,7 @@
 {
   "data_version": 2,
   "command_timeout": 5,
-  "templates_folder": "Model",
+  "templates_folder": "00_Assets/Model",
   "templates_pairs": [],
   "trigger_on_file_creation_mode": "none",
   "auto_jump_to_cursor": false,
