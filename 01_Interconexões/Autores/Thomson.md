@@ -11,7 +11,7 @@ influenciou:
   - "[[Kit Fine]]"
   - "[[Thomas Sattig ]]"
 foi_criticado_por: 
-  - "[[Harold ]]"
+  - "[[Harold Noonan]]"
   - "[[Ernest Sosa]]"
 impacta_noosphera: 
   - "[[KnowledgeObject]]"
