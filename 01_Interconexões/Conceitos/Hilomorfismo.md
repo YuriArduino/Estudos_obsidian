@@ -3,9 +3,12 @@ tipo: conceito
 tags_principais: [ontologia, metafisica, estrutura]
 status: "sintetizado"
 areas_conceituais: ["Ontologia", "Filosofia da Mente"]
-autores_associados: [[Aristóteles]]
-oposto_dialetico: ["Materialismo Reducionista"]
-implementado_em: [[KnowledgeObject]]
+autores_associados: 
+- "[[Aristóteles]]"
+oposto_dialetico:
+ - "[[Materialismo Reducionista]]"
+implementado_em: 
+- "[[KnowledgeObject]]"
 ---
 
 # Hilomorfismo
