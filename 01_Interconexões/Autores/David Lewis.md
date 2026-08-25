@@ -11,15 +11,15 @@ principais_conceitos:
   - "[[Realismo Modal]]"
   - "[[Teoria dos Correspondentes]]"
 influenciou: 
-  - "[[Sider (Theodore)]]"
-  - "[[Hawley (Katherine)]]"
+  - "[[ Theodore Sider]]"
+  - "[[Katherine Hawley ]]"
 foi_criticado_por: 
-  - "[[Jackson (Frank)]]"
-  - "[[Chisholm (Roderick)]]"
+  - "[[Frank Jackson]]"
+  - "[[Roderick Chisholm]]"
 impacta_noosphera: 
   - "[[Domínio Permanente]]"
   - "[[Observation]]"
-  - "[[Lei II]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 
 # David Lewis

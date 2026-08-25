@@ -11,10 +11,10 @@ principais_conceitos:
   - "[[Identidade Relativa]]"
   - "[[Conceitos Sortais]]"
 influenciou:
-  - "[[Griffin (David)]]"
+  - "[[David Griffin]]"
 foi_criticado_por:
-  - "[[Kripke (Saul)]]"
-  - "[[Lewis (David)]]"
+  - "[[Saul Kripke]]"
+  - "[[David Lewis]]"
 impacta_noosphera:
   - "[[KnowledgeObject]]"
   - "[[04 — Gramática Formal]]"

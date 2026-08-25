@@ -7,7 +7,7 @@ status: "sintetizado"
 principais_conceitos: 
   - "[[Coincidência]]"
 influenciou: 
-  - "[[Gallois (Andre)]]"
+  - "[[Andre Gallois]]"
 foi_criticado_por: []
 impacta_noosphera: 
   - "[[KnowledgeObject]]"

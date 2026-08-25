@@ -10,8 +10,8 @@ principais_conceitos:
   - "[[Jogos de Linguagem]]"
 influenciou: 
   - "[[Quine]]"
-  - "[[Geach (Peter)]]"
-  - "[[Kripke (Saul)]]"
+  - "[[Peter Geach]]"
+  - "[[Saul Kripke]]"
 foi_criticado_por: 
   - "[[Russell (Bertrand)]]"
 impacta_noosphera: 
