@@ -33,3 +33,10 @@ views:
       - Materialização na Arquitetura
       - Gramática (como Objeto)
       - Materialização na arquitetura
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Materialização na Arquitetura
+        direction: ASC
+      - property: Gramática (como Sujeito)
+        direction: DESC
