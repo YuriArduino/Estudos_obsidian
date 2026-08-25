@@ -11,7 +11,7 @@ areas_conceituais:
 autores_associados:
   - "[[Aristóteles]]"
 oposto_dialetico:
-  - Mudança Essencial
+  - "[[Mudança Essencial]]"
 implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
   - "[[Representation]]"
