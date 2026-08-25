@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiForm",
+      "CoFont",
       "LiDatabaseSearch",
       "RaOvermind",
-      "LiTextSelect",
-      "LiHistory",
-      "LiBookOpen"
+      "LiTextSelect"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,14 +42,6 @@
     "iconName": "LiMap",
     "iconColor": "#18ec7f"
   },
-  "Model": {
-    "iconName": "LiMessageSquareCode",
-    "iconColor": "#ecec9c"
-  },
-  "Prints": {
-    "iconName": "LiCamera",
-    "iconColor": "#ee3211"
-  },
   "Livros": {
     "iconName": "LiBookOpen",
     "iconColor": "#0d840b"
@@ -63,8 +55,20 @@
     "iconName": "RaOvermind",
     "iconColor": "#da17e8"
   },
-  "Database": {
+  "00_Assets/Database": {
     "iconName": "LiDatabaseSearch",
     "iconColor": "#5553ea"
+  },
+  "00_Assets/Model": {
+    "iconName": "LiForm",
+    "iconColor": "#0df21c"
+  },
+  "00_Assets/Prints": {
+    "iconName": "LiCamera",
+    "iconColor": "#ee3211"
+  },
+  "00_Assets/fonts": {
+    "iconName": "CoFont",
+    "iconColor": "#e40707"
   }
 }
