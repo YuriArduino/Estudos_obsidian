@@ -54,7 +54,7 @@ A identidade se desdobra em várias dimensões, cada uma abordada em notas espec
 
 | Dimensão                     | Nota                                                   | Descrição                                                                           |
 | :--------------------------- | :----------------------------------------------------- | :---------------------------------------------------------------------------------- |
-| **Numérica vs Qualitativa**  | [[Identidade Numérica]] vs [[Qualitativa]]             | Ser a *mesma* coisa (numérica) vs ser *exatamente igual* (qualitativa).             |
+| **Numérica vs Qualitativa**  | [[Identidade Numérica]] vs [[Identidade Qualitativa]]  | Ser a *mesma* coisa (numérica) vs ser *exatamente igual* (qualitativa).             |
 | **Diacrônica vs Sincrônica** | [[Identidade Diacrônica]] vs [[Identidade Sincrônica]] | Identidade através do tempo (diacrônica) vs identidade em um instante (sincrônica). |
 | **Relativa**                 | [[Identidade Relativa]]                                | A identidade depende do *tipo* (sortal) — tese de Geach.                            |
 | **Temporária**               | [[Identidade Temporária]]                              | A identidade pode valer em um tempo e não em outro (Gallois).                       |

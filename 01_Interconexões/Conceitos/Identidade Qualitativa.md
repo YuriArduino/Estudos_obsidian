@@ -7,7 +7,7 @@ autores_associados:
   - "[[Leibniz]]"
   - "[[Aristóteles]]"
 oposto_dialetico:
-  - "Identidade Numérica"
+  - "[[Identidade Numérica]]"
 implementado_em: 
   - "[[Representation]]"
 ---

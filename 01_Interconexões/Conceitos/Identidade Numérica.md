@@ -7,7 +7,7 @@ autores_associados:
   - "[[Leibniz]]"
   - "[[Aristóteles]]"
 oposto_dialetico:
-  - "Identidade Qualitativa"
+  - "[[Identidade Qualitativa]]"
 implementado_em: 
   - "[[KnowledgeObject]]"
 ---
