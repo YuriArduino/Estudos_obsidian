@@ -1,36 +1,36 @@
 ---
 tipo: autor
-area: ""
+tags_principais: []
+status: "em construção"  # Opções: em construção, sintetizado, aplicado
+área: ""
 época: ""
-dialoga_com: []
-tese_principal: ""
-antitêse_para: ""
-contribuição_noosphera: ""
+principais_conceitos: []
+influenciou: []
+foi_criticado_por: []
+impacta_noosphera: []
 ---
 
 # {{title}}
 
-## 1. Posicionamento Histórico e Linha do Tempo
+## 1. Contexto e Posicionamento Histórico
 * **Período de Atuação:** 
-* **Corrente Filosofica/Científica:** 
-* **Principais Interlocutores:** 
+* **Corrente Filosófica/Científica:** 
+* **Principais Interlocutores (Diálogo):** 
 
-## 2. Diálogo Epistemológico (Tese & Antítese)
-### Influências Recebidas (A favor / Expansão)
-* 
+## 2. Tese Fundamental & Antíteses
+### Tese (Contribuição Central)
+* [O que este autor defende?]
 
-### Opôs-se a / Critica (Antítese)
-* 
+### Antítese (Críticas e Oposições)
+* [O que ele refuta ou do que discorda?]
 
-## 3. Conceitos-Chave
+## 3. Conceitos-Chave Associados
 * [[]]
 
-## 4. Ponto de Contato com o Noösphera
-* **Onde se conecta:** 
-* **Operador/Métrica associada:** 
+## 4. Tradução para o Noösphera
+* **Ponto de Contato Direto:** (Ex: Como a ideia dele resolve um problema prático seu?)
+* **Operador/Métrica na Arquitetura:** (Ex: Se torna uma lei, uma validação, um campo?)
 
 ## 5. Anotações de Leitura & Citações
-### [[#Prefácio / Introdução]]
-> 
-
----
+### [[#Introdução]]
+> [Citação relevante e insight pessoal]
