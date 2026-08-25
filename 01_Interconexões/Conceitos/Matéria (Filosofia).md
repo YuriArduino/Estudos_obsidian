@@ -1,15 +1,21 @@
 ---
 tipo: conceito
-tags_principais: [ontologia, metafisica, aristoteles]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Natureza"]
-autores_associados: 
+tags_principais:
+  - ontologia
+  - metafisica
+  - aristoteles
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Natureza
+autores_associados:
   - "[[Aristóteles]]"
 oposto_dialetico:
-  - "Forma (Filosofia)"
-implementado_em: 
+  - "[[Forma (Filosofia)]]"
+implementado_em:
   - "[[Representation]]"
   - "[[KnowledgeObject]]"
+  - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 
 # Matéria (Filosofia)

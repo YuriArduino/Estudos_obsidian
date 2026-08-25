@@ -1,17 +1,22 @@
 ---
 tipo: conceito
-tags_principais: [ontologia, mudanca, tempo]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia do Tempo"]
-autores_associados: 
+tags_principais:
+  - ontologia
+  - mudanca
+  - tempo
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Aristóteles]]"
   - "[[Heráclito]]"
   - "[[Parmênides]]"
 oposto_dialetico:
-  - "Estase"
-implementado_em: 
-  - "[[Lei II]]"
-  - "[[Lei IV]]"
+  - "[[Estase]]"
+implementado_em:
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
+  - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 
 # Mudança (Filosofia)

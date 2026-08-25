@@ -8,8 +8,8 @@ autores_associados:
   - "[[Heráclito]]"
   - "[[Parmênides]]"
 oposto_dialetico:
-  - "Estase Absoluta"
-  - "Fluxo Absoluto"
+  - "[[Estase Absoluta]]"
+  - "[[Fluxo Absoluto]]"
 implementado_em: 
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---

@@ -52,14 +52,14 @@ implementado_em:
 
 A identidade se desdobra em várias dimensões, cada uma abordada em notas específicas:
 
-| Dimensão | Nota | Descrição |
-| :--- | :--- | :--- |
-| **Numérica vs Qualitativa** | [[Identidade Numérica vs Qualitativa]] | Ser a *mesma* coisa (numérica) vs ser *exatamente igual* (qualitativa). |
+| Dimensão                     | Nota                                                   | Descrição                                                                           |
+| :--------------------------- | :----------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **Numérica vs Qualitativa**  | [[Identidade Numérica]] vs [[Qualitativa]]             | Ser a *mesma* coisa (numérica) vs ser *exatamente igual* (qualitativa).             |
 | **Diacrônica vs Sincrônica** | [[Identidade Diacrônica]] vs [[Identidade Sincrônica]] | Identidade através do tempo (diacrônica) vs identidade em um instante (sincrônica). |
-| **Relativa** | [[Identidade Relativa]] | A identidade depende do *tipo* (sortal) — tese de Geach. |
-| **Temporária** | [[Identidade Temporária]] | A identidade pode valer em um tempo e não em outro (Gallois). |
-| **Estrita vs Frouxa** | [[Identidade Estrita]] vs [[Identidade Frouxa]] | Identidade filosófica rigorosa (mesmas partes) vs identidade popular (sucessão). |
-| **Necessária** | [[Identidade Necessária]] | A identidade é necessária (Kripke) — não pode ser contingente. |
+| **Relativa**                 | [[Identidade Relativa]]                                | A identidade depende do *tipo* (sortal) — tese de Geach.                            |
+| **Temporária**               | [[Identidade Temporária]]                              | A identidade pode valer em um tempo e não em outro (Gallois).                       |
+| **Estrita vs Frouxa**        | [[Identidade Estrita]] vs [[Identidade Frouxa]]        | Identidade filosófica rigorosa (mesmas partes) vs identidade popular (sucessão).    |
+| **Necessária**               | [[Identidade Necessária]]                              | A identidade é necessária (Kripke) — não pode ser contingente.                      |
 
 ---
 
