@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RaBook",
+      "CoMainComponent",
       "LiForm",
       "CoFont",
-      "LiDatabaseSearch",
-      "RaOvermind",
-      "LiTextSelect"
+      "LiDatabaseSearch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -70,5 +70,13 @@
     "iconName": "CoFont",
     "iconColor": "#e40707"
   },
-  "00_Assets/Legendas_transcricao": "LiTextSelect"
+  "00_Assets/Legendas_transcricao": "LiTextSelect",
+  "Noosphera/🧠 Main.md": {
+    "iconName": "CoMainComponent",
+    "iconColor": "#3db37c"
+  },
+  "Noosphera/🧠 NOOSPHERA": {
+    "iconName": "RaBook",
+    "iconColor": "#f80db9"
+  }
 }
