@@ -22,5 +22,7 @@
   "obsidian-chartsview-plugin",
   "smart-cluster-graph",
   "knowledge-graph-analysis",
-  "folder-graph-view"
+  "folder-graph-view",
+  "graph-search-sync",
+  "folderandgraphs-plus"
 ]
