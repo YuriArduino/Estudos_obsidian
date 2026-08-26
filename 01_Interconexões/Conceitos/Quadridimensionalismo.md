@@ -9,12 +9,12 @@ areas_conceituais:
   - Filosofia do Tempo
   - Metafísica
 autores_associados:
-  - "[[Lewis (David)]]"
-  - "[[Sider (Theodore)]]"
-  - "[[Hawley (Katherine)]]"
+  - "[[David Lewis]]"
+  - "[[Theodore Sider]]"
+  - "[[Katherine Hawley]]"
 oposto_dialetico:
   - "[[Tridimensionalismo]]"
-  - "(Endurantismo)"
+  - "[[Endurantismo]]"
   - "[[Presentismo]]"
 implementado_em:
   - "[[Domínio Permanente]]"

@@ -5,8 +5,8 @@ status: "sintetizado"
 areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
 autores_associados: 
   - "[[Aristóteles]]"
-  - "[[Lewis (David)]]"
-  - "[[Kripke (Saul)]]"
+  - "[[David Lewis]]"
+  - "[[Saul Kripke]]"
 oposto_dialetico:
   - "[[Identidade Sincrônica]]"
 implementado_em: 

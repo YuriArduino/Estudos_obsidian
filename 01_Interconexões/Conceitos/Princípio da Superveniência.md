@@ -4,7 +4,7 @@ tags_principais: [superveniencia, lewis, metafisica]
 status: "sintetizado"
 areas_conceituais: ["Metafísica", "Filosofia da Mente"]
 autores_associados: 
-  - "[[ (David Lewis]]"
+  - "[[David Lewis]]"
 oposto_dialetico:
   - "[[Reducionismo]]"
   - "[[Eliminativismo]]"

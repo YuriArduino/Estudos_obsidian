@@ -4,7 +4,7 @@ tags_principais: [identidade, logica, sortais]
 status: "sintetizado"
 areas_conceituais: ["Lógica", "Metafísica"]
 autores_associados: 
-  - "[[Geach (Peter)]]"
+  - "[[Peter Geach]]"
 oposto_dialetico:
   - "[[Identidade Absoluta]]"
 implementado_em: 

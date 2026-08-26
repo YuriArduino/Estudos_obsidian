@@ -4,9 +4,9 @@ tags_principais: [tempo, persistencia, metafisica]
 status: "sintetizado"
 areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
 autores_associados: 
-  - "[[Lewis (David)]]"
-  - "[[Sider (Theodore)]]"
-  - "[[Hawley (Katherine)]]"
+  - "[[David Lewis]]"
+  - "[[Theodore Sider]]"
+  - "[[Katherine Hawley]]"
 oposto_dialetico:
   - "[[Partes Espaciais]]"
   - "(como modelo único)"

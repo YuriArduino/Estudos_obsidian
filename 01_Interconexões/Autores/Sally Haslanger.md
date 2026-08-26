@@ -14,7 +14,7 @@ influenciou:
 foi_criticado_por: 
   - "[[David Lewis]]"
 impacta_noosphera: 
-  - "[[Lei X]]"
+  - "[[Lei X — A Reconstruibilidade Histórica]]"
   - "[[Observation]]"
 ---
 

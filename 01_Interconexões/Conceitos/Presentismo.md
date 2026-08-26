@@ -9,7 +9,7 @@ autores_associados:
   - "[[David Lewis]]"
 oposto_dialetico:
   - "[[Teoria B do Tempo]]"
-  - "[[Eternalismo)]]"
+  - "[[Eternalismo]]"
   - "[[Quadridimensionalismo]]"
 implementado_em: 
   - "[[Domínio Transitório]]"

@@ -13,8 +13,8 @@ autores_associados:
   - "[[Aristóteles]]"
   - "[[Leibniz]]"
   - "[[Kripke]]"
-  - "[[Lewis (David)]]"
-  - "[[Geach (Peter)]]"
+  - "[[David Lewis]]"
+  - "[[Peter Geach]]"
 oposto_dialetico:
   - "[[Diferença]]"
   - "[[Alteridade]]"

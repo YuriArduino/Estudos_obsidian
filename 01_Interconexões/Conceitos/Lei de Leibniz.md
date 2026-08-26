@@ -8,8 +8,8 @@ autores_associados:
 oposto_dialetico:
   - "Identidade dos Indiscerníveis"
 implementado_em: 
-  - "[[Lei II]]"
-  - "[[Lei IV]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
+  - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
   - "[[Teste de Admissão Ontológica]]"
 ---
 

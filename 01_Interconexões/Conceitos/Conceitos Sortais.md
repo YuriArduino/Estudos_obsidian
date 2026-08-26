@@ -4,7 +4,7 @@ tags_principais: [ontologia, identidade, linguagem]
 status: "sintetizado"
 areas_conceituais: ["Metafísica", "Filosofia da Linguagem"]
 autores_associados: 
-  - "[[Geach (Peter)]]"
+  - "[[Peter Geach]]"
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Conceitos Não-Sortais]]"

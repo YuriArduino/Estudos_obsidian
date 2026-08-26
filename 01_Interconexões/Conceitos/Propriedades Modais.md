@@ -4,12 +4,12 @@ tags_principais: [modalidade, logica, propriedades]
 status: "sintetizado"
 areas_conceituais: ["Lógica Modal", "Metafísica"]
 autores_associados: 
-  - "[[Kripke]]"
-  - "[[Lewis (David)]]"
+  - "[[Saul Kripke]]"
+  - "[[David Lewis]]"
 oposto_dialetico:
   - "Propriedades Atuais (Não-Modais)"
 implementado_em: 
-  - "[[Lei II]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 
 # Propriedades Modais

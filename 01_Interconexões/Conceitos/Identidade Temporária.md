@@ -4,11 +4,11 @@ tags_principais: [identidade, tempo, logica]
 status: "sintetizado"
 areas_conceituais: ["Lógica", "Filosofia do Tempo"]
 autores_associados: 
-  - "[[Gallois (Andre)]]"
-  - "[[Myro (George)]]"
+  - "[[Andre Gallois]]"
+  - "[[George Myro]]"
 oposto_dialetico:
   - "[[Identidade Necessária]]"
-  - "(Kripke)"
+  - "[[Saul Kripke]]"
 implementado_em: 
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Observation]]"

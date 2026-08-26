@@ -8,7 +8,7 @@ autores_associados:
 oposto_dialetico:
   - "Perspectiva Material (Soma Mereológica)"
 implementado_em: 
-  - "[[Lei II]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[KnowledgeObject]]"
 ---
 
