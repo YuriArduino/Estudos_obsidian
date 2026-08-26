@@ -20,5 +20,6 @@
   "local-fonts",
   "obsidian-importer",
   "obsidian-chartsview-plugin",
-  "smart-cluster-graph"
+  "smart-cluster-graph",
+  "knowledge-graph-analysis"
 ]
