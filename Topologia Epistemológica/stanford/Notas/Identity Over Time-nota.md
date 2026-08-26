@@ -11,12 +11,12 @@ tags:
   - tempo
   - ontologia
 entidades-noosphera:
-  - KnowledgeObject
-  - State
-  - Observation
+  - "[[KnowledgeObject]]"
+  - "[[State]]"
+  - "[[Observation]]"
 leis-noosphera:
-  - Lei II - Invariância da Identidade
-  - Lei X - Continuidade Histórica
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
+  - "[[Lei X — A Reconstruibilidade Histórica]]"
 ---
 # Identity Over Time
 
