@@ -1,7 +1,7 @@
 {
-  "addFolderStructure": true,
+  "addFolderStructure": false,
   "hideRootNode": false,
-  "removeOtherLinks": true,
-  "HiddenNodesString": "00_Assets",
-  "HiddenNodes": true
+  "removeOtherLinks": false,
+  "HiddenNodesString": ".png",
+  "HiddenNodes": false
 }

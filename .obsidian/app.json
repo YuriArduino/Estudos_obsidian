@@ -2,7 +2,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "userIgnoreFilters": [
-    "Model/"
+    "00_Assets/"
   ],
   "strictLineBreaks": false,
   "showLineNumber": false,
