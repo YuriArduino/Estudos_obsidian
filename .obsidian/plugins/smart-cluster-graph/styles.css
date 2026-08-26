@@ -1,0 +1,432 @@
+/* Smart Graph Explorer Plugin Styles - iOS Aesthetic */
+
+:root {
+  /* Default to Dark if undefined */
+  --smart-graph-bg: #0f1115;
+  --smart-graph-text-primary: #ffffff;
+  --smart-graph-text-secondary: #8a8f9d;
+  --smart-graph-island-bg: rgba(25, 27, 33, 0.75);
+  --smart-graph-island-border: rgba(255, 255, 255, 0.15);
+  --smart-graph-island-shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+  --smart-graph-item-hover: rgba(255, 255, 255, 0.1);
+  --smart-graph-input-bg: rgba(0, 0, 0, 0.3);
+  --smart-graph-popover-bg: rgba(30, 32, 40, 0.85);
+  --smart-graph-accent: #0A84FF;
+  --smart-graph-spring: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  --smart-graph-blur: blur(24px);
+}
+
+.theme-light {
+  --smart-graph-bg: #f2f2f7;
+  --smart-graph-text-primary: #000000;
+  --smart-graph-text-secondary: #8e8e93;
+  --smart-graph-island-bg: rgba(255, 255, 255, 0.7);
+  --smart-graph-island-border: rgba(0, 0, 0, 0.1);
+  --smart-graph-island-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  --smart-graph-item-hover: rgba(0, 0, 0, 0.06);
+  --smart-graph-input-bg: rgba(0, 0, 0, 0.05);
+  --smart-graph-popover-bg: rgba(255, 255, 255, 0.85);
+  --smart-graph-accent: #007AFF;
+}
+
+.theme-dark {
+  --smart-graph-bg: #000000;
+  --smart-graph-text-primary: #ffffff;
+  --smart-graph-text-secondary: #8e8e93;
+  --smart-graph-island-bg: rgba(28, 28, 30, 0.75);
+  --smart-graph-island-border: rgba(255, 255, 255, 0.15);
+  --smart-graph-island-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+  --smart-graph-item-hover: rgba(255, 255, 255, 0.12);
+  --smart-graph-input-bg: rgba(0, 0, 0, 0.2);
+  --smart-graph-popover-bg: rgba(28, 28, 30, 0.85);
+  --smart-graph-accent: #0A84FF;
+}
+
+.smart-graph-view-container {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: var(--smart-graph-bg);
+  color: var(--smart-graph-text-primary);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.smart-graph-canvas-wrapper {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+/* Header Toolbar - Dynamic Island Style */
+.smart-graph-header-toolbar {
+  position: absolute;
+  top: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 20;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--smart-graph-island-bg);
+  backdrop-filter: var(--smart-graph-blur);
+  -webkit-backdrop-filter: var(--smart-graph-blur);
+  padding: 8px 16px;
+  border-radius: 999px; /* Pill shape */
+  border: 1px solid var(--smart-graph-island-border);
+  box-shadow: var(--smart-graph-island-shadow);
+  gap: 16px;
+  flex-wrap: nowrap;
+  transition: all 0.4s var(--smart-graph-spring);
+  animation: islandDrop 0.6s var(--smart-graph-spring);
+}
+
+@keyframes islandDrop {
+  0% { top: -60px; opacity: 0; transform: translateX(-50%) scale(0.9); }
+  100% { top: 16px; opacity: 1; transform: translateX(-50%) scale(1); }
+}
+
+.smart-graph-toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-direction: row;
+  flex-shrink: 0;
+}
+
+.smart-graph-toolbar-section {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.smart-graph-title-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.smart-graph-title {
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.smart-graph-subtitle {
+  font-size: 11px;
+  color: var(--smart-graph-text-secondary);
+  white-space: nowrap;
+}
+
+.smart-graph-refresh-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--smart-graph-text-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.smart-graph-refresh-button:hover {
+  background: var(--smart-graph-item-hover);
+}
+
+.smart-graph-refresh-button:active {
+  transform: scale(0.9);
+}
+
+.smart-graph-nav-btns {
+  display: flex;
+  gap: 4px;
+}
+
+.smart-graph-nav-btn {
+  background: transparent;
+  color: var(--smart-graph-text-primary);
+  padding: 4px 10px;
+  border-radius: 14px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border: none;
+}
+
+.smart-graph-nav-btn:hover:not(:disabled) {
+  background: var(--smart-graph-item-hover);
+}
+
+.smart-graph-nav-btn:active:not(:disabled) {
+  transform: scale(0.95);
+}
+
+.smart-graph-nav-btn:disabled {
+  opacity: 0.35;
+  cursor: default;
+}
+
+/* Controls & Inputs */
+.smart-graph-search-container {
+  position: relative;
+  min-width: 160px;
+}
+
+.smart-graph-search-input {
+  width: 100%;
+  background: var(--smart-graph-input-bg);
+  border: 1px solid transparent;
+  border-radius: 16px;
+  color: var(--smart-graph-text-primary);
+  padding: 6px 14px;
+  font-size: 12px;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.smart-graph-search-input:focus {
+  background: var(--smart-graph-item-hover);
+  border-color: var(--smart-graph-island-border);
+}
+
+.smart-graph-search-results {
+  position: absolute;
+  top: calc(100% + 12px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 240px;
+  background: var(--smart-graph-popover-bg);
+  border: 1px solid var(--smart-graph-island-border);
+  border-radius: 16px;
+  max-height: 260px;
+  overflow-y: auto;
+  z-index: 100;
+  box-shadow: var(--smart-graph-island-shadow);
+  backdrop-filter: var(--smart-graph-blur);
+  -webkit-backdrop-filter: var(--smart-graph-blur);
+  padding: 6px;
+  animation: popoverFadeIn 0.3s var(--smart-graph-spring);
+  transform-origin: top center;
+}
+
+@keyframes popoverFadeIn {
+  0% { opacity: 0; transform: translateX(-50%) scale(0.95) translateY(-10px); }
+  100% { opacity: 1; transform: translateX(-50%) scale(1) translateY(0); }
+}
+
+.smart-graph-search-item {
+  padding: 8px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  transition: background-color 0.1s ease, transform 0.1s ease;
+  margin-bottom: 2px;
+}
+
+.smart-graph-search-item:hover {
+  background: var(--smart-graph-item-hover);
+}
+
+.smart-graph-search-item:active {
+  transform: scale(0.97);
+}
+
+.smart-graph-select {
+  background: var(--smart-graph-input-bg);
+  border: 1px solid transparent;
+  border-radius: 12px;
+  color: var(--smart-graph-text-primary);
+  padding: 4px 10px;
+  font-size: 12px;
+  outline: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.smart-graph-badge {
+  font-size: 10px;
+  padding: 2px 7px;
+  border-radius: 10px;
+  background: var(--smart-graph-accent);
+  color: #fff;
+}
+
+.smart-graph-toggle-label {
+  font-size: 12px;
+  color: var(--smart-graph-text-secondary);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+}
+
+/* Tooltip */
+.smart-graph-tooltip {
+  position: absolute;
+  pointer-events: none;
+  background: var(--smart-graph-popover-bg);
+  border: 1px solid var(--smart-graph-island-border);
+  border-radius: 12px;
+  padding: 10px 14px;
+  font-size: 12px;
+  color: var(--smart-graph-text-primary);
+  z-index: 100;
+  box-shadow: var(--smart-graph-island-shadow);
+  backdrop-filter: var(--smart-graph-blur);
+  -webkit-backdrop-filter: var(--smart-graph-blur);
+  animation: fadeScaleIn 0.2s ease-out;
+}
+
+@keyframes fadeScaleIn {
+  0% { opacity: 0; transform: scale(0.9); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+.smart-graph-tooltip-title {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.smart-graph-tooltip-meta {
+  font-size: 11px;
+  color: var(--smart-graph-text-secondary);
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+/* Collapsible Legend */
+.smart-graph-legend-container {
+  position: absolute;
+  bottom: 24px;
+  left: 24px;
+  z-index: 20;
+  background: var(--smart-graph-island-bg);
+  backdrop-filter: var(--smart-graph-blur);
+  -webkit-backdrop-filter: var(--smart-graph-blur);
+  border: 1px solid var(--smart-graph-island-border);
+  border-radius: 16px;
+  padding: 10px 14px;
+  font-size: 11px;
+  color: var(--smart-graph-text-secondary);
+  box-shadow: var(--smart-graph-island-shadow);
+  transition: all 0.4s var(--smart-graph-spring);
+  animation: legendSlideUp 0.6s var(--smart-graph-spring);
+}
+
+@keyframes legendSlideUp {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.smart-graph-legend-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--smart-graph-text-primary);
+  gap: 12px;
+}
+
+.smart-graph-legend-body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid var(--smart-graph-island-border);
+}
+
+.smart-graph-legend-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--smart-graph-text-primary);
+}
+
+/* Empty State Banner */
+.smart-graph-empty-banner {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 15;
+  background: var(--smart-graph-popover-bg);
+  border: 1px solid var(--smart-graph-island-border);
+  border-radius: 20px;
+  padding: 24px 32px;
+  text-align: center;
+  color: var(--smart-graph-text-primary);
+  box-shadow: var(--smart-graph-island-shadow);
+  backdrop-filter: var(--smart-graph-blur);
+  -webkit-backdrop-filter: var(--smart-graph-blur);
+  max-width: 320px;
+  animation: popoverFadeIn 0.5s var(--smart-graph-spring);
+}
+
+.smart-graph-empty-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.smart-graph-empty-desc {
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--smart-graph-text-secondary);
+}
+
+/* Notice Banner */
+.smart-graph-notice-banner {
+  position: absolute;
+  top: 76px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 25;
+  background: rgba(255, 59, 48, 0.9);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 16px;
+  font-size: 12px;
+  font-weight: 500;
+  box-shadow: 0 4px 12px rgba(255, 59, 48, 0.4);
+  backdrop-filter: blur(10px);
+  animation: islandDrop 0.6s var(--smart-graph-spring);
+}
+
+/* Context Menu Overrides */
+.smart-graph-context-menu {
+  background: var(--smart-graph-popover-bg) !important;
+  border: 1px solid var(--smart-graph-island-border) !important;
+  border-radius: 12px !important;
+  box-shadow: var(--smart-graph-island-shadow) !important;
+  backdrop-filter: var(--smart-graph-blur) !important;
+  -webkit-backdrop-filter: var(--smart-graph-blur) !important;
+  padding: 6px !important;
+  animation: fadeScaleIn 0.2s ease-out !important;
+}
+
+.smart-graph-context-menu .menu-item {
+  border-radius: 8px;
+  transition: all 0.1s ease;
+}
+
+.smart-graph-context-menu .menu-item:hover {
+  background: var(--smart-graph-item-hover) !important;
+}
+
+.smart-graph-context-menu .menu-item:active {
+  transform: scale(0.97);
+}
