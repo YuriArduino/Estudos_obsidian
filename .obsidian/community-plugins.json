@@ -21,5 +21,6 @@
   "obsidian-importer",
   "obsidian-chartsview-plugin",
   "smart-cluster-graph",
-  "knowledge-graph-analysis"
+  "knowledge-graph-analysis",
+  "folder-graph-view"
 ]
