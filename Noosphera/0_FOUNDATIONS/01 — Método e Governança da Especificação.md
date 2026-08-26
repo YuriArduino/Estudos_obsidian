@@ -88,7 +88,7 @@ Este documento estabelece as fronteiras do projeto Noosphera e dita os príncipi
 > ser → restringir → relacionar → acontecer → organizar → materializar
 > Como consequência, nenhuma camada possui autoridade para reinterpretar, restringir ou modificar os fundamentos estabelecidos pelas camadas que a precedem; sua única responsabilidade é desenvolvê-los segundo seu próprio nível de abstração.
 
-> [!note]+ **5. O Teste de Admissão Ontológica**
+> [!note]+ **5. O [[Teste de Admissão Ontológica]]**
 > Toda proposta de introdução de uma nova entidade deve ser derivada de uma necessidade ontológica, jamais de uma decisão arquitetural, tecnológica ou de implementação. O objetivo deste procedimento é preservar a integridade da Ontologia, impedindo que conceitos derivados de casos de uso, tecnologias ou soluções de engenharia sejam promovidos indevidamente ao domínio conceitual.
 > ## Etapa 1 — Formulação Ontológica
 > Toda entidade candidata deve primeiro ser capaz de responder às seguintes perguntas de forma conclusiva:

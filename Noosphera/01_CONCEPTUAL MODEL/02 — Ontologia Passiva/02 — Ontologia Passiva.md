@@ -46,8 +46,8 @@ notion-id: 3b14f61f-7e76-80a5-9b08-e023e294e0f4
 
 > [!note]+ 6. Natureza Ontológica
 > Toda entidade do Noosphera pertence a exatamente um domínio ontológico.
-> - **Domínio Permanente** — Entidades cuja finalidade é preservar identidade, continuidade e significado.
-> - **Domínio Transitório** — Entidades cuja existência está restrita a processos, estados ou acontecimentos efêmeros.
+> - **[[Domínio Permanente]]** — Entidades cuja finalidade é preservar identidade, continuidade e significado.
+> - **[[Domínio Transitório]]** — Entidades cuja existência está restrita a processos, estados ou acontecimentos efêmeros.
 > 
 > Essa classificação não representa hierarquia, prioridade ou importância. Ela apenas identifica a natureza ontológica da entidade.
 > Nenhuma entidade poderá pertencer simultaneamente aos dois domínios.
