@@ -985,3 +985,6 @@
 "event_logs:sources:reimport_started": {"key":"sources:reimport_started","ct":498,"first_at":1787067077039,"last_at":1787708456642,"class_name":"EventLog","event_sources":{"run_re_import":498}},
 "event_logs:sources:reimport_progress": {"key":"sources:reimport_progress","ct":498,"first_at":1787067077042,"last_at":1787708456645,"class_name":"EventLog","event_sources":{"run_re_import":498}},
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":466,"first_at":1787067077049,"last_at":1787708458462,"class_name":"EventLog","event_sources":{"run_re_import":466}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1171,"first_at":1787066950875,"last_at":1787709500797,"class_name":"EventLog","event_sources":{"active-leaf-change":1168,"open_source":3}},
+"event_logs:sources:deleted": {"key":"sources:deleted","ct":157,"first_at":1787083296236,"last_at":1787709548519,"class_name":"EventLog","event_sources":{"obsidian:vault.delete":157}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1172,"first_at":1787066950875,"last_at":1787709707954,"class_name":"EventLog","event_sources":{"active-leaf-change":1169,"open_source":3}},
