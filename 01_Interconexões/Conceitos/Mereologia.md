@@ -5,7 +5,7 @@ status: "sintetizado"
 areas_conceituais: ["Metafísica", "Lógica", "Matemática"]
 autores_associados: 
   - "[[Aristóteles]]"
-  - "[[Peter van Inwagen)]]"
+  - "[[Peter van Inwagen]]"
   - "[[David Lewis]]"
   - "[[Theodore Sider]]"
 oposto_dialetico:

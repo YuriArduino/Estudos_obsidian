@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "\"Lewis (David)\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -60,6 +60,6 @@
   "repelStrength": 16.9164238037041,
   "linkStrength": 0.772474430288893,
   "linkDistance": 154,
-  "scale": 0.70233196159122,
+  "scale": 0.5674478207269047,
   "close": false
 }

@@ -11,7 +11,7 @@ influenciou:
   - "[[Thomas Sattig]]"
   - "[[Kit Fine]]"
 foi_criticado_por: 
-  - "[[Lewis (David)]]"
+  - "[[David Lewis]]"
 impacta_noosphera: 
   - "[[Lei X — A Reconstruibilidade Histórica]]"
   - "[[Observation]]"

@@ -1,0 +1,32 @@
+{
+  "combineSameNameFolders": false,
+  "showFolderEmoji": true,
+  "iWorkPackages": {
+    "enabled": false
+  },
+  "graphFilters": {
+    "enabled": true,
+    "showNotes": true,
+    "showFolders": true,
+    "showTags": true,
+    "showCanvases": true,
+    "attachmentMode": "hide-custom",
+    "attachmentExtensions": [],
+    "attachmentFolderRules": [],
+    "hideOrphans": false
+  },
+  "folderColorRules": [],
+  "folder2graph": {
+    "showFolderNodes": false,
+    "hideRootNode": true,
+    "nodeColor": "#5c8af5",
+    "showHeadingNodes": false,
+    "headingNodeColor": "#f5a55c",
+    "headingLinkAnchorMode": "heading-heading",
+    "hiddenNodes": {},
+    "weightNodesBySubtree": false,
+    "folderFilterMode": "exclude",
+    "folderFilterList": [],
+    "folderFilterHideFiles": false
+  }
+}
