@@ -4,11 +4,11 @@ tags_principais: [tempo, persistencia, lewis]
 status: "sintetizado"
 areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
 autores_associados: 
-  - "[[Lewis (David)]]"
-  - "[[Sider (Theodore)]]"
+  - "[[David Lewis]]"
+  - "[[Theodore Sider]]"
 oposto_dialetico:
   - "[[Exdurantismo]]"
-  - "Endurantismo"
+  - "[[Endurantismo]]"
 implementado_em: 
   - "[[Domínio Permanente]]"
   - "[[Observation]]"
