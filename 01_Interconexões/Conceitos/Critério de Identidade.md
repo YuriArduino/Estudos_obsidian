@@ -6,7 +6,7 @@ areas_conceituais: ["Lógica", "Metafísica"]
 autores_associados: 
   - "[[Aristóteles]]"
   - "[[Peter Geach]]"
-  - "[[Kripke (Saul)]]"
+  - "[[Saul Kripke]]"
 oposto_dialetico:
   - "[[Identidade como Fato Bruto]]"
 implementado_em: 

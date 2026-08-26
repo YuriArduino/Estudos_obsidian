@@ -4,8 +4,8 @@ tags_principais: [identidade, logica, vagueza]
 status: "sintetizado"
 areas_conceituais: ["Lógica", "Metafísica"]
 autores_associados: 
-  - "[[Evans (Gareth)]]"
-  - "[[Salmon (Nathan)]]"
+  - "[[Gareth Evans]]"
+  - "[[Nathan Salmon]]"
 oposto_dialetico:
   - "[[Identidade Determinada]]"
 implementado_em: 

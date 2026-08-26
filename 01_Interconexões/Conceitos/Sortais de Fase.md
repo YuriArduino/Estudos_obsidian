@@ -6,7 +6,7 @@ areas_conceituais: ["Metafísica", "Filosofia da Linguagem"]
 autores_associados: 
   - "[[Aristóteles]]"
   - "[[Peter Geach]]"
-  - "[[Mooney (Justin)]]"
+  - "[[Justin Mooney]]"
 oposto_dialetico:
   - "[[Sortais de Substância]]"
 implementado_em: 

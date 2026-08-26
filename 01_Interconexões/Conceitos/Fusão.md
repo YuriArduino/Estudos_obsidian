@@ -5,7 +5,7 @@ status: "sintetizado"
 areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
 autores_associados: 
   - "[[David Lewis]]"
-  - "[[ (Ralf Bader]]"
+  - "[[Ralf Bader]]"
 oposto_dialetico:
   - "[[Fissão]]"
 implementado_em: 

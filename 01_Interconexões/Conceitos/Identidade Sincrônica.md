@@ -10,7 +10,7 @@ oposto_dialetico:
   - "Identidade Diacrônica"
 implementado_em: 
   - "[[KnowledgeObject]]"
-  - "[[Lei II]]"
+  - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 
 # Identidade Sincrônica

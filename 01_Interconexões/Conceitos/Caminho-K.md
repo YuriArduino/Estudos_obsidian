@@ -4,7 +4,7 @@ tags_principais: [sattig, identidade, forma, material]
 status: "sintetizado"
 areas_conceituais: ["Metafísica", "Filosofia do Tempo"]
 autores_associados: 
-  - "[[Sattig (Thomas)]]"
+  - "[[Thomas Sattig]]"
 oposto_dialetico:
   - "Perspectiva Material (Soma Mereológica)"
 implementado_em: 

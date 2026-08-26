@@ -87,7 +87,7 @@ _Conceitos-chave para aprofundamento._
 
 
 - [[Representação do Conhecimento (KR)]]
-- [[Modelagem Conceitual]] ()
+- [[Modelagem Conceitual]]
 - [[Lógica | Inferência Lógica (Silogismos)]]
 - [[Semântica Computacional]]
 
