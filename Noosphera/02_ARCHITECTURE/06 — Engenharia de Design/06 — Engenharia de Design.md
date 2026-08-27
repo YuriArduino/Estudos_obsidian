@@ -179,15 +179,15 @@ notion-id: 3b14f61f-7e76-8091-81a7-ded591c05802
 > 
 > | Regime | Natureza | Ênfase |
 > | --- | --- | --- |
-> | **Domínio Permanente** | Estruturas cuja existência independe de uma execução específica | **Identidade, continuidade e preservação** |
-> | **Domínio Transitório** | Estruturas cuja existência está vinculada à realização de um processo | **Trajetória, contexto e fluxo** |
+> | **[[Domínio Permanente]]** | Estruturas cuja existência independe de uma execução específica | **Identidade, continuidade e preservação** |
+> | **[[Domínio Transitório]]** | Estruturas cuja existência está vinculada à realização de um processo | **[[Trajetória]], [[contexto]] e [[fluxo]]** |
 > 
 > Os dois regimes não representam duas implementações alternativas do mesmo domínio. Eles correspondem a **naturezas estruturais distintas**, que devem permanecer separadas durante toda a materialização do sistema.
 > ### 6.1 Domínio Permanente
 > O Domínio Permanente compreende as estruturas cuja existência deve sobreviver ao término de qualquer processo operacional.
 > Seu Design deve preservar:
-> - **Identidade:** a entidade permanece reconhecível como a mesma entidade ao longo de sua existência;
-> - **Continuidade:** novos fatos não eliminam os fatos anteriormente incorporados;
+> - **[[Identidade]]:** a entidade permanece reconhecível como a mesma entidade ao longo de sua existência;
+> - **[[Continuidade]]:** novos fatos não eliminam os fatos anteriormente incorporados;
 > - **Proveniência:** a evolução das estruturas permanece reconstruível a partir de sua história;
 > - **Preservação:** estruturas já consolidadas não dependem da existência de um Runtime específico para continuar existindo.
 > 
