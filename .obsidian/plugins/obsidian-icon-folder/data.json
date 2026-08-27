@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalculator",
       "FabConnectdevelop",
       "LiUserStar",
       "LiLink",
-      "RaBook",
-      "CoMainComponent"
+      "RaBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -82,5 +82,6 @@
   "01_Interconexões/Conceitos": {
     "iconName": "FabConnectdevelop",
     "iconColor": "#08e7c2"
-  }
+  },
+  "Reflexões Gerais/Notação matemática.md": "LiCalculator"
 }
