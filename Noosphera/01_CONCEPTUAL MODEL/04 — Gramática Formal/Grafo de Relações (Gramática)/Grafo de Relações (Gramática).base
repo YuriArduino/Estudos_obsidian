@@ -35,3 +35,6 @@ views:
       - Predicado (Verbo / ObjectProperty)
       - formula.Continente Substantivo
       - formula.Continente Objeto
+    sort:
+      - property: Objeto (Range / Destino)
+        direction: ASC

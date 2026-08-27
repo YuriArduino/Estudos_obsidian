@@ -1,5 +1,3 @@
-# Contratos de Sustentação Arquitetural
-
 filters:
   and:
     - note["base"] == link("Contratos de Sustentação Arquitetural.base")
