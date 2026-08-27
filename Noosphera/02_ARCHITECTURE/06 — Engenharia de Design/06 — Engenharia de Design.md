@@ -188,8 +188,8 @@ notion-id: 3b14f61f-7e76-8091-81a7-ded591c05802
 > Seu Design deve preservar:
 > - **[[Identidade]]:** a entidade permanece reconhecível como a mesma entidade ao longo de sua existência;
 > - **[[Continuidade]]:** novos fatos não eliminam os fatos anteriormente incorporados;
-> - **Proveniência:** a evolução das estruturas permanece reconstruível a partir de sua história;
-> - **Preservação:** estruturas já consolidadas não dependem da existência de um Runtime específico para continuar existindo.
+> - **[[Proveniência]]:** a evolução das estruturas permanece reconstruível a partir de sua história;
+> - **[[Preservação]]:** estruturas já consolidadas não dependem da existência de um Runtime específico para continuar existindo.
 > 
 > Consequentemente, estruturas permanentes devem ser projetadas como **passivas em relação à execução**.
 > Elas podem ser observadas, relacionadas, representadas ou preservadas por processos transitórios, mas não dependem desses processos para manter sua identidade.
@@ -201,7 +201,7 @@ notion-id: 3b14f61f-7e76-8091-81a7-ded591c05802
 > Seu Design deve preservar:
 > - **Trajetória:** registra ou sustenta a progressão de uma execução;
 > - **Contexto:** delimita as condições sob as quais o processo ocorre;
-> - **Fluxo:** permite a coordenação e transição entre os diferentes momentos da execução;
+> - **[[Fluxo]]:** permite a coordenação e transição entre os diferentes momentos da execução;
 > - **Mortalidade:** sua existência possui início, duração e término determinados pelo processo que sustenta.
 > 
 > As estruturas transitórias não constituem o significado permanente do sistema.
