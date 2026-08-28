@@ -37,6 +37,6 @@ views:
       - formula.Continente Objeto
     sort:
       - property: file.name
-        direction: ASC
+        direction: DESC
       - property: Objeto (Range / Destino)
         direction: ASC
