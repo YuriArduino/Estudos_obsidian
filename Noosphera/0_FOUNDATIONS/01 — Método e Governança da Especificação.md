@@ -36,9 +36,10 @@ Este documento estabelece as fronteiras do projeto Noosphera e dita os príncipi
 > > 03 Leis
 > > 04 Gramática
 > > 05 Arquitetura
-> > ![[01 — Método e Governança da Especificação synced block]]
+> > 06 Design               
 > > 07 Implementação
 > > 08 Arquitetura de Referência
+>
 > - **Princípio da Precedência:** Em caso de conflito entre duas camadas, prevalece integralmente aquela de menor nível ordinal.
 > - **Princípio da Derivação:** Toda camada somente pode introduzir elementos que constituam consequência lógica das camadas precedentes.
 > - **Regra da Não-Contradição:** Nenhuma camada posterior possui autoridade para criar, alterar, reinterpretar ou restringir os fundamentos estabelecidos por uma camada precedente.
