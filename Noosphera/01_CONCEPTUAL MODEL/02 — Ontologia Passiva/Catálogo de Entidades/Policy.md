@@ -14,5 +14,7 @@ Materialização na Arquitetura:
   - "[[Policy Engine|Policy Engine]]"
 Gramática (como Objeto):
   - "[[Policy restringe Representation|Policy restringe Representation]]"
+  - "[[Policy restringe Relation]]"
+  - "[[Policy"
 Materialização na arquitetura: []
 ---
