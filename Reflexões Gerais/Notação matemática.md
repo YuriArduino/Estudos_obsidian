@@ -7,4 +7,3 @@
 
 `Funtor` Preserva a **estrutura**. Se você tem uma regra na Ontologia, o Funtor proíbe que a Implementação a quebre. Se a Ontologia diz que o conhecimento é passivo, o Funtor impede que o código trate o conhecimento como um processo executável.
 
----
