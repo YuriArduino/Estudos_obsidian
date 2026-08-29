@@ -1,14 +1,18 @@
 ---
 tipo: conceito
-tags_principais: [identidade, tempo]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+tags_principais:
+  - identidade
+  - tempo
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Aristóteles]]"
   - "[[Leibniz]]"
 oposto_dialetico:
-  - "Identidade Diacrônica"
-implementado_em: 
+  - Identidade Diacrônica
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
