@@ -115,7 +115,9 @@ e transformou `Representation` em uma **posição estrutural**.
 
 Essa distinção é muito importante:
 
-> **Representation deixa de ser uma etiqueta carregada pelo objeto e passa a ser um papel que o objeto ocupa dentro do grafo.**
+> **Representation deixa de ser uma etiqueta carregada pelo objeto e passa a ser um papel que o objeto ocupa dentro do grafo. Logo Representation não é uma propriedade intrínseca de `R`; é uma posição relacional no grafo.**
+
+Representation(x)⟺∃k(k, manifesta, x)
 
 ##Hipótese 2:
 
