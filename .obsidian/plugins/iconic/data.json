@@ -28,7 +28,16 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Códigos/Experimentos.md": {
+      "icon": "lucide-code",
+      "color": "red"
+    },
+    "Reflexões Gerais/Notação matemática.md": {
+      "icon": "lucide-diff",
+      "color": "cyan"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
