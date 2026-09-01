@@ -1,30 +1,24 @@
 ---
 type: book
-titulo: ""
-autor: ""
+titulo: "[[{{VALUE:Título do Livro}}]]"
+autor: "[[{{VALUE:Autor}}]]"
 tags_principais: []
 status: "reading"
-area: ""
-epoca: ""
-ano_publicacao: ""
+area: "{{VALUE:Área de Estudo}}"
+epoca: "{{VALUE:Época}}"
+ano_publicacao: "{{VALUE:Ano de Publicação}}"
 impacta_noosphera: []
 ---
 
-# 📚 `VIEW[{titulo}][text]`
+# 📚 {{VALUE:Título do Livro}}
 
-> [!META] **Dynamic Properties (Meta Bind)**
-> *   **Título do Livro:** `INPUT[text:titulo]`
-> *   **Autor da Obra:** `INPUT[text:autor]`
-> *   **Área de Estudo:** `INPUT[text:area]`
-> *   **Época Histórica:** `INPUT[text:epoca]`
-> *   **Ano de Publicação:** `INPUT[text:ano_publicacao]`
-> *   **Status de Leitura:** `INPUT[inlineSelect(options(reading, completed, abandoned)):status]`
+> **Autor:** [[{{VALUE:Autor}}]]
+> **Época:** [[{{VALUE:Época}}]]
+> **Ano de Publicação:** {{VALUE:Ano de Publicação}}
 
 ---
 
 ## 🗺️ 1. Overview and Core Intention
-*A concise summary of the book's purpose. What problem or thesis is the author attempting to solve or demonstrate in this work as a whole?*
-
 <div align="justify">
 Write your macro perception of the book here...
 </div>
@@ -32,32 +26,27 @@ Write your macro perception of the book here...
 ---
 
 ## 🔬 2. Fundamental Concepts and Invariants
-*A list of core terms, ideas, and structures that remain consistent throughout the author's entire argumentation.*
-
-* **[[Concept A]]**: Explanation or formal definition.
+*   **[[Concept A]]**: 
 
 ---
 
 ## 📑 3. Literature Reading Logs and Citations (PDF++)
-*Space dedicated to receive text extracts directly from PDF++.*
-
-> [!ABSTRACT] Chapter X: Theme
-> > [!PDF|234, 82, 82] [[File.pdf]]
-> > > "Literal text quotation..."
+*Espaço para arrastar as notas do PDF++*
 
 ---
 
 ## ⛓️ 4. Connections and Dialectical Genealogy
-*Which authors, frameworks, or theories does this book support or criticize?*
-
-* **Supports / Based on:** [[Author X]]
-* **Counterpoint / Critique to:** [[Author Y]]
+*   **Supports / Based on:** 
+*   **Counterpoint / Critique to:** 
 
 ---
 
 ## 🎯 5. Transversal Dialogue and Applications
-*Open notes on the impact of these structures within your own conceptual framework.*
-
 <div align="justify">
 Record your intuitions here...
 </div>
+
+%% 
+Este bloco fica oculto no modo de leitura e gerencia a herança de propriedades se você alterar o modelo futuramente:
+`VIEW[{model - book-registration}][meta]`
+%%
