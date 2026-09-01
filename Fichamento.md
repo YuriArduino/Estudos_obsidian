@@ -1,15 +1,16 @@
 ---
 type: book
-title: "Sem título"
-author: "[[{{author}}]]"
-tags_principais: []
+title: "Introdução à filosofia da matemática"
+author: [[Bertrand Russell]]
+main_tags: []
 status: "reading"
-area: ""
-epoch: ""
-impacta_noosphera: []
+area: "Filosofia da Matemática"
+epoch: "Moderna"
+impacts_noosphera: []
 ---
 
-# 📚 Sem título
+
+# 📚 Fichamento
 
 > **Autor:** [[{{author}}]]
 > **Gênero/Escopo:** 

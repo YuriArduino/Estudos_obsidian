@@ -1,13 +1,14 @@
 ---
 type: book
-title: "{{title}}"
-author: "[[{{author}}]]"
-tags_principais: []
+title: "{{VALUE:Título do Livro}}"
+author: [[{{VALUE:Autor}}]]
+main_tags: []
 status: "reading"
-area: ""
-epoch: ""
-impacta_noosphera: []
+area: "{{VALUE:Área de Estudo}}"
+epoch: "{{VALUE:Época Clássica/Moderna/etc}}"
+impacts_noosphera: []
 ---
+
 
 # 📚 {{title}}
 
