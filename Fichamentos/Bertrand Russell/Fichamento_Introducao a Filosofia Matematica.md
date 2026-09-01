@@ -1,6 +1,6 @@
 ---
 type: book
-title: "{{title}}"
+title: Fichamento_Introducao a Filosofia Matematica
 author: "[[{{author}}]]"
 tags_principais: []
 status: reading
