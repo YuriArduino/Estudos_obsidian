@@ -28,7 +28,7 @@ Write your macro perception of the book here...
 ---
 
 ## 🔬 2. Fundamental Concepts and Invariants
-*   **[[Concept A]]**: 
+*   **[[]]**: 
 
 ---
 

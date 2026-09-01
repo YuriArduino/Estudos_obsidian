@@ -2,21 +2,64 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:01_Interconexões/Autores  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:01_Interconexões/Epocas  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:01_Interconexões/Conceitos  ",
+      "color": {
+        "a": 1,
+        "rgb": 6577366
+      }
+    },
+    {
+      "query": "path:Livros  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"Topologia Epistemológica/stanford\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:Fichamentos  ",
+      "color": {
+        "a": 1,
+        "rgb": 13958912
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "repelStrength": 16.8861260243007,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.252199031434179,
+  "scale": 0.3782985471512683,
   "close": false
 }
