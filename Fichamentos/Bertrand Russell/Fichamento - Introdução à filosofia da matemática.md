@@ -1,21 +1,21 @@
 ---
 type: book
-titulo: "[[{{VALUE:Título do Livro}}]]"
+titulo: "[[Introdução à filosofia da matemática]]"
 autor:
-- "[[{{VALUE:Autor}}]]"
+- "[[Bertrand Russell]]"
 tags_principais: []
 status: "reading"
-area: "{{VALUE:Área de Estudo}}"
-epoca: "{{VALUE:Época}}"
-ano_publicacao: "{{VALUE:Ano de Publicação}}"
+area: "Filosofia da matemática"
+epoca: "Entre_Guerras_e_Logica_Formal"
+ano_publicacao: "1921"
 impacta_noosphera: []
 ---
 
-# 📚 {{VALUE:Título do Livro}}
+# 📚 Introdução à filosofia da matemática
 
-> **Autor:** [[{{VALUE:Autor}}]]
-> **Época:** [[{{VALUE:Época}}]]
-> **Ano de Publicação:** {{VALUE:Ano de Publicação}}
+> **Autor:** [[Bertrand Russell]]
+> **Época:** [[Entre_Guerras_e_Logica_Formal]]
+> **Ano de Publicação:** 1921
 
 ---
 
