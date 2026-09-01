@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [tempo, logica, proposicoes]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - tempo
+  - logica
+  - proposicoes
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Lógica
+autores_associados:
   - "[[Sally Haslanger]]"
   - "[[Edward Jonathan Lowe]]"
   - "[[Arthur Prior]]"
 oposto_dialetico:
   - "[[Proposições Atemporais]]"
-implementado_em: 
+implementado_em:
   - "[[Observation]]"
   - "[[Lei X — A Reconstruibilidade Histórica]]"
 ---

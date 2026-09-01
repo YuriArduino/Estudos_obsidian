@@ -1,16 +1,21 @@
 ---
-tipo: conceito
-tags_principais: [logica, ontologia, dialetica]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - ontologia
+  - dialetica
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Aristóteles]]"
   - "[[Heráclito]]"
   - "[[Parmênides]]"
 oposto_dialetico:
   - "[[Estase Absoluta]]"
   - "[[Fluxo Absoluto]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 

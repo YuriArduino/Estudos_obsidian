@@ -1,17 +1,20 @@
 ---
-tipo: autor
-tags_principais: [metafisica, identidade, partes]
-status: "sintetizado"
-área: "Metafísica / Filosofia do Tempo"
-época: "Contemporâneo"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - identidade
+  - partes
+status: sintetizado
+area: Metafísica / Filosofia do Tempo
+epoca: Contemporâneo
+principais_conceitos:
   - "[[Teoria dos Tipos Dominantes]]"
   - "[[Partes e Todo]]"
-influenciou: 
+influenciou:
   - "[[Thomas Sattig]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[Peter van Inwagen]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Representation]]"
   - "[[Lei X — A Reconstruibilidade Histórica]]"
 ---

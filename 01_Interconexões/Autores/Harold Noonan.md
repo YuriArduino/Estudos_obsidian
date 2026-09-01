@@ -1,18 +1,21 @@
 ---
-tipo: autor
-tags_principais: [metafisica, identidade, constituicao]
-status: "sintetizado"
-área: "Metafísica / Filosofia da Linguagem"
-época: "Contemporâneo (séc. XX-XXI)"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - identidade
+  - constituicao
+status: sintetizado
+area: Metafísica / Filosofia da Linguagem
+epoca: Contemporâneo (séc. XX-XXI)
+principais_conceitos:
   - "[[Constituição vs Identidade]]"
   - "[[Coincidência]]"
-influenciou: 
+influenciou:
   - "[[Thomas Sattig]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[Lynne Rudder Baker]]"
   - "[[Kit Fine]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[KnowledgeObject]]"
 ---

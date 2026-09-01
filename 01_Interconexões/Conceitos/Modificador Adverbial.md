@@ -1,15 +1,21 @@
 ---
-tipo: conceito
-tags_principais: [logica, tempo, propriedades]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Filosofia do Tempo", "Linguística"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - tempo
+  - propriedades
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Filosofia do Tempo
+  - Linguística
+autores_associados:
   - "[[Mark Johnston ]]"
   - "[[Sally Haslanger]]"
 oposto_dialetico:
   - "[[Operador Sentencial]]"
   - "[[Visão Relacional]]"
-implementado_em: 
+implementado_em:
   - "[[Representation]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

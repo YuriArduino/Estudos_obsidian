@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [identidade, epistemologia, mooney]
-status: "sintetizado"
-areas_conceituais: ["Epistemologia", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - epistemologia
+  - mooney
+status: sintetizado
+areas_conceituais:
+  - Epistemologia
+  - Metafísica
+autores_associados:
   - "[[Justin Mooney]]"
 oposto_dialetico:
   - "[[Critérios Metafísicos de Identidade]]"
   - "[[Critérios Explicativos]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 

@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [identidade, tempo, paradoxo]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - tempo
+  - paradoxo
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[David Lewis]]"
   - "[[Theodore Sider]]"
 oposto_dialetico:
   - "[[Fissão Assimétrica]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei X — A Reconstruibilidade Histórica]]"
 ---

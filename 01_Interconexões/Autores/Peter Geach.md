@@ -1,12 +1,12 @@
 ---
-tipo: autor
+"type:": autor
 tags_principais:
   - logica
   - identidade
   - linguagem
 status: sintetizado
-área: Filosofia Analítica / Lógica
-época: 1916 - 2013
+area: Filosofia Analítica / Lógica
+epoca: 1916 - 2013
 principais_conceitos:
   - "[[Identidade Relativa]]"
   - "[[Conceitos Sortais]]"

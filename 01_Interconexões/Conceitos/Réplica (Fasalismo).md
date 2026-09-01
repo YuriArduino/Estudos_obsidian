@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [fasalismo, identidade, navio-de-teseu]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - fasalismo
+  - identidade
+  - navio-de-teseu
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Justin Mooney]]"
 oposto_dialetico:
   - "[[Navio de Teseu]]"
-  - "Original (Substância)"
-implementado_em: 
+  - Original (Substância)
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---

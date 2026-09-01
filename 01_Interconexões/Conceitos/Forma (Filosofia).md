@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, metafisica, aristoteles]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Natureza"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - metafisica
+  - aristoteles
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Natureza
+autores_associados:
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Matéria (Filosofia)]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

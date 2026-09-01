@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [identidade, logica, sortais]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - logica
+  - sortais
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Peter Geach]]"
 oposto_dialetico:
   - "[[Identidade Absoluta]]"
-implementado_em: 
+implementado_em:
   - "[[04 — Gramática Formal]]"
   - "[[KnowledgeObject]]"
 ---

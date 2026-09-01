@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, parsimonia, criticas]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - parsimonia
+  - criticas
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[Ernest Sosa]]"
   - "[[Harold Noonan]]"
 oposto_dialetico:
   - "[[Parsimônia Ontológica]]"
-implementado_em: 
+implementado_em:
   - "[[Teste de Admissão Ontológica]]"
 ---
 

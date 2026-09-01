@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, tempo, paradoxo]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - tempo
+  - paradoxo
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[David Lewis]]"
   - "[[Andre Gallois]]"
   - "[[Theodore Sider]]"
 oposto_dialetico:
   - "[[Fusão]]"
-implementado_em: 
+implementado_em:
   - "[[Observation]]"
   - "[[KnowledgeObject]]"
 ---

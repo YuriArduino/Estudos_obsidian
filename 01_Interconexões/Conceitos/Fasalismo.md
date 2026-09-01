@@ -1,16 +1,21 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, identidade, mooney]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - identidade
+  - mooney
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Justin Mooney]]"
   - "[[Michael Ayers]]"
   - "[[Marjorie Price]]"
 oposto_dialetico:
-  - "Sortais de Substância"
-  - "Essencialismo"
-implementado_em: 
+  - Sortais de Substância
+  - Essencialismo
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[KnowledgeObject]]"
 ---

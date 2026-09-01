@@ -1,20 +1,23 @@
 ---
-tipo: autor
-tags_principais: [logica, linguagem, filosofia-analitica]
-status: "sintetizado"
-área: "Filosofia da Linguagem / Lógica"
-época: "1889 - 1951"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - logica
+  - linguagem
+  - filosofia-analitica
+status: sintetizado
+area: Filosofia da Linguagem / Lógica
+epoca: 1889 - 1951
+principais_conceitos:
   - "[[Dispensabilidade da Identidade]]"
   - "[[Teoria da Imagem (Tractatus)]]"
   - "[[Jogos de Linguagem]]"
-influenciou: 
+influenciou:
   - "[[Quine]]"
   - "[[Peter Geach]]"
   - "[[Saul Kripke]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[Russell (Bertrand)]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Gramática]]"
 ---
 

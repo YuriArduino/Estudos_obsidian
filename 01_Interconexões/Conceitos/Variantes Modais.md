@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [modalidade, plenitude, coincidencia]
-status: "sintetizado"
-areas_conceituais: ["Lógica Modal", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - modalidade
+  - plenitude
+  - coincidencia
+status: sintetizado
+areas_conceituais:
+  - Lógica Modal
+  - Metafísica
+autores_associados:
   - "[[Maegan Fairchild]]"
   - "[[Penelope Mackie]]"
 oposto_dialetico:
-  - "[[Objeto Único]]" 
-  - "(Sem Variantes)"
-implementado_em: 
+  - "[[Objeto Único]]"
+  - (Sem Variantes)
+implementado_em:
   - "[[Representation]]"
   - "[[KnowledgeObject]]"
 ---

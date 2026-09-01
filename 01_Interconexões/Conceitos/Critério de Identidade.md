@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, logica, sortais]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - logica
+  - sortais
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Aristóteles]]"
   - "[[Peter Geach]]"
   - "[[Saul Kripke]]"
 oposto_dialetico:
   - "[[Identidade como Fato Bruto]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[KnowledgeObject]]"
 ---

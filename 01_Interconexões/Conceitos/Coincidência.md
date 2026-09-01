@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, espaco, coincidencia]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia do Espaço"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - espaco
+  - coincidencia
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia do Espaço
+autores_associados:
   - "[[Thomson]]"
   - "[[David Lewis]]"
   - "[[Kit Fine]]"
 oposto_dialetico:
   - "[[Unicidade Espacial]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---

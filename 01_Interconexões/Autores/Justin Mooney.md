@@ -1,20 +1,23 @@
 ---
-tipo: autor
-tags_principais: [fasalismo, identidade, tempo]
-status: "sintetizado"
-área: "Metafísica / Filosofia do Tempo"
-época: "Contemporâneo"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - fasalismo
+  - identidade
+  - tempo
+status: sintetizado
+area: Metafísica / Filosofia do Tempo
+epoca: Contemporâneo
+principais_conceitos:
   - "[[Fasalismo]]"
   - "[[Particular Fino]]"
   - "[[Critérios Epistêmicos de Identidade]]"
   - "[[Réplica (Fasalismo)]]"
-influenciou: 
+influenciou:
   - "[[Daniel Korman]]"
   - "[[Thomas Sattig]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[Daniel Korman]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[KnowledgeObject]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

@@ -1,21 +1,24 @@
 ---
-tipo: autor
-tags_principais: [metafisica, tempo, quadridimensionalismo]
-status: "sintetizado"
-área: "Metafísica / Lógica / Filosofia do Tempo"
-época: "1970 - presente"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - tempo
+  - quadridimensionalismo
+status: sintetizado
+area: Metafísica / Lógica / Filosofia do Tempo
+epoca: 1970 - presente
+principais_conceitos:
   - "[[Quadridimensionalismo]]"
   - "[[Teoria dos Estágios]]"
   - "[[Argumento da Vagueness]]"
   - "[[Exdurantismo]]"
-influenciou: 
+influenciou:
   - "[[Katherine Hawley]]"
   - "[[Justin Mooney]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[Frank Jackson]]"
   - "[[Andre Gallois]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Domínio Permanente]]"
   - "[[Observation]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"

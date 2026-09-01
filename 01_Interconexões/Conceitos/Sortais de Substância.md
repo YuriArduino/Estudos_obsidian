@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, identidade, sortais]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Linguagem"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - identidade
+  - sortais
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Linguagem
+autores_associados:
   - "[[Aristóteles]]"
   - "[[Peter Geach]]"
 oposto_dialetico:
   - "[[Sortais de Fase]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

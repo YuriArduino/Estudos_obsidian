@@ -1,22 +1,25 @@
 ---
-tipo: autor
-tags_principais: [logica, modalidade, identidade]
-status: "sintetizado"
-área: "Lógica / Filosofia da Linguagem / Metafísica"
-época: "1940 - 2022"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - logica
+  - modalidade
+  - identidade
+status: sintetizado
+area: Lógica / Filosofia da Linguagem / Metafísica
+epoca: 1940 - 2022
+principais_conceitos:
   - "[[Designadores Rígidos]]"
   - "[[Identidade Necessária]]"
   - "[[Argumento Modal pela Necessidade das Identidades]]"
   - "[[Verdades Necessárias a Posteriori]]"
-influenciou: 
+influenciou:
   - "[[David Lewis]]"
   - "[[Alvin Plantinga]]"
   - "[[Nathan Salmon]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[David Lewis]]"
   - "[[Quine]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[KnowledgeObject]]"
 ---

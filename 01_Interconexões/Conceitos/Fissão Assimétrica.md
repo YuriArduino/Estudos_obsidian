@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, tempo, paradoxo]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - tempo
+  - paradoxo
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[Aristóteles]]"
   - "[[David Lewis]]"
   - "[[Roderick Chisholm]]"
 oposto_dialetico:
   - "[[Fissão Simétrica]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

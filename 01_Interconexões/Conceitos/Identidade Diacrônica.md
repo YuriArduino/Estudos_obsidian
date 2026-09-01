@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, tempo, persistencia]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - tempo
+  - persistencia
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[Aristóteles]]"
   - "[[David Lewis]]"
   - "[[Saul Kripke]]"
 oposto_dialetico:
   - "[[Identidade Sincrônica]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Observation]]"

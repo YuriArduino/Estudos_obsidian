@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, tempo, logica]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - tempo
+  - logica
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Andre Gallois]]"
   - "[[George Myro]]"
 oposto_dialetico:
   - "[[Identidade Necessária]]"
   - "[[Saul Kripke]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Observation]]"
 ---

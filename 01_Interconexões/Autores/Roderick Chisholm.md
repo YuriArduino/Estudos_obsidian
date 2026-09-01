@@ -1,20 +1,23 @@
 ---
-tipo: autor
-tags_principais: [metafisica, identidade, epistemologia]
-status: "sintetizado"
-área: "Metafísica / Epistemologia / Filosofia da Percepção"
-época: "1916 - 1999"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - identidade
+  - epistemologia
+status: sintetizado
+area: Metafísica / Epistemologia / Filosofia da Percepção
+epoca: 1916 - 1999
+principais_conceitos:
   - "[[Identidade Estrita]]"
   - "[[Identidade Frouxa]]"
   - "[[Entia Successiva]]"
-influenciou: 
+influenciou:
   - "[[Mark Steen]]"
   - "[[Ernest Sosa]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[David Lewis]]"
   - "[[Quine]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Observation]]"
 ---

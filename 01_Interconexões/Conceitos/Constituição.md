@@ -1,16 +1,21 @@
 ---
-tipo: conceito
-tags_principais: [metafisica, identidade, ontologia]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - metafisica
+  - identidade
+  - ontologia
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Lynne Rudder Baker]]"
   - "[[Kit Fine]]"
   - "[[Thomson]]"
 oposto_dialetico:
   - "[[Identidade]]"
-  - "Constituição vs Identidade"
-implementado_em: 
+  - Constituição vs Identidade
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---

@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [modalidade, logica, propriedades]
-status: "sintetizado"
-areas_conceituais: ["Lógica Modal", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - modalidade
+  - logica
+  - propriedades
+status: sintetizado
+areas_conceituais:
+  - Lógica Modal
+  - Metafísica
+autores_associados:
   - "[[Saul Kripke]]"
   - "[[David Lewis]]"
 oposto_dialetico:
-  - "Propriedades Atuais (Não-Modais)"
-implementado_em: 
+  - Propriedades Atuais (Não-Modais)
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 

@@ -1,22 +1,26 @@
 ---
-tipo: autor
-tags_principais: [metafisica, logica, tempo, modalidade]
-status: "sintetizado"
-área: "Metafísica / Filosofia Analítica"
-época: "1941 - 2001"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - logica
+  - tempo
+  - modalidade
+status: sintetizado
+area: Metafísica / Filosofia Analítica
+epoca: 1941 - 2001
+principais_conceitos:
   - "[[Quadridimensionalismo]]"
   - "[[Perdurantismo]]"
   - "[[Problema dos Intrínsecos Temporários]]"
   - "[[Realismo Modal]]"
   - "[[Teoria dos Correspondentes]]"
-influenciou: 
+influenciou:
   - "[[ Theodore Sider]]"
   - "[[Katherine Hawley ]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[Frank Jackson]]"
   - "[[Roderick Chisholm]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Domínio Permanente]]"
   - "[[Observation]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"

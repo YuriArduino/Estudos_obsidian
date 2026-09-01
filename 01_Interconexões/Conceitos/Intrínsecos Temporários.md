@@ -1,15 +1,21 @@
 ---
-tipo: conceito
-tags_principais: [tempo, propriedades, lewis]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - tempo
+  - propriedades
+  - lewis
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[David Lewis]]"
   - "[[Sally Haslanger]]"
   - "[[Mark Johnston]]"
 oposto_dialetico:
   - "[[Propriedades Atemporais]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Representation]]"
 ---

@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [metafisica, explicacao, coincidencia]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Ciência"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - metafisica
+  - explicacao
+  - coincidencia
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Ciência
+autores_associados:
   - "[[Ryan Wasserman]]"
   - "[[Karen Bennett]]"
   - "[[Irem Kurtsal]]"
 oposto_dialetico:
   - "[[Fundamentação (Grounding)]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 

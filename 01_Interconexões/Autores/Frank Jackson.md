@@ -1,20 +1,23 @@
 ---
-tipo: autor
-tags_principais: [metafisica, tempo, filosofia-da-mente]
-status: "sintetizado"
-área: "Metafísica / Filosofia da Mente / Epistemologia"
-época: "1943 - presente"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - tempo
+  - filosofia-da-mente
+status: sintetizado
+area: Metafísica / Filosofia da Mente / Epistemologia
+epoca: 1943 - presente
+principais_conceitos:
   - "[[Universo Cintilante]]"
   - "[[Qualia]]"
   - "[[Argumento do Conhecimento]]"
-influenciou: 
+influenciou:
   - "[[David Chalmers]]"
   - "[[Daniel Dennett]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[David Lewis]]"
   - "[[Theodore Sider]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Domínio Permanente]]"
 ---

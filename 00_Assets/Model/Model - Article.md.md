@@ -1,7 +1,9 @@
 ---
 type: article
-titulo: ""
-autor: ""
+titulo:
+- "[[]]"
+autor:
+- "[[{{VALUE:Autor}}]]"
 fonte: ""
 data-publicação: ""
 data-revisão: ""

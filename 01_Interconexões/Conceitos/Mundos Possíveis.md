@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [modalidade, lewis, kripke]
-status: "sintetizado"
-areas_conceituais: ["Lógica Modal", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - modalidade
+  - lewis
+  - kripke
+status: sintetizado
+areas_conceituais:
+  - Lógica Modal
+  - Metafísica
+autores_associados:
   - "[[David Lewis]]"
   - "[[Saul Kripke]]"
 oposto_dialetico:
   - "[[Atualismo]]"
-implementado_em: 
+implementado_em:
   - "[[Teoria dos Correspondentes]]"
 ---
 

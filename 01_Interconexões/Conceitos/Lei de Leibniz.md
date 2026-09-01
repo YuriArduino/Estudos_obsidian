@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [logica, identidade, validacao]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - identidade
+  - validacao
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Leibniz]]"
 oposto_dialetico:
-  - "Identidade dos Indiscerníveis"
-implementado_em: 
+  - Identidade dos Indiscerníveis
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
   - "[[Teste de Admissão Ontológica]]"

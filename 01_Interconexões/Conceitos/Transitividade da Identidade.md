@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, logica, relacoes]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - logica
+  - relacoes
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Leibniz]]"
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Intransitividade]]"
   - "[[Transitividade da Identidade Temporária (TTI)]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[04 — Gramática Formal]]"
 ---

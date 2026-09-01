@@ -1,16 +1,23 @@
 ---
-tipo: conceito
-tags_principais: [mereologia, partes, todo, ontologia]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica", "Matemática"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - mereologia
+  - partes
+  - todo
+  - ontologia
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+  - Matemática
+autores_associados:
   - "[[Aristóteles]]"
   - "[[Peter van Inwagen]]"
   - "[[David Lewis]]"
   - "[[Theodore Sider]]"
 oposto_dialetico:
   - "[[Nilismo Mereológico]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---

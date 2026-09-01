@@ -1,17 +1,20 @@
 ---
-tipo: autor
-tags_principais: [metafisica, identidade, chisholm]
-status: "sintetizado"
-área: "Metafísica / História da Filosofia"
-época: "Contemporâneo"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - identidade
+  - chisholm
+status: sintetizado
+area: Metafísica / História da Filosofia
+epoca: Contemporâneo
+principais_conceitos:
   - "[[Estudos sobre Chisholm]]"
   - "[[Identidade Estrita]]"
   - "[[Identidade Frouxa]]"
-influenciou: 
+influenciou:
   - "[[Thomas Sattig]]"
 foi_criticado_por: []
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Observation]]"
 ---

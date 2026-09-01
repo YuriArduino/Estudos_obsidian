@@ -1,13 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [sattig, identidade, forma, material]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - sattig
+  - identidade
+  - forma
+  - material
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Thomas Sattig]]"
 oposto_dialetico:
-  - "Perspectiva Material (Soma Mereológica)"
-implementado_em: 
+  - Perspectiva Material (Soma Mereológica)
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[KnowledgeObject]]"
 ---

@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [logica, identidade, leibniz]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - identidade
+  - leibniz
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Leibniz]]"
 oposto_dialetico:
   - "[[Identidade dos Indiscerníveis]]"
-implementado_em: 
+implementado_em:
   - "[[Lei de Leibniz]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

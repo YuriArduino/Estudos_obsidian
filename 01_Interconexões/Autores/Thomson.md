@@ -1,19 +1,22 @@
 ---
-tipo: autor
-tags_principais: [metafisica, identidade, coincidencia]
-status: "sintetizado"
-área: "Metafísica / Filosofia Analítica"
-época: "1929 - 2020"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - identidade
+  - coincidencia
+status: sintetizado
+area: Metafísica / Filosofia Analítica
+epoca: 1929 - 2020
+principais_conceitos:
   - "[[Coincidência Espacial]]"
   - "[[Coincidence View]]"
-influenciou: 
+influenciou:
   - "[[Kit Fine]]"
   - "[[Thomas Sattig ]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[Harold Noonan]]"
   - "[[Ernest Sosa]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---

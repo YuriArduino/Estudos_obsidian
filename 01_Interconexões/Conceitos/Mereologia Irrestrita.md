@@ -1,16 +1,22 @@
 ---
-tipo: conceito
-tags_principais: [mereologia, composicao, lewis]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica", "Matemática"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - mereologia
+  - composicao
+  - lewis
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+  - Matemática
+autores_associados:
   - "[[David Lewis]]"
   - "[[Theodore Sider]]"
   - "[[Peter van Inwagen]]"
 oposto_dialetico:
   - "[[Doutrina das Partes Arbitrárias sem Anexo]]"
   - "[[Nilismo Mereológico]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei X — A Reconstruibilidade Histórica]]"
 ---

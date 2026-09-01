@@ -1,7 +1,7 @@
 ---
-tipo: autor
+"type:": autor
 area: ""
-época: ""
+epoca: ""
 dialoga_com: []
 tese_principal: ""
 antitêse_para: ""

@@ -1,14 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [identidade, logica]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - logica
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Leibniz]]"
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Identidade Qualitativa]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
 ---
 

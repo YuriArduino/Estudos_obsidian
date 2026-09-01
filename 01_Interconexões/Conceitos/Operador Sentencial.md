@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [logica, tempo, proposicoes]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - tempo
+  - proposicoes
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Filosofia do Tempo
+autores_associados:
   - "[[David Lewis]]"
 oposto_dialetico:
   - "[[Modificador Adverbial]]"
   - "[[Visão Relacional]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 

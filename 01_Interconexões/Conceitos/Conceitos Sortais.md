@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, identidade, linguagem]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Linguagem"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - identidade
+  - linguagem
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Linguagem
+autores_associados:
   - "[[Peter Geach]]"
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Conceitos Não-Sortais]]"
   - "(ex: matéria, cor)"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[04 — Gramática Formal]]"
 ---

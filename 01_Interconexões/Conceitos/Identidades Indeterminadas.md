@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [identidade, logica, vagueza]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - logica
+  - vagueza
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Metafísica
+autores_associados:
   - "[[Gareth Evans]]"
   - "[[Nathan Salmon]]"
 oposto_dialetico:
   - "[[Identidade Determinada]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---

@@ -1,19 +1,22 @@
 ---
-tipo: autor
-tags_principais: [metafisica, epistemologia, ontologia-social]
-status: "sintetizado"
-área: "Metafísica / Epistemologia / Teoria Feminista"
-época: "1955 - presente"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - epistemologia
+  - ontologia-social
+status: sintetizado
+area: Metafísica / Epistemologia / Teoria Feminista
+epoca: 1955 - presente
+principais_conceitos:
   - "[[Proposições Tencionadas]]"
   - "[[Ontologia Social]]"
   - "[[Construção Social]]"
-influenciou: 
+influenciou:
   - "[[Thomas Sattig]]"
   - "[[Justin Mooney]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[David Lewis]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei X — A Reconstruibilidade Histórica]]"
   - "[[Observation]]"
 ---

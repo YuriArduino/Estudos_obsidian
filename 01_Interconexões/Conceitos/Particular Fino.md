@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, mooney, substrato]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - mooney
+  - substrato
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[Justin Mooney]]"
 oposto_dialetico:
   - "[[Substância]]"
-  - "(com propriedades)"
-implementado_em: 
+  - (com propriedades)
+implementado_em:
   - "[[KnowledgeObject]]"
 ---
 

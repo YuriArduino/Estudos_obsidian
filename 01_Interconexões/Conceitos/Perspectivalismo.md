@@ -1,13 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [perspectiva, identidade, sattig, metafisica]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia do Tempo", "Epistemologia"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - perspectiva
+  - identidade
+  - sattig
+  - metafisica
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia do Tempo
+  - Epistemologia
+autores_associados:
   - "[[Thomas Sattig]]"
 oposto_dialetico:
   - "[[Absolutismo Ontológico]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---

@@ -1,18 +1,21 @@
 ---
-tipo: autor
-tags_principais: [metafisica, logica, mente]
-status: "sintetizado"
-área: "Metafísica / Filosofia da Mente / Lógica Filosófica"
-época: "1950 - 2014"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - logica
+  - mente
+status: sintetizado
+area: Metafísica / Filosofia da Mente / Lógica Filosófica
+epoca: 1950 - 2014
+principais_conceitos:
   - "[[Proposições Tencionadas]]"
   - "[[Dualismo de Substâncias]]"
-influenciou: 
+influenciou:
   - "[[Thomas Sattig]]"
   - "[[Kit Fine]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[David Lewis]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei X — A Reconstruibilidade Histórica]]"
   - "[[Observation]]"
 ---

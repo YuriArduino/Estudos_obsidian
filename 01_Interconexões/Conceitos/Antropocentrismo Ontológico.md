@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, antropocentrismo, sortais]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Linguagem"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - antropocentrismo
+  - sortais
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Linguagem
+autores_associados:
   - "[[John Hawthorne ]]"
   - "[[Maegan Fairchild]]"
 oposto_dialetico:
   - "[[Realismo Ontológico]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 

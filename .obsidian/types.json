@@ -44,6 +44,8 @@
     "Contrato de Fronteira Acionado": "text",
     "Tipo de Artefato": "text",
     "Implementa qual Contrato?": "multitext",
-    "Papel na Infraestrutura": "text"
+    "Papel na Infraestrutura": "text",
+    "epoca": "multitext",
+    "area": "multitext"
   }
 }

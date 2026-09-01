@@ -1,14 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, tempo, gallois, transitoriedade]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Filosofia do Tempo"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - tempo
+  - gallois
+  - transitoriedade
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Filosofia do Tempo
+autores_associados:
   - "[[Andre Gallois]]"
 oposto_dialetico:
   - "[[Transitividade da Identidade]]"
-  - "(Clássica)"
-implementado_em: 
+  - (Clássica)
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 

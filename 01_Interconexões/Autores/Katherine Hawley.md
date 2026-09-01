@@ -1,18 +1,21 @@
 ---
-tipo: autor
-tags_principais: [metafisica, tempo, exdurantismo]
-status: "sintetizado"
-área: "Metafísica / Filosofia do Tempo"
-época: "1971 - presente"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - tempo
+  - exdurantismo
+status: sintetizado
+area: Metafísica / Filosofia do Tempo
+epoca: 1971 - presente
+principais_conceitos:
   - "[[Exdurantismo]]"
   - "[[Teoria dos Estágios]]"
-influenciou: 
+influenciou:
   - "[[Theodore Sider]]"
   - "[[Justin Mooney]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[David Lewis]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---

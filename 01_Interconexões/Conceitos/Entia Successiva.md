@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [identidade, chisholm, tempo]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - chisholm
+  - tempo
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[Roderick Chisholm]]"
 oposto_dialetico:
   - "[[Objeto Substancial]]"
-implementado_em: 
+implementado_em:
   - "[[Observation]]"
   - "[[Lei X — A Reconstruibilidade Histórica]]"
 ---

@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [modalidade, identidade, logica]
-status: "sintetizado"
-areas_conceituais: ["Lógica Modal", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - modalidade
+  - identidade
+  - logica
+status: sintetizado
+areas_conceituais:
+  - Lógica Modal
+  - Metafísica
+autores_associados:
   - "[[Saul Kripke]]"
   - "[[Ruth Barcan Marcus]]"
 oposto_dialetico:
   - "[[Identidades Contingentes]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 

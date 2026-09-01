@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [tempo, persistencia, lewis]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - tempo
+  - persistencia
+  - lewis
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[David Lewis]]"
   - "[[Theodore Sider]]"
 oposto_dialetico:
   - "[[Exdurantismo]]"
   - "[[Endurantismo]]"
-implementado_em: 
+implementado_em:
   - "[[Domínio Permanente]]"
   - "[[Observation]]"
 ---

@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [logica, propriedades, metafisica]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - propriedades
+  - metafisica
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[Aristóteles]]"
   - "[[David Lewis]]"
 oposto_dialetico:
   - "[[Predicação como relação binária]]"
-implementado_em: 
+implementado_em:
   - "[[Representation]]"
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---

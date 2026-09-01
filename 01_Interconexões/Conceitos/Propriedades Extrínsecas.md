@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [propriedades, relacoes, metafisica]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - propriedades
+  - relacoes
+  - metafisica
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[David Lewis]]"
 oposto_dialetico:
   - "[[Propriedades Intrínsecas]]"
-implementado_em: 
+implementado_em:
   - "[[Relation]]"
   - "[[04 — Gramática Formal]]"
 ---

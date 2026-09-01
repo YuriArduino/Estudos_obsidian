@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, mudanca, aristoteles]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Linguagem"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - mudanca
+  - aristoteles
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Linguagem
+autores_associados:
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Propriedades Essenciais]]"
-implementado_em: 
+implementado_em:
   - "[[Representation]]"
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---

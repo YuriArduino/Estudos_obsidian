@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, identidade, aristoteles]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Teoria da Identidade"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - identidade
+  - aristoteles
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Teoria da Identidade
+autores_associados:
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Propriedades Acidentais]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, chisholm, metafisica]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - chisholm
+  - metafisica
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[Roderick Chisholm]]"
   - "[[Joseph Butler]]"
 oposto_dialetico:
   - "[[Identidade Estrita]]"
   - "[[Identidade Filosófica]]"
-implementado_em: 
+implementado_em:
   - "[[Observation]]"
   - "[[Lei X — A Reconstruibilidade Histórica]]"
 ---

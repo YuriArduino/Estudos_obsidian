@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [mereologia, van-inwagen, partes]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Mereologia"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - mereologia
+  - van-inwagen
+  - partes
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Mereologia
+autores_associados:
   - "[[Peter van Inwagen]]"
 oposto_dialetico:
   - "[[Mereologia Irrestrita]]"
   - "[[Composição Irrestrita]]"
-implementado_em: 
+implementado_em:
   - "[[Representation]]"
   - "[[KnowledgeObject]]"
 ---

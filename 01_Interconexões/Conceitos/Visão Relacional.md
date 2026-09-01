@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [logica, tempo, propriedades]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - tempo
+  - propriedades
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[David Lewis]]"
 oposto_dialetico:
   - "[[Modificador Adverbial]]"
-  - "Operador Sentencial"
-implementado_em: 
+  - Operador Sentencial
+implementado_em:
   - "[[Representation]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

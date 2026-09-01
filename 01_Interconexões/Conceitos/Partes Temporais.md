@@ -1,16 +1,21 @@
 ---
-tipo: conceito
-tags_principais: [tempo, persistencia, metafisica]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - tempo
+  - persistencia
+  - metafisica
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[David Lewis]]"
   - "[[Theodore Sider]]"
   - "[[Katherine Hawley]]"
 oposto_dialetico:
   - "[[Partes Espaciais]]"
-  - "(como modelo único)"
-implementado_em: 
+  - (como modelo único)
+implementado_em:
   - "[[Observation]]"
   - "[[Domínio Permanente]]"
 ---

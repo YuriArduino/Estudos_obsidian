@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [superveniencia, lewis, metafisica]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Mente"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - superveniencia
+  - lewis
+  - metafisica
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Mente
+autores_associados:
   - "[[David Lewis]]"
 oposto_dialetico:
   - "[[Reducionismo]]"
   - "[[Eliminativismo]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Observation]]"
 ---

@@ -1,13 +1,18 @@
 ---
-tipo: conceito
-tags_principais: [ontologia, mudanca, aristoteles]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Natureza"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - ontologia
+  - mudanca
+  - aristoteles
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Natureza
+autores_associados:
   - "[[Aristóteles]]"
 oposto_dialetico:
   - "[[Mudança Acidental]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---

@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [identidade, chisholm, metafisica]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Lógica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - identidade
+  - chisholm
+  - metafisica
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Lógica
+autores_associados:
   - "[[Roderick Chisholm]]"
   - "[[Joseph Butler]]"
 oposto_dialetico:
   - "[[Identidade Frouxa]]"
   - "[[Identidade Popular]]"
-implementado_em: 
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
   - "[[KnowledgeObject]]"
 ---

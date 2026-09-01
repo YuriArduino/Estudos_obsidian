@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [filosofia-da-mente, identidade, coincidencia]
-status: "sintetizado"
-areas_conceituais: ["Filosofia da Mente", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - filosofia-da-mente
+  - identidade
+  - coincidencia
+status: sintetizado
+areas_conceituais:
+  - Filosofia da Mente
+  - Metafísica
+autores_associados:
   - "[[Eric Olsen ]]"
   - "[[Sydney Shoemaker]]"
 oposto_dialetico:
   - "[[Unicidade da Mente]]"
-implementado_em: 
+implementado_em:
   - "[[Competency]]"
 ---
 

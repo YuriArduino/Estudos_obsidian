@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [modalidade, lewis, mundos-possiveis]
-status: "sintetizado"
-areas_conceituais: ["Lógica Modal", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - modalidade
+  - lewis
+  - mundos-possiveis
+status: sintetizado
+areas_conceituais:
+  - Lógica Modal
+  - Metafísica
+autores_associados:
   - "[[David Lewis]]"
 oposto_dialetico:
-  - "[[Designadores Rígidos]]" 
-  - "(Kripke)"
-implementado_em: 
+  - "[[Designadores Rígidos]]"
+  - (Kripke)
+implementado_em:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 

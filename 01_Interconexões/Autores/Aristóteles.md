@@ -1,21 +1,24 @@
 ---
-tipo: autor
-tags_principais: [ontologia, filosofia-antiga, hilemorfismo]
-status: "sintetizado"
-área: "Metafísica / Filosofia da Natureza"
-época: "384 a.C. - 322 a.C."
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - ontologia
+  - filosofia-antiga
+  - hilemorfismo
+status: sintetizado
+area: Metafísica / Filosofia da Natureza
+epoca: 384 a.C. - 322 a.C.
+principais_conceitos:
   - "[[Hilomorfismo]]"
   - "[[Mudança Acidental]]"
   - "[[Mudança Essencial]]"
-influenciou: 
+influenciou:
   - "[[Tomás de Aquino]]"
   - "[[Filosofia Analítica]]"
   - "[[Barry Smith (BFO)]]"
-foi_criticado_por: 
+foi_criticado_por:
   - "[[David Hume]]"
   - "[[John Locke]]"
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---

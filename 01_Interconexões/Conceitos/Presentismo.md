@@ -1,9 +1,14 @@
 ---
-tipo: conceito
-tags_principais: [tempo, metafisica, persistencia]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - tempo
+  - metafisica
+  - persistencia
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[Augustine]]"
   - "[[Arthur Prior]]"
   - "[[David Lewis]]"
@@ -11,7 +16,7 @@ oposto_dialetico:
   - "[[Teoria B do Tempo]]"
   - "[[Eternalismo]]"
   - "[[Quadridimensionalismo]]"
-implementado_em: 
+implementado_em:
   - "[[Domínio Transitório]]"
 ---
 

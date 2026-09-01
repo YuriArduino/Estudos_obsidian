@@ -1,16 +1,22 @@
 ---
-tipo: conceito
-tags_principais: [logica, verdade, epistemologia]
-status: "sintetizado"
-areas_conceituais: ["Lógica", "Epistemologia", "Filosofia da Linguagem"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - logica
+  - verdade
+  - epistemologia
+status: sintetizado
+areas_conceituais:
+  - Lógica
+  - Epistemologia
+  - Filosofia da Linguagem
+autores_associados:
   - "[[Aristóteles]]"
   - "[[Bertrand Russell ]]"
   - "[[Wittgenstein]]"
 oposto_dialetico:
   - "[[Teoria da Coerência da Verdade]]"
   - "[[Teoria Pragmática da Verdade]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
   - "[[Observation]]"
 ---

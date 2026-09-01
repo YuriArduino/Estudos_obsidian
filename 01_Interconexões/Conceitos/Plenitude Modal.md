@@ -1,16 +1,21 @@
 ---
-tipo: conceito
-tags_principais: [modalidade, ontologia, coincidencia]
-status: "sintetizado"
-areas_conceituais: ["Lógica Modal", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - modalidade
+  - ontologia
+  - coincidencia
+status: sintetizado
+areas_conceituais:
+  - Lógica Modal
+  - Metafísica
+autores_associados:
   - "[[Maegan Fairchild ]]"
   - "[[Penelope Mackie ]]"
   - "[[Irem Kurtsal]]"
 oposto_dialetico:
   - "[[Restrição Modal]]"
   - "[[Essencialismo Restrito]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 

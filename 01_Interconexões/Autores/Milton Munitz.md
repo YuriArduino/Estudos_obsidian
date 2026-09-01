@@ -1,16 +1,19 @@
 ---
-tipo: autor
-tags_principais: [metafisica, identidade, logica]
-status: "sintetizado"
-área: "Metafísica / Filosofia da Ciência"
-época: "1913 - 1995"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - identidade
+  - logica
+status: sintetizado
+area: Metafísica / Filosofia da Ciência
+epoca: 1913 - 1995
+principais_conceitos:
   - "[[Identidade e Individuação]]"
-influenciou: 
+influenciou:
   - "[[Saul Kripke]]"
   - "[[Ruth Barcan Marcus]]"
 foi_criticado_por: []
-impacta_noosphera: 
+impacta_noosphera:
   - "[[Lei II — A Invariância da Identidade do Conhecimento]]"
 ---
 

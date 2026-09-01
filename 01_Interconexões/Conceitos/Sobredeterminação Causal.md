@@ -1,5 +1,5 @@
 ---
-tipo: conceito
+"type:": conceito
 tags_principais:
   - causalidade
   - metafisica

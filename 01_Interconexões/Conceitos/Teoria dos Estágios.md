@@ -1,15 +1,20 @@
 ---
-tipo: conceito
-tags_principais: [tempo, persistencia, exdurantismo]
-status: "sintetizado"
-areas_conceituais: ["Filosofia do Tempo", "Metafísica"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - tempo
+  - persistencia
+  - exdurantismo
+status: sintetizado
+areas_conceituais:
+  - Filosofia do Tempo
+  - Metafísica
+autores_associados:
   - "[[Theodore Sider]]"
   - "[[Katherine Hawley]]"
 oposto_dialetico:
   - "[[Perdurantismo]]"
   - "[[Endurantismo]]"
-implementado_em: 
+implementado_em:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---

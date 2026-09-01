@@ -1,14 +1,19 @@
 ---
-tipo: conceito
-tags_principais: [metafisica, fundamentacao, explicacao]
-status: "sintetizado"
-areas_conceituais: ["Metafísica", "Filosofia da Ciência"]
-autores_associados: 
+"type:": conceito
+tags_principais:
+  - metafisica
+  - fundamentacao
+  - explicacao
+status: sintetizado
+areas_conceituais:
+  - Metafísica
+  - Filosofia da Ciência
+autores_associados:
   - "[[Kit Fine]]"
   - "[[Jonathan Schaffer]]"
 oposto_dialetico:
   - "[[Fatos Brutos]]"
-implementado_em: 
+implementado_em:
   - "[[Lei IV — A Exclusividade Cognitiva das Competências]]"
 ---
 

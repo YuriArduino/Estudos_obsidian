@@ -1,15 +1,17 @@
 ---
-tipo: autor
-tags_principais: [metafisica, identidade]
-status: "sintetizado"
-área: "Metafísica / Filosofia Analítica"
-época: "Contemporâneo (séc. XX-XXI)"
-principais_conceitos: 
+"type:": autor
+tags_principais:
+  - metafisica
+  - identidade
+status: sintetizado
+area: Metafísica / Filosofia Analítica
+epoca: Contemporâneo (séc. XX-XXI)
+principais_conceitos:
   - "[[Coincidência]]"
-influenciou: 
+influenciou:
   - "[[Andre Gallois]]"
 foi_criticado_por: []
-impacta_noosphera: 
+impacta_noosphera:
   - "[[KnowledgeObject]]"
   - "[[Representation]]"
 ---
