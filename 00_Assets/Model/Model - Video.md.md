@@ -1,7 +1,7 @@
 ---
 type: video-note
 media-link: ""
-autor: ""
+autor: "[[{{VALUE:Autor}}]]"
 publicado-em: ""
 visto-em: ""
 area: ""

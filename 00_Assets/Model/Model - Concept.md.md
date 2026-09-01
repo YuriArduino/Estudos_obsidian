@@ -1,11 +1,16 @@
 ---
 type: conceito
-tags_principais: []
+tags_principais:
+- "[[]]"
 status: "em construção"  # Opções: em construção, sintetizado, aplicado
-areas_conceituais: []   # Ex: Ontologia, Lógica, Semântica
-autores_associados: []
-oposto_dialetico: []    # Ex: Acidental vs Essencial
-implementado_em: []     # Links para entidades/leis do Noosphera
+areas_conceituais:
+- "[[]]" # Ex: Ontologia, Lógica, Semântica
+autores_associados:
+- "[[]]"
+oposto_dialetico:
+- "[[]]" # Ex: Acidental vs Essencial
+implementado_em:
+- "[[]]"     # Links para entidades/leis do Noosphera
 ---
 
 # {{title}}

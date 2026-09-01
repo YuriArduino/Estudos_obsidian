@@ -2,7 +2,8 @@
 type: reflection-note
 artigo-citado:
 tags: []
-entidades-noosphera: []
+entidades-noosphera:
+- "[[]]"
 status: "em construção"
 ---
 # Reflexão — {{title}}

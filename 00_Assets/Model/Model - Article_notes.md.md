@@ -2,9 +2,11 @@
 type: article-note
 artigo-citado:
 area: ""
-entidades-noosphera: []
-leis-noosphera: []
-"status-leitura:": []📖 Lendo []✅ Sintetizado []🔗 Aplicado
+entidades-noosphera:
+- "[[]]"
+leis-noosphera:
+- "[[]]"
+"status-leitura:":
 ---
 
 # {{title}}
