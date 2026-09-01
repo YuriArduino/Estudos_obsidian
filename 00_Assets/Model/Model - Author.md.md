@@ -1,13 +1,16 @@
 ---
-tipo: autor
-tags_principais: []
+type: autor
+tags_principais: 
+"[[]]"
 status: "em construção"  # Opções: em construção, sintetizado, aplicado
 área: ""
 época: ""
-principais_conceitos: []
-influenciou: []
-foi_criticado_por: []
-impacta_noosphera: []
+principais_conceitos:
+"[[]]"
+influenciou:
+"[[]]"
+foi_criticado_por: "[[]]"
+impacta_noosphera: "[[]]"
 ---
 
 # {{title}}

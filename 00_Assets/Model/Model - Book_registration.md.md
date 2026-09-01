@@ -1,20 +1,20 @@
 ---
 type: book
-title: "{{VALUE:Título do Livro}}"
-author: [[{{VALUE:Autor}}]]
-main_tags: []
+titulo: "[[{{VALUE:Título do Livro}}]]"
+autor: "[[{{VALUE:Autor}}]]"
+tags_principais: []
 status: "reading"
 area: "{{VALUE:Área de Estudo}}"
-epoch: "{{VALUE:Época Clássica/Moderna/etc}}"
-impacts_noosphera: []
+epoca: "{{VALUE:Época}}"
+ano_publicacao: "{{VALUE:Ano de Publicação}}"
+impacta_noosphera: []
 ---
 
+# 📚 [[{{VALUE:Título do Livro}}]]
 
-# 📚 {{title}}
-
-> **Autor:** [[{{author}}]]
-> **Gênero/Escopo:** 
-> **Data de Leitura:** {{date}}
+> **Autor:** [[{{VALUE:Autor}}]]
+> **Época:** [[{{VALUE:Época}}]]
+> **Ano de Publicação:** {{VALUE:Ano de Publicação}}
 
 ---
 
@@ -46,7 +46,7 @@ Escreva aqui sua percepção macro do livro...
 > 
 > ***
 > 
-> 💡 **Análise Clínica / Insight Espistêmico:**
+> 💡 **Análise Clínica / Insight Epistêmico:**
 > <div align="justify">
 > Seu comentário crítico sobre a citação acima. Como este fragmento dialoga com seus estudos ou se desdobra em outras áreas?
 > </div>

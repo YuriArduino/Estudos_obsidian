@@ -1,5 +1,5 @@
 ---
-type: Artigo
+type: article
 titulo: ""
 autor: ""
 fonte: ""
@@ -14,6 +14,8 @@ Tags de Teoria e Correntes Filosóficas:
 Leis Básicas:
 status-leitura:
 ---
+
+
 ## ✅ Checklist de Progresso
 - [ ] 📖 Leitura inicial concluída
 - [ ] 🧠 Conceitos-âncora extraídos

@@ -1,9 +1,11 @@
 ---
 type: book
-title: "Introdução à filosofia da matemática"
-author: [[Bertrand Russell]]
+title: 
+ - - "{VALUE:Título do Livro}":
+author:
+  - - "{ VALUE: Autor }":
 main_tags: []
-status: "reading"
+status: reading
 area: "Filosofia da Matemática"
 epoch: "Moderna"
 impacts_noosphera: []

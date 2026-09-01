@@ -1,5 +1,5 @@
 ---
-tipo: conceito
+type: conceito
 tags_principais: []
 status: "em construção"  # Opções: em construção, sintetizado, aplicado
 areas_conceituais: []   # Ex: Ontologia, Lógica, Semântica
