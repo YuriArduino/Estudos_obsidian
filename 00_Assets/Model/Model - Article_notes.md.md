@@ -1,12 +1,13 @@
 ---
 type: article-note
 artigo-citado:
+ - "[[]]"
 area: ""
 entidades-noosphera:
-- "[[]]"
+  - "[[]]"
 leis-noosphera:
-- "[[]]"
-"status-leitura:":
+  - "[[]]"
+status-leitura:
 ---
 
 # {{title}}
