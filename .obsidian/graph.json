@@ -1,65 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "[\"tipo\"]",
+  "search": "",
   "showTags": false,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Noosphera  ",
-      "color": {
-        "a": 1,
-        "rgb": 16059062
-      }
-    },
-    {
-      "query": "path:\"Topologia Epistemológica/stanford\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 15811337
-      }
-    },
-    {
-      "query": "path:\"Topologia Epistemológica/Prof. Palazzo\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 1183718
-      }
-    },
-    {
-      "query": "path:01_Interconexões/Conceitos  ",
-      "color": {
-        "a": 1,
-        "rgb": 6610276
-      }
-    },
-    {
-      "query": "path:01_Interconexões/Autores  ",
-      "color": {
-        "a": 1,
-        "rgb": 1381652
-      }
-    },
-    {
-      "query": "path:Desenvolvimento_Histórico  ",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.33132157789493,
-  "lineSizeMultiplier": 1.47620432648609,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.473891979185358,
-  "repelStrength": 19.0807196006405,
-  "linkStrength": 0.772474430288893,
-  "linkDistance": 154,
-  "scale": 0.37829854715126926,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.252199031434179,
   "close": false
 }
