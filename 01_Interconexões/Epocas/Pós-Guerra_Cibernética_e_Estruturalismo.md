@@ -3,7 +3,7 @@ tipo: epoca
 ordem: 11
 periodo: c. 1940 – 1975
 época_anterior: "[[Lógica_Linguagem_e_Entre_Guerras]]"
-época_posterior: "[[Filosofia_Contemporanea_e_Virada_Computacional]]"
+época_posterior: "[[Filosofia_Contemporânea_e_Virada_Computacional]]"
 ---
 # Pós-Guerra, Cibernética e Estruturalismo
 
@@ -44,4 +44,4 @@ A computação passa de uma tecnologia especializada para uma linguagem geral de
 
 → Anterior: [[[[Lógica_Linguagem_e_Entre_Guerras]]]]
 
-→ Próxima: [[Filosofia_Contemporanea_e_Virada_Computacional]]
+→ Próxima: [[Filosofia_Contemporânea_e_Virada_Computacional]]
