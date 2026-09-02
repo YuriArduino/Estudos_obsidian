@@ -3,7 +3,7 @@ tipo: epoca
 ordem: 9
 periodo: c. 1870 – 1914
 época_anterior: "[[Idealismo_Romantismo_e_Materialismo]]"
-época_posterior: "[[Logica_Linguagem_e_Entre_Guerras]]"
+época_posterior: "[[Lógica_Linguagem_e_Entre_Guerras]]"
 ---
 # Crise do Século XIX e Viradas do Século XX
 
@@ -48,4 +48,4 @@ As novas lógicas e teorias da linguagem ganham força no início do século XX,
 
 → Anterior: [[Idealismo_Romantismo_e_Materialismo]]
 
-→ Próxima: [[Logica_Linguagem_e_Entre_Guerras]]
+→ Próxima: [[[[Lógica_Linguagem_e_Entre_Guerras]]]]

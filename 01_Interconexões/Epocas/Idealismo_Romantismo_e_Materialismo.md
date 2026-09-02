@@ -3,7 +3,7 @@ tipo: epoca
 ordem: 8
 periodo: c. século XIX
 época_anterior: "[[Iluminismo_e_Crítica_da_Razão]]"
-época_posterior: "[[01_Interconexões/Epocas/Crise_do_Século_XIX_e_Viradas_do_Século_XX]]"
+época_posterior: "[[Crise_do_Século_XIX_e_Viradas_do_Século_XX]]"
 ---
 # Idealismo, Romantismo e Materialismo
 

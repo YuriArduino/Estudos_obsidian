@@ -2,7 +2,7 @@
 tipo: epoca
 ordem: 11
 periodo: c. 1940 – 1975
-época_anterior: "[[Logica_Linguagem_e_Entre_Guerras]]"
+época_anterior: "[[Lógica_Linguagem_e_Entre_Guerras]]"
 época_posterior: "[[Filosofia_Contemporanea_e_Virada_Computacional]]"
 ---
 # Pós-Guerra, Cibernética e Estruturalismo
@@ -42,6 +42,6 @@ A Segunda Guerra Mundial acelera pesquisa em cálculo, comunicação, controle e
 
 A computação passa de uma tecnologia especializada para uma linguagem geral de modelagem. Ao mesmo tempo, filosofia da mente, ciência cognitiva e IA começam a reformular a pergunta sobre representação, inteligência e consciência.
 
-→ Anterior: [[Logica_Linguagem_e_Entre_Guerras]]
+→ Anterior: [[[[Lógica_Linguagem_e_Entre_Guerras]]]]
 
 → Próxima: [[Filosofia_Contemporanea_e_Virada_Computacional]]
