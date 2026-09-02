@@ -2,9 +2,9 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -48,6 +48,13 @@
         "a": 1,
         "rgb": 13958912
       }
+    },
+    {
+      "query": "path:Desenvolvimento_Histórico  ",
+      "color": {
+        "a": 1,
+        "rgb": 328965
+      }
     }
   ],
   "collapse-display": true,
@@ -57,9 +64,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 16.8861260243007,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3782985471512683,
+  "linkDistance": 500,
+  "scale": 0.07472563894346015,
   "close": false
 }
