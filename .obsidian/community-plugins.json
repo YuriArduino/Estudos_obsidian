@@ -26,5 +26,6 @@
   "graph-search-sync",
   "folderandgraphs-plus",
   "quickadd",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "obsidian-linter"
 ]
