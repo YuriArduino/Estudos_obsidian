@@ -8,7 +8,7 @@ status: sintetizado
 area: Metafísica / Filosofia da Natureza
 epoca: 384 a.C. - 322 a.C.
 principais_conceitos:
-  - "[[Hilomorfismo]]"
+  - "[[Hilemorfismo]]"
   - "[[Mudança Acidental]]"
   - "[[Mudança Essencial]]"
 influenciou:
@@ -32,13 +32,13 @@ impacta_noosphera:
 
 ## 2. Tese Fundamental & Antíteses
 ### Tese (Contribuição Central)
-Aristóteles resolve o paradoxo da mudança (Parmênides vs Heráclito) distinguindo o que é **essencial** (define a identidade) do que é **acidental** (pode mudar). Ele introduz o **[[Hilomorfismo]]**: todo objeto físico é composto de **Matéria** (potencialidade) e **Forma** (atualidade/essência). A identidade persiste enquanto a *Forma* for preservada.
+Aristóteles resolve o paradoxo da mudança (Parmênides vs Heráclito) distinguindo o que é **essencial** (define a identidade) do que é **acidental** (pode mudar). Ele introduz o **[[Hilemorfismo]]**: todo objeto físico é composto de **Matéria** (potencialidade) e **Forma** (atualidade/essência). A identidade persiste enquanto a *Forma* for preservada.
 
 ### Antítese (Críticas e Oposições)
 A distinção entre essência e acidente é considerada problemática por filósofos modernos (ex: [[Willard Van Orman Quine|Quine]]) por depender de uma definição teleológica ("para que serve a coisa?"). Além disso, a visão de que a forma é imaterial foi criticada pelo materialismo.
 
 ## 3. Conceitos-Chave Associados
-- [[Hilomorfismo]]
+- [[Hilemorfismo]]
 - [[Mudança Acidental]]
 - [[Mudança Essencial]]
 - [[Propriedades Essenciais]]
