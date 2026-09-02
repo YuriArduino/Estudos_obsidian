@@ -3,7 +3,7 @@ tipo: epoca
 ordem: 10
 periodo: c. 1900 – 1939
 época_anterior: "[[Crise_do_Século_XIX_e_Viradas_do_Século_XX]]"
-época_posterior: "[[Pos-Guerra_Cibernetica_e_Estruturalismo]]"
+época_posterior: "[[Pós-Guerra_Cibernética_e_Estruturalismo]]"
 ---
 # Lógica, Linguagem e Entre-Guerras
 
@@ -46,4 +46,4 @@ Os limites da formalização e os problemas de computabilidade se tornam especia
 
 → Anterior: [[01_Interconexões/Epocas/Crise_do_Século_XIX_e_Viradas_do_Século_XX]]
 
-→ Próxima: [[Pos-Guerra_Cibernetica_e_Estruturalismo]]
+→ Próxima: [[Pós-Guerra_Cibernética_e_Estruturalismo]]

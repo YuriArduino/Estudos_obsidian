@@ -2,7 +2,7 @@
 tipo: epoca
 ordem: 12
 periodo: c. 1970 – presente
-época_anterior: "[[Pos-Guerra_Cibernetica_e_Estruturalismo]]"
+época_anterior: "[[Pós-Guerra_Cibernética_e_Estruturalismo]]"
 época_posterior:
 ---
 # Filosofia Contemporânea e Virada Computacional
@@ -47,4 +47,4 @@ A partir da década de 1970, filosofia da mente, linguística, inteligência art
 
 Diferentemente das épocas anteriores, este período permanece em formação. [[Inteligência Artificial]], [[Sistemas Complexos]], [[Cognição Distribuída]], [[Aprendizado de Máquina]] e novas teorias formais continuam modificando as fronteiras entre filosofia, psicologia, matemática, computação e neurociência.
 
-→ Anterior: [[Pos-Guerra_Cibernetica_e_Estruturalismo]]
+→ Anterior: [[Pós-Guerra_Cibernética_e_Estruturalismo]]
