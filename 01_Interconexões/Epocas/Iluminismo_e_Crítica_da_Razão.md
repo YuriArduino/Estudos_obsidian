@@ -2,7 +2,7 @@
 tipo: epoca
 ordem: 7
 periodo: c. séc. XVIII – início do XIX
-época_anterior: "[[Revolucao_Cientifica_e_Filosofia_Moderna]]"
+época_anterior: "[[Revolução_Científica_e_Filosofia_Moderna]]"
 época_posterior: "[[Idealismo_Romantismo_e_Materialismo]]"
 ---
 # Iluminismo e Crítica da Razão
@@ -39,6 +39,6 @@ O século XVIII é marcado por circulação pública de ideias, enciclopédias, 
 
 Kant encerra uma etapa e abre outra. O Idealismo alemão radicaliza a questão do sujeito, da história e da totalidade; em reação, materialismos, historicismos e ciências psicológicas transformam o cenário do século XIX.
 
-→ Anterior: [[Revolucao_Cientifica_e_Filosofia_Moderna]]
+→ Anterior: [[Revolução_Científica_e_Filosofia_Moderna]]
 
 → Próxima: [[Idealismo_Romantismo_e_Materialismo]]

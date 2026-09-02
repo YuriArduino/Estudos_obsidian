@@ -2,8 +2,8 @@
 tipo: epoca
 ordem: 8
 periodo: c. século XIX
-época_anterior: "[[Iluminismo_e_Critica_da_Razao]]"
-época_posterior: "[[Crise_do_Seculo_XIX_e_Viradas_do_Seculo_XX]]"
+época_anterior: "[[Iluminismo_e_Crítica_da_Razão]]"
+época_posterior: "[[01_Interconexões/Epocas/Crise_do_Século_XIX_e_Viradas_do_Século_XX]]"
 ---
 # Idealismo, Romantismo e Materialismo
 
@@ -42,6 +42,6 @@ O século XIX herda Kant e amplia o problema do sujeito para dimensões históri
 
 No fim do século XIX, a confiança em sistemas totais entra em tensão com novos métodos científicos, linguísticos e psicológicos. É nesse terreno que emergem Freud, Husserl, Frege e outras figuras da virada do século.
 
-→ Anterior: [[Iluminismo_e_Critica_da_Razao]]
+→ Anterior: [[Iluminismo_e_Crítica_da_Razão]]
 
-→ Próxima: [[Crise_do_Seculo_XIX_e_Viradas_do_Seculo_XX]]
+→ Próxima: [[01_Interconexões/Epocas/Crise_do_Século_XIX_e_Viradas_do_Século_XX]]

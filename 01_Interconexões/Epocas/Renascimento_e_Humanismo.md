@@ -3,7 +3,7 @@ tipo: epoca
 ordem: 5
 periodo: c. séc. XV – XVI
 época_anterior: "[[Escolastica_e_Baixa_Idade_Media]]"
-época_posterior: "[[Revolucao_Cientifica_e_Filosofia_Moderna]]"
+época_posterior: "[[Revolução_Científica_e_Filosofia_Moderna]]"
 ---
 # Renascimento e Humanismo
 
@@ -39,4 +39,4 @@ A transformação das práticas de investigação desemboca na Revolução Cient
 
 → Anterior: [[Escolastica_e_Baixa_Idade_Media]]
 
-→ Próxima: [[Revolucao_Cientifica_e_Filosofia_Moderna]]
+→ Próxima: [[Revolução_Científica_e_Filosofia_Moderna]]

@@ -3,7 +3,7 @@ tipo: epoca
 ordem: 6
 periodo: c. séc. XVII
 época_anterior: "[[Renascimento_e_Humanismo]]"
-época_posterior: "[[Iluminismo_e_Critica_da_Razao]]"
+época_posterior: "[[Iluminismo_e_Crítica_da_Razão]]"
 ---
 # Revolução Científica e Filosofia Moderna
 
@@ -41,4 +41,4 @@ A confiança moderna na razão e na experiência produz seu próprio problema: q
 
 → Anterior: [[Renascimento_e_Humanismo]]
 
-→ Próxima: [[Iluminismo_e_Critica_da_Razao]]
+→ Próxima: [[Iluminismo_e_Crítica_da_Razão]]

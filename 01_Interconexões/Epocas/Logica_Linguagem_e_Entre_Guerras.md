@@ -2,7 +2,7 @@
 tipo: epoca
 ordem: 10
 periodo: c. 1900 – 1939
-época_anterior: "[[Crise_do_Seculo_XIX_e_Viradas_do_Seculo_XX]]"
+época_anterior: "[[01_Interconexões/Epocas/Crise_do_Século_XIX_e_Viradas_do_Século_XX]]"
 época_posterior: "[[Pos-Guerra_Cibernetica_e_Estruturalismo]]"
 ---
 # Lógica, Linguagem e Entre-Guerras
@@ -44,6 +44,6 @@ O início do século XX transforma a lógica em instrumento formal de enorme alc
 
 Os limites da formalização e os problemas de computabilidade se tornam especialmente importantes nas décadas seguintes. Durante e após a Segunda Guerra Mundial, lógica, matemática, engenharia, neurociência e comunicação convergem na cibernética e na computação.
 
-→ Anterior: [[Crise_do_Seculo_XIX_e_Viradas_do_Seculo_XX]]
+→ Anterior: [[01_Interconexões/Epocas/Crise_do_Século_XIX_e_Viradas_do_Século_XX]]
 
 → Próxima: [[Pos-Guerra_Cibernetica_e_Estruturalismo]]
