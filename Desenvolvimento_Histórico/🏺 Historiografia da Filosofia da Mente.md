@@ -12,10 +12,10 @@ Ela não pretende substituir as notas específicas de cada período. Seu propós
 
 **épocas → problemas → autores → conceitos → notas de estudo → questões do Noösphera.**
 
-A propriedade `época` utilizada nas notas de estudo deve apontar para uma das 12 notas historiográficas:
+A propriedade `epoca` utilizada nas notas de estudo deve apontar para uma das 12 notas historiográficas:
 
 ```yaml
-época: "[[Antiguidade_Clássica]]"
+epoca: "[[Antiguidade_Clássica]]"
 ```
 
 ---
