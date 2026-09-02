@@ -48,4 +48,4 @@ As novas lógicas e teorias da linguagem ganham força no início do século XX,
 
 → Anterior: [[Idealismo_Romantismo_e_Materialismo]]
 
-→ Próxima: [[[[Lógica_Linguagem_e_Entre_Guerras]]]]
+→ Próxima: [[Lógica_Linguagem_e_Entre_Guerras]]

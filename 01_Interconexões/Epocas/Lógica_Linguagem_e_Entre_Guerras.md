@@ -44,6 +44,6 @@ O início do século XX transforma a lógica em instrumento formal de enorme alc
 
 Os limites da formalização e os problemas de computabilidade se tornam especialmente importantes nas décadas seguintes. Durante e após a Segunda Guerra Mundial, lógica, matemática, engenharia, neurociência e comunicação convergem na cibernética e na computação.
 
-→ Anterior: [[01_Interconexões/Epocas/Crise_do_Século_XIX_e_Viradas_do_Século_XX]]
+→ Anterior: [[Crise_do_Século_XIX_e_Viradas_do_Século_XX]]
 
 → Próxima: [[Pós-Guerra_Cibernética_e_Estruturalismo]]
