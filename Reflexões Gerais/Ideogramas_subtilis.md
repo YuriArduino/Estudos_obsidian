@@ -9,7 +9,7 @@
 ![[精_Jīng.png]]
 
 - **Significado:** Essência, refinação, espírito vital ou semente de vida.
-- 
+
 - **Exploração:** Na MTC e nas práticas internas (_Neidan_), o _Jing_ é a energia material mais densa e fundamental do corpo humano, herdada dos pais (constituição física) e extraída dos alimentos. É a raiz do nosso desenvolvimento crescimento e vitalidade física. Junto com o _Qi_ e o _Shen_ (Espírito), forma os **Três Tesouros** (_San Bao_).
 
 O caractere antigo é uma combinação de dois elementos:
@@ -40,6 +40,7 @@ A estrutura visual deste caractere 间 é poética e espacial:
 
 3. 气 / 氣 • Qì
 
+
 ![[00_Assets/Imagens/Ideogramas/氣 _Qì.png]]
 
 - **Significado:** Energia vital, sopro, força motriz do universo.
@@ -55,8 +56,10 @@ A forma tradicional (**氣**) oferece a visão cosmológica mais rica:
 
 As Duas Forças do Qi:
 
-- **正气 • Zhèngqì (Qi Verdadeiro/Reto):** O caractere **正** (_Zhèng_) mostra graficamente um pé parado sobre uma linha horizontal (a fronteira ou a meta). Simboliza **andar na linha reta**, retidão moral, integridade e estabilidade. Visualmente, evoca uma postura firme e inabalável contra o que vem de fora.
-- **邪气 • Xiéqì (Qi Perverso):** O caractere **邪** (_Xié_) originalmente representava um local geográfico tortuoso e, mais tarde, uma presa de animal ou algo pontiagudo/desviado. Simboliza o **distorcido, o que vem de viés, o oblíquo**. Graficamente, representa o que quebra a harmonia da linha reta.
+- **正气 • Zhèngqì (==Qi Verdadeiro/Reto==):** O caractere **正** (_Zhèng_) mostra graficamente um pé parado sobre uma linha horizontal (a fronteira ou a meta). Simboliza **andar na linha reta**, retidão moral, integridade e estabilidade. Visualmente, evoca uma postura firme e inabalável contra o que vem de fora.
+
+
+- **邪气 • Xiéqì (==Qi Perverso==):** O caractere **邪** (_Xié_) originalmente representava um local geográfico tortuoso e, mais tarde, uma presa de animal ou algo pontiagudo/desviado. Simboliza o **distorcido, o que vem de viés, o oblíquo**. Graficamente, representa o que quebra a harmonia da linha reta.
 
 ---
 
@@ -73,21 +76,31 @@ O caractere tradicional (**無**) é um dos mais fascinantes graficamente:
 - **Etimologia:** Originalmente, o desenho mostrava uma pessoa segurando plumas ou caudas de animais nas mãos, realizando uma **dança xamânica ritualística**.
 - **O Símbolo:** A dança xamânica servia para fazer a ponte entre o mundo visível e o invisível, limpando o espaço para que o divino se manifestasse. Com o tempo, o símbolo passou a significar o "estado antes das coisas tomarem forma". Simboliza o **vácuo fértil**, o palco invisível de onde toda a coreografia do universo emerge.
 
+---
+
 5. 空 • Kōng
 
+![[00_Assets/Imagens/Ideogramas/空_Kōng.png]]
+
+
+
 - **Significado:** Vazio, vacuidade,Céu, espaço.
-- 
+
 - **Exploração:** Enquanto _Wú_ é mais taoísta, _Kōng_ é a tradução chinesa do conceito budista de _Śūnyatā_ (Vacuidade). Não significa que as coisas não existem, mas sim que **nada possui uma existência independente ou permanente**; tudo existe de forma interconectada e impermanente. Compreender o _Kōng_ é o caminho para a libertação do sofrimento.
 
 Diferente de _Wú_, _Kōng_ foca na espacialidade física e perceptiva:
 
 - **穴 (_Xué_ - Caverna/Gruta):** A parte superior representa o teto de uma caverna ou uma abertura na rocha.
 - **工 (_Gōng_ - Trabalho/Ferramenta):** A parte inferior simboliza a ação de escavar ou moldar.
+
 - **O Símbolo:** A imagem de uma **caverna escavada**. Ela é útil justamente porque está vazia por dentro, permitindo que alguém habite ou guarde algo nela. No nível simbólico, representa o espaço aberto, o céu azul desimpedido e a mente livre de fixações (limpa de preconceitos para poder acolher a realidade).
 
 ---
 
 6. 感 • Gǎn
+
+
+![[感 _Gǎn.png]]
 
 - **Significado:** Sentir, perceber, ressonância, influência mútuo.
 
@@ -97,6 +110,7 @@ Um ideograma focado no movimento interno da consciência:
 
 - **咸 (_Xián_ - Todos/União):** A parte superior mostra armas ou machados se movendo juntos, significando "todos juntos" ou uma ação uníssona.
 - **心 (_Xīn_ - Coração/Mente):** A base do caractere é o coração.
+
 - **O Símbolo:** O **coração que se move em uníssono com o ambiente**. Não é apenas uma reação emocional passiva, mas uma corda que vibra quando a corda correspondente do universo é tocada. Simboliza a telepatia existencial: a capacidade humana de ser afetado e de afetar o macrocosmo de forma instantânea.
 
 ---
@@ -106,11 +120,23 @@ Um ideograma focado no movimento interno da consciência:
 ![[00_Assets/Imagens/Ideogramas/理_Lǐ.png]]
 
 - **Significado:** Princípio Cósmico, razão, padrão cósmico, ordem natural.
-- 
+
 - **Exploração:** Originalmente representava as veias ou texturas naturais encontradas dentro de uma pedra de jade crua. Na filosofia Neo-Confucionista, _Lǐ_ tornou-se a ordem intrínseca do universo — a lei que governa a estrutura e o comportamento de todas as coisas. Seguir o _Lǐ_ significa viver de acordo com a razão cósmica e a virtude.
 
 Este ideograma evoca a maestria da observação da natureza:
 
 - **王 / 玉 (_Yù_ - Jade):** O radical à esquerda representa o Imperador ou a pedra preciosa de Jade.
 - **里 (_Lǐ_ - Vila/Estrutura organizada):** O elemento à direita mostra campos medidos e organizados.
+
 - **O Símbolo:** Representa o ato de **lapidar e seguir os veios naturais internos do Jade**. Se você cortar o jade contra as suas linhas naturais, a pedra se quebra. Se seguir os veios (_Lǐ_), você revela sua beleza máxima. Simboliza a ordem intrínseca do universo, as leis invisíveis e os padrões geométricos da natureza aos quais devemos nos alinhar.
+
+
+Dào • 道 
+
+
+
+- **Significado Tradicional:** O Caminho, o fluxo absoluto da natureza, a verdade última.
+
+- **Abstração Topológica:** **O Espaço Topológico Global (X) / O Grafo Completo.**
+
+- **Análise:** Formado pelo radical de "caminhar/movimento" (辶) e "cabeça/consciência" (首). Representa o sistema em sua totalidade absoluta — a infraestrutura invisível que contém todos os fluxos (_Qi_), nós (_Jing_) e esquemas (_Li_). Em teoria de categorias, seria o próprio functor que unifica o sistema.
