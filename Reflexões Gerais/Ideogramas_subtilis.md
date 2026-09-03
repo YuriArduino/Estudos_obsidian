@@ -1,6 +1,11 @@
 # Glossário Ideogramático — Noosphera
 
-> Léxico de ideogramas chineses que fundamentam, filosófica e estruturalmente, a ontologia do Noosphera. **Parte I** reúne os conceitos fundamentais (matéria, energia, vazio, percepção) com sua etimologia pictográfica e sua abstração topológica de _base_ — os primitivos (conjunto, topologia, fluxo, vazio, relação, acoplamento, métrica). **Parte II** eleva esses primitivos a abstrações _compostas_ — as estruturas globais do sistema (espaço total, variedade, semântica, invariante, periodicidade, frequência).
+> Léxico de ideogramas chineses que fundamentam, filosófica e estruturalmente, a ontologia do Noosphera. **Parte I** reúne os conceitos fundamentais (matéria, energia, vazio, percepção, transformação) com sua etimologia pictográfica e sua abstração topológica de _base_ — os primitivos (conjunto, topologia, fluxo, vazio, relação, acoplamento, métrica, morfismo). **Parte II** eleva esses primitivos a abstrações _compostas_ — as estruturas globais do sistema (espaço total, variedade, semântica, invariante, periodicidade, frequência).
+
+> **Nota desta revisão (v2):** a Parte II original misturava campos (significado tradicional e abstração topológica numa única linha, depois repetidos), pulava a camada de exploração filosófica que dá densidade à Parte I, e empilhava abstrações matemáticas paralelas sem hierarquia clara (ex.: Taiji descrito como "Variedade / Atractor / Estado de Equilíbrio" sem dizer qual é o conceito central e quais são consequência dele). Esta versão realinha a Parte II à estrutura da Parte I — Significado → Abstração Topológica → Exploração → Anatomia do Caractere → O Símbolo — corrige o uso equivocado de "functor" em Dào, resolve as hierarquias soltas de Tàijí e Yì, e acrescenta a cada entrada (Parte I e II) uma camada de **Trigrama/Hexagrama** do Yijing (I Ching), explicada na íntegra logo antes da Parte II.
+> 
+> **Nota (v3):** os sete primitivos originais descreviam apenas _estruturas_ (conjunto, abertura, fluxo, vazio, relação, acoplamento, métrica) — nenhum descrevia a transformação de uma estrutura em outra. Acrescentou-se o oitavo primitivo, **易 Yì (Mudança)**, o morfismo entre estruturas, e ajustou-se a leitura de **道 Dào** para refletir a relação clássica entre os dois.
+
 ---
 
 ## Parte I — Fundamentos Filosóficos, Etimológicos e Abstrações de Base
@@ -163,13 +168,43 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 
 ---
 
+### 8. 易 • Yì
+
+![[00_Assets/Imagens/Ideogramas/易_Yì.png]]
+
+
+> ⚠️ **Atenção à homofonia:** este 易 (Yì — Mudança) não deve ser confundido com o 意 (Yì — Intenção) da entrada 11. Mesma leitura em pinyin, tom idêntico, radicais e significados inteiramente diferentes — um risco real de confusão neste glossário, à semelhança do que já ocorre no agrupamento 间/见/简.
+
+**Significado:** Mudança, transformação; também "o que é fácil/simples". É o caractere-título do próprio _Yijing_ (易經 — "o Clássico das Mudanças").
+
+**Abstração Topológica:** O Morfismo / A Transformação entre Estruturas — o mapa que leva um objeto topológico a outro.
+
+**Exploração:** a exegese clássica do Yijing (tradição comentarial da dinastia Han, sintetizada por Zheng Xuan) atribui a 易 **três sentidos simultâneos — 三易 (Sān Yì):**
+
+- **簡易 (Jiǎnyì — Simplicidade):** por trás de toda mudança há uma regra simples e cognoscível — não é caos, é processo.
+- **變易 (Biànyì — Mudança em si):** tudo está em transformação constante; nenhum estado é permanente.
+- **不易 (Bùyì — O Imutável):** por trás da mudança há algo que não muda — a estrutura de fundo que permanece enquanto os estados se transformam.
+
+A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliza o mesmo caractere 简 já visto na entrada 2 (o princípio da base mínima), e 不易 é, formalmente, uma antecipação exata do que a entrada 12 (德 Dé) chamará de invariante topológico. 易 é, portanto, um conceito-dobradiça: ele _é_ a operação de transformação que liga os primitivos estáticos da Parte I às estruturas compostas da Parte II — e carrega dentro de si, em sua própria tradição exegética, a referência a uma antes (简) e a uma depois (德).
+
+**Anatomia do Caractere:** _a etimologia de 易 é genuinamente disputada na sinologia, com duas leituras clássicas concorrentes:_
+
+- **Teoria do lagarto/camaleão:** o pictograma mais antigo mostraria um réptil estilizado — cabeça, corpo e patas — associado à muda de pele ou à mudança de cor, um símbolo natural de transformação que preserva identidade.
+- **Teoria sol-lua:** a metade superior seria 日 (_Rì_ — Sol) e a inferior um radical relacionado a 月 (_Yuè_ — Lua) ou a raios de luz, representando a alternância entre sol e lua, dia e noite — Yin e Yang se revezando no céu.
+
+**O Símbolo:** seja o réptil que muda de cor sem deixar de ser o mesmo animal, seja o sol e a lua alternando-se no céu — em ambas as leituras, o símbolo é o de uma mudança que preserva identidade. Formalmente, é o morfismo: a transformação que leva um estado, estrutura ou objeto topológico a outro, seguindo uma regra simples e computável (簡易), alterando a forma aparente (變易), mas preservando um núcleo invariante por trás dela (不易) — prenunciando exatamente o que a entrada 12 (Dé) descreverá em detalhe.
+
+**Trigrama Associado:** ☰ **Qián (Céu)** — a fonte é o próprio _Tuanzhuan_ (Comentário do Julgamento) do Hexagrama 1: **乾道變化**, "o caminho de Qián é mudar e transformar". Qián não é apenas a totalidade criativa (como em Dào, adiante), mas, na própria tradição comentarial, o princípio do movimento transformador. É por isso que o hexagrama de Dào — Qián sobre Qián — pode agora ser lido com mais precisão: formalmente, é 易 dobrado sobre si mesmo, a mudança elevada à sua própria totalidade.
+
+---
+
 ## Parte II — Abstrações Topológicas Compostas
 
 > Esta seção eleva os primitivos da Parte I a estruturas compostas, mapeando cada conceito filosófico a uma abstração topológica/matemática de nível superior usada no modelo do Noosphera.
 
 > **Sobre os Hexagramas desta Parte:** no Yijing, os 8 trigramas (Bagua) se combinam dois a dois para formar os 64 hexagramas — cada composto é, literalmente, a soma de dois primitivos. Sempre que a lógica do Noosphera permitia, o hexagrama escolhido abaixo foi construído combinando os próprios trigramas já atribuídos aos primitivos da Parte I que compõem aquele conceito — espelhando formalmente a arquitetura primitivo→composto que estrutura todo este glossário. **Ressalva:** com exceção da relação clássica e amplamente documentada entre Wuji/Taiji e a origem do Bagua, e da coincidência textual direta entre 節 Jié e o Hexagrama 60 (que tem exatamente o mesmo nome), as demais associações abaixo são uma camada interpretativa proposta para o Noosphera — não correspondências canônicas do I Ching, mas leituras simbólicas construídas com o mesmo rigor da Parte I.
 
-### 8. 道 • Dào
+### 9. 道 • Dào
 
 ![[00_Assets/Imagens/Ideogramas/道 _Dào.png]]
 
