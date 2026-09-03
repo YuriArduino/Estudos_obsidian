@@ -140,3 +140,10 @@ Dào • 道
 - **Abstração Topológica:** **O Espaço Topológico Global (X) / O Grafo Completo.**
 
 - **Análise:** Formado pelo radical de "caminhar/movimento" (辶) e "cabeça/consciência" (首). Representa o sistema em sua totalidade absoluta — a infraestrutura invisível que contém todos os fluxos (_Qi_), nós (_Jing_) e esquemas (_Li_). Em teoria de categorias, seria o próprio functor que unifica o sistema.
+
+
+2. Tàijí • 太极 / 太極 (O Supremo Absoluto / A Variedade Diferenciada)
+
+- **Significado Tradicional:** A viga mestra da casa, o eixo central, a origem da dualidade Yin/Yang.
+- **Abstração Topológica:** **A Variedade (_Manifold_) / O Atractor / O Estado de Equilíbrio.**
+- **Análise:** Composto por _Tai_ (太 - imenso/supremo) e _Ji_ (极 - polo/ápice/limite). É o ponto geométrico e dinâmico onde a indiferenciação absoluta se divide em estados binários estruturados (0 e 1, aberto e fechado). Representa a separação simétrica de um espaço de fases em subespaços complementares.
