@@ -156,7 +156,9 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 
 ### 8. 道 • Dào
 
-**Significado:** _[campo ausente no original — sugestão a confirmar:]_ O Caminho / O Sistema Total.
+![[00_Assets/Imagens/Ideogramas/道 _Dào.png]]
+
+**Significado:** O Caminho / O Sistema Total.
 
 **Significado Tradicional:** O Caminho, o fluxo absoluto da natureza, a verdade última.
 
