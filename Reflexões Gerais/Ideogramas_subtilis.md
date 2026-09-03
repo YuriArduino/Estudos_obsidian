@@ -6,7 +6,7 @@
 
 1. 精 • Jīng
 
-![[00_Assets/Imagens/Ideogramas/Jing_Chinese_medicine,_by_Zen_Master_and_Physician_Venerable_Xiè'ēn.png|138]]
+![[精_Jīng.png]]
 
 - **Significado:** Essência, refinação, espírito vital ou semente de vida.
 - 
@@ -18,8 +18,11 @@ O caractere antigo é uma combinação de dois elementos:
 - **青 (_Qīng_ - Verde-azulado/Broto):** O elemento à direita evoca a cor da vida jovem, o frescor de uma planta brotando e a ideia de algo meticulosamente limpo ou refinado.
 - **O Símbolo:** O casamento do arroz com a cor da vida jovem cria o conceito de **destilação**. Simboliza a "substância semente" pura e concentrada de onde toda a vida desabrocha. É o "ouro biológico".
 
+---
 
 2.  间 / 见 / 简 (_Jiān / Jiàn / Jiǎn_)
+
+![[间_Jiān.png]]
 
 _Como "jiãn" não possui uma marcação de tom padrão, ele pode se referir a três conceitos filosóficos importantes:_
 
@@ -32,6 +35,8 @@ A estrutura visual deste caractere 间 é poética e espacial:
 - **门 / 門 (_Mén_ - Porta):** O contorno externo representa as duas folhas de um portal tradicional.
 - **日 (_Rì_ - Sol):** No centro da porta, está o sol. _(Nota: Na escrita tradicional, usava-se 月 - Lua, criando uma imagem ainda mais mística)._
 - **O Símbolo:** A imagem de **um raio de sol (ou luar) atravessando a fresta de uma porta fechada**. Simboliza que o espaço ou o tempo não são vazios inertes, mas sim intervalos através dos quais a luz e a oportunidade se manifestam. É a fresta por onde a realidade respira.
+
+---
 
 3. 气 / 氣 • Qì
 
@@ -51,8 +56,9 @@ As Duas Forças do Qi:
 - **正气 • Zhèngqì (Qi Verdadeiro/Reto):** O caractere **正** (_Zhèng_) mostra graficamente um pé parado sobre uma linha horizontal (a fronteira ou a meta). Simboliza **andar na linha reta**, retidão moral, integridade e estabilidade. Visualmente, evoca uma postura firme e inabalável contra o que vem de fora.
 - **邪气 • Xiéqì (Qi Perverso):** O caractere **邪** (_Xié_) originalmente representava um local geográfico tortuoso e, mais tarde, uma presa de animal ou algo pontiagudo/desviado. Simboliza o **distorcido, o que vem de viés, o oblíquo**. Graficamente, representa o que quebra a harmonia da linha reta.
 
-4. 无 / 無 • Wú
+---
 
+4. 无 / 無 • Wú![[00_Assets/Imagens/Ideogramas/無_Wu.png]]
 
 - **Significado:** Não-ser, nada, vazio primordial.
 
@@ -75,6 +81,8 @@ Diferente de _Wú_, _Kōng_ foca na espacialidade física e perceptiva:
 - **工 (_Gōng_ - Trabalho/Ferramenta):** A parte inferior simboliza a ação de escavar ou moldar.
 - **O Símbolo:** A imagem de uma **caverna escavada**. Ela é útil justamente porque está vazia por dentro, permitindo que alguém habite ou guarde algo nela. No nível simbólico, representa o espaço aberto, o céu azul desimpedido e a mente livre de fixações (limpa de preconceitos para poder acolher a realidade).
 
+---
+
 6. 感 • Gǎn
 
 - **Significado:** Sentir, perceber, ressonância, influência mútuo.
@@ -86,6 +94,8 @@ Um ideograma focado no movimento interno da consciência:
 - **咸 (_Xián_ - Todos/União):** A parte superior mostra armas ou machados se movendo juntos, significando "todos juntos" ou uma ação uníssona.
 - **心 (_Xīn_ - Coração/Mente):** A base do caractere é o coração.
 - **O Símbolo:** O **coração que se move em uníssono com o ambiente**. Não é apenas uma reação emocional passiva, mas uma corda que vibra quando a corda correspondente do universo é tocada. Simboliza a telepatia existencial: a capacidade humana de ser afetado e de afetar o macrocosmo de forma instantânea.
+
+---
 
 7. 理 • Lǐ
 
