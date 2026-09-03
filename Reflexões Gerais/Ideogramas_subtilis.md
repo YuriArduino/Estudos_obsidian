@@ -130,8 +130,9 @@ Este ideograma evoca a maestria da observação da natureza:
 
 - **O Símbolo:** Representa o ato de **lapidar e seguir os veios naturais internos do Jade**. Se você cortar o jade contra as suas linhas naturais, a pedra se quebra. Se seguir os veios (_Lǐ_), você revela sua beleza máxima. Simboliza a ordem intrínseca do universo, as leis invisíveis e os padrões geométricos da natureza aos quais devemos nos alinhar.
 
+---
 
-Dào • 道 
+8. Dào • 道
 
 
 
@@ -141,9 +142,60 @@ Dào • 道
 
 - **Análise:** Formado pelo radical de "caminhar/movimento" (辶) e "cabeça/consciência" (首). Representa o sistema em sua totalidade absoluta — a infraestrutura invisível que contém todos os fluxos (_Qi_), nós (_Jing_) e esquemas (_Li_). Em teoria de categorias, seria o próprio functor que unifica o sistema.
 
+---
 
-2. Tàijí • 太极 / 太極 (O Supremo Absoluto / A Variedade Diferenciada)
+
+9. 太极 / 太極 • Tàijí  
+
+- **Significado:** O Supremo Absoluto / A Variedade Diferenciada
 
 - **Significado Tradicional:** A viga mestra da casa, o eixo central, a origem da dualidade Yin/Yang.
+
 - **Abstração Topológica:** **A Variedade (_Manifold_) / O Atractor / O Estado de Equilíbrio.**
+
 - **Análise:** Composto por _Tai_ (太 - imenso/supremo) e _Ji_ (极 - polo/ápice/limite). É o ponto geométrico e dinâmico onde a indiferenciação absoluta se divide em estados binários estruturados (0 e 1, aberto e fechado). Representa a separação simétrica de um espaço de fases em subespaços complementares.
+
+---
+
+
+10. 意 •  Yì  (Intenção / Semântica / Metadados)
+
+- **Significado:**
+- **Significado Tradicional:** Mente-coração direcionada, intenção, o significado por trás de uma palavra.
+- **Abstração Topológica:** **A Semântica / A Função de Projeção / A Camada de Metadados.**
+- **Análise:** Combina o caractere de "som/voz" (音) sobre o de "coração/mente" (心). Significa a "voz do coração". Na modelagem de dados, _Yì_ é a **Assinatura Semântica**: a intenção lógica que mapeia uma estrutura matemática abstrata para um significado do mundo real. É a camada conceitual do seu grafo de conhecimento.
+
+---
+
+11.  德 • Dé  
+
+- **Significado:** (Virtude / Potencial de Ação / Propriedade Invariante
+- **Significado Tradicional:** Virtude, integridade, a manifestação concreta do _Dao_ em um objeto ou ser.
+
+- **Abstração Topológica:** **Invariante Topológico / Propriedade Intrínseca / Tipo Próprio.**
+
+- **Análise:** Graficamente une os radicais de "passo/ação" (彳), "olho reto" (直) e "coração" (心). Significa "agir com o olhar alinhado ao coração". Em sistemas, _Dé_ é a **função intrínseca** de um objeto — a métrica ou propriedade que se conserva invariante mesmo sob deformações contínuas (como a característica de Euler).
+
+---
+
+12. Jié • 节 / 節 (O Nó / A Cadência / O Período Finito)
+
+- **Significado:**
+- **Significado Tradicional:** Nó de bambu, articulação, regulação, estação do ano, compasso musical. 
+- **Abstração Topológica:** **Periodicidade / Loops de Controle / O _Clock_ do Sistema / Discretização.**
+
+- **Análise:** O caractere tradicional (**節**) mostra o radical de "Bambu" (竹) sobre a imagem de uma pessoa se ajoelhando para comer ou servir comida (Repetição/Hábito). O nó do bambu divide uma haste contínua em segmentos idênticos e discretos.
+
+- **O Símbolo:** Em modelagem de dados, _Jié_ representa o **ritmo discreto**: o clock do processador, os intervalos de amostragem temporal, as iterações (`loops`) ou as restrições periódicas que subdividem o fluxo contínuo do sistema. É a estrutura modular do tempo.
+
+---
+
+13. Yùn • 韵 / 韻 (A Ressonância Vibratória / O Ritmo Fluido)
+
+- **Significado:**
+- **Significado Tradicional:** Rima, tom musical, elegância, som que reverbera, atmosfera interna.
+- **Abstração Topológica:** **Frequência Wavelet / Harmônica / Oscilações em Variedades.**
+- **Análise:** Composto pelo radical de "Som/Voz" (音) combinado com o elemento de "Circular/Fluir" (员/員).
+- **O Símbolo:** Enquanto _Jié_ é o compasso rígido e metrificado, _Yùn_ é o **ritmo contínuo e ondulatório**. É a cadência sinoidal, as frequências de ressonância ou as equações diferenciais que descrevem ondas em uma variedade topológica. Na modelagem semântica, representa a "elegância estrutural" onde os dados fluem sem atrito em padrões cíclicos complexos e naturais.
+
+---
