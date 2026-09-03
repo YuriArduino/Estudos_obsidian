@@ -6,6 +6,8 @@
 
 1. 精 • Jīng
 
+![[00_Assets/Imagens/Ideogramas/Jing_Chinese_medicine,_by_Zen_Master_and_Physician_Venerable_Xiè'ēn.png|138]]
+
 - **Significado:** Essência, refinação, espírito vital ou semente de vida.
 - 
 - **Exploração:** Na MTC e nas práticas internas (_Neidan_), o _Jing_ é a energia material mais densa e fundamental do corpo humano, herdada dos pais (constituição física) e extraída dos alimentos. É a raiz do nosso desenvolvimento crescimento e vitalidade física. Junto com o _Qi_ e o _Shen_ (Espírito), forma os **Três Tesouros** (_San Bao_).
