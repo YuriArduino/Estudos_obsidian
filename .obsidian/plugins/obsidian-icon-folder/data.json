@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImage",
       "LiTimeline",
       "⛩",
       "LiCode",
-      "LiCalculator",
-      "FabConnectdevelop"
+      "LiCalculator"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -88,5 +88,9 @@
   "01_Interconexões/Epocas": {
     "iconName": "LiTimeline",
     "iconColor": "#f90bb9"
+  },
+  "00_Assets/Imagens": {
+    "iconName": "LiImage",
+    "iconColor": "#e30d0d"
   }
 }

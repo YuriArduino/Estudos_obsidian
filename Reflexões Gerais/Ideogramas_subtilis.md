@@ -1,5 +1,9 @@
 
 
+
+
+
+
 1. 精 • Jīng
 
 - **Significado:** Essência, refinação, espírito vital ou semente de vida.
