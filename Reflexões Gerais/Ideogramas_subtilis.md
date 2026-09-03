@@ -40,6 +40,8 @@ A estrutura visual deste caractere 间 é poética e espacial:
 
 3. 气 / 氣 • Qì
 
+![[00_Assets/Imagens/Ideogramas/氣 _Qì.png]]
+
 - **Significado:** Energia vital, sopro, força motriz do universo.
 - **Exploração:** É a energia em constante movimento que anima tudo o que existe. Você mencionou duas ramificações cruciais dela:
 - **Xieqi • 邪气 (_Xiéqì_):** Significa **"Qi Perverso"** ou energia patogênica. Na medicina chinesa, refere-se a fatores externos (frio, vento, umidade, vírus) ou emoções tóxicas que causam doenças.
@@ -58,7 +60,9 @@ As Duas Forças do Qi:
 
 ---
 
-4. 无 / 無 • Wú![[00_Assets/Imagens/Ideogramas/無_Wu.png]]
+4. 无 / 無 • Wú
+
+![[無_Wu.png]]
 
 - **Significado:** Não-ser, nada, vazio primordial.
 
@@ -98,6 +102,8 @@ Um ideograma focado no movimento interno da consciência:
 ---
 
 7. 理 • Lǐ
+
+![[00_Assets/Imagens/Ideogramas/理_Lǐ.png]]
 
 - **Significado:** Princípio Cósmico, razão, padrão cósmico, ordem natural.
 - 
