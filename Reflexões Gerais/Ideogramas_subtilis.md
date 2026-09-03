@@ -172,6 +172,8 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 
 ### 9. 太极 / 太極 • Tàijí
 
+![[太極_Tàijí.png]]
+
 **Significado:** O Supremo Absoluto / A Variedade Diferenciada.
 
 **Significado Tradicional:** A viga mestra da casa, o eixo central, a origem da dualidade Yin/Yang.
@@ -185,6 +187,8 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 ---
 
 ### 10. 意 • Yì
+
+![[00_Assets/Imagens/Ideogramas/意_Yì.png]]
 
 **Significado:** A Intenção / A Camada Semântica / Os Metadados.
 
@@ -200,6 +204,10 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 
 ### 11. 德 • Dé
 
+![[00_Assets/Imagens/Ideogramas/德_Dé.png]]
+
+
+
 **Significado:** Virtude / Potencial de Ação / Propriedade Invariante.
 
 **Significado Tradicional:** Virtude, integridade, a manifestação concreta do _Dao_ em um objeto ou ser.
@@ -214,6 +222,11 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 
 ### 12. 节 / 節 • Jié
 
+
+![[00_Assets/Imagens/Ideogramas/節_Jié.png]]
+
+
+
 **Significado:** O Nó / A Cadência / O Período Finito.
 
 **Significado Tradicional:** Nó de bambu, articulação, regulação, estação do ano, compasso musical.
@@ -227,6 +240,8 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 ---
 
 ### 13. 韵 / 韻 • Yùn
+
+![[00_Assets/Imagens/Ideogramas/韵_Yùn.png]]
 
 **Significado:** A Ressonância Vibratória / O Ritmo Fluido.
 
