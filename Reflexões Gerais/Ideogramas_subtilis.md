@@ -135,7 +135,6 @@ Este ideograma evoca a maestria da observação da natureza:
 8. Dào • 道
 
 
-
 - **Significado Tradicional:** O Caminho, o fluxo absoluto da natureza, a verdade última.
 
 - **Abstração Topológica:** **O Espaço Topológico Global (X) / O Grafo Completo.**
@@ -169,7 +168,7 @@ Este ideograma evoca a maestria da observação da natureza:
 
 11.  德 • Dé  
 
-- **Significado:** (Virtude / Potencial de Ação / Propriedade Invariante
+- **Significado:** Virtude / Potencial de Ação / Propriedade Invariante
 - **Significado Tradicional:** Virtude, integridade, a manifestação concreta do _Dao_ em um objeto ou ser.
 
 - **Abstração Topológica:** **Invariante Topológico / Propriedade Intrínseca / Tipo Próprio.**
@@ -178,9 +177,9 @@ Este ideograma evoca a maestria da observação da natureza:
 
 ---
 
-12. Jié • 节 / 節 (O Nó / A Cadência / O Período Finito)
+12. 节 / 節 •  Jié 
 
-- **Significado:**
+- **Significado:**  O Nó / A Cadência / O Período Finito
 - **Significado Tradicional:** Nó de bambu, articulação, regulação, estação do ano, compasso musical. 
 - **Abstração Topológica:** **Periodicidade / Loops de Controle / O _Clock_ do Sistema / Discretização.**
 
@@ -190,9 +189,9 @@ Este ideograma evoca a maestria da observação da natureza:
 
 ---
 
-13. Yùn • 韵 / 韻 (A Ressonância Vibratória / O Ritmo Fluido)
+13. 韵 / 韻 •  Yùn 
 
-- **Significado:**
+- **Significado:** A Ressonância Vibratória / O Ritmo Fluido
 - **Significado Tradicional:** Rima, tom musical, elegância, som que reverbera, atmosfera interna.
 - **Abstração Topológica:** **Frequência Wavelet / Harmônica / Oscilações em Variedades.**
 - **Análise:** Composto pelo radical de "Som/Voz" (音) combinado com o elemento de "Circular/Fluir" (员/員).
