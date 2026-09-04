@@ -95,3 +95,4 @@
 "event_logs:sources:reimport_progress": {"key":"sources:reimport_progress","ct":910,"first_at":1787067077042,"last_at":1788551784003,"class_name":"EventLog","event_sources":{"run_re_import":910}},
 "event_logs:sources:reimport_completed": {"key":"sources:reimport_completed","ct":851,"first_at":1787067077049,"last_at":1788551785902,"class_name":"EventLog","event_sources":{"run_re_import":851}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":1884,"first_at":1787066950875,"last_at":1788551940918,"class_name":"EventLog","event_sources":{"active-leaf-change":1881,"open_source":3}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1886,"first_at":1787066950875,"last_at":1788553048607,"class_name":"EventLog","event_sources":{"active-leaf-change":1883,"open_source":3}},
