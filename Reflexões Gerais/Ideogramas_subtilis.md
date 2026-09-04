@@ -2,9 +2,11 @@
 
 > Léxico de ideogramas chineses que fundamentam, filosófica e estruturalmente, a ontologia do Noosphera. **Parte I** reúne os conceitos fundamentais (matéria, energia, vazio, percepção, transformação) com sua etimologia pictográfica e sua abstração topológica de _base_ — os primitivos (conjunto, topologia, fluxo, vazio, relação, acoplamento, métrica, morfismo). **Parte II** eleva esses primitivos a abstrações _compostas_ — as estruturas globais do sistema (espaço total, variedade, semântica, invariante, periodicidade, frequência).
 
-> **Nota desta revisão (v2):** a Parte II original misturava campos (significado tradicional e abstração topológica numa única linha, depois repetidos), pulava a camada de exploração filosófica que dá densidade à Parte I, e empilhava abstrações matemáticas paralelas sem hierarquia clara (ex.: Taiji descrito como "Variedade / Atractor / Estado de Equilíbrio" sem dizer qual é o conceito central e quais são consequência dele). Esta versão realinha a Parte II à estrutura da Parte I — Significado → Abstração Topológica → Exploração → Anatomia do Caractere → O Símbolo — corrige o uso equivocado de "functor" em Dào, resolve as hierarquias soltas de Tàijí e Yì, e acrescenta a cada entrada (Parte I e II) uma camada de **Trigrama/Hexagrama** do Yijing (I Ching), explicada na íntegra logo antes da Parte II.
+> **Nota (v2):** a Parte II original misturava campos (significado tradicional e abstração topológica numa única linha, depois repetidos), pulava a camada de exploração filosófica que dá densidade à Parte I, e empilhava abstrações matemáticas paralelas sem hierarquia clara (ex.: Taiji descrito como "Variedade / Atractor / Estado de Equilíbrio" sem dizer qual é o conceito central e quais são consequência dele). Esta versão realinha a Parte II à estrutura da Parte I — Significado → Abstração Topológica → Exploração → Anatomia do Caractere → O Símbolo — corrige o uso equivocado de "functor" em Dào, resolve as hierarquias soltas de Tàijí e Yì, e acrescenta a cada entrada (Parte I e II) uma camada de **Trigrama/Hexagrama** do Yijing (I Ching), explicada na íntegra logo antes da Parte II.
 > 
 > **Nota (v3):** os sete primitivos originais descreviam apenas _estruturas_ (conjunto, abertura, fluxo, vazio, relação, acoplamento, métrica) — nenhum descrevia a transformação de uma estrutura em outra. Acrescentou-se o oitavo primitivo, **易 Yì (Mudança)**, o morfismo entre estruturas, e ajustou-se a leitura de **道 Dào** para refletir a relação clássica entre os dois.
+> 
+> **Nota (v4 — revisão de coerência):** a checagem cruzada dos trigramas/hexagramas revelou uma contradição: a entrada 8 (易 Yì) atribui ☰ Qián a si mesma, com base direta no Tuanzhuan do Hexagrama 1 — mas as entradas 9 (道 Dào) e 10 (太极 Tàijí) ainda descreviam Qián como um trigrama "reservado", não atribuído a nenhum primitivo. Resolvido a favor da entrada 8: Dào agora é lido como "易 duplicado sobre si mesmo" (a própria entrada 8 já sugeria essa leitura, só não havia sido propagada para trás) e Tàijí como o encontro entre Jīng (matéria) e 易 (mudança), não entre Jīng e "o Dao". Corrigida também uma duplicação de numeração (Dào e Tàijí apareciam ambos como "9" — a Parte II agora vai de 9 a 14) e padronizados os caminhos de imagem que ainda usavam nome de arquivo solto ou continham um espaço perdido (itens 3, 4, 6, 9 e 10).
 
 ---
 
@@ -101,7 +103,7 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 
 **O Símbolo:** o **vácuo fértil**, o palco invisível de onde toda a coreografia do universo emerge. Formalmente, é o conjunto vazio — o elemento que, por definição, pertence a toda topologia; o potencial sem conteúdo do qual qualquer estrutura pode, em princípio, emergir.
 
-**Trigrama Associado:** _Nenhum — por definição._ Wú corresponde ao **Wuji** (無極), o estado que antecede a própria distinção em trigramas: é o "vazio fértil" a partir do qual o **Taiji** se desdobra em Yin e Yang, o Yin/Yang nos Quatro Bigramas, e estes nos Oito Trigramas (Bagua). Formalmente, Wú é o campo _fora_ do sistema classificatório do Bagua — o pré-requisito lógico para que o próprio Bagua possa existir. É a única entrada deste glossário cuja abstração topológica correta é justamente a ausência de trigrama.
+**Trigrama Associado:** _Nenhum — por definição._ Wú corresponde ao **Wuji** (無極), o estado que antecede a própria distinção em trigramas: é o "vazio fértil" a partir do qual o **Taiji** se desdobra em Yin e Yang, o Yin/Yang nos Quatro Bigramas (四象, _Sìxiàng_), e estes nos Oito Trigramas (Bagua). Formalmente, Wú é o campo _fora_ do sistema classificatório do Bagua — o pré-requisito lógico para que o próprio Bagua possa existir. É a única entrada deste glossário cuja abstração topológica correta é justamente a ausência de trigrama.
 
 ---
 
@@ -172,7 +174,6 @@ _Como "jian" não possui uma marcação de tom padrão neste agrupamento, ele re
 
 ![[00_Assets/Imagens/Ideogramas/易_Yì.png]]
 
-
 > ⚠️ **Atenção à homofonia:** este 易 (Yì — Mudança) não deve ser confundido com o 意 (Yì — Intenção) da entrada 11. Mesma leitura em pinyin, tom idêntico, radicais e significados inteiramente diferentes — um risco real de confusão neste glossário, à semelhança do que já ocorre no agrupamento 间/见/简.
 
 **Significado:** Mudança, transformação; também "o que é fácil/simples". É o caractere-título do próprio _Yijing_ (易經 — "o Clássico das Mudanças").
@@ -206,7 +207,7 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 
 ### 9. 道 • Dào
 
-![[00_Assets/Imagens/Ideogramas/道 _Dào.png]]
+![[道 _Dào.png]]
 
 **Significado:** O Caminho — o fluxo absoluto da natureza, a verdade última, indizível em sua totalidade.
 
@@ -221,13 +222,13 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 
 **O Símbolo:** a imagem de **uma consciência que avança abrindo caminho enquanto caminha** — o Dao não é uma trilha pré-existente a ser encontrada, mas algo que se manifesta no próprio ato de percorrer. Formalmente, é o espaço topológico total (X): o conjunto ambiente que contém, como subconjuntos e estruturas internas, todos os demais primitivos e compostos deste glossário; em teoria das categorias, é a categoria total que engloba todos os objetos e morfismos do sistema.
 
-**Hexagrama Associado:** **Hexagrama 1 — 乾為天 Qián (O Criativo)**, ☰ sobre ☰. É o único hexagrama formado pela duplicação de um único trigrama puro — Qián, o Céu, yang absoluto e indiferenciado. Nenhuma imagem representa melhor "o sistema em sua totalidade absoluta": pura potência criativa, ainda não repartida em polaridades. Não por acaso, Qián é o trigrama "reservado" da Parte I: o Céu não foi atribuído a nenhum primitivo isolado porque pertence, por inteiro, ao Dao.
+**Hexagrama Associado:** **Hexagrama 1 — 乾為天 Qián (O Criativo)**, ☰ sobre ☰. É o único hexagrama formado pela duplicação de um único trigrama puro — Qián, o Céu, yang absoluto e indiferenciado. Nenhuma imagem representa melhor "o sistema em sua totalidade absoluta": pura potência criativa, ainda não repartida em polaridades. Qián é também o trigrama do primitivo 易 Yì (Mudança, entrada 8) — o que permite ler este hexagrama com precisão redobrada: Dào é, formalmente, **易 duplicado sobre si mesmo**, a mudança elevada à sua própria totalidade absoluta.
 
 ---
 
-### 9. 太极 / 太極 • Tàijí
+### 10. 太极 / 太極 • Tàijí
 
-![[太極_Tàijí.png]]
+![[00_Assets/Imagens/Ideogramas/太極_Tàijí.png]]
 
 **Significado:** O Supremo Absoluto — a viga mestra da casa, o eixo central, a origem da dualidade Yin/Yang.
 
@@ -242,11 +243,11 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 
 **O Símbolo:** a imagem da **viga mestra que sustenta e organiza toda a casa a partir de um único eixo central** — o ponto de onde a indiferenciação absoluta se divide em estados binários estruturados (0 e 1, aberto e fechado, Yin e Yang). Formalmente, é o atractor — o estado de equilíbrio dinâmico para o qual o sistema converge — e a variedade que descreve sua geometria; é a separação simétrica de um espaço de fases em subespaços complementares.
 
-**Hexagrama Associado:** **Hexagrama 11 — 地天泰 Tài (A Paz)**, Kūn ☷ em cima, Qián ☰ embaixo. Não por acaso o próprio nome do hexagrama — _Tài_ — ecoa foneticamente _Tàijí_: é o encontro perfeito entre o Céu (a totalidade criativa, atribuída ao Dao) e a Terra (a matéria receptiva, atribuída a Jīng) — o Qi do Céu sobe, o Qi da Terra desce, e os dois se encontram em comunhão. É, literal e estruturalmente, a imagem do equilíbrio dinâmico entre os dois primitivos mais opostos do sistema — exatamente o papel que o Taiji cumpre na cosmologia chinesa.
+**Hexagrama Associado:** **Hexagrama 11 — 地天泰 Tài (A Paz)**, Kūn ☷ em cima, Qián ☰ embaixo. Não por acaso o próprio nome do hexagrama — _Tài_ — ecoa foneticamente _Tàijí_: é o encontro perfeito entre o Céu (a totalidade criativa, trigrama de 易 — a Mudança) e a Terra (a matéria receptiva, atribuída a Jīng) — o Qi do Céu sobe, o Qi da Terra desce, e os dois se encontram em comunhão. É, literal e estruturalmente, a imagem do equilíbrio dinâmico entre os dois primitivos mais opostos do sistema — matéria (Jīng) e mudança (易) — exatamente o papel que o Taiji cumpre na cosmologia chinesa.
 
 ---
 
-### 10. 意 • Yì
+### 11. 意 • Yì
 
 ![[00_Assets/Imagens/Ideogramas/意_Yì.png]]
 
@@ -267,7 +268,7 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 
 ---
 
-### 11. 德 • Dé
+### 12. 德 • Dé
 
 ![[00_Assets/Imagens/Ideogramas/德_Dé.png]]
 
@@ -289,7 +290,7 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 
 ---
 
-### 12. 节 / 節 • Jié
+### 13. 节 / 節 • Jié
 
 ![[00_Assets/Imagens/Ideogramas/節_Jié.png]]
 
@@ -310,7 +311,7 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 
 ---
 
-### 13. 韵 / 韻 • Yùn
+### 14. 韵 / 韻 • Yùn
 
 ![[00_Assets/Imagens/Ideogramas/韵_Yùn.png]]
 
@@ -331,7 +332,7 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 
 ---
 
-## Síntese — Os Sete Primitivos e as Seis Estruturas Compostas
+## Síntese — Os Oito Primitivos e as Seis Estruturas Compostas
 
 |#|Ideograma|Abstração Topológica|Trigrama / Hexagrama|
 |---|---|---|---|
@@ -342,12 +343,13 @@ A coincidência com o resto deste glossário não é decorativa: 簡易 reutiliz
 |5|空 Kōng|Objeto Relacional|☱ Duì|
 |6|感 Gǎn|Acoplamento / Sincronização|☲ Lí|
 |7|理 Lǐ|Tensor Métrico / Geodésicas|☶ Gèn|
-|8|道 Dào|Espaço Topológico Global|Hex. 1 — 乾 Qián (☰/☰)|
-|9|太极 Tàijí|Atractor / Variedade|Hex. 11 — 泰 Tài (☷/☰)|
-|10|意 Yì|Camada Semântica|Hex. 61 — 中孚 Zhōngfú (☴/☱)|
-|11|德 Dé|Invariante Topológico|Hex. 32 — 恆 Héng (☳/☴)|
-|12|节/節 Jié|Periodicidade / Clock|Hex. 60 — 節 Jié (☵/☱)|
-|13|韵/韻 Yùn|Frequência / Harmônica|Hex. 59 — 渙 Huàn (☴/☵)|
+|8|易 Yì|Morfismo / Transformação|☰ Qián|
+|9|道 Dào|Espaço Topológico Global / Categoria Total|Hex. 1 — 乾 Qián (☰/☰)|
+|10|太极 Tàijí|Atractor / Variedade|Hex. 11 — 泰 Tài (☷/☰)|
+|11|意 Yì|Camada Semântica|Hex. 61 — 中孚 Zhōngfú (☴/☱)|
+|12|德 Dé|Invariante Topológico|Hex. 32 — 恆 Héng (☳/☴)|
+|13|节/節 Jié|Periodicidade / Clock|Hex. 60 — 節 Jié (☵/☱)|
+|14|韵/韻 Yùn|Frequência / Harmônica|Hex. 59 — 渙 Huàn (☴/☵)|
 
 _(Trigramas listados como superior/inferior.)_
 
