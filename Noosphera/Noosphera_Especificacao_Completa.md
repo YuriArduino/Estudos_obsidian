@@ -34,7 +34,11 @@ Arquitetura de Referência
 
 # 00 — Manifesto
 
-> Toda arquitetura nasce para resolver um problema. O Noosphera nasce da tentativa de responder a uma pergunta que permanece constante, independentemente da tecnologia: **Como preservar a identidade de uma estrutura de significado através de sucessivas representações e transformações em um ecossistema computacional mutável?**
+> Toda arquitetura nasce para resolver um problema. O Noosphera nasce da tentativa de responder a uma pergunta que permanece constante, independentemente da tecnologia: **Em um mundo computacional cada vez mais caótico, poucas coisas são tão revolucionárias quanto a permanência. Como preservar a identidade de uma estrutura de significado através de sucessivas representações e transformações em um ecossistema computacional mutável?**
+
+
+> [!QUOTE]
+>Tudo se transforma, se atualiza e se apaga em milissegundos, a busca pela permanência, o ato mais revolucionário de todos.
 
 ## 1. O Problema Fundamental
 
