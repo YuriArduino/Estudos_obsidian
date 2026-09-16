@@ -2,7 +2,7 @@
 
 <h2 align="center">Atendimento online e presença clínica</h2>
 
-<align="center">26/09/2026  •  3 horas  •  Modalidade híbrida</p>
+<center>26/09/2026  •  3 horas  •  Modalidade híbrida</p>
 <h3 align="center">Dra. Fernanda Pessolo Rocha  •  Me. Ana Carolina Naves Magalhães</p>
 
 > [!question] <center><h3><b>Questão norteadora</b><h3></center>
@@ -24,10 +24,10 @@ Refletir, a partir da psicanálise inglesa e de autores contemporâneos, sobre o
 - Favorecer uma leitura clínica singular, evitando oposições simplificadoras entre online e presencial.
 
 ## 2. Conteúdo programático
-- Figueiredo — virtualidade do dispositivo, elasticidade da técnica e enquadre interior.
-- Alessandra Lemma — corpo, embodiment, intimidade e tecnocultura.
-- Ogden — capítulo 4: privacidade, rêverie, técnica analítica e terceiro analítico.
-- Cesar e Ribeiro — atendimento em-linha, vitalidade, desvitalização e presença viva. 
+- Figueiredo — [[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf | virtualidade do dispositivo, elasticidade da técnica e enquadre interior.]]
+- Alessandra Lemma — [[A psicanálise em tempos de tecnocultura.pdf| corpo, embodiment, intimidade e tecnocultura.]]
+- Ogden — [[ [[Reverie e interpretação OGDEN.pdf#page=51|Reverie e interpretação OGDEN, p.51| capítulo 4: privacidade, rêverie, técnica analítica e terceiro analítico.]]
+- Cesar e Ribeiro — [[Tão longe, tão perto_notas sobre a vitalização no atendimento em-linha.pdf| atendimento em-linha, vitalidade, desvitalização e presença viva. ]] 
 
 ## 3. Metodologia
 
