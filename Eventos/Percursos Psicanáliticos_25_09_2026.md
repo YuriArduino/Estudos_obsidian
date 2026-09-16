@@ -2,11 +2,13 @@
 
 <h2 align="center">Atendimento online e presença clínica</h2>
 
-<center>26/09/2026  •  3 horas  •  Modalidade híbrida</p>
-<h3 align="center">Dra. Fernanda Pessolo Rocha  •  Me. Ana Carolina Naves Magalhães</p>
+<center>26/09/2026  •  3 horas  •  Modalidade híbrida</center>
 
-> [!question] <center><h3><b>Questão norteadora</b><h3></center>
+<h3 align="center">Dra. Fernanda Pessolo Rocha  •  Me. Ana Carolina Naves Magalhães</h3>
+
+> [!question] <center><h3><b>Questão norteadora</b></h3></center>
 > <center>O que constitui presença analítica quando analista e paciente não compartilham o mesmo espaço físico?</center>
+
 
 
 
@@ -26,7 +28,7 @@ Refletir, a partir da psicanálise inglesa e de autores contemporâneos, sobre o
 ## 2. Conteúdo programático
 - Figueiredo — [[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf | virtualidade do dispositivo, elasticidade da técnica e enquadre interior.]]
 - Alessandra Lemma — [[A psicanálise em tempos de tecnocultura.pdf| corpo, embodiment, intimidade e tecnocultura.]]
-- Ogden — [[ [[Reverie e interpretação OGDEN.pdf#page=51|Reverie e interpretação OGDEN, p.51| capítulo 4: privacidade, rêverie, técnica analítica e terceiro analítico.]]
+- Ogden — [[ Reverie e interpretação OGDEN.pdf#page=49| capítulo 4: privacidade, rêverie, técnica analítica e terceiro analítico.]]
 - Cesar e Ribeiro — [[Tão longe, tão perto_notas sobre a vitalização no atendimento em-linha.pdf| atendimento em-linha, vitalidade, desvitalização e presença viva. ]] 
 
 ## 3. Metodologia
@@ -39,11 +41,10 @@ Leitura principal: Thomas H. Ogden, capítulo 4 — “Privacidade, reverie e t�
 
 Leituras complementares: textos de Luís Claudio Figueiredo, Alessandra Lemma e Fátima Flórido Cesar & Marina F. R. Ribeiro.
 
-Perguntas para orientar a leitura
+#### Perguntas para orientar a leitura
 - Qual é a ideia central do texto?
 - O que ele ajuda a pensar sobre presença clínica no atendimento online?
-- Que questão clínica permanece aberta? Percursos Psicanalíticos
-- Segundo encontro • 26/09/2026 5.
+- Que questão clínica permanece aberta?
 
 ## 5. Referências bibliográficas
 
