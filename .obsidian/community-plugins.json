@@ -28,5 +28,6 @@
   "quickadd",
   "obsidian-meta-bind-plugin",
   "obsidian-linter",
-  "image-converter"
+  "image-converter",
+  "editing-toolbar"
 ]
