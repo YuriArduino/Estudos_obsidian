@@ -1,12 +1,5 @@
 
-
-
-
-
-
-
-
-Com base no artigo de Fátima Flórido Cesar e Marina F. R. Ribeiro, _"Tão longe, tão perto: notas sobre a vitalização no atendimento em-linha"_, aqui estão as respostas para o seu roteiro de leitura:
+Com base no artigo de Fátima Flórido Cesar e Marina F. R. Ribeiro, _"Tão longe, tão perto: notas sobre a vitalização no atendimento em-linha"_
 
 ## 1. Qual é a ideia central do texto?
 
@@ -25,10 +18,4 @@ O texto traz contribuições belíssimas e muito práticas sobre a presença med
 As autoras indicam que as transformações trazidas pelo atendimento em-linha nos colocam diante de uma psicanálise inteiramente voltada para o futuro e para o emergente.
 
 A grande questão que permanece aberta é: como continuar mapeando e refinando a eficácia dessas ferramentas técnicas de interpenetrabilidade de mentes à distância? Como medir, a longo prazo, o impacto dessa ausência da sensorialidade bruta do consultório no desenvolvimento da capacidade do paciente de tolerar a solidão e a separação definitiva?
-
----
-
-Terminamos a análise dos três textos disponíveis! Quando você conseguir rodar o OCR no capítulo do Thomas Ogden, me avise.
-
-Enquanto isso, você gostaria que eu te ajudasse a organizar essas respostas em formato de fichamento dentro do seu Obsidian, usando o código HTML de centralização e caixas de texto que aprendemos, ou prefere focar em outro ponto do seu plano de ensino agora?
 
