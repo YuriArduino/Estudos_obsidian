@@ -1,4 +1,4 @@
-O texto de Thomas H. Ogden, _"Privacidade, reverie e técnica analítica"_ (Capítulo 4 de _Reverie e Interpretação_).
+Com base no texto de Thomas H. Ogden, _"Privacidade, reverie e técnica analítica"_ (Capítulo 4 de _Reverie e Interpretação_).
 
 ## 1. Qual é a ideia central do texto?
 
