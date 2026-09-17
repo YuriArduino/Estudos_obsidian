@@ -54,4 +54,4 @@ Ao abordar a virtualização real no texto em questão, a autora foca no corpo, 
 
 É citado o termo **"virtualmente real"**, junto de um MMO como possibilidade de de uma vivência parcialmente real e virtual, me questio se seria esse MMO a "mediação" citada anteriormente. A reflexão continua sem resposta ao citar o sexo virtual, questionando o que é real e o que é reconstituido em fantasia.
 
-Não começou bem o capítulo "O destino do corpo no ciberespaço", a etimologia citada tem de ser conferida, e seu uso para justificar a necessidade de controle realização do cyberespaço 
+Não começou bem o capítulo "O destino do corpo no ciberespaço", a etimologia citada tem de ser conferida, e seu uso para justificar a necessidade de controle realizada do cyberespaço resultando em um espaço controlado. O artigo é de 2015 e considero interessante checar as publicações atuais da autora. Quase 11 anos depois e se realiza uma fuzão a lá biopoder foulcoutiano algorítimico, a relação de depêndencia desaparece, pois se realiza a simbiose. Existe controle na medida em que aceitamos o controle, seja da rotinas, do corpo, saúde e do tempo. Talvez até algo além do "virtualmente real".
