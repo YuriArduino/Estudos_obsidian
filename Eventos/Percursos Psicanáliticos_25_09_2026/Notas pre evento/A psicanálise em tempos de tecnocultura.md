@@ -15,9 +15,14 @@ Embora o texto não foque no formato das sessões online em si, ele traz conceit
 
 ## 3. Que questão clínica permanece aberta?
 
-A autora aponta que ainda não sabemos o suficiente sobre as implicações de longo prazo que a imediatez virtual tem sobre a psique humana.
+A grande questão que permanece em aberto transborda a preocupação original de Lemma (2015) sobre o impacto da imediatez virtual e do controle onipotente da "mãe-tela" na tolerância à alteridade e no tempo de espera do desejo. 
 
-No ciberespaço, temos o poder de fazer coisas acontecerem com apenas um clique. Como essa gratificação instantânea e o controle onipotente oferecidos pela "mãe-tela" impactam a nossa capacidade futura de tolerar a alteridade, o tempo de espera do desejo e a inevitável falta de controle que temos sobre o outro no mundo real?
+Se hoje não operamos mais em uma lógica de "entrar e sair" do ciberespaço, mas sim em uma **relação simbiótica constante com o biopoder algorítmico**, as perguntas clínicas urgentes passam a ser:
+
+* **A Colonização Psíquica Pós-Conexão:** Como manejar clinicamente as marcas subjetivas da imediatez virtual que permanecem atuando no corpo físico mesmo quando o sujeito está offline? Como a clínica pode acolher um self cujos afetos e atenção são continuamente reformatados por métricas invisíveis de otimização e validação algorítmica?
+* **O Isomorfismo na Prática:** Quando a simbiose se estabelece a ponto de as fronteiras entre o mundo interno e o ambiente tecnológico se tornarem totalmente indistintas, como o analista pode ajudar o paciente a resgatar referentes contextuais e corporais para dar sentido à sua própria experiência sem que isso seja vivido como uma violência ou uma "evisceração psíquica"?
+* **O Destino da Passividade e da Falta:** Em um mundo que promete o aperfeiçoamento e o controle total do tempo, da saúde e das rotinas por meio de antropotécnicas, como a psique contemporânea negociará com a sua inevitável finitude, com o desamparo orgânico e com a angústia da passividade diante do outro real?
+
 
 
 ## 4. Fichamento e reflexões
