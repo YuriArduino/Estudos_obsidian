@@ -3,15 +3,7 @@ Com base no artigo de Alessandra Lemma, _"A psicanálise em tempos de tecnocultu
 ## 1. Qual é a ideia central do texto?
 
 A ideia central é discutir como os avanços da tecnocultura (a cultura moldada pelas tecnologias digitais) afetam a estrutura psíquica e transformam a nossa vivência do próprio corpo (embodiment).
-
 A autora defende que o ciberespaço não é apenas um lugar de mentes isoladas, mas sim uma nova arena onde o corpo ainda importa. O problema psicológico surge quando o virtual deixa de ser visto como um aumento da realidade e passa a ser usado como um refúgio defensivo para evitar o contato com a realidade crua, a finitude e as frustrações da nossa existência de carne e osso.
-
-
-
-
-> ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=72,13,80,23&color=yellow|p.3]])
-> os mundos real e virtual come- çaram a se amalgamar, ou seja, para a atual geração, as redes digitais são cada vez mais um aumento do mundo real, em vez de uma alternativa a esse.
-
 
 ## 2. O que ele ajuda a pensar sobre presença clínica no atendimento online?
 
@@ -26,3 +18,16 @@ Embora o texto não foque no formato das sessões online em si, ele traz conceit
 A autora aponta que ainda não sabemos o suficiente sobre as implicações de longo prazo que a imediatez virtual tem sobre a psique humana.
 
 No ciberespaço, temos o poder de fazer coisas acontecerem com apenas um clique. Como essa gratificação instantânea e o controle onipotente oferecidos pela "mãe-tela" impactam a nossa capacidade futura de tolerar a alteridade, o tempo de espera do desejo e a inevitável falta de controle que temos sobre o outro no mundo real?
+
+
+## 4. Fichamento e reflexões
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=58,22,64,8&color=yellow|p.3]])
+> modo como estão transformando a natureza da intimidade. Se estivermos interessados na intimidade, não podemos deixar de nos interessar também pelo destino do corpo no espaço virtual, e essa é a ênfase de minha contribuição. 
+
+[Mediação]
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=72,13,80,23&color=yellow|p.3]])
+> os mundos real e virtual começaram a se amalgamar, ou seja, para a atual geração, as redes digitais são cada vez mais um aumento do mundo real, em vez de uma alternativa a esse.
+
+Virtualização real no texto em questão a autora está focando no corpo, e suas funções como percepção([Embodiment]X[Disembodied.])
