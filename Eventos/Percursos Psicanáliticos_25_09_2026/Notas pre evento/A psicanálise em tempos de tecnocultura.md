@@ -78,3 +78,11 @@ Sobre a questão do isomorfismo já discordo totalmente, para ocorrer o isomorfi
 
 > ([[A psicanálise em tempos de tecnocultura.pdf#page=10&selection=100,13,140,6&color=yellow|p.10]])
 > e através do processo de imediatez virtual pode-se virtualmente realizar o “self possível” e, no processo, receber alguma forma de legitimação social, mesmo que em um contexto específico, então até que ponto é “autêntico” esse self possível e como a maneira que os outros reagem a esse self virtual afeta o self off-line? Aqui é fundamental ter em mente a distinção entre uma realização ideal do embodiment e uma realização idealizada, que iria equivaler a um embodiment inautêntico. 
+
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=15&selection=12,30,36,39&color=yellow|p.15]])
+> Sua luta para integrar a psicossexualidade exigiu a análise de sua deficiência, ou seja, de seu self corporal hipocatexizado no contexto de suas primeiras experiências de apego, e uma aceitação do uso que ele fez do ciberespaço para elaborar essas dificuldades, mais do que a interpretação disso nos estágios iniciais. Um espelhamento marcado e contingente da vivência corporal do self provavelmente constitui, para todos nós, uma característica essencialmente importante para o desenvolvimento de um senso de self coerente, firmemente enraizado no corpo
+
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=16&selection=33,0,47,14&color=red|p.16]])
+> O ciberespaço não é um espaço homogêneo. Precisamos levar em conta as rela- ções contingentes que existem entre esse espaço e aquilo que ele permite em termos de [representação] e [interação]. E, à medida que o fazemos, precisamos ter em mente que o que transcende os espaços on-line e off-line é o indivíduo.
