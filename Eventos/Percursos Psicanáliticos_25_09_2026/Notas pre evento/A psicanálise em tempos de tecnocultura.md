@@ -25,9 +25,21 @@ No ciberespaço, temos o poder de fazer coisas acontecerem com apenas um clique.
 > ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=58,22,64,8&color=yellow|p.3]])
 > modo como estão transformando a natureza da intimidade. Se estivermos interessados na intimidade, não podemos deixar de nos interessar também pelo destino do corpo no espaço virtual, e essa é a ênfase de minha contribuição. 
 
-[Mediação]
+
 
 > ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=72,13,80,23&color=yellow|p.3]])
 > os mundos real e virtual começaram a se amalgamar, ou seja, para a atual geração, as redes digitais são cada vez mais um aumento do mundo real, em vez de uma alternativa a esse.
 
-Virtualização real no texto em questão a autora está focando no corpo, e suas funções como percepção([Embodiment]X[Disembodied.])
+Virtualização real no texto em questão a autora está focando no corpo, e suas funções como percepção([Embodiment]X[Disembodied.]) [Mediação] é levantado como ponto de encontro tanto entre superficial e intimo.
+
+
+>> ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=95,13,102,21&color=yellow|p.3]])
+> desprezar os novos meios de comunicação e tecnologias, considerando- -os como facilitadores da simulação como engano, como sustentaram Baudrillard (1981/1988) e outros;
+
+
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=103,0,105,25&color=note|p.3]])
+> considerar a simulação como um aspecto de uma copresença (estar juntos através de mediação; Coleman, 2011).
+
+
+
