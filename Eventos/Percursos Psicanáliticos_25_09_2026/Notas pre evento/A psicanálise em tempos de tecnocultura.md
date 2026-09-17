@@ -54,4 +54,21 @@ Ao abordar a virtualização real no texto em questão, a autora foca no corpo, 
 
 É citado o termo **"virtualmente real"**, junto de um MMO como possibilidade de de uma vivência parcialmente real e virtual, me questio se seria esse MMO a "mediação" citada anteriormente. A reflexão continua sem resposta ao citar o sexo virtual, questionando o que é real e o que é reconstituido em fantasia.
 
-Não começou bem o capítulo "O destino do corpo no ciberespaço", a etimologia citada tem de ser conferida, e seu uso para justificar a necessidade de controle realizada do cyberespaço resultando em um espaço controlado. O artigo é de 2015 e considero interessante checar as publicações atuais da autora. Quase 11 anos depois e se realiza uma fuzão a lá biopoder foulcoutiano algorítimico, a relação de depêndencia desaparece, pois se realiza a simbiose. Existe controle na medida em que aceitamos o controle, seja da rotinas, do corpo, saúde e do tempo. Talvez até algo além do "virtualmente real".
+Não começou bem o capítulo "O destino do corpo no ciberespaço", a etimologia citada tem de ser conferida, e seu uso para justificar a necessidade de controle realizada do cyberespaço resultando em um espaço controlado. O artigo é de 2015 e considero interessante checar as publicações atuais da autora. Quase 11 anos depois e se realiza uma fuzão a lá biopoder foulcoutiano algorítimico, a relação de depêndencia desaparece, pois se realiza a simbiose. Existe controle na medida em que aceitamos o controle, seja da rotinas, do corpo, saúde e do tempo. Talvez até algo além do "virtualmente real".  Para não ter duvida quanto ao anacrônismo a autora mesmo cita na 
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=7&selection=41,8,53,10&color=red|p.7]])
+> Além do mais, como o ciberespaço integra uma paisagem tecnologizada que é agora parte normal da vida quotidiana em todo o mundo, isso torna mais fácil, e por vezes menos óbvio, que seja empregado por jovens em especial como um refúgio contra as exigências da realidade do embodiment e do particular sentido que este tem para eles.
+
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=6&selection=7,0,33,20&color=red|p.6]])
+> Quando estamos no ciberespaço, ainda estamos em nossos corpos. O que muda é a nossa vivência de embodiment, já que não mais dependemos das antigas relações condicionadas ao corpóreo. Esse é o motivo pelo qual devemos nos interessar pela reconstrução dos corpos on-line e por como essas atividades on-line alteram, ou não (conforme o caso), a vivência de embodiment e, consequentemente, nosso senso de identidade.
+
+A autora segue sem considerar o contraponto que quando não estamos no cyberespaço  ele ainda está em nosso corpo.
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=7&selection=31,0,41,7&color=yellow|p.7]])
+> Contudo, também ocorre que os ambientes tecnológicos do ciberespaço se prestam especialmente à projeção e ao acting out de fantasias inconscientes – tais como as que podemos observar no uso compulsivo da pornografia na internet (Wood, no prelo).
+
+Sobre a questão do isomorfismo já discordo totalmente, para ocorrer 
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=8&selection=93,27,108,41&color=red|p.8]])
+> O ambiente tecnológico do ciberespaço pode assim tornar indistintas as fronteiras entre os mundos interno e externo, criando a ilusão de que as realidades externa e interna são isomórficas. Nessas condições de existência, não há limites para o que pode ser imaginado ou atuado. À medida que o self se embriaga de onipotência, ele perde todos os referentes contextuais – dos quais o corpo é um – que iriam, de outra maneira, dar sentido à experiência.
