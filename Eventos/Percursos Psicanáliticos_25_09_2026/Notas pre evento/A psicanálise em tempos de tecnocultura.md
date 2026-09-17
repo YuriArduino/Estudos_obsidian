@@ -52,4 +52,6 @@ Ao abordar a virtualização real no texto em questão, a autora foca no corpo, 
 > próprio setting analítico é também uma forma de realidade virtual, assim como o é a transferência.
 
 
-É citado o termo **"virtualmente real"**, junto de um MMO como possibilidade de de uma vivência parcialmente real e virtual, me questio se seria esse MMO a "mediação" citada anteriormente. Para 
+É citado o termo **"virtualmente real"**, junto de um MMO como possibilidade de de uma vivência parcialmente real e virtual, me questio se seria esse MMO a "mediação" citada anteriormente. A reflexão continua sem resposta ao citar o sexo virtual, questionando o que é real e o que é reconstituido em fantasia.
+
+Não começou bem o capítulo "O destino do corpo no ciberespaço", a etimologia citada tem de ser conferida, e seu uso para justificar a necessidade de controle realização do cyberespaço 
