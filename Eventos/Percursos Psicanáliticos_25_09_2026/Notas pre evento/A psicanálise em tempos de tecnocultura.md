@@ -30,8 +30,8 @@ No ciberespaço, temos o poder de fazer coisas acontecerem com apenas um clique.
 > ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=72,13,80,23&color=yellow|p.3]])
 > os mundos real e virtual começaram a se amalgamar, ou seja, para a atual geração, as redes digitais são cada vez mais um aumento do mundo real, em vez de uma alternativa a esse.
 
-Virtualização real no texto em questão a autora está focando no corpo, e suas funções como percepção([Embodiment]X[Disembodied.]) [Mediação] é levantado como ponto de encontro tanto entre superficial e intimo.
 
+Ao abordar a virtualização real no texto em questão, a autora foca no corpo, uma espécie de dialética entre incorporar e desincorporar  ([Embodiment] vs. [Disembodied]) . Além disso, o conceito de [Mediação] é levantado como o ponto de encontro entre tais camadas, perpaçando os campos do superficial e o íntimo.
 
 >> ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=95,13,102,21&color=yellow|p.3]])
 > desprezar os novos meios de comunicação e tecnologias, considerando- -os como facilitadores da simulação como engano, como sustentaram Baudrillard (1981/1988) e outros;
