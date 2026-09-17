@@ -6,6 +6,13 @@ A ideia central é discutir como os avanços da tecnocultura (a cultura moldada 
 
 A autora defende que o ciberespaço não é apenas um lugar de mentes isoladas, mas sim uma nova arena onde o corpo ainda importa. O problema psicológico surge quando o virtual deixa de ser visto como um aumento da realidade e passa a ser usado como um refúgio defensivo para evitar o contato com a realidade crua, a finitude e as frustrações da nossa existência de carne e osso.
 
+
+
+
+> ([[A psicanálise em tempos de tecnocultura.pdf#page=3&selection=72,13,80,23&color=yellow|p.3]])
+> os mundos real e virtual come- çaram a se amalgamar, ou seja, para a atual geração, as redes digitais são cada vez mais um aumento do mundo real, em vez de uma alternativa a esse.
+
+
 ## 2. O que ele ajuda a pensar sobre presença clínica no atendimento online?
 
 Embora o texto não foque no formato das sessões online em si, ele traz conceitos valiosos para pensar a presença clínica nesse ambiente:
