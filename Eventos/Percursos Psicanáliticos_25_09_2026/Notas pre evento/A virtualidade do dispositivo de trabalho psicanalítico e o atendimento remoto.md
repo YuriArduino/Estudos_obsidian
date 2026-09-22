@@ -32,6 +32,22 @@ O autor dividiu o texto em 3 partes:
 
 ![Terapia a distância](https://www.youtube.com/watch?v=INxfzZ9bNUY)
 
-Vídeo caricato realizado na pândemia, o psicólogo em questão é caracterizado por uma postura displicente, mas que carrega o fator de improvisso mediante a urgênci
+Vídeo caricato realizado na pândemia, o psicólogo em questão é caracterizado por uma postura displicente, mas que carrega o fator de improvisso mediante a urgência da necessidade de distânciamento.
 
 
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=2&selection=43,59,46,76&color=yellow|p.62]])
+>  Contudo, quando propôs a elasticidade da técnica, Ferenczi estava levando em consideração as necessidades e sofrimentos dos pacientes precocemente traumatizados, que se sentiam mal quando submetidos à técnica e ao enquadre padrão da psicanálise.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=2&selection=47,14,53,3&color=yellow|p.62]])
+> a questão da elasticidade da técnica retornará nas novas frentes de trabalho do psicanalista, quando ele se descobre fazendo uma espécie de psicanálise, ou “psicoterapia psicanalítica”, fora do enquadre clássico; a isso podemos chamar de “psicoterapia psicanalítica” ou, mais apropriadamente, de “psicanálise modificada”, termo criado por Donald Winnicott (WINNICOTT, 1962), para nomear o que faz quando, como ele diz com seu gosto pelo paradoxo,
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=3&selection=8,0,9,9&color=yellow|p.63]])
+> Há ainda que levar em conta a expansão dos horizontes da atividade psicanalítica
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=3&selection=15,64,17,32&color=yellow|p.63]])
+> há muitas outras coisas que podem ser feitas fora mesmo do campo estrito das terapias, como os trabalhos em comunidade.
+
+Se abre o capítulo comentando o quanto a elasticidade da técnica é discutida próximo aos seus primórdios, como citado Ferenczi em 1928.
+Se entende que o básico Freudiano é 
