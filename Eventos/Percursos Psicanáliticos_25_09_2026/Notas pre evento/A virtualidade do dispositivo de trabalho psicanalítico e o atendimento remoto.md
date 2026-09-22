@@ -19,3 +19,12 @@ Como o dispositivo remoto foi imposto coletivamente de forma abrupta por fatores
 *   Quais tipos de **defesas e resistências inéditas** são engendradas especificamente pela mediação e pelo distanciamento das telas?
 *   Quais são os limites seguros e as dinâmicas de uma **regressão terapêutica profunda** quando o paciente não conta com o acolhimento do objeto primário material (o consultório físico)?
 *   Como se dará a reconfiguração clínica no momento de transição e retorno definitivo do enquadre remoto para o enquadre presencial?
+
+## 4. Fichamento e reflexões
+
+O autor dividiu o texto em 3 partes:
+
+- Próprio psicanalisar
+- Enquadre interior
+- Participações na criação do dispositivo psicanalítico
+
