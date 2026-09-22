@@ -28,3 +28,10 @@ O autor dividiu o texto em 3 partes:
 - Enquadre interior
 - Participações na criação do dispositivo psicanalítico
 
+
+
+![Terapia a distância](https://www.youtube.com/watch?v=INxfzZ9bNUY)
+
+Vídeo caricato realizado na pândemia, o psicólogo em questão é caracterizado por uma postura displicente, mas que carrega o fator de improvisso mediante a urgênci
+
+
