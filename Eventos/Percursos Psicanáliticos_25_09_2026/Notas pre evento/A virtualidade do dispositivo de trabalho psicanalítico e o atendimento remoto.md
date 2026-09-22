@@ -50,4 +50,4 @@ Vídeo caricato realizado na pândemia, o psicólogo em questão é caracterizad
 > há muitas outras coisas que podem ser feitas fora mesmo do campo estrito das terapias, como os trabalhos em comunidade.
 
 Se abre o capítulo comentando o quanto a elasticidade da técnica é discutida próximo aos seus primórdios, como citado Ferenczi em 1928.
-Se entende que o básico Freudiano é 
+Se entende que o básico Freudiano é a tripla Analista - Divã - Analisado, contudo o quanto essa configuração comporta do sofrimento humano, para flexibilizar o artigo trata como "psicoterapia psicanálitica" ou como "psicánalise modificada". É interessante essa distorção categóriga como tentativa de solucionar o problema central da inflexibilidade do setting, uma questão meta-psicanálitica, mas que o próprio criador em suas tentativas de inaugurar a técnica não se prendeu, como citado em  
