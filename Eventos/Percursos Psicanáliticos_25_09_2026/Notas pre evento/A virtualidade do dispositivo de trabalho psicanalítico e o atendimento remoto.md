@@ -172,4 +172,30 @@ A verdadeira blindagem contra a contaminação radioativa (contratransferência 
 > quando a função de proteção do estojo falha, a realidade externa invade de maneira intensa e perturbadora a situação analisante, destruindo-a parcial ou totalmente de forma que suas outras funções são imediatamente afetadas: nem o estojo consegue mais circunscrever um território magnetizado e capaz de atrair conteúdos psíquicos inconscientes e conscientes, formando um forte campo transferencial-contratransferencial, nem permite as ressonâncias emocionais e cognitivas, nem promove os processos de representação e simbolização, nem exerce pressão metaforizante. Todos esses “desastres em cascata” incidem, em primeiro lugar, sobre as próprias mentes do analista e do analisando que já não conseguirão criar o espaço potencial, isto é, a realidade virtual de que a psicanálise precisa para trabalhar. 
 
 
-O artigo segue trantando com a metáfora do  "estojo" mas agora ad-hoc (sob-medida), antes ele faz uma breve introdução do tema, como citado acima. É muito interessante pois esse artigo foi escrito em meio a um desastre, pandemia. E antes eu nem tinha pensado em chernobyll mas conversando com você o tema veio a tona e o autor não sei se contaminado por esse horizonte parece descrever fortemente esse cenário, olha esse trecho:
+O artigo segue trantando com a metáfora do  "estojo" mas agora ad-hoc (sob-medida), antes ele faz uma breve introdução do tema, como citado acima. É muito interessante pois esse artigo foi escrito em meio a um desastre — **Pandemia**. E antes eu nem tinha pensado em chernobyll mas por metonimia o tema veio a tona e o autor não sei se contaminado por esse horizonte parece descrever fortemente esse cenário, no trecho citado e a expressão gatilho "desastres em cascata" — termo exato da física para descrever o colapso sequencial de um reator quando a blindagem falha.
+
+O Derretimento do Núcleo (_Meltdown_) Psíquico
+
+Na usina, se o vaso de contenção falha, o calor extremo derrete o urânio, o campo magnético colapsa e a radiação vaza, destruindo o ecossistema ao redor.
+
+No texto do Figueiredo, a invasão da realidade externa faz exatamente isso:
+
+- **Colapso do Campo Magnético:** O estojo perde a capacidade de _"circunscrever um território magnetizado"_ (o campo transferencial). Sem essa força magnética de contenção, as partículas (as fantasias, as angústias) se dispersam no caos e não se atraem mais.
+- **Morte Térmica da Ressonância:** O sistema não permite mais as ressonâncias emocionais. O grafite da escuta perde o poder de desacelerar os nêutrons rápidos. A mente do paciente entra em curto-circuito reativo e o analista, contaminado pela mesma realidade externa assustadora, perde a sua "disposição de mente".
+- **Extinção da Energia Útil:** Cessa a pressão metaforizante e a incubação de símbolos. O aparelho de pensar entra em pane. Não há mais "espaço potencial" possível; resta apenas a realidade bruta, traumática e nua.
+
+O Estojo _Ad-hoc_ (“enquadre interior do analista”) como Plano de Contingência
+
+É nesse cenário de terra arrasada e de estojo trincado pela pandemia que o analista é empurrado para o **atendimento remoto**. A tela do computador e o telefone surgem não como uma evolução lógica e confortável da técnica, mas como um **estojo _ad-hoc_** — uma estrutura improvisada de emergência, como o sarcófago de concreto construído às pressas sobre o reator acidentado para tentar conter o vazamento de angústia e reestabelecer minimamente a possibilidade de trabalho.
+
+O analista passa a operar de dentro de sua própria casa, tateando o escuro através de pixels, tentando reconstruir um campo virtual de hospitalidade enquanto o mundo lá fora está contaminado.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=8&selection=16,0,26,76&color=yellow|p.68]])
+> Podemos nos aproximar do enquadre interior por duas vias, ambas interessantes: a primeira é a ideia de que esse enquadre interior se instala a partir da internalização da própria psicanálise como bom objeto interior (CAPER, 1999), o que dá ao psicanalista uma espécie de âncora e de fonte primordial a que se ligam suas duas modalidades de presença – reservada e implicada (FIGUEIREDO, 2008) – e lhe garante uma disposição de mente (a mente própria) capaz de exercer a escuta flutuante, porosa, disponível, mas não fusional. A ideia de uma “psicanálise amada” me parece importante como fundamento de nossa posição, de nossa ética, cuja ênfase não é na regulação e na interdição, mas no vínculo transferencial (amoroso) com o próprio método psicanalítico, uma transformação e ultrapassagem do que era a transferência com o analista.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=8&selection=27,0,32,64&color=yellow|p.68]])
+> A outra aproximação recorre a outro conceito do Green: a estrutura enquadrante (GREEN, 1967, 1993). Trata-se também do resultado de um processo de internalização, mas, no lugar do bom objeto interior, o que é acentuado é um vazio interior capaz de recepção e de produção. Ou seja, a presença do objeto bom interior propriamente dito é apagada para deixar em seu lugar uma estrutura enquadrante operativa: um vazio vivo e vitalizado.
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=8&selection=33,54,44,53&color=yellow|p.68]])
+> em ambos os roteiros, resultante da transferência com a psicanálise e da introjeção da psicanálise pelo psicanalista. Nos dois casos, não se trataria de processos em que a transferência se dá com a pessoa do seu analista, suas ideias, atitudes, modos de ser, mas da transferência com e introjeção da psicanálise, ela mesma, como método: as escutas em análise e o pensamento clínico psicanalítico. A pura transferência com a pessoa do analista, embora inevitável, poderia gerar uma incorporação do “objeto” e não uma introjeção da função analítica. Nessa medida, a permanência de uma pura transferência com a pessoa do analista (e seus objetos) acabaria se caracterizando como um fenômeno resistencial, o que torna necessária uma “transcendência da transferência”, para usarmos um termo de Jean Laplanche, embora em sentido diferente.
