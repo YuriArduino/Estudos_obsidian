@@ -78,13 +78,13 @@ Ganhos metateóricos.
 
 Interessante essa metáfora do setting como estojo, me lembrou das usinas nucleares. A  blindagem e o vaso de contenção de um reator.
 
-O enquadre (tempo, sigilo, a postura do analista) delimita esse espaço seguro para que a "matriz ativa" — o inconsciente em ebulição, o recalcado, as pulsões — possa emergir sem explodir a realidade externa ou o próprio sujeito. Funciona como uma caixa de ressonância e uma "incubadora de símbolos", porque desacelera o tempo corrido e reativo do cotidiano. É essa desaceleração que permite transformar o sintoma bruto (a radiação pura) em sentido e simbolização.
+O enquadre (tempo, sigilo, a postura do analista) delimita esse espaço seguro para que a "matriz ativa" — o inconsciente em ebulição, o recalcado, as pulsões — possa emergir sem explodir a realidade externa ou o próprio sujeito(urânio enriquecido). Funciona como uma caixa de ressonância e uma "incubadora de símbolos", porque desacelera o tempo corrido e reativo do cotidiano. É essa desaceleração que permite transformar o sintoma bruto (a radiação pura) em sentido e simbolização.
 
 Assim também como analogia das barras do reator para o manejo clínico e a postura do analista:
 
--  barra de controle (boro/cádmio): Quando o sofrimento do paciente ameaça sair do controle ou gerar uma atuação desmedida, o analista intervém para absorver esse excesso de angústia. Ele funciona como uma esponja que acalma o núcleo sob pressão e evita que o processo se destrua.
+-  Barra de controle (boro/cádmio): Quando o sofrimento do paciente ameaça sair do controle ou gerar uma atuação desmedida, o analista intervém para absorver esse excesso de angústia. Ele funciona como uma esponja que acalma o núcleo sob pressão e evita que o processo se destrua.
 
-- moderador (grafite): O grafite não para a reação, ele reduz a velocidade dos nêutrons rápidos para que eles fertilizem o urânio e gerem energia útil. Na clínica, o paciente muitas vezes chega com uma fala metralhada, cheia de defesas e racionalizações rápidas demais, que passam direto pelo inconsciente sem tocá-lo. O silêncio e as pontuações do analista desaceleram o tempo. Ao desacelerar o ritmo daquela energia psíquica bruta, o sujeito finalmente consegue colidir consigo mesmo e produzir simbolização.
+- Moderador (grafite): O grafite não para a reação, ele reduz a velocidade dos nêutrons rápidos para que eles fertilizem o urânio e gerem energia útil. Na clínica, o paciente muitas vezes chega com uma fala metralhada, cheia de defesas e racionalizações rápidas demais, que passam direto pelo inconsciente sem tocá-lo. O silêncio e as pontuações do analista desaceleram o tempo. Ao desacelerar o ritmo daquela energia psíquica bruta, o sujeito finalmente consegue colidir consigo mesmo e produzir simbolização.
 
 No fim das contas, a técnica clínica é esse jogo constante entre desacelerar para aprofundar (ser grafite) e intervir para conter o excesso (ser boro), tudo mantido pela segurança do estojo.
 
@@ -93,6 +93,14 @@ No fim das contas, a técnica clínica é esse jogo constante entre desacelerar 
 
 > ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=5&selection=5,0,7,23&color=yellow|p.65]])
 > continência de angústias e desconstrução de defesas e resistências, no primeiro caso, “reclamações” (ANNE ALVAREZ), sedução e “vitalização” (cf. FIGUEIREDO, 2019) no segundo.
+
+Prosseguindo com a analogia junto ao artigo, se o urânio é o potencial do paciente, a função vitalizante do analista funciona como uma Fonte Externa de Nêutrons (Injetor de Inicialização). Um reator que está completamente frio ou desligado não consegue começar a funcionar sozinho apenas por ter urânio(matriz) lá dentro. Ele precisa de uma força externa (trigger), que dispare os primeiros nêutrons para dar o pontapé inicial na reação em cadeia. Trazendo para a clínica com Anne Alvarez e Luís Claudio Figueiredo:
+
+- O paciente passivado/esvaziado é um reator apagado. O urânio (potencial psíquico) está lá, mas o sistema está frio, sem movimento.
+
+- A função vitalizante é o analista bombardeando esse núcleo com seus próprios "nêutrons" vivos (sua voz, sua prosódia, sua taxa de variação, seu olhar sintonizado). O analista não dá um combustível novo ao paciente, mas usa sua própria energia vital como esse gatilho externo para fazer o urânio do paciente começar a fissionar por conta própria. 
+
+O analista vitalizante "acende" o reator. Uma vez que o reator (a mente do paciente) ganha ritmo e começa a pulsar, aí sim o urânio dele assume o controle, e o analista pode voltar a alternar entre ser grafite (desacelerar para simbolizar) ou boro (conter o excesso).
 
 > ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=5&selection=10,30,17,66&color=yellow|p.65]])
 > é o trabalho de atração de investimentos libidinais e agressivos, e de elaboração, liberação e potencialização dos trabalhos psíquicos no rumo dos processos de representação e simbolização, o que requer um ambiente adequado – algum enquadre; isso envolve a passagem para a consciência, mas não só, nem obrigatoriamente, pois os trabalhos de elaboração das experiências emocionais podem se dar totalmente no plano inconsciente e seus produtos lá permanecerem, propiciando mudanças subjetivas profundas de que o sujeito não se dá plenamente conta de imediato.
