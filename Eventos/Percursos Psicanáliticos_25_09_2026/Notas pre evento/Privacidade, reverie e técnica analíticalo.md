@@ -18,3 +18,6 @@ Embora o texto discuta o cenário clássico do consultório, as ideias de Ogden 
 Ogden deixa aberta uma crítica contundente à aplicação cega da "regra fundamental" de Freud (a exigência de "dizer tudo").
 
 A questão clínica que permanece aberta para reflexão é: como o analista pode evitar que a técnica se torne uma "imposição estática e sufocante" que force o paciente a uma fantasia de evisceração psíquica (sentir-se violentado em sua intimidade)? Como o clínico pode calibrar o manejo diário para garantir que o paciente sinta que tem o direito sagrado tanto de falar quanto de ficar em silêncio para proteger sua própria solidão criativa?
+
+
+
