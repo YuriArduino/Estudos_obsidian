@@ -86,3 +86,12 @@ Contraditório o que vem a seguir:
 
 > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=11&selection=78,27,84,59&color=yellow|p.11]])
 > Etchegoyen (1991) afirma: “Podem surgir circunstâncias especiais que nos aconselhem a seguir um caminho diferente do habitual, sem que isso queira dizer, em absoluto, que podemos nos afastar da regra (fundamental)” (1991, p. 65).*
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=12&selection=52,21,90,21&color=yellow|p.12]])
+> Ainda que um grande número de analistas tenha feito contribuições essenciais a essa concepção de análise, Winnicott talvez seja o principal arquiteto da moderna concepção de psicanálise, em que o foco central do processo analítico foi ampliado da tarefa de tornar **consciente o inconsciente** (na linguagem do modelo **topográfico**), ou de transformar o **id em ego (na linguagem do modelo estrutural)**. Para Winnicott (1971b), o processo analítico tem como preocupação central a **expansão da capacidade do analista e do analisando de criarem “um lugar para viver” em uma área de vivência localizada entre realidade e fantasia.**
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=14&selection=12,32,42,26&color=yellow|p.14]])
+> A “regra fundamental”, na prática analítica atual, corre o risco de se tornar uma imposição inalterável para o analista e para o analisando. Frequentemente é tratada como ornamento estático e não examinado do panorama analítico, contendo todo o poder sufocante do uso repetido que Freud (1913) fazia das palavras “dever” e “insistir”, na descrição da apresentação da regra fundamental ao analisando.
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=14&selection=44,0,88,13&color=yellow|p.14]])
+> Aconselhar o paciente a dizer tudo o que lhe venha à mente pareceme antitético ao esforço de criar o processo analítico. Se eu fizesse isso, estaria em desacordo com minha concepção de experiência analítica como algo baseado no interjogo dialético das capacidades de reverie do analista e do analisando (Ogden, 1994a, d). Para o paciente é tão importante saber que tem liberdade de ficar em silêncio, como saber que tem liberdade de falar. Privilegiar a fala ao silêncio, a revelação à privacidade, o comunicar ao não comunicar parece-me tão antianalítico quanto privilegiar a transferência positiva em detrimento da negativa, a gratidão à inveja, o amor ao ódio, o modo depressivo de gerar experiência aos modos esquizoparanoide e autístico-contíguo (Ogden, 1986; 1988b).
