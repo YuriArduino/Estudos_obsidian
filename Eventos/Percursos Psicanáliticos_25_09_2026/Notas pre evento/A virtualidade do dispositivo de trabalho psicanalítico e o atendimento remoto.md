@@ -305,3 +305,9 @@ O resquício do Real (Lacan) se apresenta não no que o paciente diz sobre o pas
 
 > ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=17&selection=8,13,12,30&color=yellow|p.77]])
 > os fatores do medo, da angústia, dos lutos e das depressões nos afetam a todos e não podemos negá-los. Contudo, eles precisarão se converter em algo analisável, ou seja, ser trazidos para o campo das fantasias, defesas e resistências, para se transformarem em “objetos psicanalíticos” a serem sonhados e interpretados pela dupla
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=17&selection=26,0,36,68&color=yellow|p.77]])
+> De toda sorte, realidades em excesso e realidades em falta, presenças em excesso e presenças em falta sempre produzem efeitos na reedição de traumas antigos, na evocação de fantasias arcaicas e no acionamento de defesas das mais variadas. Ou seja, nossa atenção não deveria se dirigir diretamente a esses elementos, mas aos seus efeitos (**subjetivantes ou dessubjetivantes**) tais como se mostram no campo da virtualidade do dispositivo psicanalítico. É esse espaço potencial que pode ser capaz, se contar com a escuta e o pensamento do psicanalista, de trazer os elementos da realidade bruta (**excessiva ou faltante**) para o horizonte de trabalho das matrizes ativas da psicanálise em que as experiências emocionais poderão ser nomeadas, representadas, simbolizadas e transformadas, e em que as posições subjetivas poderão ser alteradas
+
+Senti que a relação objetal no campo on-line ficou mais vago.
