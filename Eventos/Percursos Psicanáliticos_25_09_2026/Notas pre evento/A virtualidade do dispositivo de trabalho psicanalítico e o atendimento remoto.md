@@ -289,3 +289,19 @@ O resquício do Real (Lacan) se apresenta não no que o paciente diz sobre o pas
 > **“objeto”** nas transferências sobre o objeto, é preciso, e nisso estou indo além do que encontro em André Green, entender o termo em um sentido amplo: ele inclui a pessoa do analista (“o médico”, como dizia Freud), mas também elementos animados e inanimados do seu entorno, seu ambiente próximo e distante; e pode também incluir partes do próprio analisando, partes de seu corpo, órgãos internos, como no caso de algumas transferências psicossomáticas. O que é comum a todas as transferências sobre os objetos é que elas transbordam (**débordent**), vão além dos domínios da linguagem. 
 
 
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=15&selection=5,65,7,8&color=yellow|p.75]])
+> os casos de não neurose, em que abundam experiências emocionais irrepresentáveis e inomináveis
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=15&selection=14,56,28,24&color=yellow|p.75]])
+> tema do radicalmente irrepresentável e inominável vem ocupando analistas franceses, ingleses e italianos há algum tempo e todos esses elementos **too deep for words** vão se manifestar em transferências sobre o objeto: fantasias primitivas atuadas, passagens ao ato, enactments, adoecimentos psicossomáticos etc. São as manifestações do **Agieren**, nas palavras de Freud.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=15&selection=31,24,61,9&color=yellow|p.75]])
+> ransferências sobre as palavras, suas possibilidades e seus percalços nos atendimentos remotos. De certa forma, para pacientes em que predomina o campo intrapsíquico, e a passagem do inconsciente reprimido para a linguagem é possível e mais fácil – geralmente, neuróticos atendidos no divã – o atendimento remoto com ou, principalmente, sem imagem não traria grandes problemas, desde que encontrem, evidentemente, uma escuta adequada. Estão dadas as condições necessárias e suficientes para o atendimento remoto, e há vantagens de que seja “sem imagem”: assim, analista e analisando protegem-se de interferências da realidade que poriam em risco a sustentação do espaço potencial, a virtualidade do dispositivo.
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=16&selection=28,29,36,29&color=yellow|p.76]])
+> onde predomina a transferência sobre o objeto em suas inúmeras variantes, o atendimento remoto cria mais dificuldades. Nesses casos, tenho sempre preferido manter as imagens no atendimento face a face, o que é necessário, mas traz muitos problemas. Em primeiro lugar, aumenta a incidência de as “realidades micro” se tornarem excessivas no atendimento remoto. Por exemplo, as notificações na tela do celular ou computador, as irrup- ções de outras pessoas na tela, e as interrupções estarão frequentemente bombardeando nossos estados de mente tão necessários para a sustentação da virtualidade do dispositivo. 
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=17&selection=8,13,12,30&color=yellow|p.77]])
+> os fatores do medo, da angústia, dos lutos e das depressões nos afetam a todos e não podemos negá-los. Contudo, eles precisarão se converter em algo analisável, ou seja, ser trazidos para o campo das fantasias, defesas e resistências, para se transformarem em “objetos psicanalíticos” a serem sonhados e interpretados pela dupla
