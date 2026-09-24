@@ -19,5 +19,23 @@ Ogden deixa aberta uma crítica contundente à aplicação cega da "regra fundam
 
 A questão clínica que permanece aberta para reflexão é: como o analista pode evitar que a técnica se torne uma "imposição estática e sufocante" que force o paciente a uma fantasia de evisceração psíquica (sentir-se violentado em sua intimidade)? Como o clínico pode calibrar o manejo diário para garantir que o paciente sinta que tem o direito sagrado tanto de falar quanto de ficar em silêncio para proteger sua própria solidão criativa?
 
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=1&selection=64,45,70,56&color=yellow|p.1]])
+> um processo analítico depende da capacidade do analista e do analisando participarem do interjogo dialético dos estados de “reverie” (Bion, 1962), que são, ao mesmo tempo, privados e inconscientemente comunicativos.
 
 
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=2&selection=98,38,112,14&color=yellow|p.2]])
+>  além do analista e do analisando, há um terceiro sujeito da análise ao qual me referi como o “terceiro analítico intersubjetivo”, ou simplesmente “o terceiro analítico” (Ogden, 1992a, b; 1994a, b, c, d) (Ver Baranger, 1993 e Green, 1975 para concepções afins da intersubjetividade analítica). O terceiro sujeito (intersubjetivo) da análise está em tensão dialética com o analista e o analisando enquanto indivíduos separados, cada qual com suas próprias subjetividades
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=3&selection=4,11,42,26&color=yellow|p.3]])
+> Mais especificamente, a relação dos papéis do analista e do analisando estrutura a interação analítica de uma forma que privilegia, rigorosamente, a investigação do mundo objetal interno inconsciente do analisando
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=3&selection=66,18,108,11&color=yellow|p.3]])
+>  Privilegiar a investigação da vida inconsciente do analisando dá-se através do uso que o analista faz de sua prática e experiência, ao empregar seu próprio inconsciente em função de receptor do “fluxo” (Freud, 1923a, p. 239) do inconsciente do analisando.
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=3&selection=162,39,170,53&color=yellow|p.3]])
+> Em suma, o terceiro analítico não é um evento único vivenciado de modo idêntico pelas duas pessoas; ao contrário, é um conjunto de experiências intersubjetivas conscientes e inconscientes, construído e vivenciado conjuntamente, mas de modo assimétrico, em que participam analista e analisando.
+
+Ou seja **assimétrico**.
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=4&selection=48,27,82,46&color=yellow|p.4]])
+> Freud (1914) sustentava que “Qualquer linha de investigação que reconheça (...) estes dois fatos (transferência e resistência) e os tome como ponto de partida para seu trabalho, tem o direito de se chamar psicanálise (...)” (p. 16). Sugiro o seguinte aprimoramento da afirmação sucinta de Freud: talvez se deva considerar que a psicanálise não implica só o reconhecimento da transferência e da resistência, mas também a natureza do campo intersubjetivo dentro do qual se gera a transferência e a resistência. 
