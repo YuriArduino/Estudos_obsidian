@@ -76,4 +76,20 @@ Ganhos metateóricos.
 > os “estojos” não são apenas “protetores”, embora essa seja uma função muito importante, como se verá mais à frente; além de protetores da matriz ativa, eles são também delimitadores e configuradores de territórios que funcionam como polos de atração e transferência; são igualmente “caixas de ressonância” do que é atraído para a situação analisante – fantasias, falas, silêncios, defesas e resistências –, dando-lhes mais nitidez e evidência, e “incubadoras de símbolo” (uma feliz expressão cunhada por Raul Hartke), ou seja, promotores de processos de simbolização, funcionando como “aparelhos metaforizantes”: tudo o que dentro deles acontece – nesse aqui e agora da sessão ou do “encontro clínico” (no sentido ampliado) – é, ao mesmo tempo, não apenas, mas ao invés disso, outra coisa e alhures, dando ao aqui e agora uma densidade e polissemia ilimitadas, uma essencial ambiguidade (BARANGER, W.; BARANGER, M., 1961-62)
 
 
-Interessante essa metáfora do setting, me lembrou os reatores nucleares e suas barras de grafi
+Interessante essa metáfora do setting como estojo, me lembrou das usinas nucleares. A  blindagem e o vaso de contenção de um reator.
+
+O enquadre (tempo, sigilo, a postura do analista) delimita esse espaço seguro para que a "matriz ativa" — o inconsciente em ebulição, o recalcado, as pulsões — possa emergir sem explodir a realidade externa ou o próprio sujeito. Funciona como uma caixa de ressonância e uma "incubadora de símbolos", porque desacelera o tempo corrido e reativo do cotidiano. É essa desaceleração que permite transformar o sintoma bruto (a radiação pura) em sentido e simbolização.
+
+Assim também como analogia das barras do reator para o manejo clínico e a postura do analista:
+
+-  barra de controle (boro/cádmio): Quando o sofrimento do paciente ameaça sair do controle ou gerar uma atuação desmedida, o analista intervém para absorver esse excesso de angústia. Ele funciona como uma esponja que acalma o núcleo sob pressão e evita que o processo se destrua.
+
+- moderador (grafite): O grafite não para a reação, ele reduz a velocidade dos nêutrons rápidos para que eles fertilizem o urânio e gerem energia útil. Na clínica, o paciente muitas vezes chega com uma fala metralhada, cheia de defesas e racionalizações rápidas demais, que passam direto pelo inconsciente sem tocá-lo. O silêncio e as pontuações do analista desaceleram o tempo. Ao desacelerar o ritmo daquela energia psíquica bruta, o sujeito finalmente consegue colidir consigo mesmo e produzir simbolização.
+
+No fim das contas, a técnica clínica é esse jogo constante entre desacelerar para aprofundar (ser grafite) e intervir para conter o excesso (ser boro), tudo mantido pela segurança do estojo.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=4&selection=49,0,66,2&color=yellow|p.64]])
+> Por outro lado, a “matriz ativa” não é tão unificadamente “constante” e admite, ao menos, a diferença entre o que é próprio ao tratamento psicanalítico dos adoecimentos por ativação – as neuroses, algumas psicoses (as predominantemente paranoides) e a maioria dos casos borderline –, e ao que é próprio aos tratamentos dos adoecimentos por passivação – as outras psicoses (predominantemente esquizoides) e os casos de esquizoidia borderline (cf. FIGUEIREDO; COELHO JÚNIOR, 20181 2 ).
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=5&selection=5,0,7,23&color=yellow|p.65]])
+> continência de angústias e desconstrução de defesas e resistências, no primeiro caso, “reclamações” (ANNE ALVAREZ), sedução e “vitalização” (cf. FIGUEIREDO, 2019) no segundo.
