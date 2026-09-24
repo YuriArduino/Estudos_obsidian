@@ -262,3 +262,21 @@ Se o analista não tiver capacidade negativa, ele sentirá uma angústia intoler
 -  Assim como para Fábio Herrmann, a sessão psicanalítica não é um pedaço do cotidiano; ela é um corte, uma descontinuidade na realidade comum. A "borda de campo" é justamente a **linha divisória que o enquadre traça** para delimitar onde termina o mundo real e onde começa o campo da ficção analítica (o espaço potencial).
  
 
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=12&selection=28,21,32,47&color=yellow|p.72]])
+>  Todas as extensões da psicanálise apostam na potência do método psicanalítico, mas este só vai operar nessas condições de virtualidade que dependem do analista convidando e do analisando, ou de mais quem, aceitando o convite, puder e estiver disposto a formar com o analista o espaço potencial do sonho e do jogo.
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=12&selection=40,56,41,70&color=yellow|p.72]])
+> potência da psicanálise. Mas, como vimos, essa potência não é absoluta, é condicionada.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=13&selection=5,0,22,27&color=yellow|p.73]])
+> A principal condição é justamente a capacidade de o enquadre oferecido produzir (MACALPINE) ou provocar (LAPLANCHE) as transferências sobre e para dentro do dispositivo analítico. Em uma fórmula simplificada e ultrarresumida, nas chamadas transferências o sujeito transfere com força e intensidade elementos psíquicos do(s) passado(s) para o presente, o agora do encontro analítico, e do “dentro” – plano intrapsíquico – para o aqui – o “aqui fora”, já no plano intersubjetivo. Nessas transferências para o aqui e agora do encontro, verificam-se as repetições inconscientes das dimensões inconscientes das experiências e das dinâmicas e estruturas da personalidade
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=13&selection=40,0,45,17&color=yellow|p.73]])
+> Outra distinção que também devemos a André Green (1984, 2002) é a que existe entre a “Transferência sobre a fala” e a “Transferência sobre o objeto”. Na transferência sobre a fala ocorre a transformação, parcial, do aparelho psíquico em aparelho de linguagem; é uma transferência que se dá fundamentalmente no plano intrapsíquico, é a predominante (mas não exclusiva) nos casos de neurose.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=14&selection=13,0,22,68&color=yellow|p.74]])
+> Mas mesmo nos casos de neurose, algo não terá nenhum acesso à palavra, não caberá nos domínios da linguagem. A rigor, o inconsciente, propriamente dito, nunca passa direta e completamente às palavras, preservando sua incognoscibilidade e seu caráter não diretamente representável, tal como vimos acima na transcrição do texto de Freud. Nessa medida, ele vai sempre se manifestar também como transferência sobre o objeto, o analista, o que deixou Freud, no início, perplexo e assustado. Mais adiante veremos o que os atendimentos remotos produzem neste campo das transferências sobre a fala.
+
+Como o próprio trecho do Figueiredo destaca, quando algo não cabe nos domínios da linguagem, _"ele vai sempre se manifestar também como transferência sobre o objeto, o analista"_.  
+O resquício do Real (Lacan) se apresenta não no que o paciente diz sobre o passado, mas no **quiproquó vivo do presente**: na insistência de fazer o analista ocupar o papel de um carrasco, na urgência de um amor invasivo ou no teste constante dos limites do enquadre. O paciente não se lembra por palavras; ele atua o trauma no escuro da sessão, jogando o resquício radioativo do seu núcleo diretamente para cima do analista. Seja no corpo, nos tropeços do sentido ou na transferência bruta.
