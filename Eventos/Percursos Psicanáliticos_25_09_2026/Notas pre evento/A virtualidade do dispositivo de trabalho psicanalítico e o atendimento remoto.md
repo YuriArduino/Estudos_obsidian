@@ -69,6 +69,11 @@ Se argumentaria, em uma leitura linear e institucional, que tais episódios freu
 > _"Este conselho, como se verá, destina-se especialmente aos analistas principiantes... Devo, contudo, declarar expressamente que esta técnica provou ser a única adequada para a minha individualidade; não me arrisco a negar que uma personalidade médica constituída de forma totalmente diversa possa ser levada a adotar outra atitude em relação aos doentes e à tarefa a realizar."_ (Freud, 1913)
 
 Ganhos metateóricos.
-
 > ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=4&selection=10,0,20,82&color=yellow|p.64]])
 > Ele propôs, por exemplo, (GREEN, 2002, 2002a) a distinção, no seio do enquadre, entre a “parte variável” [la fraction variable] – os “estojos de prote- ção” – e a “parte constante” [la fraction constante] – a “matriz ativa”, onde residiria o núcleo do trabalho da psicanálise. A elasticidade da técnica, por qualquer das razões acima elencadas, diria respeito, é claro, à “fração variável”.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=4&selection=25,12,48,26&color=yellow|p.64]])
+> os “estojos” não são apenas “protetores”, embora essa seja uma função muito importante, como se verá mais à frente; além de protetores da matriz ativa, eles são também delimitadores e configuradores de territórios que funcionam como polos de atração e transferência; são igualmente “caixas de ressonância” do que é atraído para a situação analisante – fantasias, falas, silêncios, defesas e resistências –, dando-lhes mais nitidez e evidência, e “incubadoras de símbolo” (uma feliz expressão cunhada por Raul Hartke), ou seja, promotores de processos de simbolização, funcionando como “aparelhos metaforizantes”: tudo o que dentro deles acontece – nesse aqui e agora da sessão ou do “encontro clínico” (no sentido ampliado) – é, ao mesmo tempo, não apenas, mas ao invés disso, outra coisa e alhures, dando ao aqui e agora uma densidade e polissemia ilimitadas, uma essencial ambiguidade (BARANGER, W.; BARANGER, M., 1961-62)
+
+
+Interessante essa metáfora do setting, me lembrou os reatores nucleares e suas barras de grafi
