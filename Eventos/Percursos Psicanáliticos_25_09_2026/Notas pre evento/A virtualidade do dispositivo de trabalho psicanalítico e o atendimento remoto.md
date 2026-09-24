@@ -209,10 +209,19 @@ A reflexao que fiz anteriormente ganha força nesse trecho:
 > ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=10&selection=6,31,9,38&color=yellow|p.70]])
 > protegendo a mente do analista de irrupções da realidade externa que comprometeriam suas capacidades de escuta e pensamento, principalmente a “capacidade negativa” de se manter em suspenso, na incerteza e no não-saber (BION, 1970).
 
-Como descorri em [[A psicanálise em tempos de tecnocultura]] sobre o artigo de mesmo nome, levante o seguinte ponto — **O Amálgama Real-Virtual** — como "ponto de virada", limitando tal proteção.
+Como descorri em [[A psicanálise em tempos de tecnocultura]] sobre o artigo de mesmo nome, levantei o seguinte ponto — **O Amálgama Real-Virtual** — como "ponto de virada", limitando ainda mais tal proteção.
 
 
-> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=10&selection=10,0,13,44&color=yellow|p.70]])
-> Talvez essa seja a parte mais frágil e vulnerável da mente do analista: a disposição de esperar o inesperado, manter-se no vazio, no incerto e no não- -saber. É justamente aí que as invasões da realidade são mais nocivas e onde o enquadre interior pode ser mais prejudicado.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=10&selection=10,0,18,24&color=yellow|p.70]])
+> Talvez essa seja a parte mais frágil e vulnerável da mente do analista: a disposição de esperar o inesperado, manter-se no vazio, no incerto e no não- -saber. É justamente aí que as invasões da realidade são mais nocivas e onde o enquadre interior pode ser mais prejudicado. Não apenas as irrupções da realidade externa poderão inibir, se não extinguir, sua **capacidade negativa**, como o horizonte de incertezas que nos cercam a todos, analistas e analisandos, produz efeitos muito deletérios sobre nossa capacidade de nos mantermos em suspenso e serenos no campo do incerto e indeterminado, algo essencial para nossa atenção flutuante.
 
 
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=10&selection=32,0,43,1&color=yellow|p.70]])
+> Todo cuidado será necessário para que operem efetivamente os elementos do enquadre com as funções do estojo protetor, propiciador da “alucinação negativa” outro conceito com largo uso por André Green (1993), sem a qual não se cria o espaço potencial 5 : é preciso que a realidade externa possa ser atenuada, filtrada, reduzida e mesmo negada para que se abra o território virtual, o território do sonho, do jogo, da associação livre, da escuta flutuante, da criação e, assim, o dos trabalhos psicanalíticos6 .
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=11&selection=5,0,17,22&color=yellow|p.71]])
+> Essa função protetora e propiciadora da alucinação negativa é absolutamente necessária para que os territórios criados pelos estojos protetores operem como “polo de atração”, “caixa de ressonância”, “incubadora de processos de simbolização” e “aparelho metaforizante” 7 . Com isso estamos realçando a importância da “alucinação negativa” como proteção contra o excesso de realidade, para o “sonhar em sessão”, o “brincar em sessão”. O excesso de realidade externa inibe, obstrui ou impede o acesso às realidades psíquicas, seus personagens, enredos, dinâmica e climas emocionais, em especial, impede o acesso à realidade virtual compartilhada em uma sessão de psicanálise.
+
+
+O desastre pandêmico, a "Chernobyll" recebe o termo **all inclusive** descrevendo uma realidade que não pode ser negada, que afeta a todos inclusive o análista. Serei radical ao fazer essa reflexão, mas não estamos todos inclusos em uma realidade de sofrimento e desafios, como Byon 
