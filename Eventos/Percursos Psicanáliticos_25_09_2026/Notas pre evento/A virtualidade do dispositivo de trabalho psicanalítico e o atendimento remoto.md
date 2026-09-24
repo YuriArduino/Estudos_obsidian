@@ -209,4 +209,10 @@ A reflexao que fiz anteriormente ganha força nesse trecho:
 > ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=10&selection=6,31,9,38&color=yellow|p.70]])
 > protegendo a mente do analista de irrupções da realidade externa que comprometeriam suas capacidades de escuta e pensamento, principalmente a “capacidade negativa” de se manter em suspenso, na incerteza e no não-saber (BION, 1970).
 
-Como descorri em [[A psicanálise em tempos de tecnocultura]] sobre o artigo de mesmo nome a simbiose 
+Como descorri em [[A psicanálise em tempos de tecnocultura]] sobre o artigo de mesmo nome, levante o seguinte ponto — **O Amálgama Real-Virtual** — como "ponto de virada", limitando tal proteção.
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=10&selection=10,0,13,44&color=yellow|p.70]])
+> Talvez essa seja a parte mais frágil e vulnerável da mente do analista: a disposição de esperar o inesperado, manter-se no vazio, no incerto e no não- -saber. É justamente aí que as invasões da realidade são mais nocivas e onde o enquadre interior pode ser mais prejudicado.
+
+
