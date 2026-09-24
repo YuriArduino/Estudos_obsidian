@@ -5,7 +5,7 @@ Com base no artigo de Luís Claudio Figueiredo,[[A virtualidade do dispositivo d
 ---
 
 ### 1. Qual é a ideia central do texto?
-A tese central é que a **virtualidade é intrínseca ao dispositivo psicanalítico**, operando como um "espaço potencial" (Winnicott) e um "aparelho metaforizante" tanto no modelo presencial quanto no remoto. O "psicanalisar" não depende da materialidade das paredes do consultório, mas sim da articulação dialética entre o **enquadre interior do analista** (sua transferência com o método e a introjeção da função analítica) e o campo transferencial-contratransferencial produzido com o paciente. A introdução de tecnologias digitais mexe na "fração variável" (os estojos de proteção) do enquadre, mas a "fração constante" (matriz ativa de elaboração psíquica) deve ser preservada.
+A tese central é que a **virtualidade é intrínseca ao dispositivo psicanalítico**, operando como um "espaço potencial" (Winnicott) e um "aparelho metaforizante" tanto no modelo presencial quanto no remoto. O "psicanalisar" não depende da materialidade das paredes do consultório, mas sim da articulação dialética entre o **enquadre interior do analista** (sua transferência com o método e a introjeção da função analítica) e o campo transferencial-contratransferencial produzido com o paciente. A introdução de tecnologias digitais mexe na "fração variável" (os estojos de proteção) do enquadre, mas a "fração constante" (matriz ativa de elaboração psíquica) deve ser preservada(Green).
 
 ### 2. O que ele ajuda a pensar sobre presença clínica no atendimento online?
 O texto afasta visões distópicas ou moralistas e oferece uma cartografia técnica para avaliar as perdas e ganhos das sessões remotas com base na estrutura psicopatológica do paciente:
@@ -67,3 +67,8 @@ Se argumentaria, em uma leitura linear e institucional, que tais episódios freu
 > _A fixação geométrica do divã e da presença tridimensional dos corpos funcionou como uma baliza pedagógica e de proteção metodológica provisória para a primeira geração de analistas, mas jamais capturou a essência do método. O que a práxis de Freud demonstra, desde os primórdios até sua maturidade, é que a eficácia clínica não emana da topografia concreta do tapete persa, mas sim do **enquadre interno do analista** — este, sim, o verdadeiro operador da virtualidade do campo transferencial, seja na montanha, na mediação das cartas, ou nas telas do atendimento remoto contemporâneo._:
 
 > _"Este conselho, como se verá, destina-se especialmente aos analistas principiantes... Devo, contudo, declarar expressamente que esta técnica provou ser a única adequada para a minha individualidade; não me arrisco a negar que uma personalidade médica constituída de forma totalmente diversa possa ser levada a adotar outra atitude em relação aos doentes e à tarefa a realizar."_ (Freud, 1913)
+
+Ganhos metateóricos.
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=4&selection=10,0,20,82&color=yellow|p.64]])
+> Ele propôs, por exemplo, (GREEN, 2002, 2002a) a distinção, no seio do enquadre, entre a “parte variável” [la fraction variable] – os “estojos de prote- ção” – e a “parte constante” [la fraction constante] – a “matriz ativa”, onde residiria o núcleo do trabalho da psicanálise. A elasticidade da técnica, por qualquer das razões acima elencadas, diria respeito, é claro, à “fração variável”.
