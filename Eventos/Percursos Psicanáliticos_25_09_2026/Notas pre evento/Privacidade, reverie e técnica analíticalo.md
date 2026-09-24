@@ -71,3 +71,18 @@ Ou seja **assimétrico**.
 >  5. Seja qual for a maneira pela qual se defina a análise, parece essencial incluir nessa definição a tentativa de gerar e vivenciar o terceiro analítico inconsciente e fomentar um estado de reverie através do qual analista e analisando possam perceber o “fluxo” (Freud, 1923a) da construção inconsciente “compartilhada” (e, ainda
 > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=10&selection=4,0,30,64&color=yellow|p.10]])
 > assim, individualmente vivenciada). Define-se melhor a empreitada analítica não pela forma (aí incluída a frequência das sessões), mas pela substância, que envolve a análise da transferência-contratransferência (incluindo ansiedade/defesa), à medida que se dá forma a esses fenômenos no vivenciar e na interpretação do terceiro analítico.
+
+Contraditório o que vem a seguir:
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=10&selection=32,0,52,50&color=yellow|p.10]])
+> Segundo minha experiência, de modo geral, o aumento da frequência de sessões semanais melhora a capacidade de gerar estados sobrepostos de reverie do analista e do analisando
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=10&selection=52,52,122,49&color=yellow|p.10]])
+> Acho que não faz sentido algum comprometer um conjunto de condições, sob as quais a análise está sendo conduzida, sacrificando outras condições que conduzem à criação do processo analítico. Eu especialmente teria grande dificuldade de compreender a lógica por trás da decisão de trabalhar com um paciente face a face, porque as condições que levam à criação do processo analítico ficaram comprometidas como resultado de limitações que levaram a uma frequência de encontros considerada, pelo analista, menor do que a ideal. Consequentemente, a não ser que existam razões importantes para não usar o divã em um dado caso, conduzo todo o meu trabalho analítico com o paciente fazendo uso do divã, independentemente do número de sessões semanais.”
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=11&selection=6,0,32,9&color=yellow|p.11]])
+> Ainda que Freud não tenha introduzido o termo “regra fundamental” até 1912, já era um conceito central no seu pensamento sobre técnica analítica em A interpretação dos sonhos (1900). Em 1913, Freud formulou enunciado mais aprimorado e completo a respeito “da regra fundamental da técnica psicanalítica que o paciente deve observar” (p. 134).
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=11&selection=78,27,84,59&color=yellow|p.11]])
+> Etchegoyen (1991) afirma: “Podem surgir circunstâncias especiais que nos aconselhem a seguir um caminho diferente do habitual, sem que isso queira dizer, em absoluto, que podemos nos afastar da regra (fundamental)” (1991, p. 65).*
