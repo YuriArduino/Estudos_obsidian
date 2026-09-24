@@ -39,3 +39,19 @@ Ou seja **assimétrico**.
 
 > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=4&selection=48,27,82,46&color=yellow|p.4]])
 > Freud (1914) sustentava que “Qualquer linha de investigação que reconheça (...) estes dois fatos (transferência e resistência) e os tome como ponto de partida para seu trabalho, tem o direito de se chamar psicanálise (...)” (p. 16). Sugiro o seguinte aprimoramento da afirmação sucinta de Freud: talvez se deva considerar que a psicanálise não implica só o reconhecimento da transferência e da resistência, mas também a natureza do campo intersubjetivo dentro do qual se gera a transferência e a resistência. 
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=5&selection=32,14,38,65&color=yellow|p.5]])
+> O uso da experiência no e do terceiro analítico envolve a criação de símbolos no diálogo analítico (símbolos predominantemente, mas não exclusivamente, verbais) para aspectos do mundo objetal interno do analisando, até então não verbalizáveis nem pensáveis.
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=7&selection=90,49,96,18&color=yellow|p.7]])
+> Nessas circunstâncias, seria antiterapêutico tentar ignorar e deixar de analisar a ansiedade do paciente, pressionando-o a usar o divã. Esse tipo de comportamento, por parte do analista,
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=8&selection=4,0,14,20&color=yellow|p.8]])
+> representaria provavelmente uma atuação (acting-out) contratransferencial
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=8&selection=18,53,38,23&color=yellow|p.8]])
+>  uso do divã (incluindo a posição do analista, fora do campo visual, atrás dele) como parte da estrutura analítica projetada para possibilitar “estados sobrepostos de reverie”
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=8&selection=138,67,182,54&color=yellow|p.8]])
+> à minha concepção da natureza do processo analítico, que irá, por fim, referir-se à relação do uso do divã com a frequência de sessões. 1. A psicanálise é um processo psicológico-interpessoal que requer certas condições em que analista e analisando, em conjunto (e assimetricamente), geram um terceiro sujeito inconsciente da análise. 2. A análise da experiência inconsciente (transferênciacontratransferência) requer receptividade a estados de
