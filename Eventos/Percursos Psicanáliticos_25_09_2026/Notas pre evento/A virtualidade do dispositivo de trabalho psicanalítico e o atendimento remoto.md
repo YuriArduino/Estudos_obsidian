@@ -147,6 +147,29 @@ O analista até tem um conhecimento geral, uma teoria de base, mas na prática c
 
 Quando falamos em técnica, a linha é tênue demais entre o que pode ser minimamente controlado e o que de fato acontece. Isso se é que existe um resultado alcançável. No fim, a clínica é e sempre será um tiro no escuro.
 
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=6&selection=8,0,32,20&color=yellow|p.66]])
+> Nessa medida, o dispositivo psicanalítico é sempre virtual, seja no atendimento presencial, seja no remoto, e o trabalho do analista – fazendo psicanálise padrão, psicanálise modificada ou essa alguma “outra coisa” que ele faz a partir de sua capacidade de escuta – sempre se dá na virtualidade, pois depende, de um lado, dessa disposição de mente do analista e, do outro lado, da disposição de mente do paciente correlativa à atenção flutuante em seu sentido ampliado (FIGUEIREDO, 2014 3 ): a livre associação (verbal, não verbal ou paraverbal, pois alguma associatividade existe mesmo quando não aparece sob a forma das trilhas associativas consideradas por Freud), operando no campo da virtualidade da escuta das transferências, que é onde se encontram as várias camadas dos inconscientes com os horizontes e filtros das consciências de todos os envolvidos. Não à toa, a transferência em análise – e a escuta que a precede, a convoca, provoca e acompanha – dá lugar ao quiproquó, ao quid pro quo, aqui no lugar de lá, agora no lugar de então. É um plano da realidade simultaneamente real e fictício, verdadeiro e ilusório que foi chamado de “espaço potencial” (WINNICOTT, 1971). Aí está a virtualidade que, como analistas, nos cabe instalar e sustentar para que o trabalho da psicanálise aconteça
 
-> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=6&selection=8,0,33,77&color=yellow|p.66]])
-> Nessa medida, o dispositivo psicanalítico é sempre virtual, seja no atendimento presencial, seja no remoto, e o trabalho do analista – fazendo psicanálise padrão, psicanálise modificada ou essa alguma “outra coisa” que ele faz a partir de sua capacidade de escuta – sempre se dá na virtualidade, pois depende, de um lado, dessa disposição de mente do analista e, do outro lado, da disposição de mente do paciente correlativa à atenção flutuante em seu sentido ampliado (FIGUEIREDO, 2014 3 ): a livre associação (verbal, não verbal ou paraverbal, pois alguma associatividade existe mesmo quando não aparece sob a forma das trilhas associativas consideradas por Freud), operando no campo da virtualidade da escuta das transferências, que é onde se encontram as várias camadas dos inconscientes com os horizontes e filtros das consciências de todos os envolvidos. Não à toa, a transferência em análise – e a escuta que a precede, a convoca, provoca e acompanha – dá lugar ao quiproquó, ao quid pro quo, aqui no lugar de lá, agora no lugar de então. É um plano da realidade simultaneamente real e fictício, verdadeiro e ilusório que foi chamado de “espaço potencial” (WINNICOTT, 1971). Aí está a virtualidade que, como analistas, nos cabe instalar e sustentar para que o trabalho da psicanálise aconteça.
+
+
+
+==Se a clínica é um tatear no escuro e um tiro no escuro, é porque **o dispositivo psicanalítico é, essencialmente, virtual por natureza**, mesmo quando estamos sentados frente a frente em uma sala física==.
+
+A verdadeira física da análise não acontece no concreto das paredes, mas no **"espaço potencial"** de Winnicott que o trecho evoca. Ao cruzarmos com a analogia do reator temos então:
+
+1. O Reator Real-Fictício e o Quiproquó
+
+O artigo diz que a transferência dá lugar ao _quiproquó_ (_"aqui no lugar de lá, agora no lugar de então"_), operando em um plano _"simultaneamente real e fictício, verdadeiro e ilusório"_.  
+Na sua metáfora, isso explica por que não dá para apertar botões com lógica mecânica: o reator que você está tateando no escuro da sessão não está necessariamente ali na sua frente. Você está mexendo em manivelas aqui e agora, mas a explosão ou o resfriamento estão acontecendo em uma usina construída na infância do paciente, lá atrás. O analista opera em um campo que é pura sobreposição de tempos e espaços (um horizonte virtual).
+
+2. A Blindagem é uma "Disposição de Mente"
+
+Se o dispositivo é sempre virtual, o "estojo" protetor que evita o desastre e a contaminação destrutiva também não é de concreto. Figueiredo deixa claro que a instalação e a sustentação dessa máquina dependem da **disposição de mente do analista** combinada à atenção flutuante e à livre associação.  
+A verdadeira blindagem contra a contaminação radioativa (contratransferência cega) é o enquadre interno do terapeuta. É a capacidade do analista de sustentar a sua mente como essa caixa de ressonância virtual, tolerando o não saber e o risco do tiro no escuro sem sucumbir ao pânico.
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=7&selection=27,47,38,16&color=yellow|p.67]])
+> quando a função de proteção do estojo falha, a realidade externa invade de maneira intensa e perturbadora a situação analisante, destruindo-a parcial ou totalmente de forma que suas outras funções são imediatamente afetadas: nem o estojo consegue mais circunscrever um território magnetizado e capaz de atrair conteúdos psíquicos inconscientes e conscientes, formando um forte campo transferencial-contratransferencial, nem permite as ressonâncias emocionais e cognitivas, nem promove os processos de representação e simbolização, nem exerce pressão metaforizante. Todos esses “desastres em cascata” incidem, em primeiro lugar, sobre as próprias mentes do analista e do analisando que já não conseguirão criar o espaço potencial, isto é, a realidade virtual de que a psicanálise precisa para trabalhar. 
+
+
+O artigo segue trantando com a metáfora do  "estojo" mas agora ad-hoc (sob-medida), antes ele faz uma breve introdução do tema, como citado acima. É muito interessante pois esse artigo foi escrito em meio a um desastre, pandemia. E antes eu nem tinha pensado em chernobyll mas conversando com você o tema veio a tona e o autor não sei se contaminado por esse horizonte parece descrever fortemente esse cenário, olha esse trecho:
