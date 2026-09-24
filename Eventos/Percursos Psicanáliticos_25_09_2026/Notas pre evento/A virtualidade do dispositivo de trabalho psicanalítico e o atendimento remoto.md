@@ -199,3 +199,14 @@ O analista passa a operar de dentro de sua própria casa, tateando o escuro atra
 
 > ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=8&selection=33,54,44,53&color=yellow|p.68]])
 > em ambos os roteiros, resultante da transferência com a psicanálise e da introjeção da psicanálise pelo psicanalista. Nos dois casos, não se trataria de processos em que a transferência se dá com a pessoa do seu analista, suas ideias, atitudes, modos de ser, mas da transferência com e introjeção da psicanálise, ela mesma, como método: as escutas em análise e o pensamento clínico psicanalítico. A pura transferência com a pessoa do analista, embora inevitável, poderia gerar uma incorporação do “objeto” e não uma introjeção da função analítica. Nessa medida, a permanência de uma pura transferência com a pessoa do analista (e seus objetos) acabaria se caracterizando como um fenômeno resistencial, o que torna necessária uma “transcendência da transferência”, para usarmos um termo de Jean Laplanche, embora em sentido diferente.
+
+A reflexao que fiz anteriormente ganha força nesse trecho:
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=9&selection=19,41,26,66&color=yellow|p.69]])
+> a formação do analista deveria ocorrer, sempre que possível, nas condições mais bem conhecidas e padronizadas para só em seguida ele se aventurar por estojos muito diferentes e menos testados. Isso nem sempre se dá, sabemos, mas o problema pode se tornar especialmente grave quando um analista ainda iniciante precisa começar a atender nestas condições modificadas, principalmente quando ele mesmo não teve uma experiência intensa, longa e rica como analisando em uma psicanálise padrão, que é a principal via para o estabelecimento do enquadre interior.
+
+
+> ([[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf#page=10&selection=6,31,9,38&color=yellow|p.70]])
+> protegendo a mente do analista de irrupções da realidade externa que comprometeriam suas capacidades de escuta e pensamento, principalmente a “capacidade negativa” de se manter em suspenso, na incerteza e no não-saber (BION, 1970).
+
+Como descorri em [[A psicanálise em tempos de tecnocultura]] sobre o artigo de mesmo nome a simbiose 
