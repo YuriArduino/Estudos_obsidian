@@ -224,4 +224,41 @@ Como descorri em [[A psicanálise em tempos de tecnocultura]] sobre o artigo de 
 > Essa função protetora e propiciadora da alucinação negativa é absolutamente necessária para que os territórios criados pelos estojos protetores operem como “polo de atração”, “caixa de ressonância”, “incubadora de processos de simbolização” e “aparelho metaforizante” 7 . Com isso estamos realçando a importância da “alucinação negativa” como proteção contra o excesso de realidade, para o “sonhar em sessão”, o “brincar em sessão”. O excesso de realidade externa inibe, obstrui ou impede o acesso às realidades psíquicas, seus personagens, enredos, dinâmica e climas emocionais, em especial, impede o acesso à realidade virtual compartilhada em uma sessão de psicanálise.
 
 
-O desastre pandêmico, a "Chernobyll" recebe o termo **all inclusive** descrevendo uma realidade que não pode ser negada, que afeta a todos inclusive o análista. Serei radical ao fazer essa reflexão, mas não estamos todos inclusos em uma realidade de sofrimento e desafios (radiação), os elementos bons ou Alfas ajudam a sustentar esse all inclusive, mas como o próprio autor levantou anteriormente o setting é virtual, e no final conta a habilidade do terapêuta em sustentar o vazio-fértil.
+O desastre pandêmico, a "Chernobyll" recebe o termo **all inclusive** descrevendo uma realidade que não pode ser negada, a endemia que afeta a todos inclusive o analista. Serei radical ao fazer essa reflexão, mas não estamos todos inclusos em uma realidade de sofrimento e desafios (radiação), os elementos bons ou Alfas ajudam a sustentar esse all inclusive, mas como o próprio autor levantou anteriormente o setting é virtual, e no final conta a habilidade do terapêuta em sustentar o vazio-fértil.
+
+### Alucinação Negativa e Capacidade Negativa
+
+Embora tenham nomes parecidos e operem na mesma região clínica — o limiar do "não saber" e da sustentação do vazio —, a Capacidade Negativa (de Wilfred Bion) e a Alucinação Negativa (de André Green / Jean-Luc Donnet) são conceitos com origens e mecânicas bem diferentes.
+
+No entanto, no manejo clínico que o Figueiredo descreve, elas se encontram em uma parceria perfeita.
+
+A tabela abaixo compara o funcionamento direto desses dois conceitos:
+
+|Conceito|Autor de Origem|O que ela faz? (Mecânica)|Função no _Setting_|
+|---|---|---|---|
+|Alucinação Negativa|André Green (na clínica)|Apaga o excesso da realidade concreta. O analista põe o mundo externo "entre parênteses".|Cria o espaço em branco (o vazio protetor).|
+|Capacidade Negativa|Wilfred Bion|Sustenta o desamparo, a dúvida e o mistério sem buscar respostas rápidas.|Permite habitar esse espaço em branco sem entrar em pânico.|
+
+---
+
+#### A Relação Prática entre as duas na Clínica
+
+Para que o analista consiga trabalhar com o "tiro no escuro" da sessão, ele precisa acionar esses dois operadores psíquicos simultaneamente:
+
+#### 1. A Alucinação Negativa limpa o terreno
+
+Se o analista ficasse preso à realidade material e concreta (o barulho da rua, o preço do aluguel do consultório, os dados estritamente biográficos do paciente, ou, na pandemia, o número de mortos no jornal), a sua mente estaria cheia demais.  
+O enquadre (o estojo) permite que o analista faça uma alucinação negativa da realidade externa: ele esvazia a sua tela mental das urgências do mundo. Ele "desliga" o mundo lá fora para que o mundo de dentro (as fantasias do paciente) possa ecoar.
+
+#### 2. A Capacidade Negativa sustenta o vazio gerado
+
+Uma vez que o analista apagou o mundo externo e ficou apenas com o inconsciente do paciente, ele cai no território do desconhecido — naquela sala escura que você descreveu. É aqui que entra a capacidade negativa de Bion.  
+Se o analista não tiver capacidade negativa, ele sentirá uma angústia intolerável diante desse vazio e tentará preenchê-lo imediatamente com teorias rígidas, diagnósticos apressados ou intervenções ansiosas (apertar botões cegamente). A capacidade negativa é o que permite ao terapeuta tolerar o mistério, o fato de não estar entendendo nada, até que um sentido genuíno (a eletricidade/simbolização) comece a emergir do próprio reator.
+
+#### Em resumo, na analogia com o Reator:
+
+- A Alucinação Negativa é o ato de isolar acusticamente e blindar a sala de comando do reator para que o ruído do mundo exterior não interfira nos dados.
+- A Capacidade Negativa é a coragem do operador de olhar para os painéis oscilando no escuro, tolerar a incerteza do processo e esperar o momento exato de intervir, sem agir por impulso ou desespero.
+-  Assim como para Fábio Herrmann, a sessão psicanalítica não é um pedaço do cotidiano; ela é um corte, uma descontinuidade na realidade comum. A "borda de campo" é justamente a **linha divisória que o enquadre traça** para delimitar onde termina o mundo real e onde começa o campo da ficção analítica (o espaço potencial).
+ 
+
