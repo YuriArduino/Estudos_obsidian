@@ -54,4 +54,20 @@ Ou seja **assimétrico**.
 
 
 > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=8&selection=138,67,182,54&color=yellow|p.8]])
-> à minha concepção da natureza do processo analítico, que irá, por fim, referir-se à relação do uso do divã com a frequência de sessões. 1. A psicanálise é um processo psicológico-interpessoal que requer certas condições em que analista e analisando, em conjunto (e assimetricamente), geram um terceiro sujeito inconsciente da análise. 2. A análise da experiência inconsciente (transferênciacontratransferência) requer receptividade a estados de
+> à minha concepção da natureza do processo analítico, que irá, por fim, referir-se à relação do uso do divã com a frequência de sessões.
+> 
+>  1. A psicanálise é **um processo psicológico-interpessoal** que requer certas condições em que **analista e analisando, em conjunto (e assimetricamente), geram um terceiro sujeito inconsciente da análise.** 
+
+>  1. A **análise da experiência inconsciente** **(transferência-contratransferência)** requer **receptividade a estados** de
+> > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=9&selection=4,0,96,59&color=yellow|p.9]])
+> **reverie, tanto por parte do analista quanto do analisando, com a qual recontextualizar (mais precisamente, contextualizar de novo) aspectos inconscientes da experiência.**
+> 
+>  2. **Elos associativos e novas contextualizações entre aspectos (amplamente) inconscientes da experiência** requerem que a **privacidade que leva ao estado de reverie seja permitida a ambos, analista e analisando.**
+>
+>  3. Usar o divã (com o analista sentado atrás dele, fora do campo visual do paciente) favorece as **condições em que analista e analisando podem, cada um, ter privacidade suficiente para entrar nos seus próprios estados de reverie**, estados que envolvem uma área de “sobreposição”. (“A psicoterapia ocorre na sobreposição de duas áreas do “brincar”, a do paciente e a do terapeuta” [Winnicott, 1971a, p. 381].)
+>
+>  4. Segue-se, então, que o uso do divã pelo paciente (e a privacidade do analista atrás dele) fornece um meio de facilitar o acesso, por parte do analista e do analisando, a um “espaço do brincar”, uma área de estados sobrepostos de reverie, condição necessária para elaboração e análise do terceiro analítico intersubjetivo inconsciente (cf. Grotstein, 1995).
+>
+>  5. Seja qual for a maneira pela qual se defina a análise, parece essencial incluir nessa definição a tentativa de gerar e vivenciar o terceiro analítico inconsciente e fomentar um estado de reverie através do qual analista e analisando possam perceber o “fluxo” (Freud, 1923a) da construção inconsciente “compartilhada” (e, ainda
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=10&selection=4,0,30,64&color=yellow|p.10]])
+> assim, individualmente vivenciada). Define-se melhor a empreitada analítica não pela forma (aí incluída a frequência das sessões), mas pela substância, que envolve a análise da transferência-contratransferência (incluindo ansiedade/defesa), à medida que se dá forma a esses fenômenos no vivenciar e na interpretação do terceiro analítico.
