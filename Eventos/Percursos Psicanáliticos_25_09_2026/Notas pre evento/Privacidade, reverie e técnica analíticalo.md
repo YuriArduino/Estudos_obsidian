@@ -115,5 +115,18 @@ Contraditório o que vem a seguir:
 > As relações inconscientes de objeto que constituem essa fantasia permanecem não analisáveis na medida em que o analista estiver impondo sem refletir um contexto de vivência real governado pela expectativa/exigência que o analisando “diga tudo o que lhe vem à mente”.
 
 
-> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=21&selection=10,32,18,17&color=yellow|p.21]])
-> As relações inconscientes de objeto que constituem essa fantasia permanecem não analisáveis na medida em que o analista estiver impondo sem refletir um contexto de vivência real governado pela expectativa/exigência que o analisando “diga tudo o que lhe vem à mente”.
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=21&selection=22,0,34,69&color=yellow|p.21]])
+> Freud (1923a) acreditava que a regra fundamental da associação livre tivesse sua contrapartida no esforço do analista em “entregar-se à sua própria atividade mental consciente, em estado de atenção flutuante” (p. 239). O analista tenta, “na medida do possível, evitar a reflexão e a instrução de expectativas conscientes, (e tenta) não fixar na sua memória nada de específico que tenha ouvido e, dessa maneira, capturar o fluxo do inconsciente do paciente com o seu próprio inconsciente” (p. 239).
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=21&selection=36,0,44,55&color=yellow|p.21]])
+> “O trabalho de interpretação do analista não deve ser submetido a regras severas e deixa boa parte do jogo a critério da habilidade do tato do médico” (p. 239). “Ou, para dizer claramente em termos de técnica: ‘Ele’ (o analista) deve simplesmente escutar e não se preocupar se está ou não retendo qualquer coisa na mente” (1912, p. 112).
+> > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=21&selection=46,0,72,66&color=yellow|p.21]])
+> A ênfase de Freud em descrever o “trabalho” do analista não reside no fato de o analista ver ou revelar tudo (mesmo a si próprio), mas sim em criar condições para um tipo particular de receptividade e de “brincar” mental. Freud pede ao analista para tentar deixar seu inconsciente entrar em ressonância com o inconsciente do paciente.
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=22&selection=8,48,14,70&color=note|p.22]])
+> Parece-me que o estado psicológico aqui descrito por Freud como “simplesmente escutar” é o mesmo estado psicológico a que Bion (1962) se refere como “reverie”, estado caracterizado pela ausência de “memória e desejo” (Bion, 1967).
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=22&selection=85,1,100,11&color=important|p.22]])
+> Sob essas condições, analista e analisando, cada qual por sua vez, estão em situação de “posicionar seu inconsciente como órgão receptivo ao inconsciente transmissor” (Freud, 1912, p. 115) do outro e receptivo às construções inconscientes coproduzidas (ainda que assimetricamente) pelo “terceiro analítico”.
+

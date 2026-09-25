@@ -48,7 +48,7 @@ var GraphSearchSyncPlugin = class extends import_obsidian.Plugin {
         this.settings.enabled = !this.settings.enabled;
         await this.saveSettings();
         new import_obsidian.Notice(
-          this.settings.enabled ? "Graph Search Sync: enabled" : "Graph Search Sync: disabled"
+          this.settings.enabled ? "Search - Graph Highlighting: enabled" : "Search - Graph Highlighting: disabled"
         );
         if (this.settings.enabled) this.syncNow();
       }

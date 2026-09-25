@@ -406,27 +406,29 @@
   animation: islandDrop 0.6s var(--smart-graph-spring);
 }
 
-/* Context Menu Overrides */
-.smart-graph-context-menu {
-  background: var(--smart-graph-popover-bg) !important;
-  border: 1px solid var(--smart-graph-island-border) !important;
-  border-radius: 12px !important;
-  box-shadow: var(--smart-graph-island-shadow) !important;
-  backdrop-filter: var(--smart-graph-blur) !important;
-  -webkit-backdrop-filter: var(--smart-graph-blur) !important;
-  padding: 6px !important;
-  animation: fadeScaleIn 0.2s ease-out !important;
+/* Context Menu Overrides.
+   Chained with Obsidian's own `.menu` class so specificity (0,2,0) beats the
+   default `.menu` rules (0,1,0) without needing !important. */
+.menu.smart-graph-context-menu {
+  background: var(--smart-graph-popover-bg);
+  border: 1px solid var(--smart-graph-island-border);
+  border-radius: 12px;
+  box-shadow: var(--smart-graph-island-shadow);
+  backdrop-filter: var(--smart-graph-blur);
+  -webkit-backdrop-filter: var(--smart-graph-blur);
+  padding: 6px;
+  animation: fadeScaleIn 0.2s ease-out;
 }
 
-.smart-graph-context-menu .menu-item {
+.menu.smart-graph-context-menu .menu-item {
   border-radius: 8px;
   transition: all 0.1s ease;
 }
 
-.smart-graph-context-menu .menu-item:hover {
-  background: var(--smart-graph-item-hover) !important;
+.menu.smart-graph-context-menu .menu-item:hover {
+  background: var(--smart-graph-item-hover);
 }
 
-.smart-graph-context-menu .menu-item:active {
+.menu.smart-graph-context-menu .menu-item:active {
   transform: scale(0.97);
 }

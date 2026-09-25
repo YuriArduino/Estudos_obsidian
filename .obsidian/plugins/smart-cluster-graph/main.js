@@ -59,7 +59,7 @@ var DEFAULT_SETTINGS = {
   minimumClusterSize: 3,
   maximumClusterCount: 5,
   clusterSpacing: 140,
-  hullPadding: 10,
+  hullPadding: 18,
   hullOpacity: 0.035,
   defaultZoomLevel: 2.8,
   clusterColors: CLUSTER_MUTED_PALETTE,
@@ -70,7 +70,7 @@ var DEFAULT_SETTINGS = {
   followActiveNote: false,
   graphMode: "neighborhood",
   densityPreset: "balanced",
-  hideUnconnectedNodes: true,
+  hideUnconnectedNodes: false,
   licenseKey: "",
   isLicensed: false
 };
@@ -11350,15 +11350,81 @@ var SmartConnectionsBridge = class {
     return [];
   }
   /**
-   * Compute pairwise similarity score between two files.
+   * Pull the embedding out of a Smart Connections source.
+   *
+   * The shape has moved between Smart Connections versions (`source.vec` on
+   * older builds, `source.data.embeddings[model].vec` on smart-entities ones),
+   * so probe the known locations and treat a miss as "no vector available"
+   * rather than an error.
    */
-  async getPairwiseSimilarity(fileA, fileB) {
+  extractVector(source) {
+    if (!source || typeof source !== "object")
+      return void 0;
+    const record = source;
+    if (Array.isArray(record.vec) && record.vec.length > 0) {
+      return record.vec;
+    }
+    const data = record.data;
+    if (!data)
+      return void 0;
+    if (Array.isArray(data.vec) && data.vec.length > 0) {
+      return data.vec;
+    }
+    const embeddings = data.embeddings;
+    if (embeddings && typeof embeddings === "object") {
+      for (const key of Object.keys(embeddings)) {
+        const entry = embeddings[key];
+        if (entry && Array.isArray(entry.vec) && entry.vec.length > 0) {
+          return entry.vec;
+        }
+      }
+    }
+    return void 0;
+  }
+  /**
+   * Look up cached embeddings for the given note paths.
+   *
+   * Reads Smart Connections' already-computed index, so this is a synchronous
+   * map lookup per path -- no embedding work is triggered here.
+   */
+  getVectors(paths) {
+    const vectors = /* @__PURE__ */ new Map();
+    const sc = this.getPluginInstance();
+    if (!sc)
+      return vectors;
+    const env = sc.smart_env || sc.env;
+    const smartSources = env?.smart_sources;
+    if (!smartSources)
+      return vectors;
+    paths.forEach((path) => {
+      try {
+        const source = typeof smartSources.get === "function" ? smartSources.get(path) : smartSources[path];
+        const vec = this.extractVector(source);
+        if (vec)
+          vectors.set(path, vec);
+      } catch {
+      }
+    });
+    return vectors;
+  }
+  /**
+   * Pairwise similarity between two candidates.
+   *
+   * This is pure arithmetic over cached vectors -- there is no IO here, so it is
+   * synchronous. Callers compare every candidate pair, and awaiting an
+   * already-resolved promise O(n^2) times only bought microtask hops.
+   */
+  pairwiseSimilarity(fileA, fileB) {
     if (fileA.vec && fileB.vec && fileA.vec.length === fileB.vec.length) {
       return this.cosineSimilarity(fileA.vec, fileB.vec);
     }
     if (fileA.path === fileB.path)
       return 1;
     return 0;
+  }
+  /** @deprecated Use the synchronous {@link pairwiseSimilarity}. */
+  async getPairwiseSimilarity(fileA, fileB) {
+    return this.pairwiseSimilarity(fileA, fileB);
   }
   cosineSimilarity(vecA, vecB) {
     let dot = 0;
@@ -11376,6 +11442,7 @@ var SmartConnectionsBridge = class {
 };
 
 // src/engine/graphDataEngine.ts
+var MAX_BACKFILL_HOPS = 3;
 var GraphDataEngine = class {
   app;
   bridge;
@@ -11395,6 +11462,72 @@ var GraphDataEngine = class {
       case "balanced":
       default:
         return { maxNodes: 50, maxEdgesPerNode: 4 };
+    }
+  }
+  /**
+   * Grow the candidate set outward from the notes already selected, one hop at a
+   * time, until `nodeLimit` is reached or nothing new is reachable.
+   *
+   * A note is reachable when it links to, is linked from, or shares a tag with a
+   * note already in the set. Later hops score lower so the focus neighbourhood
+   * still dominates the layout.
+   */
+  expandNeighbourhood(candidateMap, allVaultFiles, resolvedLinks, fileTagsMap, nodeLimit) {
+    const basenames = /* @__PURE__ */ new Map();
+    allVaultFiles.forEach((f2) => basenames.set(f2.path, f2.basename));
+    const titleOf = (path) => basenames.get(path) || path.split("/").pop()?.replace(".md", "") || path;
+    let frontier = Array.from(candidateMap.keys());
+    for (let hop = 1; hop <= MAX_BACKFILL_HOPS; hop++) {
+      if (candidateMap.size >= nodeLimit)
+        return;
+      const frontierSet = new Set(frontier);
+      const frontierTags = /* @__PURE__ */ new Set();
+      frontierSet.forEach((path) => {
+        fileTagsMap.get(path)?.forEach((tag) => frontierTags.add(tag));
+      });
+      const reached = /* @__PURE__ */ new Set();
+      frontierSet.forEach((path) => {
+        const outgoing = resolvedLinks[path];
+        if (!outgoing)
+          return;
+        Object.keys(outgoing).forEach((target) => reached.add(target));
+      });
+      allVaultFiles.forEach((file) => {
+        if (reached.has(file.path) || candidateMap.has(file.path))
+          return;
+        const outgoing = resolvedLinks[file.path];
+        if (outgoing && Object.keys(outgoing).some((target) => frontierSet.has(target))) {
+          reached.add(file.path);
+          return;
+        }
+        const tags = fileTagsMap.get(file.path);
+        if (tags && tags.size > 0) {
+          for (const tag of tags) {
+            if (frontierTags.has(tag)) {
+              reached.add(file.path);
+              return;
+            }
+          }
+        }
+      });
+      const added = [];
+      for (const path of reached) {
+        if (candidateMap.size >= nodeLimit)
+          break;
+        if (candidateMap.has(path))
+          continue;
+        if (!path.endsWith(".md"))
+          continue;
+        candidateMap.set(path, {
+          path,
+          score: Math.max(0.05, 0.35 / hop),
+          title: titleOf(path)
+        });
+        added.push(path);
+      }
+      if (added.length === 0)
+        return;
+      frontier = added;
     }
   }
   /**
@@ -11426,15 +11559,37 @@ var GraphDataEngine = class {
       });
     }
     const allVaultFiles = this.app.vault.getMarkdownFiles();
+    const fileTagsMap = /* @__PURE__ */ new Map();
     allVaultFiles.forEach((file) => {
-      if (candidateMap.size < nodeLimit && !candidateMap.has(file.path)) {
-        candidateMap.set(file.path, {
-          path: file.path,
-          score: file.path === focusPath ? 1 : 0.1,
-          title: file.basename
-        });
+      const cache = this.app.metadataCache.getFileCache(file);
+      const tagSet = /* @__PURE__ */ new Set();
+      if (cache?.tags) {
+        cache.tags.forEach((t3) => tagSet.add(t3.tag.toLowerCase()));
       }
+      if (cache?.frontmatter?.tags) {
+        const fmTags = Array.isArray(cache.frontmatter.tags) ? cache.frontmatter.tags : [cache.frontmatter.tags];
+        fmTags.forEach((t3) => tagSet.add(String(t3).toLowerCase()));
+      }
+      fileTagsMap.set(file.path, tagSet);
     });
+    const resolvedLinks = this.app.metadataCache.resolvedLinks || {};
+    if (candidateMap.size > 0) {
+      this.expandNeighbourhood(candidateMap, allVaultFiles, resolvedLinks, fileTagsMap, nodeLimit);
+    } else {
+      for (const file of allVaultFiles) {
+        if (candidateMap.size >= nodeLimit)
+          break;
+        candidateMap.set(file.path, { path: file.path, score: 0.1, title: file.basename });
+      }
+    }
+    if (this.bridge.isSmartConnectionsAvailable()) {
+      const vectors = this.bridge.getVectors(Array.from(candidateMap.keys()));
+      vectors.forEach((vec, path) => {
+        const candidate = candidateMap.get(path);
+        if (candidate && !candidate.vec)
+          candidate.vec = vec;
+      });
+    }
     const candidateList = Array.from(candidateMap.values());
     candidateList.forEach((cand) => {
       const isFocus = cand.path === focusPath;
@@ -11455,23 +11610,12 @@ var GraphDataEngine = class {
       };
       nodes.push(node);
     });
-    const fileTagsMap = /* @__PURE__ */ new Map();
-    allVaultFiles.forEach((file) => {
-      const cache = this.app.metadataCache.getFileCache(file);
-      const tagSet = /* @__PURE__ */ new Set();
-      if (cache?.tags) {
-        cache.tags.forEach((t3) => tagSet.add(t3.tag.toLowerCase()));
-      }
-      if (cache?.frontmatter?.tags) {
-        const fmTags = Array.isArray(cache.frontmatter.tags) ? cache.frontmatter.tags : [cache.frontmatter.tags];
-        fmTags.forEach((t3) => tagSet.add(String(t3).toLowerCase()));
-      }
-      fileTagsMap.set(file.path, tagSet);
-    });
-    const resolvedLinks = this.app.metadataCache.resolvedLinks || {};
     const edgeKeySet = /* @__PURE__ */ new Set();
     const nodeEdgeCounts = /* @__PURE__ */ new Map();
+    const semanticEdgeCounts = /* @__PURE__ */ new Map();
     const mode = settings.graphMode || "neighborhood";
+    const maxSemanticEdges = Math.max(0, settings.maxSemanticEdgesPerNode);
+    const semanticAvailable = this.bridge.isSmartConnectionsAvailable();
     for (let i2 = 0; i2 < candidateList.length; i2++) {
       for (let j2 = i2 + 1; j2 < candidateList.length; j2++) {
         const candA = candidateList[i2];
@@ -11504,8 +11648,14 @@ var GraphDataEngine = class {
             }
           }
         }
-        if ((mode === "neighborhood" || mode === "semantic") && this.bridge.isSmartConnectionsAvailable()) {
-          semanticScore = await this.bridge.getPairwiseSimilarity(candA, candB);
+        const semA = semanticEdgeCounts.get(candA.path) || 0;
+        const semB = semanticEdgeCounts.get(candB.path) || 0;
+        const semanticBudgetLeft = semA < maxSemanticEdges && semB < maxSemanticEdges;
+        if ((mode === "neighborhood" || mode === "semantic") && semanticAvailable && semanticBudgetLeft) {
+          semanticScore = this.bridge.pairwiseSimilarity(candA, candB);
+          if (semanticScore === 0 && (candA.path === focusPath || candB.path === focusPath)) {
+            semanticScore = candA.path === focusPath ? candB.score : candA.score;
+          }
         }
         let edgeType = null;
         let weight = 0;
@@ -11528,6 +11678,10 @@ var GraphDataEngine = class {
           edgeKeySet.add(key);
           nodeEdgeCounts.set(candA.path, countA + 1);
           nodeEdgeCounts.set(candB.path, countB + 1);
+          if (edgeType === "semantic") {
+            semanticEdgeCounts.set(candA.path, semA + 1);
+            semanticEdgeCounts.set(candB.path, semB + 1);
+          }
           edges.push({
             source: candA.path,
             target: candB.path,
@@ -11544,33 +11698,85 @@ var GraphDataEngine = class {
 };
 
 // src/engine/communityDetector.ts
+var MAX_LOUVAIN_PASSES = 10;
+var MAX_LOUVAIN_LEVELS = 5;
+var MAX_MERGE_SWEEPS = 50;
 var CommunityDetector = class {
   /**
-   * Universal dynamic folder topic key (Zero hardcoding).
-   * Extracts the most specific parent directory for any note path.
+   * Seed community key for a note.
+   *
+   * Uses the FULL directory path rather than just the leaf folder name:
+   * `system-design/notes` and `archive/notes` are unrelated topics and must not
+   * collapse into a single community just because both end in `notes`.
    */
-  getDynamicFolderTopic(path, isFocus) {
+  getFolderKey(path, isFocus) {
     const parts = path.split("/");
     if (parts.length <= 1) {
       return isFocus ? "Focus Topic" : "Root Notes";
     }
-    const dirParts = parts.slice(0, parts.length - 1);
-    if (dirParts.length === 1) {
-      return dirParts[0];
-    }
-    return dirParts[dirParts.length - 1];
+    return parts.slice(0, parts.length - 1).join("/");
   }
   /**
-   * Universal Louvain Modularity Community Detection.
-   * Ensures ALL candidate nodes stay visible without being mistakenly dropped as orphans!
+   * Human readable cluster labels. Prefers the leaf folder name and only falls
+   * back to a longer path fragment when two clusters would share a label.
    */
-  detectCommunities(nodes, edges, colorPalette, minimumClusterSize = 1) {
-    if (nodes.length === 0) {
-      return { nodes: [], clusters: /* @__PURE__ */ new Map() };
+  buildDisplayNames(keys) {
+    const leafCounts = /* @__PURE__ */ new Map();
+    keys.forEach((key) => {
+      const leaf = key.split("/").pop() || key;
+      leafCounts.set(leaf, (leafCounts.get(leaf) || 0) + 1);
+    });
+    const names2 = /* @__PURE__ */ new Map();
+    keys.forEach((key) => {
+      const segments = key.split("/");
+      const leaf = segments[segments.length - 1] || key;
+      const ambiguous = (leafCounts.get(leaf) || 0) > 1;
+      names2.set(key, ambiguous ? segments.slice(-2).join("/") : leaf);
+    });
+    return names2;
+  }
+  /** FNV-1a, so a cluster key always maps to the same palette slot. */
+  hashKey(key) {
+    let h2 = 2166136261;
+    for (let i2 = 0; i2 < key.length; i2++) {
+      h2 ^= key.charCodeAt(i2);
+      h2 = Math.imul(h2, 16777619);
     }
+    return h2 >>> 0;
+  }
+  /**
+   * Colour by hash of the cluster key rather than by size rank, so adding one
+   * note no longer reshuffles the palette across the whole graph. Collisions
+   * probe forward in a size-independent order while free slots remain.
+   */
+  assignClusterColors(keys, palette) {
+    const assigned = /* @__PURE__ */ new Map();
+    if (palette.length === 0)
+      return assigned;
+    const used = /* @__PURE__ */ new Set();
+    const ordered = [...keys].sort();
+    ordered.forEach((key) => {
+      const start2 = this.hashKey(key) % palette.length;
+      let slot = start2;
+      for (let probe = 0; probe < palette.length; probe++) {
+        const candidate = (start2 + probe) % palette.length;
+        if (!used.has(candidate)) {
+          slot = candidate;
+          break;
+        }
+      }
+      used.add(slot);
+      assigned.set(key, palette[slot]);
+    });
+    return assigned;
+  }
+  buildLevelGraph(nodes, edges) {
     const adj = /* @__PURE__ */ new Map();
-    let totalWeight = 0;
-    nodes.forEach((n2) => adj.set(n2.id, /* @__PURE__ */ new Map()));
+    const selfLoop = /* @__PURE__ */ new Map();
+    nodes.forEach((n2) => {
+      adj.set(n2.id, /* @__PURE__ */ new Map());
+      selfLoop.set(n2.id, 0);
+    });
     edges.forEach((e2) => {
       const s2 = typeof e2.source === "object" ? e2.source.id : e2.source;
       const t3 = typeof e2.target === "object" ? e2.target.id : e2.target;
@@ -11581,71 +11787,304 @@ var CommunityDetector = class {
       mapS.set(t3, (mapS.get(t3) || 0) + weight);
       const mapT = adj.get(t3);
       mapT.set(s2, (mapT.get(s2) || 0) + weight);
-      totalWeight += weight;
     });
-    const nodeCommunity = /* @__PURE__ */ new Map();
-    nodes.forEach((n2) => {
-      nodeCommunity.set(n2.id, this.getDynamicFolderTopic(n2.path, n2.isFocus));
+    return { ids: nodes.map((n2) => n2.id), adj, selfLoop };
+  }
+  /** Total degree of a node, counting its self-loop twice as convention requires. */
+  degreeOf(graph, id2) {
+    let sum2 = 2 * (graph.selfLoop.get(id2) || 0);
+    graph.adj.get(id2)?.forEach((w2) => sum2 += w2);
+    return sum2;
+  }
+  totalWeightOf(graph) {
+    let sum2 = 0;
+    graph.ids.forEach((id2) => sum2 += this.degreeOf(graph, id2));
+    return sum2 / 2;
+  }
+  /**
+   * Modularity gain of moving a detached node into a community:
+   *
+   *   dQ = k_i,in / m - (sigmaTot * k_i) / (2 * m^2)
+   *
+   * where `m` is the total edge weight.
+   */
+  modularityGain(kiIn, sigmaTot, ki, m3) {
+    return kiIn / m3 - sigmaTot * ki / (2 * m3 * m3);
+  }
+  /**
+   * Louvain phase 1: move nodes between communities while modularity improves.
+   * Returns true when at least one node changed community.
+   */
+  localMove(graph, community, m3, frozen) {
+    const degree = /* @__PURE__ */ new Map();
+    graph.ids.forEach((id2) => degree.set(id2, this.degreeOf(graph, id2)));
+    const sigmaTot = /* @__PURE__ */ new Map();
+    community.forEach((comm, id2) => {
+      sigmaTot.set(comm, (sigmaTot.get(comm) || 0) + (degree.get(id2) || 0));
     });
-    if (totalWeight > 0) {
-      const m22 = 2 * totalWeight;
-      const k2 = /* @__PURE__ */ new Map();
-      nodes.forEach((n2) => {
-        let sum2 = 0;
-        adj.get(n2.id)?.forEach((w2) => sum2 += w2);
-        k2.set(n2.id, sum2);
-      });
-      const sigmaTot = /* @__PURE__ */ new Map();
-      nodeCommunity.forEach((comm, nodeId) => {
-        const degree = k2.get(nodeId) || 0;
-        sigmaTot.set(comm, (sigmaTot.get(comm) || 0) + degree);
-      });
-      const maxPasses = 10;
-      for (let pass = 0; pass < maxPasses; pass++) {
-        let moved = false;
-        nodes.forEach((node) => {
-          if (node.isFocus)
+    const epsilon3 = 1e-9 / Math.max(m3, 1);
+    let changedOverall = false;
+    for (let pass = 0; pass < MAX_LOUVAIN_PASSES; pass++) {
+      let moved = false;
+      graph.ids.forEach((id2) => {
+        if (frozen.has(id2))
+          return;
+        const currentComm = community.get(id2);
+        if (currentComm === void 0)
+          return;
+        const ki = degree.get(id2) || 0;
+        const neighbourComms = /* @__PURE__ */ new Map();
+        graph.adj.get(id2)?.forEach((weight, neighbourId) => {
+          const targetComm = community.get(neighbourId);
+          if (targetComm === void 0)
             return;
-          const nodeId = node.id;
-          const currentComm = nodeCommunity.get(nodeId);
-          const ki = k2.get(nodeId) || 0;
-          const neighborComms = /* @__PURE__ */ new Map();
-          adj.get(nodeId)?.forEach((weight, neighborId) => {
-            const targetComm = nodeCommunity.get(neighborId);
-            neighborComms.set(targetComm, (neighborComms.get(targetComm) || 0) + weight);
-          });
-          let bestComm = currentComm;
-          let bestDeltaQ = 0;
-          neighborComms.forEach((kiIn, candidateComm) => {
-            if (candidateComm === currentComm)
-              return;
-            const st = sigmaTot.get(candidateComm) || 0;
-            const deltaQ = kiIn / m22 - st * ki / (m22 * m22);
-            if (deltaQ > bestDeltaQ) {
-              bestDeltaQ = deltaQ;
-              bestComm = candidateComm;
-            }
-          });
-          if (bestComm !== currentComm && bestDeltaQ > 1e-3) {
-            sigmaTot.set(currentComm, (sigmaTot.get(currentComm) || 0) - ki);
-            nodeCommunity.set(nodeId, bestComm);
-            sigmaTot.set(bestComm, (sigmaTot.get(bestComm) || 0) + ki);
-            moved = true;
+          neighbourComms.set(targetComm, (neighbourComms.get(targetComm) || 0) + weight);
+        });
+        sigmaTot.set(currentComm, (sigmaTot.get(currentComm) || 0) - ki);
+        let bestComm = currentComm;
+        let bestGain = this.modularityGain(
+          neighbourComms.get(currentComm) || 0,
+          sigmaTot.get(currentComm) || 0,
+          ki,
+          m3
+        );
+        neighbourComms.forEach((kiIn, candidateComm) => {
+          if (candidateComm === currentComm)
+            return;
+          const gain = this.modularityGain(kiIn, sigmaTot.get(candidateComm) || 0, ki, m3);
+          if (gain > bestGain + epsilon3) {
+            bestGain = gain;
+            bestComm = candidateComm;
           }
         });
-        if (!moved)
-          break;
+        sigmaTot.set(bestComm, (sigmaTot.get(bestComm) || 0) + ki);
+        if (bestComm !== currentComm) {
+          community.set(id2, bestComm);
+          moved = true;
+          changedOverall = true;
+        }
+      });
+      if (!moved)
+        break;
+    }
+    return changedOverall;
+  }
+  /**
+   * Louvain phase 2: collapse each community into a single super-node so the
+   * next level can merge whole communities instead of individual notes.
+   */
+  aggregate(graph, community) {
+    const ids = [];
+    const adj = /* @__PURE__ */ new Map();
+    const selfLoop = /* @__PURE__ */ new Map();
+    community.forEach((comm) => {
+      if (!adj.has(comm)) {
+        ids.push(comm);
+        adj.set(comm, /* @__PURE__ */ new Map());
+        selfLoop.set(comm, 0);
       }
+    });
+    graph.selfLoop.forEach((w2, id2) => {
+      const comm = community.get(id2);
+      if (comm === void 0)
+        return;
+      selfLoop.set(comm, (selfLoop.get(comm) || 0) + w2);
+    });
+    graph.adj.forEach((neighbours, id2) => {
+      const sourceComm = community.get(id2);
+      if (sourceComm === void 0)
+        return;
+      neighbours.forEach((weight, neighbourId) => {
+        const targetComm = community.get(neighbourId);
+        if (targetComm === void 0)
+          return;
+        if (targetComm === sourceComm) {
+          selfLoop.set(sourceComm, (selfLoop.get(sourceComm) || 0) + weight / 2);
+        } else {
+          const row = adj.get(sourceComm);
+          row.set(targetComm, (row.get(targetComm) || 0) + weight);
+        }
+      });
+    });
+    return { ids, adj, selfLoop };
+  }
+  /**
+   * Full multi-level Louvain. Level 0 is seeded from folder paths and keeps the
+   * focus note pinned to its own folder; higher levels start from singletons
+   * and may merge whole folders together.
+   */
+  runLouvain(nodes, edges, frozenIds) {
+    let graph = this.buildLevelGraph(nodes, edges);
+    const totalWeight = this.totalWeightOf(graph);
+    const seed = /* @__PURE__ */ new Map();
+    nodes.forEach((n2) => seed.set(n2.id, this.getFolderKey(n2.path, n2.isFocus)));
+    if (totalWeight <= 0) {
+      return { community: seed, totalWeight };
+    }
+    let resolved = seed;
+    let levelCommunity = seed;
+    let frozen = frozenIds;
+    for (let level = 0; level < MAX_LOUVAIN_LEVELS; level++) {
+      const m3 = this.totalWeightOf(graph);
+      if (m3 <= 0)
+        break;
+      const changed = this.localMove(graph, levelCommunity, m3, frozen);
+      if (level > 0) {
+        const projected = /* @__PURE__ */ new Map();
+        resolved.forEach((comm, nodeId) => {
+          projected.set(nodeId, levelCommunity.get(comm) ?? comm);
+        });
+        resolved = projected;
+      } else {
+        resolved = new Map(levelCommunity);
+      }
+      if (!changed)
+        break;
+      graph = this.aggregate(graph, levelCommunity);
+      if (graph.ids.length <= 1)
+        break;
+      levelCommunity = new Map(graph.ids.map((id2) => [id2, id2]));
+      frozen = /* @__PURE__ */ new Set();
+    }
+    return { community: resolved, totalWeight };
+  }
+  groupMembers(community) {
+    const members = /* @__PURE__ */ new Map();
+    community.forEach((comm, id2) => {
+      let set3 = members.get(comm);
+      if (!set3) {
+        set3 = /* @__PURE__ */ new Set();
+        members.set(comm, set3);
+      }
+      set3.add(id2);
+    });
+    return members;
+  }
+  /** Community this group has the most external edge weight towards. */
+  strongestNeighbourCommunity(comm, memberIds, adj, community, restrictTo = null) {
+    const outward = /* @__PURE__ */ new Map();
+    memberIds.forEach((nodeId) => {
+      adj.get(nodeId)?.forEach((weight, neighbourId) => {
+        const neighbourComm = community.get(neighbourId);
+        if (neighbourComm === void 0 || neighbourComm === comm)
+          return;
+        if (restrictTo && !restrictTo.has(neighbourComm))
+          return;
+        outward.set(neighbourComm, (outward.get(neighbourComm) || 0) + weight);
+      });
+    });
+    let target = null;
+    let bestWeight = 0;
+    outward.forEach((weight, candidate) => {
+      if (weight > bestWeight) {
+        bestWeight = weight;
+        target = candidate;
+      }
+    });
+    return target;
+  }
+  /**
+   * Fold communities below `minimumClusterSize` into the neighbouring community
+   * they are most strongly connected to.
+   *
+   * Communities with no external edges are deliberately left alone: bucketing
+   * unrelated orphans together would just recreate a meaningless blob.
+   */
+  enforceMinimumClusterSize(community, adj, minimumClusterSize) {
+    if (minimumClusterSize <= 1)
+      return;
+    const members = this.groupMembers(community);
+    for (let sweep = 0; sweep < MAX_MERGE_SWEEPS; sweep++) {
+      const undersized = Array.from(members.entries()).filter(([, ids]) => ids.size > 0 && ids.size < minimumClusterSize).sort((a3, b2) => a3[1].size - b2[1].size);
+      if (undersized.length === 0)
+        return;
+      let mergedAny = false;
+      for (const [comm, ids] of undersized) {
+        if (ids.size === 0 || ids.size >= minimumClusterSize)
+          continue;
+        const target = this.strongestNeighbourCommunity(comm, ids, adj, community);
+        if (target === null)
+          continue;
+        const targetSet = members.get(target);
+        if (!targetSet)
+          continue;
+        ids.forEach((nodeId) => {
+          community.set(nodeId, target);
+          targetSet.add(nodeId);
+        });
+        members.delete(comm);
+        mergedAny = true;
+      }
+      if (!mergedAny)
+        return;
+    }
+  }
+  /**
+   * Cap the number of clusters. The focus cluster and the largest communities
+   * are kept; every other community is folded into the kept community it is
+   * most strongly connected to.
+   *
+   * A community with no edge into any kept cluster survives the cap rather than
+   * being dumped into an unrelated one, so the final count can still exceed the
+   * limit when the graph really is that fragmented.
+   */
+  enforceMaximumClusterCount(community, adj, focusIds, maximumClusterCount) {
+    if (maximumClusterCount <= 0)
+      return;
+    const members = this.groupMembers(community);
+    if (members.size <= maximumClusterCount)
+      return;
+    const ranked = Array.from(members.entries()).sort((a3, b2) => {
+      const focusA = Array.from(a3[1]).some((id2) => focusIds.has(id2));
+      const focusB = Array.from(b2[1]).some((id2) => focusIds.has(id2));
+      if (focusA !== focusB)
+        return focusA ? -1 : 1;
+      if (b2[1].size !== a3[1].size)
+        return b2[1].size - a3[1].size;
+      return a3[0] < b2[0] ? -1 : 1;
+    });
+    const kept = new Set(ranked.slice(0, maximumClusterCount).map(([key]) => key));
+    for (const [comm, ids] of ranked.slice(maximumClusterCount)) {
+      const target = this.strongestNeighbourCommunity(comm, ids, adj, community, kept);
+      if (target === null)
+        continue;
+      const targetSet = members.get(target);
+      if (!targetSet)
+        continue;
+      ids.forEach((nodeId) => {
+        community.set(nodeId, target);
+        targetSet.add(nodeId);
+      });
+      members.delete(comm);
+    }
+  }
+  /**
+   * Folder-seeded multi-level Louvain community detection.
+   * Every candidate node stays visible; none are dropped as orphans.
+   */
+  detectCommunities(nodes, edges, colorPalette, minimumClusterSize = 1, maximumClusterCount = 0) {
+    if (nodes.length === 0) {
+      return { nodes: [], clusters: /* @__PURE__ */ new Map() };
+    }
+    const focusIds = new Set(nodes.filter((n2) => n2.isFocus).map((n2) => n2.id));
+    const { community, totalWeight } = this.runLouvain(nodes, edges, focusIds);
+    const flatAdj = this.buildLevelGraph(nodes, edges).adj;
+    if (totalWeight > 0) {
+      this.enforceMinimumClusterSize(community, flatAdj, minimumClusterSize);
+      this.enforceMaximumClusterCount(community, flatAdj, focusIds, maximumClusterCount);
     }
     const communityNodesMap = /* @__PURE__ */ new Map();
     nodes.forEach((node) => {
-      const commKey = nodeCommunity.get(node.id) || "Uncategorized";
+      const commKey = community.get(node.id) || "Uncategorized";
       if (!communityNodesMap.has(commKey)) {
         communityNodesMap.set(commKey, []);
       }
       communityNodesMap.get(commKey).push(node);
     });
-    const sortedCommunities = Array.from(communityNodesMap.entries()).sort(([c1, n1], [c22, n2]) => {
+    const commKeys = Array.from(communityNodesMap.keys());
+    const displayNames = this.buildDisplayNames(commKeys);
+    const colors = this.assignClusterColors(commKeys, colorPalette);
+    const sortedCommunities = Array.from(communityNodesMap.entries()).sort(([, n1], [, n2]) => {
       const hasFocus1 = n1.some((n3) => n3.isFocus);
       const hasFocus2 = n2.some((n3) => n3.isFocus);
       if (hasFocus1 !== hasFocus2)
@@ -11653,12 +12092,13 @@ var CommunityDetector = class {
       return n2.length - n1.length;
     });
     const clusters = /* @__PURE__ */ new Map();
-    sortedCommunities.forEach(([commKey, cNodes], folderIndex) => {
-      const color2 = colorPalette[folderIndex % colorPalette.length];
+    sortedCommunities.forEach(([commKey, cNodes]) => {
+      const color2 = colors.get(commKey) || colorPalette[0] || "#55B476";
+      const memberIds = new Set(cNodes.map((n2) => n2.id));
       const internalEdges = edges.filter((e2) => {
         const s2 = typeof e2.source === "object" ? e2.source.id : e2.source;
         const t3 = typeof e2.target === "object" ? e2.target.id : e2.target;
-        return cNodes.some((n2) => n2.id === s2) && cNodes.some((n2) => n2.id === t3);
+        return memberIds.has(s2) && memberIds.has(t3);
       });
       let representativeNode = cNodes[0];
       let maxScore = -1;
@@ -11689,7 +12129,7 @@ var CommunityDetector = class {
       });
       clusters.set(commKey, {
         id: commKey,
-        name: commKey,
+        name: displayNames.get(commKey) || commKey,
         color: color2,
         nodes: cNodes,
         representativeId: representativeNode ? representativeNode.id : void 0
@@ -11741,19 +12181,19 @@ var HullRenderer = class {
   /**
    * Render organic bioluminescent cell membranes per cluster on Canvas 2D context.
    */
-  drawHulls(ctx, clusters, selectedNodeId = null, globalOpacity = 0.035, padding = 18) {
+  drawHulls(ctx, clusters, selectedNodeId = null, globalOpacity = 0.035, padding = 18, minHullNodes = 2) {
     clusters.forEach((cluster) => {
       const nodes = cluster.nodes.filter(
         (n2) => n2.x !== void 0 && n2.y !== void 0 && !n2.isHidden
       );
-      if (nodes.length === 0)
+      if (nodes.length < minHullNodes)
         return;
       const containsSelected = selectedNodeId ? nodes.some((n2) => n2.id === selectedNodeId) : false;
       const baseColor = tinycolor(cluster.color);
       const fillOpacity = containsSelected ? 0.08 : Math.max(globalOpacity, 0.04);
       const membraneAlpha = containsSelected ? 0.45 : 0.25;
       const glowAlpha = containsSelected ? 0.22 : 0.12;
-      const expansionPadding = 24;
+      const expansionPadding = padding;
       ctx.save();
       if (nodes.length === 1) {
         const n2 = nodes[0];
@@ -11779,7 +12219,7 @@ var HullRenderer = class {
         const dx = n2.x - n1.x;
         const dy = n2.y - n1.y;
         const angle = Math.atan2(dy, dx);
-        const radius = Math.max(Math.max(n1.size || 4.5, n2.size || 4.5) + 16, 22);
+        const radius = Math.max(Math.max(n1.size || 4.5, n2.size || 4.5) + expansionPadding * 0.67, 22);
         const midX = (n1.x + n2.x) / 2;
         const midY = (n1.y + n2.y) / 2;
         const dist = Math.sqrt(dx * dx + dy * dy) / 2 + radius;
@@ -11872,8 +12312,9 @@ var import_obsidian = require("obsidian");
 function showNodeContextMenu(event, node, app, callbacks) {
   event.preventDefault();
   const menu = new import_obsidian.Menu();
-  if (menu.dom)
-    menu.dom.addClass("smart-graph-context-menu");
+  const menuDom = menu.dom;
+  if (menuDom)
+    menuDom.addClass("smart-graph-context-menu");
   menu.addItem((item) => {
     item.setTitle("Open note").setIcon("document").onClick(() => callbacks.onOpenNote(node, false));
   });
@@ -11912,6 +12353,8 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
   currentNodes = [];
   currentEdges = [];
   currentClusters = /* @__PURE__ */ new Map();
+  /** Label boxes already painted this frame, used for collision avoidance. */
+  labelRects = [];
   constructor(leaf, plugin) {
     super(leaf);
     this.plugin = plugin;
@@ -12094,8 +12537,20 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
       const tNode = typeof link.target === "object" ? link.target : this.currentNodes.find((n2) => n2.id === tId);
       if (!sNode || !tNode || sNode.isHidden || tNode.isHidden)
         return;
-      if (sNode.clusterId === tNode.clusterId)
+      if (sNode.clusterId === tNode.clusterId) {
+        const isHoveredInternal = this.hoverNode && (sNode.id === this.hoverNode.id || tNode.id === this.hoverNode.id);
+        ctx.save();
+        ctx.lineWidth = isHoveredInternal ? 1.4 : 0.7;
+        ctx.strokeStyle = tinycolor(sNode.clusterColor || sNode.color || "#8892a0").setAlpha(isHoveredInternal ? 0.55 : 0.18).toRgbString();
+        if (link.dashed)
+          ctx.setLineDash([2, 3]);
+        ctx.beginPath();
+        ctx.moveTo(sNode.x || 0, sNode.y || 0);
+        ctx.lineTo(tNode.x || 0, tNode.y || 0);
+        ctx.stroke();
+        ctx.restore();
         return;
+      }
       const x1 = sNode.x || 0;
       const y1 = sNode.y || 0;
       const x22 = tNode.x || 0;
@@ -12171,13 +12626,14 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
       ctx.fill();
       ctx.restore();
     }).onRenderFramePre((ctx) => {
+      this.labelRects.length = 0;
       if (this.currentClusters.size > 0) {
         this.hullRenderer.drawHulls(
           ctx,
           this.currentClusters,
           this.selectedNode?.id || null,
           this.plugin.settings.hullOpacity,
-          18
+          this.plugin.settings.hullPadding
         );
       }
     }).nodeCanvasObject((node, ctx, globalScale) => {
@@ -12233,10 +12689,10 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
       const isHovered = this.hoverNode && this.hoverNode.id === node.id;
       const showCenterBadge = node.isFocus || node.isRepresentative;
       const showHoverLabel = (isSelected || isHovered) && !showCenterBadge;
-      if (showCenterBadge) {
-        this.drawCenterBadgeLabel(ctx, node, x5, y5, radius, globalScale);
-      } else if (showHoverLabel) {
-        this.drawFormattedLabel(ctx, node, x5, y5, radius, globalScale);
+      if (showHoverLabel) {
+        this.drawLabelBadge(ctx, node, x5, y5, radius, globalScale, false, true);
+      } else if (showCenterBadge) {
+        this.drawLabelBadge(ctx, node, x5, y5, radius, globalScale, true, false);
       }
       ctx.restore();
     }).onNodeClick((node) => {
@@ -12266,6 +12722,8 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
         (e2) => {
           e2.preventDefault();
           e2.stopPropagation();
+          if (!this.graphInstance)
+            return;
           const currentZoom = this.graphInstance.zoom();
           const zoomFactor = e2.deltaY < 0 ? 1.12 : 0.88;
           const targetZoom = Math.max(0.3, Math.min(6, currentZoom * zoomFactor));
@@ -12281,46 +12739,68 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
     }
   }
   /**
-   * P2 Style: Badge centered directly below representative node (labelY = y + radius + 5)
+   * Shorten a title until it fits `maxWidth`, appending an ellipsis. Assumes the
+   * caller has already set ctx.font.
    */
-  drawCenterBadgeLabel(ctx, node, x5, y5, radius, globalScale) {
-    const fontSize = Math.max(8.5 / globalScale, 2.8);
-    ctx.font = `600 ${fontSize}px Sans-Serif`;
-    const text = node.title;
-    const textWidth = ctx.measureText(text).width;
+  truncateToWidth(ctx, text, maxWidth) {
+    if (ctx.measureText(text).width <= maxWidth)
+      return text;
+    let lo = 0;
+    let hi = text.length;
+    while (lo < hi) {
+      const mid = Math.ceil((lo + hi) / 2);
+      if (ctx.measureText(`${text.slice(0, mid)}\u2026`).width <= maxWidth) {
+        lo = mid;
+      } else {
+        hi = mid - 1;
+      }
+    }
+    return lo <= 0 ? "\u2026" : `${text.slice(0, lo)}\u2026`;
+  }
+  /**
+   * Reserve a label box for this frame. Returns false when it would overlap a
+   * label already painted, so the caller can drop it instead of stacking text.
+   */
+  claimLabelSlot(rect) {
+    for (const other of this.labelRects) {
+      if (rect.x < other.x + other.w && other.x < rect.x + rect.w && rect.y < other.y + other.h && other.y < rect.y + rect.h) {
+        return false;
+      }
+    }
+    this.labelRects.push(rect);
+    return true;
+  }
+  /**
+   * Badge centred directly below a representative node.
+   *
+   * `force` is used for hover/selection labels, which the user asked for
+   * explicitly and so always win their slot.
+   */
+  drawLabelBadge(ctx, node, x5, y5, radius, globalScale, emphasised, force) {
+    const fontSize = Math.max(8.5 / globalScale, emphasised ? 2.8 : 2.5);
+    ctx.font = `${emphasised ? 600 : 500} ${fontSize}px Sans-Serif`;
+    const maxTextWidth = 130 / globalScale;
+    const text = this.truncateToWidth(ctx, node.title, maxTextWidth);
     const padX = 3.5 / globalScale;
     const padY = 1.5 / globalScale;
-    const bgWidth = textWidth + padX * 2;
+    const bgWidth = ctx.measureText(text).width + padX * 2;
     const bgHeight = fontSize + padY * 2;
     const labelY = y5 + radius + padY + 3 / globalScale;
     const rectX = x5 - bgWidth / 2;
-    const rectY = labelY;
-    ctx.fillStyle = "rgba(8, 9, 11, 0.94)";
-    ctx.fillRect(rectX, rectY, bgWidth, bgHeight);
-    ctx.strokeStyle = "rgba(255, 255, 255, 0.15)";
-    ctx.lineWidth = 0.8 / globalScale;
-    ctx.strokeRect(rectX, rectY, bgWidth, bgHeight);
+    const claimed = this.claimLabelSlot({ x: rectX, y: labelY, w: bgWidth, h: bgHeight });
+    if (!claimed && !force)
+      return;
+    ctx.fillStyle = emphasised ? "rgba(8, 9, 11, 0.94)" : "rgba(8, 9, 11, 0.90)";
+    ctx.fillRect(rectX, labelY, bgWidth, bgHeight);
+    if (emphasised) {
+      ctx.strokeStyle = "rgba(255, 255, 255, 0.15)";
+      ctx.lineWidth = 0.8 / globalScale;
+      ctx.strokeRect(rectX, labelY, bgWidth, bgHeight);
+    }
     ctx.textAlign = "center";
     ctx.textBaseline = "middle";
-    ctx.fillStyle = "rgba(245, 246, 248, 0.98)";
+    ctx.fillStyle = emphasised ? "rgba(245, 246, 248, 0.98)" : "rgba(245, 246, 248, 0.96)";
     ctx.fillText(text, x5, labelY + bgHeight / 2);
-  }
-  drawFormattedLabel(ctx, node, x5, y5, radius, globalScale) {
-    const fontSize = Math.max(8.5 / globalScale, 2.5);
-    ctx.font = `500 ${fontSize}px Sans-Serif`;
-    const rawTitle = node.title;
-    const textWidth = ctx.measureText(rawTitle).width;
-    const padX = 3.5 / globalScale;
-    const padY = 1.5 / globalScale;
-    const bgWidth = textWidth + padX * 2;
-    const bgHeight = fontSize + padY * 2;
-    const labelY = y5 + radius + padY + 3 / globalScale;
-    ctx.fillStyle = "rgba(8, 9, 11, 0.90)";
-    ctx.fillRect(x5 - bgWidth / 2, labelY, bgWidth, bgHeight);
-    ctx.textAlign = "center";
-    ctx.textBaseline = "middle";
-    ctx.fillStyle = "rgba(245, 246, 248, 0.96)";
-    ctx.fillText(rawTitle, x5, labelY + bgHeight / 2);
   }
   openNodeFile(node, newTab = false) {
     if (node && node.path) {
@@ -12332,13 +12812,16 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
     }
   }
   /**
-   * Filter edges to display ONLY the strongest bridge per cluster pair (max 2 bridges per cluster).
-   * Completely excludes internal edges from visual rendering.
+   * Keep every intra-cluster edge (rendered dimmed, so a hull shows its own
+   * structure instead of a cloud of unconnected dots) plus the strongest bridge
+   * per cluster pair, capped at 2 bridges per cluster.
    */
   buildVisibleEdges(edges, nodes) {
     const nodeClusterMap = /* @__PURE__ */ new Map();
     nodes.forEach((n2) => nodeClusterMap.set(n2.id, n2.clusterId));
-    const strongestByClusterPair = /* @__PURE__ */ new Map();
+    const internalEdges = [];
+    const bridgesByClusterPair = /* @__PURE__ */ new Map();
+    const maxPerPair = Math.max(1, this.plugin.settings.maxCrossClusterEdgesPerPair);
     for (const edge of edges) {
       const sId = typeof edge.source === "object" ? edge.source.id : edge.source;
       const tId = typeof edge.target === "object" ? edge.target.id : edge.target;
@@ -12346,33 +12829,53 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
       const targetCluster = nodeClusterMap.get(tId);
       if (!sourceCluster || !targetCluster)
         continue;
-      if (sourceCluster === targetCluster)
+      if (sourceCluster === targetCluster) {
+        edge.isPrimaryCrossCluster = false;
+        internalEdges.push(edge);
         continue;
-      const pairKey = [sourceCluster, targetCluster].sort().join("::");
-      const existing = strongestByClusterPair.get(pairKey);
-      if (!existing || (edge.weight || 0) > (existing.weight || 0)) {
-        strongestByClusterPair.set(pairKey, edge);
       }
+      const pairKey = [sourceCluster, targetCluster].sort().join("::");
+      let pairBridges = bridgesByClusterPair.get(pairKey);
+      if (!pairBridges) {
+        pairBridges = [];
+        bridgesByClusterPair.set(pairKey, pairBridges);
+      }
+      pairBridges.push(edge);
+      pairBridges.sort((a3, b2) => (b2.weight || 0) - (a3.weight || 0));
+      if (pairBridges.length > maxPerPair)
+        pairBridges.length = maxPerPair;
     }
-    const bridges = Array.from(strongestByClusterPair.values());
+    const bridges = Array.from(bridgesByClusterPair.values()).flat();
     bridges.sort((a3, b2) => (b2.weight || 0) - (a3.weight || 0));
-    const clusterDegreeMap = /* @__PURE__ */ new Map();
+    const clusterNeighbours = /* @__PURE__ */ new Map();
+    const acceptedPairs = /* @__PURE__ */ new Set();
     const filteredBridges = [];
+    const neighboursOf = (cluster) => {
+      let set3 = clusterNeighbours.get(cluster);
+      if (!set3) {
+        set3 = /* @__PURE__ */ new Set();
+        clusterNeighbours.set(cluster, set3);
+      }
+      return set3;
+    };
     for (const bridge of bridges) {
       const sId = typeof bridge.source === "object" ? bridge.source.id : bridge.source;
       const tId = typeof bridge.target === "object" ? bridge.target.id : bridge.target;
       const sCluster = nodeClusterMap.get(sId);
       const tCluster = nodeClusterMap.get(tId);
-      const degS = clusterDegreeMap.get(sCluster) || 0;
-      const degT = clusterDegreeMap.get(tCluster) || 0;
-      if (degS < 2 && degT < 2) {
-        clusterDegreeMap.set(sCluster, degS + 1);
-        clusterDegreeMap.set(tCluster, degT + 1);
-        bridge.isPrimaryCrossCluster = true;
-        filteredBridges.push(bridge);
-      }
+      const pairKey = [sCluster, tCluster].sort().join("::");
+      const sNeighbours = neighboursOf(sCluster);
+      const tNeighbours = neighboursOf(tCluster);
+      const alreadyAccepted = acceptedPairs.has(pairKey);
+      if (!alreadyAccepted && (sNeighbours.size >= 2 || tNeighbours.size >= 2))
+        continue;
+      sNeighbours.add(tCluster);
+      tNeighbours.add(sCluster);
+      acceptedPairs.add(pairKey);
+      bridge.isPrimaryCrossCluster = true;
+      filteredBridges.push(bridge);
     }
-    return filteredBridges;
+    return [...internalEdges, ...filteredBridges];
   }
   applyClusterForces() {
     if (!this.graphInstance || this.currentClusters.size === 0)
@@ -12381,7 +12884,7 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
     const anchors = /* @__PURE__ */ new Map();
     const centerX = 0;
     const centerY = 0;
-    const radius = 160;
+    const radius = Math.max(40, this.plugin.settings.clusterSpacing);
     let focusClusterId = clusterIds[0];
     this.currentClusters.forEach((c3, id2) => {
       if (c3.nodes.some((n2) => n2.isFocus))
@@ -12441,7 +12944,8 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
       nodes,
       edges,
       this.plugin.settings.clusterColors,
-      this.plugin.settings.minimumClusterSize
+      this.plugin.settings.minimumClusterSize,
+      this.plugin.settings.maximumClusterCount
     );
     const primaryNodes = clusteredNodes;
     const visibleEdges = this.buildVisibleEdges(edges, primaryNodes);
@@ -12451,11 +12955,22 @@ var SmartGraphView = class extends import_obsidian2.ItemView {
         this.selectedNode = activeNode;
       }
     }
+    const connectedIds = /* @__PURE__ */ new Set();
+    if (this.plugin.settings.hideUnconnectedNodes) {
+      edges.forEach((e2) => {
+        connectedIds.add(typeof e2.source === "object" ? e2.source.id : e2.source);
+        connectedIds.add(typeof e2.target === "object" ? e2.target.id : e2.target);
+      });
+    }
     primaryNodes.forEach((node) => {
+      node.isHidden = false;
       if (this.pinnedNodes.has(node.id)) {
         node.isPinned = true;
       }
       if (this.hiddenNodes.has(node.id)) {
+        node.isHidden = true;
+      }
+      if (this.plugin.settings.hideUnconnectedNodes && !node.isFocus && !connectedIds.has(node.id)) {
         node.isHidden = true;
       }
     });
@@ -12499,77 +13014,6 @@ var SmartGraphSettingsTab = class extends import_obsidian3.PluginSettingTab {
     super(app, plugin);
     this.plugin = plugin;
   }
-  getSettingDefinitions() {
-    return [
-      {
-        id: "defaultZoomLevel",
-        title: "Default Initial Zoom Scale",
-        desc: "Manually set default initial camera zoom level (1.0x to 6.0x).",
-        type: "slider",
-        limits: [1, 6, 0.2],
-        value: this.plugin.settings.defaultZoomLevel || 3.5,
-        onChange: async (val) => {
-          this.plugin.settings.defaultZoomLevel = val;
-          await this.plugin.saveSettings();
-          this.plugin.updateZoomOnly(val);
-        }
-      },
-      {
-        id: "followActiveNote",
-        title: "Follow Active Note",
-        desc: "Automatically update active note selection in graph when switching Obsidian tabs.",
-        type: "toggle",
-        value: this.plugin.settings.followActiveNote,
-        onChange: async (val) => {
-          this.plugin.settings.followActiveNote = val;
-          await this.plugin.saveSettings();
-        }
-      },
-      {
-        id: "focusSimilarityThreshold",
-        title: "Focus Similarity Threshold",
-        desc: "Minimum vector similarity score (0.30 to 0.85) for semantic relationship discovery.",
-        type: "slider",
-        limits: [0.3, 0.85, 0.05],
-        value: this.plugin.settings.focusSimilarityThreshold,
-        onChange: async (val) => {
-          this.plugin.settings.focusSimilarityThreshold = val;
-          await this.plugin.saveSettings();
-          this.plugin.refreshView();
-        }
-      },
-      {
-        id: "hullOpacity",
-        title: "Cluster Polygon Hull Opacity",
-        desc: "Fill opacity for semi-transparent cluster hulls (0.01 to 0.20).",
-        type: "slider",
-        limits: [0.01, 0.2, 0.01],
-        value: this.plugin.settings.hullOpacity,
-        onChange: async (val) => {
-          this.plugin.settings.hullOpacity = val;
-          await this.plugin.saveSettings();
-          this.plugin.refreshView();
-        }
-      },
-      {
-        id: "graphMode",
-        title: "Default Graph Mode",
-        desc: "Primary mode used for relationship discovery.",
-        type: "dropdown",
-        options: {
-          neighborhood: "Neighborhood (Semantic + Links + Tags)",
-          semantic: "Semantic Only (Vector Similarity)",
-          links: "Links Only (WikiLinks & Backlinks)"
-        },
-        value: this.plugin.settings.graphMode,
-        onChange: async (val) => {
-          this.plugin.settings.graphMode = val;
-          await this.plugin.saveSettings();
-          this.plugin.refreshView();
-        }
-      }
-    ];
-  }
   display() {
     const { containerEl } = this;
     containerEl.empty();
@@ -12603,6 +13047,48 @@ var SmartGraphSettingsTab = class extends import_obsidian3.PluginSettingTab {
     new import_obsidian3.Setting(containerEl).setName("Default Graph Mode").setDesc("Primary mode used for relationship discovery.").addDropdown(
       (dropdown) => dropdown.addOption("neighborhood", "Neighborhood (Semantic + Links + Tags)").addOption("semantic", "Semantic Only (Vector Similarity)").addOption("links", "Links Only (WikiLinks & Backlinks)").setValue(this.plugin.settings.graphMode).onChange(async (val) => {
         this.plugin.settings.graphMode = val;
+        await this.plugin.saveSettings();
+        this.plugin.refreshView();
+      })
+    );
+    new import_obsidian3.Setting(containerEl).setName("Cluster Hull Padding").setDesc("How far the cluster membrane extends beyond its outermost notes (4 to 40).").addSlider(
+      (slider) => slider.setLimits(4, 40, 1).setValue(this.plugin.settings.hullPadding).setDynamicTooltip().onChange(async (val) => {
+        this.plugin.settings.hullPadding = val;
+        await this.plugin.saveSettings();
+        this.plugin.refreshView();
+      })
+    );
+    new import_obsidian3.Setting(containerEl).setName("Cluster Spacing").setDesc("Distance from the focus cluster to the ring of surrounding clusters (60 to 320).").addSlider(
+      (slider) => slider.setLimits(60, 320, 10).setValue(this.plugin.settings.clusterSpacing).setDynamicTooltip().onChange(async (val) => {
+        this.plugin.settings.clusterSpacing = val;
+        await this.plugin.saveSettings();
+        this.plugin.refreshView();
+      })
+    );
+    new import_obsidian3.Setting(containerEl).setName("Maximum Cluster Count").setDesc("Cap on how many clusters are shown. Smaller ones are folded into the cluster they link to most. Set to 0 for no limit.").addSlider(
+      (slider) => slider.setLimits(0, 12, 1).setValue(this.plugin.settings.maximumClusterCount).setDynamicTooltip().onChange(async (val) => {
+        this.plugin.settings.maximumClusterCount = val;
+        await this.plugin.saveSettings();
+        this.plugin.refreshView();
+      })
+    );
+    new import_obsidian3.Setting(containerEl).setName("Minimum Cluster Size").setDesc("Clusters smaller than this are merged into their strongest neighbour. Notes with no connections are left on their own.").addSlider(
+      (slider) => slider.setLimits(1, 10, 1).setValue(this.plugin.settings.minimumClusterSize).setDynamicTooltip().onChange(async (val) => {
+        this.plugin.settings.minimumClusterSize = val;
+        await this.plugin.saveSettings();
+        this.plugin.refreshView();
+      })
+    );
+    new import_obsidian3.Setting(containerEl).setName("Max Semantic Edges Per Note").setDesc("Upper bound on similarity-based edges attached to a single note. WikiLinks and shared tags are not affected.").addSlider(
+      (slider) => slider.setLimits(0, 10, 1).setValue(this.plugin.settings.maxSemanticEdgesPerNode).setDynamicTooltip().onChange(async (val) => {
+        this.plugin.settings.maxSemanticEdgesPerNode = val;
+        await this.plugin.saveSettings();
+        this.plugin.refreshView();
+      })
+    );
+    new import_obsidian3.Setting(containerEl).setName("Max Bridges Per Cluster Pair").setDesc("How many cross-cluster connections are drawn between any two clusters (1 to 5).").addSlider(
+      (slider) => slider.setLimits(1, 5, 1).setValue(this.plugin.settings.maxCrossClusterEdgesPerPair).setDynamicTooltip().onChange(async (val) => {
+        this.plugin.settings.maxCrossClusterEdgesPerPair = val;
         await this.plugin.saveSettings();
         this.plugin.refreshView();
       })
