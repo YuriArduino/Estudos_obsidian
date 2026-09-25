@@ -98,3 +98,14 @@ Contraditório o que vem a seguir:
 
 > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=15&selection=10,18,60,11&color=yellow|p.15]])
 > Creio que iniciar ou fundamentar a atividade analítica em um ideal manifesto (ou não manifesto) que incorpore um colapso da tensão dialética de comunicar e não comunicar em direção à revelação represente um convite a uma relação patológica. O resultado é, frequentemente, a criação de uma doença iatrogênica em que a capacidade de reverie se paralisa ou é levada a se ocultar, tornando assim muito menos provável que venha a ocorrer um processo analítico verdadeiro.
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=17&selection=6,38,10,50&color=note|p.17]])
+> ambos, analista e analisanda, tinham ficado subjugados por uma autoridade imaginária, a “regra fundamental” e tudo que isto simbolizava para eles
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=20&selection=92,51,120,39&color=yellow|p.20]])
+> O analisando descobre que a primeira pessoa do singular é, na verdade, plural: há muitos “Eu”. Apesar de tudo, o paciente quer dizer certas coisas enquanto “ele” (outro aspecto de sua experiência de si) acha que “ele” não pode dizer coisas que “ele” quer dizer. Além do mais, há coisas que ele sente que gostaria de dizer, mas não sabe o que são. (Ver Ogden, 1992a, b, para a discussão do sujeito dialeticamente constituído/descentrado da psicanálise)
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=20&selection=120,41,130,69&color=yellow|p.20]])
+> Uma evolução importante da análise ocorre quando o analisando torna-se capaz de diferenciar e compreender algo a respeito da relação entre aspectos diferentes de si, por exemplo, entre não querer dizer algo (porque quer “manter para si” por enquanto) e não se sentir capaz de dizer algo enquanto almeja que o analista o ajude a encontrar um jeito de ser capaz de pôr em palavras
