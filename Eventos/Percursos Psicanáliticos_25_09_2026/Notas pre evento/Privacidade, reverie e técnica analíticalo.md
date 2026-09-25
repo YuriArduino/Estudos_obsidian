@@ -109,3 +109,11 @@ Contraditório o que vem a seguir:
 
 > ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=20&selection=120,41,130,69&color=yellow|p.20]])
 > Uma evolução importante da análise ocorre quando o analisando torna-se capaz de diferenciar e compreender algo a respeito da relação entre aspectos diferentes de si, por exemplo, entre não querer dizer algo (porque quer “manter para si” por enquanto) e não se sentir capaz de dizer algo enquanto almeja que o analista o ajude a encontrar um jeito de ser capaz de pôr em palavras
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=21&selection=10,32,18,17&color=yellow|p.21]])
+> As relações inconscientes de objeto que constituem essa fantasia permanecem não analisáveis na medida em que o analista estiver impondo sem refletir um contexto de vivência real governado pela expectativa/exigência que o analisando “diga tudo o que lhe vem à mente”.
+
+
+> ([[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf#page=21&selection=10,32,18,17&color=yellow|p.21]])
+> As relações inconscientes de objeto que constituem essa fantasia permanecem não analisáveis na medida em que o analista estiver impondo sem refletir um contexto de vivência real governado pela expectativa/exigência que o analisando “diga tudo o que lhe vem à mente”.
