@@ -56,3 +56,4 @@
 "event_logs:sources:renamed": {"key":"sources:renamed","ct":818,"first_at":1787143025073,"last_at":1790812550651,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":818}},
 "event_logs:sources:renamed": {"key":"sources:renamed","ct":819,"first_at":1787143025073,"last_at":1790812570277,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":819}},
 "event_logs:sources:created": {"key":"sources:created","ct":637,"first_at":1787082930594,"last_at":1790813106716,"class_name":"EventLog","event_sources":{"obsidian:vault.create":637}},
+"event_logs:sources:renamed": {"key":"sources:renamed","ct":822,"first_at":1787143025073,"last_at":1790813124394,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":822}},
