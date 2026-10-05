@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "cssTheme": "Soft Paper",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "Ajuste de largura da linha"
+  ],
+  "accentColor": "#434242"
+}
