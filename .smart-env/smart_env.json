@@ -19,9 +19,10 @@
   "gitignore_exclusions": [
     ".obsidian/workspace.json",
     ".obsidian/workspace-mobile.json",
+    ".obsidian/plugins/omnisearch/cache/",
     ".smart-env"
   ],
-  "gitignore_exclusions_updated_at": 1791228215902,
+  "gitignore_exclusions_updated_at": 1791266360263,
   "language": "en",
   "re_import_wait_time": 13,
   "smart_chat_threads": {
@@ -87,7 +88,7 @@
     "template_after": "</context>"
   },
   "embedding_models": {
-    "default_model_key": "transformers#1787066680515"
+    "default_model_key": "transformers#1791266362861"
   },
   "smart_templates": {
     "template_folder": "",

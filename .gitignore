@@ -1,5 +1,11 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
+
+.obsidian/plugins/omnisearch/cache/
+
 # Ignore Smart Environment folder
 .smart-env
+
+
+
