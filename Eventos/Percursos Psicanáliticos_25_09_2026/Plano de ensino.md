@@ -27,7 +27,7 @@ Refletir, a partir da psicanálise inglesa e de autores contemporâneos, sobre o
 
 ## 2. Conteúdo programático
 - Figueiredo — [[A virtualidade do dispositivo de trabalho psicanalítico e o atendimento remoto_uma reflexão em três partes.pdf | virtualidade do dispositivo, elasticidade da técnica e enquadre interior.]]
-- Alessandra Lemma — [[A psicanálise em tempos de tecnocultura.pdf| corpo, embodiment, intimidade e tecnocultura.]]
+- Alessandra Lemma — [[Livros/Psicanálise/Evento_Atendimento online e presença clínica/A psicanálise em tempos de tecnocultura.pdf| corpo, embodiment, intimidade e tecnocultura.]]
 - Ogden — [[Ogden_Privacidade_Reverie_TecnicaAnalitica_digital.pdf| capítulo 4: privacidade, rêverie, técnica analítica e terceiro analítico.]]
 - Cesar e Ribeiro — [[Tão longe, tão perto_notas sobre a vitalização no atendimento em-linha.pdf| atendimento em-linha, vitalidade, desvitalização e presença viva. ]] 
 
