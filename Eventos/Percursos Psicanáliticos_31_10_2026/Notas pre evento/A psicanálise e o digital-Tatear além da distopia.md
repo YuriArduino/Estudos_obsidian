@@ -93,21 +93,8 @@ A principal questão clínica e metapsicológica mantida em aberto diz respeito 
           
         
 
-### Reflexões Finais
+### Reflexões
 
 O artigo provoca um deslocamento ético na escuta analítica contemporânea. Em vez de assumir uma postura de recusa nostálgica ou moralista diante dos smartphones, algoritmos e telas, o analista deve reconhecer que o mundo digital constitui o próprio tecido em que a realidade psíquica dos sujeitos hoje se manifesta.
 
-  
-
 Os sintomas e vínculos gerados pela mediação tecnológica não são ruídos a serem eliminados, mas sim a matéria-prima do sofrimento humano atual. O texto nos convida a cultivar a **esperança** — não enquanto otimismo ingênuo que cega para os riscos, mas como uma posição reflexiva que nasce diante do abismo distópico para inventar respostas clínicas genuínas e criativas.
-
-```
-
-eof
-
-Gerei o documento no formato Markdown (`.md`). Se precisar de algum ajuste adicional na estrutura ou no conteúdo, fico à disposição!
-```
-
-Edite diretamente ou com o Gemini
-
-Clique onde quiser para digitar e editar o texto, ou selecione uma parte dele e peça ao Gemini para fazer modificações.
